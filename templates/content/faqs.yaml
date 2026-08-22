@@ -1,0 +1,30 @@
+faqs:
+  - question: What is your minimum order quantity (MOQ)?
+    question_es: ¿Cuál es su pedido mínimo (MOQ)?
+    answer: Our MOQ varies by product and collaboration model. For existing models, MOQ starts at {{moq_existing}}. For pilot runs, MOQ is {{moq_pilot}}. Standard orders require {{moq_standard}} and custom products require {{moq_custom}}. {{moq_note}}
+    answer_es: Nuestro MOQ varía según el producto y modelo de colaboración. Para modelos existentes, el MOQ comienza en {{moq_existing}}. Para tiradas piloto, el MOQ es {{moq_pilot}}. Pedidos estándar requieren {{moq_standard}} y productos personalizados requieren {{moq_custom}}. {{moq_note}}
+
+  - question: What is your lead time?
+    question_es: ¿Cuál es su plazo de entrega?
+    answer: Standard lead time is {{lead_time}}. Sample production takes {{sample_time}}. Lead times may vary during peak season ({{peak_season}}).
+    answer_es: El plazo de entrega estándar es {{lead_time}}. La producción de muestras toma {{sample_time}}. Los plazos pueden variar durante la temporada alta ({{peak_season}}).
+
+  - question: Can I order samples before placing a bulk order?
+    question_es: ¿Puedo pedir muestras antes de hacer un pedido grande?
+    answer: Yes, we offer samples with a lead time of {{sample_time}}. Samples allow you to verify quality and specifications before committing to production.
+    answer_es: Sí, ofrecemos muestras con un plazo de {{sample_time}}. Las muestras le permiten verificar la calidad y especificaciones antes de comprometerse con la producción.
+
+  - question: What collaboration models do you offer?
+    question_es: ¿Qué modelos de colaboración ofrecen?
+    answer: We offer OEM, ODM, Contract Manufacturing, Private Label, and Co-Design collaboration models. Each model is tailored to your specific needs and production requirements.
+    answer_es: Ofrecemos modelos de colaboración OEM, ODM, Fabricación por Contrato, Marca Privada y Co-Diseño. Cada modelo se adapta a sus necesidades específicas y requisitos de producción.
+
+  - question: What certifications do your products have?
+    question_es: ¿Qué certificaciones tienen sus productos?
+    answer: Our products carry {{certifications_array}} certifications. {{certification_note}}
+    answer_es: Nuestros productos llevan certificaciones {{certifications_array}}. {{certification_note}}
+
+  - question: Do you sign NDAs?
+    question_es: ¿Firman acuerdos de confidencialidad (NDA)?
+    answer: Yes, we sign NDAs within a {{nda_window}} window to protect your intellectual property and designs.
+    answer_es: Sí, firmamos NDAs dentro de una ventana de {{nda_window}} para proteger su propiedad intelectual y diseños.

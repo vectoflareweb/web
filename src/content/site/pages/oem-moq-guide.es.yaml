@@ -1,0 +1,169 @@
+﻿meta:
+  title: 'Guía de MOQ para SUP: Branding Flexible y Cantidades Mínimas de Pedido'
+  description: 'Cómo se calcula el MOQ de SUP hinchables: rollos drop-stitch de 150 m que rinden 90–100 tablas y co-branding desde menos de 20 unidades.'
+  dateModified: '2026-08-14'
+  keywords:
+    - 'MOQ SUP'
+    - 'cantidad mínima de pedido SUP hinchable'
+    - 'programa de co-branding SUP'
+    - 'SUP de lotes pequeños'
+    - 'MOQ tablas de paddle personalizadas'
+    - 'fábrica OEM SUP China'
+
+hero:
+  tagline: 'Transparente y Específico por Proyecto'
+  title: 'Guía de MOQ de Fabricación y Branding Flexible'
+  subtitle: 'Comprende la física de la materia prima drop-stitch que gobierna las series de producción de SUP — y cómo funciona nuestro programa de co-branding de baja barrera para operadores de alquiler, clubes, resorts y marcas de deportes acuáticos en crecimiento. Diseñado y operado por Qingdao Vatrad Group Co., Ltd.'
+
+answer:
+  label: 'Respuesta directa'
+  text: 'El MOQ no es un número único para todos. Cada MOQ se confirma según la configuración del proyecto: forma y molde del casco, colores y PVC, complejidad del arte, empaque y mezcla de accesorios. La producción de volumen totalmente personalizada corre en lotes de 90–100 unidades por rollo estándar de tela drop-stitch de 150 m; el co-branding de lotes pequeños parte de menos de 20 unidades; y cada proyecto se divide en tres etapas distintas — desarrollo de muestras (1–2 unidades), pedido piloto (20–50 unidades) y producción de volumen (90–100+ unidades). Confirmamos el cálculo exacto para tu mezcla de SKU antes de cotizar — sin promesas vagas de "MOQ bajo", sin compromisos ocultos.'
+  verified: '2026-08'
+
+moq_principle:
+  tagline: La Lógica de Ingeniería
+  title: 'Por Qué el MOQ de Volumen Estándar Es de 90–100 Unidades: Física del Rollo de Materia Prima'
+  subtitle: 'Los tamaños de las series de producción no son números arbitrarios fijados por un equipo comercial — los determinan las longitudes de los rollos de tela drop-stitch y la física del cambio de línea.'
+  body: |
+    **La base de 150 metros de tela cruda.** La tela drop-stitch tejida de alta tensión se produce y recubre en rollos maestros continuos. La longitud estándar de rollo industrial por lote es de 150 metros de material continuo.
+
+    **El cálculo de rendimiento (90 a 100 tablas).** Para un casco de SUP touring o all-around estándar (de 3,2 m a 3,5 m), un rollo maestro completo de 150 m rinde aproximadamente de 90 a 100 tablas de paddle terminadas.
+
+    **Política de cero empalmes de tela.** Los rollos completos garantizan continuidad estructural total — sin empalmes transversales de alto riesgo y con tensión uniforme de las fibras en las superficies superior e inferior de la tabla.
+
+    **Calibración térmica y de adhesivo.** Las líneas automatizadas de soldadura por aire caliente de alta frecuencia y de laminación con adhesivo marino requieren 2 horas de precalentamiento, perfilado de temperatura y calibración de presión. Un lote completo de 90–100 unidades amortiza estos costos fijos de preparación, logrando el menor costo unitario posible.
+
+moq_tiers:
+  tagline: Dos Rutas Hacia Tu Marca
+  title: 'OEM de Volumen Totalmente Personalizado vs Co-Branding de Lotes Pequeños'
+  subtitle: 'Una fábrica, dos puntos de entrada: producción en masa totalmente personalizada para líneas consolidadas y un programa de co-branding de baja barrera para clubes, centros de alquiler y marcas en crecimiento.'
+  features:
+    - icon: P
+      icon_bg: blue
+      title: 'OEM de Volumen Totalmente Personalizado — 90–100 Unidades por Lote'
+      desc: 'Determinado por la longitud estándar de 150 m del rollo de tela drop-stitch de alta calidad para garantizar la utilización óptima del material y la consistencia estructural. · Personalización 100% total: forma exclusiva del casco y colores Pantone a medida · Cobertura de arte digital o serigrafía en superficie completa · Empaque minorista personalizado, cajas impresas y accesorios con tu marca · Máxima eficiencia de costos y economías de escala'
+      link: '/es/contact#custom-oem'
+      link_label: 'Consultar por OEM de Volumen'
+    - icon: B
+      icon_bg: green
+      title: 'Co-Branding de Lotes Pequeños — Menos de 20 Unidades'
+      desc: 'Una solución de baja barrera basada en nuestras colecciones anuales probadas en campo para clubes, centros de alquiler y resorts — sin inventario pesado. · Casco y geometría fijos: formas probadas con cumplimiento CE / ISO 25649 · Identificador principal: marca oficial Vectoflare en la sección central · Marca secundaria personalizada: tu logo impreso en la proa o los rieles laterales · Pruebas de presión y estanqueidad al 100% de la serie, 24 horas'
+      link: '/es/contact#cobranding'
+      link_label: 'Iniciar Co-Branding de Lotes Pequeños'
+
+moq_fees:
+  tagline: Tarifas de Serigrafía Transparentes
+  title: 'Estructura de Tarifas del Co-Branding — Desglosada por Adelantado'
+  subtitle: 'Precios claros y desglosados para la serigrafía de lotes pequeños. Las tarifas de molde se cobran una sola vez en la configuración inicial y se eximen en re-pedidos que usen la misma dimensión de arte.'
+  headers:
+    fee: Ítem de Tarifa
+    amount: Monto
+    detail: Detalles
+  rows:
+    - fee: 'Tarifa de molde de serigrafía (única, logo hasta 30 cm)'
+      amount: '$10.00 USD'
+      detail: 'Se cobra una sola vez en la configuración inicial; exenta en re-pedidos con la misma dimensión de arte.'
+    - fee: 'Tarifa de molde de serigrafía (única, logo hasta 50 cm)'
+      amount: '$15.00 USD'
+      detail: 'Se cobra una sola vez en la configuración inicial; exenta en re-pedidos con la misma dimensión de arte.'
+    - fee: 'Tarifa de manejo en fábrica e impresión de precisión'
+      amount: '$1.00 USD por tabla'
+      detail: 'Cubre posicionamiento coordinado manual, pretratamiento con solvente, transferencia de tinta y curado con calor.'
+
+moq_stages:
+  tagline: Muestra · Piloto · Volumen
+  title: 'Tres Etapas de Cantidad Distintas'
+  subtitle: 'Las cantidades de muestra, piloto y producción de volumen son diferentes. Cada proyecto se clasifica en tres niveles distintos para que valides antes de comprometerte.'
+  steps:
+    - step: '01'
+      title: 'Desarrollo de Muestra (1–2 unidades)'
+      desc: 'Confirmación física de la rigidez del casco, la textura de la alfombrilla EVA, la precisión gráfica y el ajuste de accesorios antes de cualquier compromiso financiero. Se aplican tarifas de muestra que se acreditan a tu pedido de producción al firmar el contrato.'
+    - step: '02'
+      title: 'Pedido Piloto (20–50 unidades)'
+      desc: 'Pruebas comerciales de pretemporada y validación de mercado regional usando plataformas de casco existentes, materiales de stock y empaque simplificado para minimizar la fricción de preparación.'
+    - step: '03'
+      title: 'Producción de Volumen (90–100+ unidades)'
+      desc: 'Confirmada tras la BOM congelada, el arte finalizado, el empaque personalizado y los planes de entrega programados — rollos completos de 150 m, telas Pantone a medida, empaque exclusivo, descuentos por volumen y trazabilidad completa de lote.'
+
+moq_factors:
+  tagline: Qué Define Tu MOQ
+  title: 'Por Qué el MOQ Totalmente Personalizado Siempre Es Específico del Proyecto'
+  subtitle: 'Para la fabricación 100% a medida, el MOQ se calcula a partir de la arquitectura completa del producto — estos cuatro componentes se evalúan juntos antes de cotizar.'
+  headers:
+    component: Componente del Proyecto
+    driver: Factor de Fabricación
+    impact: Impacto en la Cantidad Mínima
+  rows:
+    - component: 'Forma del Casco y Herramientas'
+      driver: 'Moldes de rocker existentes vs matrices de corte CAD a medida y herramientas de prensa en caliente EVA'
+      impact: 'Plataformas existentes: pedidos piloto desde 20 pcs. Cascos a medida: requiere amortización de herramientas dedicadas.'
+    - component: 'Colores y PVC'
+      driver: 'Colores estándar de stock vs láminas de PVC teñidas en Pantone propio'
+      impact: 'El PVC Pantone personalizado requiere corridas de teñido químico dedicadas con MOQs independientes de materia prima.'
+    - component: 'Empaque con Marca'
+      driver: 'Cajas genéricas con etiquetas de código de barras vs cajas minoristas de regalo de 5 capas y manuales con marca'
+      impact: 'Las cajas de color personalizadas tienen un mínimo independiente de impresión offset (típicamente más de 500 cajas).'
+    - component: 'Paquetes de Accesorios'
+      driver: 'Paddles estándar de aluminio o nailon vs paddles de carbono a juego y bombas con marca'
+      impact: 'Los accesorios totalmente personalizados siguen los lotes de producción de los proveedores de nivel inferior.'
+
+moq_downloads:
+  tagline: Documentos Oficiales
+  title: 'Archivos de Política Bilingües — Descarga y Comparte'
+  subtitle: 'Documentos oficiales de Qingdao Vatrad Group Co., Ltd., listos para adjuntar a las consultas de compradores. Ambos archivos son bilingües (inglés / chino).'
+  features:
+    - icon: G
+      icon_bg: blue
+      title: 'Guía de Branding Flexible y MOQ (PDF)'
+      desc: 'Guía B2B oficial (Parte I, DOC-MOQ-EXP-2026-EN, publicada el 14 ago 2026): la lógica de ingeniería detrás del rendimiento de los rollos drop-stitch de 150 m (90–100 tablas), el programa de co-branding de menos de 20 unidades, las tarifas de serigrafía transparentes y las tres etapas de producción.'
+      link: 'https://assets.vectoflare.com/site/downloads/flexible-branding-and-moq-guide.pdf'
+      link_label: 'Descargar Guía (PDF)'
+    - icon: P
+      icon_bg: green
+      title: 'Política de Branding Flexible y Co-Branding (PDF)'
+      desc: 'Expediente de política oficial (Parte 1, POL-MOQ-2026-V1): reglas de co-branding de lotes pequeños, el marco de MOQ específico por proyecto, los cuatro factores que definen los mínimos y la firma conjunta de Vicepresidente de Ventas, Ingeniero Jefe y Director de QA.'
+      link: 'https://assets.vectoflare.com/site/downloads/flexible-branding-and-moq-policy.pdf'
+      link_label: 'Descargar Política (PDF)'
+
+moq_faqs:
+  tagline: FAQ
+  title: 'Preguntas Frecuentes Sobre el MOQ'
+  items:
+    - q: '¿El MOQ se calcula por pedido, por modelo o por color?'
+      a: 'El MOQ puede aplicarse por modelo, color, versión de arte, configuración de empaque o pedido total. Debido a que los distintos grosores de drop-stitch (12 cm vs 15 cm) y los colores de PVC provienen de rollos de materia prima diferentes, pedir 50 tablas divididas en 5 colores crea 5 requisitos separados de rollo de tela. Confirmamos el cálculo exacto contra tu matriz de SKU antes de cotizar para que planifiques tu mezcla con claridad.'
+    - q: '¿Puedo pedir una muestra antes de la producción en masa?'
+      a: 'Sí. El desarrollo de muestras (1–2 unidades) verifica la rigidez del casco, la textura de la alfombrilla EVA, la precisión gráfica y el ajuste de accesorios antes del lanzamiento de producción. Se aplican tarifas de muestra que se acreditan a tu pedido de producción al firmar el contrato.'
+    - q: '¿Por qué el empaque minorista personalizado tiene un MOQ independiente?'
+      a: 'Las imprentas flexográficas u offset de cajas personalizadas requieren una preparación mínima de más de 500 unidades. Ofrecemos una Solución de Almacenamiento de Empaque Híbrido: producimos las 500 cajas impresas, almacenamos el excedente en nuestro almacén limpio y las liberamos en lotes a través de tus envíos programados — así un pedido menor también puede enviarse con empaque minorista totalmente personalizado.'
+    - q: '¿Por qué el MOQ estándar de volumen es de 90–100 unidades?'
+      a: 'El MOQ de volumen estándar sigue a la materia prima: un rollo maestro de 150 m de tela drop-stitch de alta calidad rinde aproximadamente 90–100 tablas terminadas para un casco touring o all-around estándar. Correr rollos completos elimina empalmes de tela, mantiene uniforme la tensión de las fibras y amortiza las 2 horas de calibración de las líneas de soldadura y laminación — logrando el menor costo unitario posible.'
+    - q: '¿Una cantidad mayor reduce el costo unitario?'
+      a: 'En la mayoría de los proyectos, sí. Las cantidades mayores mejoran el rendimiento del material, distribuyen los costos fijos de preparación de la línea entre más tablas y reducen los costos unitarios de empaque.'
+    - q: '¿Las tarifas de molde del co-branding se aplican de nuevo en los re-pedidos?'
+      a: 'No. Las tarifas de molde de serigrafía se cobran una sola vez en la configuración inicial y se eximen en re-pedidos que usen la misma dimensión de arte. Solo pagas la tarifa de manejo e impresión de $1.00 USD por tabla.'
+    - q: '¿Solicitar orientación de MOQ me compromete con un pedido?'
+      a: 'No. Solicitar orientación de MOQ simplemente permite que nuestro equipo de ingeniería en Qingdao Vatrad Group Co., Ltd. revise tu brief técnico y aconseje la ruta de producción más rentable. Hay disponible un Acuerdo de No Divulgación (NDA) antes de compartir especificaciones técnicas o arte propietario.'
+
+evidence_review:
+  tagline: 'Evidencia y verificación'
+  title: 'ESPECIFICACIONES VERIFICADAS'
+  body: 'Todas las afirmaciones de fabricación en esta página son verificadas por nuestro equipo de ingeniería de fabricación en la planta de Laixi, Qingdao. Certificados, registros de inspección QC, informes de presión y pruebas estructurales, y registros de trazabilidad por lote están disponibles a petición. Especificaciones verificadas por última vez 2026-08.'
+cta:
+  title: '¿Necesitas Orientación de MOQ para Tu Proyecto de SUP?'
+  subtitle: 'Comparte tu modelo objetivo de tabla, el rango estimado del primer pedido y tus requisitos de branding. Te asesoraremos si la ruta de muestra, piloto o volumen es el siguiente paso más adecuado. Enviar una consulta no te compromete con una cantidad final de pedido — hay disponible discusión bajo NDA.'
+  actions:
+    - variant: primary
+      text: Solicitar Orientación de MOQ
+      href: /es/contact#moq-guide
+    - text: Desglose de MOQ y plazos para SUP personalizados
+      href: /es/sup-oem-moq-lead-time
+    - text: Lanza una nueva marca con un pedido de prueba
+      href: /es/new-brand-trial-order
+    - text: Verifica la fábrica y el sistema de calidad
+      href: /es/oem-trust-assurance
+    - text: El sistema de inspección de 7 etapas
+      href: /es/quality
+    - text: Resumen de fabricación OEM y ODM
+      href: /es/oem-manufacturing
+    - text: Comparación de Construcción SUP
+      href: /es/sup-construction-comparison

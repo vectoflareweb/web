@@ -1,0 +1,25 @@
+# -- Required --
+BETTER_AUTH_SECRET=replace-with-32+char-random-string
+BETTER_AUTH_URL=http://localhost:3000
+
+# -- Email (Resend) --
+RESEND_API_KEY=
+EMAIL_FROM=MyProduct <onboarding@resend.dev>
+RESEND_AUDIENCE_ID=
+
+# -- Social OAuth --
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+GITHUB_CLIENT_ID=
+GITHUB_CLIENT_SECRET=
+
+# -- Admin --
+ADMIN_EMAILS=
+
+# -- Optional --
+TURNSTILE_SITE_KEY=
+TURNSTILE_SECRET_KEY=
+CF_ANALYTICS_TOKEN=
+# GA4_MEASUREMENT_ID=G-XXXXXXXXXX
+SENTRY_DSN=
+REINDEX_TOKEN=

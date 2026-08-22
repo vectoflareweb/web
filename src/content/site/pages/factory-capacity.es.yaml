@@ -1,0 +1,85 @@
+meta:
+  title: 'Capacidad de producción — Fábrica de 12.500 m² | {SITE}'
+  description: 'La capacidad de la fábrica de Vectoflare: 12.500 m² que producen más de 120.000 tablas de SUP al año. Fabricación OEM/ODM a gran escala.'
+  dateModified: '2026-08-07'
+  keywords:
+    - 'capacidad de producción de sup'
+    - 'fábrica de SUP hinchables'
+    - 'producción de paddle boards'
+    - 'fábrica de sup china'
+hero:
+  tagline: Capacidad de producción
+  title: Capacidad de fabricación y producción anual
+  subtitle: 'Instalación de 12.500 m² que produce más de 120.000 tablas de SUP al año, con margen para escalar'
+
+answer:
+  label: 'Respuesta directa'
+  text: 'Capacidad de la fábrica: 12.500 m² repartidos en cuatro talleres especializados, más de 120.000 tablas de SUP al año, más de 350 trabajadores en dos turnos y exportación a más de 50 países. El MOQ se confirma según la configuración del proyecto — muestra (1–2 unidades), piloto (20–50 unidades) y volumen estándar (90–100+ unidades por rollo de 150 m); consulta nuestra Guía de MOQ y Branding Flexible para la lógica completa. Plazo de entrega de 25–35 días y muestras en 7–12 días.'
+  verified: '2026-08'
+
+intro: Vectoflare opera una de las instalaciones dedicadas más grandes de fabricación de SUP hinchables en Qingdao, China. Nuestra fábrica de 12.500 m² está organizada en cuatro talleres especializados que trabajan en paralelo, lo que nos da la capacidad de producir más de 120.000 tablas al año en las líneas de SUP y equipo de seguridad.
+
+highlights:
+  - value: 12,500 m2
+    label: Superficie total de fabricación
+    detail: En 4 talleres especializados
+  - value: 120,000+
+    label: Tablas producidas al año
+    detail: SUP y equipo de seguridad
+  - value: 350+
+    label: Plantilla cualificada
+    detail: Más de 25 ingenieros, 2 turnos al día
+  - value: 50+
+    label: Países de exportación
+    detail: UE, EE. UU., AU, Oriente Medio, Asia
+  - value: 25–35
+    label: Plazo de entrega estándar (días)
+    detail: Tras PO confirmado y depósito
+  - value: 10+
+    label: Años de experiencia en exportación
+    detail: Desde 2012
+
+workshops:
+  - title: Producción de tablas de SUP
+    description: '4 líneas de ensamblaje automatizadas para tablas de SUP hinchables con una producción combinada de unas 10.000 tablas al mes. Las estaciones de impresión digital y serigrafía funcionan simultáneamente. Capacidad anual de SUP: más de 120.000 tablas.'
+    output: 'Más de 120.000 SUP al año'
+  - title: Producción de tablas de SUP
+    description: 'Capacidad de producción ampliada para tablas de SUP con líneas de ensamblaje adicionales. La unión de núcleos drop-stitch, la impresión digital y las estaciones de ensamblaje funcionan en paralelo.'
+    output: 'Capacidad de SUP ampliada'
+  - title: Tablas y accesorios SUP
+    description: 'Líneas de producción polivalentes para tablas de SUP y accesorios. Las estaciones de soldadura de aire caliente, las prensas dieléctricas RF y los puestos de ensamblaje se reconfiguran según la mezcla de pedidos. Capacidad anual: más de 5.000 unidades.'
+    output: 'Más de 5.000 unidades al año'
+  - title: Equipo de seguridad
+    description: 'Área de producción de sala limpia independiente para chalecos salvavidas y equipo de seguridad. Estaciones dedicadas de costura, inserción de espuma y ensayos. Capacidad anual de chalecos salvavidas: más de 50.000 unidades.'
+    output: 'Más de 50.000 chalecos salvavidas al año'
+
+oem_capacity:
+  moq: 'SUP: muestra 1–2 | piloto 20–50 | volumen 90–100+ (por rollo de 150 m)'
+  lead_time: 'Estándar de 25–35 días. Muestras en 7–12 días. Acelerado disponible.'
+  payment: 'T/T 30% de depósito + 70% de saldo. Se aceptan L/C y Western Union.'
+
+lead_time_explainer:
+  tagline: 'Planificación y programación'
+  title: 'Cómo se traduce la capacidad en tu entrega'
+  subtitle: 'La capacidad no es un número único: así se asignan realmente los plazos.'
+  items:
+    - title: 'La capacidad varía según tu especificación'
+      body: 'Los huecos disponibles cambian según el tipo de tabla, la complejidad de construcción, el packaging y la demanda estacional. Durante el pico de primavera/verano, las líneas están al máximo y los huecos de muestras se reservan primero.'
+    - title: 'Planifica antes de tu temporada de lanzamiento'
+      body: 'Fija pronto la confirmación de muestras y el cierre de arte. Los pedidos repetidos se programan en tu hueco recurrente acordado una vez archivada la muestra dorada.'
+    - title: 'Tres vías de programación'
+      body: 'Las muestras entran primero en la línea de prototipos, los pedidos iniciales se colocan en la ventana de ensamblaje abierta más próxima y los pedidos repetidos se ejecutan en su hueco recurrente.'
+    - title: 'Plazos firmes tras la revisión'
+      body: 'Confirmamos un plazo firme solo después de revisar especificación, arte, packaging y cantidad — nunca como una promesa fija a priori.'
+
+cta:
+  title: 'Comprueba la disponibilidad de producción para tu fecha de lanzamiento'
+  subtitle: 'Envía tu tipo de tabla, cantidad y fecha de lanzamiento objetivo — respondemos con la próxima ventana de producción abierta y una estimación de plazo firme.'
+  actions:
+    - variant: primary
+      text: Comprobar disponibilidad
+      href: /es/contact#production-availability
+    - text: Ver el resumen completo de la fábrica
+      href: /es/factory
+    - text: Cómo se fabrican las tablas
+      href: /es/factory/process

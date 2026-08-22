@@ -1,0 +1,93 @@
+meta:
+  title: 'Factory Equipment — Cutting, Welding & Printing'
+  description: 'Industrial-grade Vectoflare manufacturing equipment: PVC cutting, RF welding, digital printing, assembly, and testing for inflatable SUP boards.'
+  dateModified: '2026-08'
+  keywords:
+    - 'sup manufacturing equipment'
+    - 'inflatable sup factory'
+    - 'rf welding pvc'
+    - 'paddle board production'
+hero:
+  tagline: Equipment
+  title: Manufacturing Equipment & Machinery
+  subtitle: Industrial-grade equipment across cutting, welding, printing, and assembly
+  back_label: Back to Factory
+  back_link: /factory
+
+answer:
+  label: 'Straight answer'
+  text: 'Our 12,500 m² factory runs CNC-controlled automatic cutting (0.1 mm accuracy, sub-5% waste), hot-air sealing at 200–600 °C plus 15 kW RF dielectric welding for main seams, drop-stitch core lamination presses up to 14 ft, and a QC lab that pressure-tests every chamber, ASTM D751 tensile checks, and ISO 6185 seam peel verification.'
+  verified: '2026-08'
+
+categories:
+  - title: Cutting & Material Preparation
+    items:
+      - name: Automatic PVC Cutting Machine
+        spec: CNC-controlled, 6.5 m × 2.5 m, 0.1 mm accuracy
+        desc: Computer-controlled automatic cutting machine for PVC, Hypalon, and drop-stitch fabrics. Nesting software optimises material utilisation to below 5% waste.
+      - name: Fabric Spreader
+        spec: 3 m max width, tension-controlled feed
+        desc: Lays fabric in single or multiple plies with controlled tension to prevent distortion before cutting.
+
+  - title: Tube Welding & Bonding
+    items:
+      - name: Heat Sealing Machine
+        spec: Hot-air welding, variable 200–600 °C, 0.5–5 m/min
+        desc: Hot-air heat sealing machine for bonding and welding PVC and Hypalon tube seams. Used for tacking, sealing, and fusing tube chambers and float joints.
+      - name: Dielectric RF Press
+        spec: 15 kW, platen 2000 × 600 mm
+        desc: Radio-frequency welding press for main longitudinal seams, transom-to-tube joints, and large-chamber fabrication.
+      - name: CNC-Controlled RF Welder
+        spec: 8 kW, XY table 2500 × 1200 mm
+        desc: Programmable curved-seam welding for complex geometries, logo embossing, and precision patchwork.
+
+  - title: SUP Board Manufacturing
+    items:
+      - name: Drop-Stitch Core Lamination Press
+        spec: Large-format press for board cores up to 14 ft LOA
+        desc: Precision lamination of drop-stitch cores to outer PVC laminates. Each layer is pressure-bonded for consistent quality and strength.
+      - name: CNC Router (5-axis)
+        spec: 3 m × 2 m × 1 m envelope, water-cooled spindle
+        desc: Machining of fin boxes, handle cutouts, and custom board components.
+
+  - title: SUP Printing & Decoration
+    items:
+      - name: Digital Printer
+        spec: High-resolution inkjet, up to 2 m print width
+        desc: Direct-to-fabric digital printing for full-colour SUP deck graphics. Prints custom patterns, gradients, and photo-quality images with UV-resistantwater-based inks.
+      - name: Screen Printing Machine
+        spec: Manual and semi-automatic, multi-colour registration
+        desc: Screen printing for SUP board logos, brand marks, and repeating patterns. Provides durable, opaque prints with vibrant colour saturation.
+
+  - title: Assembly & Rigging
+    items:
+      - name: Board Assembly Station
+        spec: Modular adjustable, multi-station layout
+        desc: Assembly of fin boxes, handles, D-rings, valves, and deck pads onto SUP boards.
+      - name: Valve Installation Press
+        spec: Pneumatic, adjustable pressure
+        desc: Precision installation and sealing of Halkey-Roberts and Leafield valves.
+      - name: Deck Pad Laminator
+        spec: 3 m × 1.5 m, temperature-controlled
+        desc: Heat lamination of EVA foam deck pads to SUP board tops with consistent bond strength.
+
+  - title: Testing & Quality Control
+    items:
+      - name: Universal Tensile Tester
+        spec: 50 kN,  / ASTM D751
+        desc: Breaking force, elongation at break, and tear propagation testing for fabric batches.
+      - name: Air Retention Test Rig
+        spec: Programmable, 30-min pressure-hold
+        desc: Automated pressure-hold test for every tube chamber before assembly.
+      - name: Seam Peel Tester
+        spec: Motorised 180° peel at 100 mm/min
+        desc: Weld and glued-seam peel strength testing per ISO 6185.
+      - name: Xenon-Arc Weathering Chamber
+        spec: 2000 h exposure
+        desc: UV resistance testing for colour change and strength retention.
+
+cta:
+  title: Interested in a factory tour?
+  desc: We welcome visitors to our Qingdao facility. See our equipment and processes in person.
+  label: Schedule a visit →
+  link: /contact

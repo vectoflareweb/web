@@ -1,0 +1,111 @@
+meta:
+  title: 'PVC Fabric Lab — Material Testing for SUP Boards'
+  description: 'Material testing from fibre to finished board: tensile strength, UV weathering, low-temperature flexibility and abrasion resistance for SUP PVC fabrics.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
+
+hero:
+  tagline: 'Lab 01'
+  title: 'PVC Fabric Lab'
+  subtitle: 'Scientific material testing — from fibre to finished board'
+  image: 'https://assets.vectoflare.com/images/vectoflare/randd/vectoflare-pvc-material-lab.webp'
+  image_alt: 'Vectoflare PVC fabric material testing laboratory'
+
+answer:
+  label: 'Straight answer'
+  text: 'Boards are built from 1,680 DTEX marine PVC with a three-layer coating and a drop-stitch core rated to 12–15 PSI. Every incoming fabric batch is independently tested in-house for tensile strength (ISO 1421), UV retention after 2,000 hours of xenon-arc exposure (ISO 4892), abrasion and low-temperature flexibility — no batch enters production on supplier data sheets alone.'
+  verified: '2026-08'
+
+intro: 'The board fabric is the single most critical material in an inflatable SUP. It must withstand constant UV exposure, repeated inflation cycles, abrasion against docks and sandy landings, and extreme temperature swings — all while maintaining its structural integrity for years. At {SITE.name}, our PVC Fabric Lab is dedicated exclusively to the characterisation, validation, and continuous improvement of the fabrics we use in every board we build.'
+
+content_html: |
+  <h2>The foundation of every inflatable SUP</h2>
+  <p>We do not rely solely on supplier data sheets. Every batch of PVC and drop-stitch core fabric that enters our workshop is independently tested in-house. This guarantees that the material specification we publish is the material performance you receive — lot after lot, year after year.</p>
+
+  <h2>Standardised testing equipment</h2>
+  <p>Our fabric lab is equipped with industrial-grade instruments that conform to ISO, ASTM, and EN test methods:</p>
+  <table>
+    <thead><tr><th>Equipment</th><th>Parameters Measured</th><th>Standard</th></tr></thead>
+    <tbody>
+      <tr><td>Universal tensile tester (50 kN)</td><td>Breaking force, elongation at break, tear propagation</td><td>ISO 1421 / ASTM D751</td></tr>
+      <tr><td>Xenon-arc weathering chamber</td><td>UV resistance (colour change, strength retention after 2000 h)</td><td>ISO 4892 / ASTM G155</td></tr>
+      <tr><td>Low-temperature flex tester</td><td>Crack point at -30 °C to -50 °C</td><td>ISO 4675 / ASTM D2136</td></tr>
+      <tr><td>Taber abrasion tester</td><td>Weight loss after 1000 cycles (CS-10 wheel)</td><td>ASTM D3389 / ISO 5470-1</td></tr>
+      <tr><td>Thickness gauge (digital, 0.001 mm resolution)</td><td>Uniformity across roll width</td><td>ISO 2286-3</td></tr>
+      <tr><td>Hydrostatic head tester</td><td>Water penetration resistance</td><td>ISO 811</td></tr>
+    </tbody>
+  </table>
+  <p class="text-sm text-gray-500">* All equipment is calibrated annually by third-party accredited laboratories.</p>
+
+  <h2>From data to decision: a typical test workflow</h2>
+  <p>When a new fabric candidate arrives, it follows a standardised seven-step qualification process:</p>
+  <ol>
+    <li><strong>Receipt inspection</strong> — visual check for surface defects, pinholes, and dimensional compliance.</li>
+    <li><strong>Thickness mapping</strong> — 20-point measurement across the roll; CV &lt; 3% is required for acceptance.</li>
+    <li><strong>Tensile testing</strong> — 5 specimens in warp and weft directions. Minimum 3500 N/50 mm for 1100 dtex PVC.</li>
+    <li><strong>UV conditioning</strong> — 1000 h exposure in xenon-arc chamber; minimum 80 % strength retention required.</li>
+    <li><strong>Cold crack</strong> — 4 h at -35 °C, then 180° bend over a 25 mm mandrel. No visible cracking.</li>
+    <li><strong>Abrasion resistance</strong> — 1000 cycles, weight loss ≤ 0.05 g.</li>
+    <li><strong>Approval sign-off</strong> — only after all seven gates are passed is the fabric released for production.</li>
+  </ol>
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Typical PVC 1100 dtex — Tensile Retention After UV Exposure</p>
+    <div class="flex items-end gap-3 h-40">
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-600 rounded-t" style="height:100%"></div>
+        <span class="text-xs mt-1">0 h 100%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-500 rounded-t" style="height:95%"></div>
+        <span class="text-xs mt-1">500 h 95%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-400 rounded-t" style="height:88%"></div>
+        <span class="text-xs mt-1">1000 h 88%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-300 rounded-t" style="height:82%"></div>
+        <span class="text-xs mt-1">2000 h 82%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-gray-300 rounded-t" style="height:65%"></div>
+        <span class="text-xs mt-1">Competitor ~65%</span>
+      </div>
+    </div>
+    <p class="text-xs text-gray-400 mt-2">Our PVC 1100 dtex fabric retains &gt; 80 % tensile strength after 2000 h xenon-arc exposure, compared to typical industry grades that drop below 70 %.</p>
+  </div>
+
+  <h2>Our professional team</h2>
+  <p>The lab is staffed by two full-time material engineers, each holding a degree in polymer science or textile engineering with a minimum of six years of industry experience. They are supported by three technicians who perform day-to-day testing and data logging. The team regularly participates in inter-laboratory round-robin trials organised by the International Organization for Standardization (ISO) to validate the accuracy of our test methods.</p>
+
+  <h2>Solving your toughest material challenges</h2>
+  <p>Every paddling environment is different. A board operating in the tropics faces vastly different UV and temperature conditions than one on a Nordic lake or a desert reservoir. Our Fabric Lab helps you select — or develop — a fabric specification that is optimised for your operating profile.</p>
+  <p>Recent custom solutions include:</p>
+  <ul>
+    <li>A high-abrasion PVC blend for a rental fleet whose boards regularly touch sandy beaches and concrete launch ramps (+40 % abrasion life).</li>
+    <li>A low-temperature formulation for a Canadian winter-storage dealer programme, tested to -50 °C without embrittlement.</li>
+    <li>A colour-stabilised orange deck for a search-and-rescue training fleet, maintaining visibility after 3 years of tropical sun exposure.</li>
+  </ul>
+  <p>We do not sell "off-the-shelf" fabrics and hope they work. We test, validate, and recommend — or create — a tailored solution for your specific mission profile. That is the {SITE.name} difference.</p>
+
+  <h2>How we serve you</h2>
+  <p>When you bring a material challenge to us, here is what you can expect:</p>
+  <ol>
+    <li><strong>Consultation</strong> — we discuss your operating environment, performance targets, and budget.</li>
+    <li><strong>Proposal</strong> — a test plan is drafted with clear pass/fail criteria and a timeline.</li>
+    <li><strong>Execution</strong> — our lab runs the tests and produces a detailed report with raw data and comparative analysis.</li>
+    <li><strong>Recommendation</strong> — we present a fabric specification, including alternative options if multiple materials meet your requirements.</li>
+    <li><strong>Follow-up</strong> — after delivery, we remain available to support any in-service material questions.</li>
+  </ol>
+  <p>Our goal is not simply to sell you a board. It is to ensure that the board you receive performs reliably in the conditions you operate in — and that starts with the fabric.</p>
+
+cta:
+  title: 'Need a custom fabric specification?'
+  subtitle: 'Contact our material engineering team to discuss your requirements.'
+  actions:
+    - variant: primary
+      text: Contact our lab team
+      href: /contact#project-brief
+    - text: Back to the R&D Center
+      href: /randdcenter

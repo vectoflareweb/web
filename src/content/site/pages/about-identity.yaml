@@ -1,0 +1,91 @@
+meta:
+  title: 'About Vectoflare — Brand Identity, Manufacturing Division of Qingdao Vatrad Group | Vectoflare'
+  description: 'Vectoflare brand identity: inflatable SUP and marine inflatable manufacturing division. Factory location, legal entity, certifications and brand positioning.'
+  dateModified: '2026-08-21'
+  keywords:
+    - 'Vectoflare identity'
+    - 'Qingdao Vatrad Group'
+    - 'Vectoflare SUP manufacturer'
+    - 'SUP factory Laixi Qingdao'
+    - 'inflatable SUP manufacturer China'
+    - 'OEM SUP factory identity'
+
+hero:
+  tagline: 'Brand Identity'
+  title: 'Who Is Vectoflare?'
+  subtitle: 'Vectoflare is the marine manufacturing division of Qingdao Vatrad Group Co., Ltd. — a specialized inflatable SUP and marine inflatable products manufacturer in Laixi, Qingdao, China. We manufacture exclusively under the brands of our clients and never compete with them in any market.'
+
+answer:
+  label: 'In brief'
+  text: 'Legal entity: Qingdao Vatrad Group Co., Ltd. Manufacturing division: Vectoflare (Vectoflare brand). Factory: Laixi, Qingdao, Shandong, China. Scope: OEM, ODM and private-label manufacturing of inflatable SUP boards, paddles and marine inflatables. Certifications: ISO 9001:2015, CE (EU-destined models), BSCI, REACH, RoHS. We do not sell under our own brand — every board we produce carries the brand of the buyer.'
+  verified: '2026-08'
+
+identity_detail:
+  tagline: Legal & Organizational
+  title: 'Legal Entity & Structure'
+  subtitle: 'Full transparency on corporate structure, manufacturing scope and certifications.'
+  grid: 'sm:grid-cols-2 lg:grid-cols-3'
+  features:
+    - icon: L
+      icon_bg: blue
+      title: 'Legal Entity'
+      desc: 'Qingdao Vatrad Group Co., Ltd. — the contracting entity for all manufacturing agreements, purchase orders and export documentation. Registered in Qingdao, Shandong, China.'
+    - icon: M
+      icon_bg: green
+      title: 'Manufacturing Division'
+      desc: 'Vectoflare operates as the marine manufacturing division under Qingdao Vatrad Group. Vectoflare is the buyer-facing brand used for international OEM, ODM and private-label manufacturing services.'
+    - icon: F
+      icon_bg: purple
+      title: 'Factory Location'
+      desc: 'Laixi, Qingdao, Shandong, China. 10,000+ m² production facility with 4 production lines, CNC cutting, RF welding, pressure testing lab and material warehouse. 120 km from Qingdao port.'
+
+manufacturing_scope:
+  heading: 'Manufacturing Scope'
+  body: |
+    Our manufacturing scope covers the full production chain for inflatable SUP and marine products — from raw material incoming inspection through final packaging and export documentation.
+
+    - **Product categories**: Inflatable SUP boards (all-around, touring, surf, fishing, yoga, racing), inflatable kayaks, inflatable boats, paddles, pumps and accessories.
+    - **Construction types**: Single-layer PVC, double-layer PVC, drop-stitch core with PVC shell. Custom construction specifications per project.
+    - **Collaboration models**: OEM (buyer-owned design), ODM (factory-developed from buyer brief), private-label/co-branding (brand applied to proven platforms).
+    - **Certifications**: ISO 9001:2015 (factory quality management), CE (EU-destined models, scope per project), BSCI (social compliance), REACH (chemical safety), RoHS (restricted substances).
+    - **Production capacity**: 30,000+ boards annually, 2,500+ monthly output. Scale-up available with advance scheduling.
+
+brand_positioning:
+  heading: 'Brand Positioning'
+  body: |
+    Vectoflare occupies a specific position in the market — we are not a brand, we are a manufacturer. This distinction shapes every aspect of how we operate:
+
+    - **We never sell under our own brand.** Every board we produce carries the brand of the buyer. We do not compete with our clients in any market, in any channel. This policy is non-negotiable.
+    - **We are not a trading company.** We operate the factory. Quality control, engineering, production scheduling and export documentation are all managed in-house. There are no intermediaries between your order and the production floor.
+    - **We specialize in inflatable products.** This is not a sideline or one product category among many. Inflatable SUP and marine products are our core competence. Every machine, every process, every QC gate is optimized for this product category.
+    - **We serve professional buyers.** Our clients are brands, distributors, resort operators, clubs and schools — not individual consumers. Our pricing, MOQ structure, documentation and communication are designed for B2B relationships.
+
+evidence_review:
+  tagline: 'Evidence & Verification'
+  title: 'SPECIFICATIONS VERIFIED'
+  body: 'All organizational and manufacturing claims on this page are verifiable. ISO 9001 certificate, BSCI report, business license and factory registration documents are available on request. Factory visits welcome. Specifications last verified 2026-08.'
+
+faqs:
+  tagline: FAQ
+  title: 'Brand Identity — Frequently Asked Questions'
+  items:
+    - q: 'Is Vectoflare a separate company from Qingdao Vatrad Group?'
+      a: 'No. Vectoflare is the buyer-facing brand of Vectoflare, which is the marine manufacturing division of Qingdao Vatrad Group Co., Ltd. The legal contracting entity for all orders is Qingdao Vatrad Group Co., Ltd. The factory, team and quality system are one operation.'
+    - q: 'Do you sell boards under your own brand?'
+      a: 'No. We manufacture exclusively under the brands of our clients and never compete with them in any market. This is a core policy — not a temporary position. If you find a Vectoflare-branded board on the market, it is not from our factory.'
+    - q: 'Can I visit the factory?'
+      a: 'Yes. We welcome factory visits and can arrange a structured audit covering the full production process, QC gates, material warehouse and documentation review. Contact us to schedule a visit.'
+    - q: 'What is the relationship between Vectoflare and Vectoflare?'
+      a: 'Vectoflare is the manufacturing division name within Qingdao Vatrad Group. Vectoflare is the international buyer-facing brand used for OEM, ODM and private-label manufacturing services. They refer to the same operation — the marine manufacturing division in Laixi, Qingdao.'
+
+cta:
+  title: 'Ready to Verify Our Factory?'
+  subtitle: 'Request documentation, schedule a factory visit or start your project brief. Full transparency, no exceptions.'
+  actions:
+    - variant: primary
+      text: Request Documentation
+      href: /contact#project-brief
+    - text: Verify certifications and quality system
+      href: /proof-center
+    - text: OEM onboarding process
+      href: /oem-onboarding-guide

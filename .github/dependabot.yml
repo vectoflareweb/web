@@ -1,0 +1,18 @@
+# 依赖供应链安全：自动 PR 更新依赖与 CI actions。
+# 配合 pnpm-lock.yaml 固定版本；合并前 CI（lint/typecheck/test/build）自动把关。
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 10
+    labels:
+      - dependencies
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+    labels:
+      - dependencies

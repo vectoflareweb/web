@@ -1,0 +1,347 @@
+meta:
+  title: 'Factory & Manufacturing — Inflatable SUP OEM'
+  description: 'Tour the Vectoflare factory: 12,500 m² plant with cutting, RF welding, printing, assembly, and quality lab for inflatable SUP OEM/ODM manufacturing.'
+  dateModified: '2026-08-07'
+  keywords:
+    - 'sup factory china'
+    - 'inflatable paddle board factory'
+    - 'oem sup manufacturer'
+    - 'inflatable sup manufacturing'
+hero:
+  tagline: Factory
+  title: Factory & Manufacturing
+  subtitle: 12,500 m2 SUP factory in Qingdao, China — custom SUP manufacturing from raw PVC material to finished inflatable paddle board
+
+answer:
+  label: 'Straight answer'
+  text: 'Certified inflatable SUP factory in Qingdao, China: ISO 9001, ISO 25649, BSCI, CE, REACH and RoHS. 12,500 m² plant across 4 specialized workshops, 350+ workers, 120,000+ boards produced annually (10,000 boards/month on 4 automated lines). Every board is pressure-tested at 18.0 PSI for 24 hours, passes a 100-point assembly checklist, and carries 10-year material traceability.'
+  verified: '2026-08'
+
+intro:
+  - As the manufacturing division of **Qingdao Vatrad Group Co., Ltd.**, Vectoflare controls every stage of inflatable SUP manufacturing —from the arrival of raw PVC materials to the final pre-delivery inspection of the finished paddle board. Our manufacturing facility in the Qingdao Economic Development Zone spans 12,500 square metres and houses dedicated workshops for PVC cutting, drop-stitch core bonding, SUP digital printing, final assembly, and quality testing.
+  - By integrating design, engineering, prototyping, manufacturing, and testing under one roof, we eliminate the inefficiencies of contract manufacturing and maintain direct control over build quality, material selection, and delivery timelines. Every SUP that leaves our workshop is built by our people, on our equipment, to our standards.
+
+stats:
+  - value: 12,500 m2
+    label: Manufacturing floor
+  - value: 350+
+    label: Skilled workers
+  - value: 120,000+
+    label: SUPs produced annually
+  - value: ISO 9001
+    label: Quality certified
+
+intelligence_tagline: Factory Intelligence
+intelligence_title: Explore Our Manufacturing Capabilities
+
+intelligence_cards:
+  - title: Production Capacity
+    icon: C
+    icon_bg: blue
+    desc: '12,500 m² facility producing 120,000+ SUPs/yr across SUP board and safety equipment lines. 350+ workers, 2 shifts.'
+    metrics:
+      - label: MOQ
+        value: 'SUP: sample 1–2 / pilot 20–50 / volume 90–100+'
+      - label: Lead Time
+        value: '25–35 days'
+    link: /factory/capacity
+    link_label: Full capacity details →
+  - title: Quality Lab & Testing
+    icon: Q
+    icon_bg: green
+    desc: 'Independent QC lab with 4 testing stages: raw material inspection (tensile, tear, UV), 24h pressure hold at 18.0 PSI, seam peel testing, and flexural rigidity verification on every board.'
+    metrics:
+      - label: Lab Equipment
+        value: 'Tensile tester, temp chamber, leak tank'
+      - label: Standards
+        value: 'ISO 9001, CE, AS 1799'
+    link: /factory/quality-lab
+    link_label: 'Lab procedures & equipment →'
+  - title: OEM/ODM Capability
+    icon: O
+    icon_bg: purple
+    desc: 'End-to-end OEM/ODM services: custom mould design, private-label packaging, custom board colors, deck graphics (digital & screen printing), and export-ready packing.'
+    metrics:
+      - label: Certifications
+        value: 'ISO 9001, BSCI, CE, REACH'
+      - label: Export markets
+        value: '50+ countries'
+    link: /factory/oem-capability
+    link_label: 'Full OEM services →'
+  - title: Quality Inspection Standards
+    icon: I
+    icon_bg: orange
+    desc: 'Project-specific quality inspection criteria across IQC, IPQC, FQC, and OQC: air-tightness verification, visual and dimensional checks, accessory confirmation, batch traceability, and pre-shipment release sign-off — plus controlled air-tightness non-conformance and rework governance.'
+    metrics:
+      - label: Coverage
+        value: 'Materials → final packing'
+      - label: Downloads
+        value: 'QC protocol, PSI report & rework docs (PDF)'
+    link: /factory/quality-inspection
+    link_label: 'Inspection standards & downloads →'
+  - title: Rework Change Control Standard
+    icon: C
+    icon_bg: blue
+    desc: 'Formal ISO 9001 change control for rework parameters: ECR, risk classification, cross-department approval matrix, 9-step closed-loop, quantified engineering validation (18.0 PSI, 24 h hold, ΔP ≤ 0.2 PSI) and Poka-Yoke safeguards — with bilingual SOP QMS-SOP-QC-CC-001 Rev 2.0.'
+    metrics:
+      - label: Document
+        value: 'QMS-SOP-QC-CC-001 Rev 2.0'
+      - label: Downloads
+        value: 'Change control SOP & execution annex (PDF)'
+    link: /factory/quality-change-control
+    link_label: 'Change control standard & downloads →'
+  - title: Non-Conforming Product Control
+    icon: N
+    icon_bg: purple
+    desc: 'ISO 9001:2015 Clause 8.7 control of non-conforming outputs: NCR registration, quarantine and hold, disposition by severity (line sign-off / QC Manager + Technical Engineer / MRB), controlled rework under SRI instructions, independent 100% re-inspection and witnessed destruction — scrap video vaulted under SHA-256.'
+    metrics:
+      - label: Standard
+        value: 'ISO 9001:2015 Clause 8.7'
+      - label: Scrap certificate
+        value: 'VAT-QA-SCRAP-CERT-2026'
+    link: /factory/non-conforming-control
+    link_label: 'Non-conforming control & downloads →'
+  - title: 7-Stage Quality Control Flow
+    icon: Q
+    icon_bg: green
+    desc: 'The complete project quality control flow, gate by gate: Quality Planning (PPM) → Incoming Material Inspection → In-Process Control & First Article → Inflation & Air-Tightness → Final Inspection → Packaging & PSI → Shipment Release & Traceability. Each gate shows what is checked, how it is judged and which bilingual report is produced.'
+    metrics:
+      - label: Gates
+        value: '01 → 07'
+      - label: Downloads
+        value: 'Report dossiers per gate (PDF)'
+    link: /quality
+    link_label: 'Inspect the 7-stage flow →'
+
+workshops_section:
+  tagline: Workshops
+  title: Manufacturing Workshops
+  workshops:
+    - title: PVC Cutting & Material Preparation
+      description: Automatic CNC cutting machines process PVC, Hypalon, and drop-stitch fabrics with sub-millimetre precision. Computer-optimised nesting minimises material waste and ensures every panel meets its dimensional specification before welding.
+      image: https://assets.vectoflare.com/images/vectoflare/hero/production-dept.webp
+      alt: CNC PVC cutting machine preparing inflatable SUP fabric panels at Qingdao factory
+    - title: Tube Welding & Heat Sealing
+      description: Dedicated welding workshop with heat sealing machines  and RF dielectric presses. Hot-air heat sealers bond and fuse PVC tube chambers, while RF welds produce high-strength airtight seams that exceed  requirements.
+      image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-production-department.webp
+      alt: RF welding machine sealing inflatable boat tube chambers at Qingdao factory
+    - title: Drop-Stitch Core Bonding
+      description: SUP board drop-stitch cores are bonded to outer PVC laminates using heat lamination. Thousands of internal polyester threads connect top and bottom layers, creating a rigid structure at 12-15 PSI. Rail bands are triple-layer fusion bonded for edge strength.
+      image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-sup-manufacturing.webp
+      alt: Inflatable SUP manufacturing line with drop-stitch core bonding equipment at Qingdao factory
+    - title: SUP Printing & Decoration
+      description: SUP boards are decorated using digital printing  for full-colour graphics and screen printing  for logos and repeating patterns. Digital printers produce photo-quality deck designs, while screen printing delivers durable, vivid brand marks.
+      image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-production-department-2.webp
+      alt: Production department interior at Qingdao inflatable SUP factory
+    - title: Final Assembly & Fitting
+      description: Assembly line where valves, D-rings, handles, fin boxes, and deck pads are installed on each SUP board. Each board follows a 100-point assembly checklist signed off by the team lead.
+      image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-production-department.webp
+      alt: Production department with assembly workstations at Qingdao factory
+    - title: Quality Testing & Inspection
+      description: Every completed board undergoes mandatory air-retention testing, seam peel verification, and a full systems check before shipping. Our quality lab operates independently from production and reports directly to management.
+      image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-pressure-testing.webp
+      alt: Pressure testing inflatable SUP for air retention before shipping at Qingdao factory
+
+equipment_section:
+  tagline: Equipment
+  title: Key Manufacturing Equipment
+  view_full: View full equipment list →
+  view_full_link: /factory/equipment
+  items:
+    - name: Automatic PVC Cutting Machine
+      spec: CNC-controlled, 0.1 mm accuracy
+    - name: Heat Sealing Machine
+      spec: Hot-air, 200°C–300 °C, for tube bonding
+    - name: RF Dielectric Welding Press
+      spec: 15 kW, airtight seam welding
+    - name: Drop-Stitch Core Lamination Press
+      spec: SUP cores up to 14 ft
+    - name: Digital Printer
+      spec: Full-colour SUP deck graphics
+    - name: Screen Printing Machine
+      spec: Multi-colour logo printing
+
+qc_section:
+  tagline: Quality Control
+  title: Testing & Quality Assurance Process
+  subtitle: Every board undergoes mandatory testing before shipping. Our quality lab operates independently from production and reports directly to management.
+  steps:
+    - step: '1'
+      title: Raw Material Inspection
+      desc: PVC, Hypalon, and drop-stitch fabrics undergo tensile testing (), tear propagation, and UV resistance verification before any batch enters production.
+    - step: '2'
+      title: 24-Hour Air Retention Test
+      desc: Every tube chamber is inflated to 18.0 PSI and held for 24 hours. Pressure drop above 0.50 PSI triggers automatic rejection and seam re-inspection.
+    - step: '3'
+      title: Load & Balance Testing
+      desc: Completed boards are inflated to rated pressure and checked for symmetric swell, rigidity at 15 PSI, and stability under load. Each board is wet-tested in our test pool before final inspection.
+
+oem_section:
+  tagline: OEM Projects
+  title: Brand & OEM Partnership Case Studies
+  subtitle: From concept to production —how we help global brands launch and scale their inflatable SUP lines.
+  cases:
+    - challenge: European outdoor retailer needed a private-label SUP line with unique deck graphics, eco-friendly PVC, and retail-ready packaging —all delivered in 60 days.
+      solution: Developed custom digital print files, sourced REACH-compliant PVC, and compressed sampling from 3 rounds to 1 by co-locating the design team at our Qingdao factory.
+      result: 25–35 days production from signed PO, with first delivery within the 60-day landing window. 2,400 units across 4 SKUs. Repeat order placed before the first batch was fully delivered.
+      disclaimer: 'Anonymized project summary — project type and scope are representative; specific results are not independently verifiable.'
+    - challenge: US watersports startup needed a high-performance drop-stitch SUP with custom shape, co-branded packaging, and BSCI certification for retail placement.
+      solution: Adapted existing SUP mould with modified outline, developed co-branded packaging artwork, and provided full BSCI audit documentation.
+      result: Successfully placed across key US outdoor retailers, driving strong momentum with over 5,000 units sold in Year 1 and a 98% sell-through rate.
+      disclaimer: 'Anonymized project summary — project type and scope are representative; specific results are not independently verifiable.'
+    - challenge: Australian distributor required a CE-certified SUP range with custom colours and compliance with Australian standards.
+      solution: Produced pre-production samples with 4 colour variants and coordinated third-party compliance testing.
+      result: 3-model SUP range launched in AU/NZ market. Followed by government tender win for 12 patrol SUPs.
+      disclaimer: 'Anonymized project summary — project type and scope are representative; specific results are not independently verifiable.'
+
+faq_section:
+  tagline: FAQ
+  title: B2B & OEM Frequently Asked Questions
+  questions:
+    - q: What is the minimum order quantity (MOQ) for OEM inflatable SUP boards?
+      a: 'MOQ is confirmed by project configuration rather than a fixed number — hull and tooling, colorways and PVC, artwork, packaging and accessories. Standard volume production runs 90–100+ units per batch from a full 150 m drop-stitch roll, small-batch co-branding starts at 5–10 units, and every project moves through sample (1–2 units) and pilot (20–50 units) stages. See our MOQ & Flexible Branding Guide for the full calculation logic.'
+    - q: Does Vectoflare hold BSCI certification?
+      a: Yes. Our factory maintains valid BSCI social compliance certification (audit report available on request). We also hold ISO 9001 for quality management. CE certification applies to models destined for EU markets; scope is confirmed per project. REACH and RoHS compliance documentation is provided with every OEM order.
+    - q: What is the typical lead time for an OEM order?
+      a: Standard lead time is 25–35 days from confirmed PO and deposit for bulk OEM production. Custom mould development adds 15–20 days for tooling. Expedited production is available for urgent orders and seasonal rushes. Prototype samples are typically ready within 7–12 days.
+    - q: Do you handle export documentation?
+      a: Yes. Our team manages export documentation and customs clearance in-house, and we supply to 50+ countries across EU, US, AU, and Asia markets.
+
+b2b_moq: 'MOQ confirmed by project configuration: sample 1–2, pilot 20–50, volume 90–100+ (per 150 m roll); small-batch co-branding from 5–10 units.'
+
+production_flow:
+  tagline: Production Flow
+  title: From Material to Finished Board
+  subtitle: Every board passes through 6 production stages with QC checkpoints at every step. No shortcuts, no skipped inspections.
+  stages:
+    - stage: '01'
+      title: Material Receiving & Incoming QC
+      description: 'All incoming materials are logged by batch/lot number in our ERP system. PVC fabric rolls, drop-stitch cores, valves, adhesives, and hardware are quarantined until QC sign-off.'
+      qc_check: 'Tensile strength (ASTM D751), tear resistance (ISO 4674), thickness gauge, adhesive viscosity, visual defect scan'
+      qc_threshold: '100% of batches tested. Reject if tensile < 90% of spec, tear < spec min, or any visual defect'
+      responsibility: Incoming QC team (3 inspectors)
+    - stage: '02'
+      title: CNC Cutting & Material Prep
+      description: 'Computer-optimized nesting lays out panels on PVC stock to minimize waste. Automatic CNC cutting machines maintain 0.1 mm positional accuracy.'
+      qc_check: 'Dimensional check against CAD DXF files, edge quality inspection, panel count verification'
+      qc_threshold: 'Every 20th panel measured. Tolerance ±0.5 mm. Reject batch if >2% out of tolerance'
+      responsibility: Cutting workshop lead
+    - stage: '03'
+      title: Welding & Drop-Stitch Bonding
+      description: 'Drop-stitch cores are bonded to outer PVC laminates using heat lamination. Tube chambers are RF-welded or hot-air welded. Rail bands are triple-layer fusion bonded.'
+      qc_check: 'Peel test every 50 units (ASTM D751), weld width measurement, hot-air temperature log review, visual seam inspection under backlight'
+      qc_threshold: 'Peel strength min 8 N/cm. Weld width tolerance ±1 mm. Any visible channeling = reject'
+      responsibility: Welding QC (2 inspectors per shift)
+    - stage: '04'
+      title: Assembly & Rigging
+      description: 'Boards move to final assembly where all components come together: deck and hull panels fused, valves installed, D-rings, handles, fin boxes, and carry bag fitting. Each unit follows a 100-point assembly checklist.'
+      qc_check: '100-point checklist sign-off per unit, valve function test (10 open/close cycles), hardware torque verification, visual inspection'
+      qc_threshold: 'Zero-defect policy on safety-critical items (valves, D-rings, handles). Minor cosmetic: AQL 2.5 (ISO 2859)'
+      responsibility: Assembly team lead + line QC
+    - stage: '05'
+      title: Pressure Testing & Quality Hold
+      description: 'Every chamber is inflated to 18.0 PSI (for a 12–15 PSI rated SUP) and held for 24 hours. Pressure sensors log continuously. Chambers exceeding 0.50 PSI pressure drop are rejected and sent for seam re-inspection.'
+      qc_check: '24h pressure hold log, sensor calibration verified daily, temperature-compensated pressure reading, seam re-test after repair'
+      qc_threshold: 'Max 0.50 PSI pressure drop over 24h at stable temp. Any chamber exceeding this = 100% re-test of entire production batch'
+      responsibility: Quality lab (independent of production, reports to management)
+    - stage: '06'
+      title: Final Inspection & Packing
+      description: 'Final visual and functional inspection. Surface defects, color consistency, label/BIN verification, packaging integrity, and accessory completeness. Units are vacuum-packed, boxed, and palletized for container loading.'
+      qc_check: 'Full visual inspection, accessory checklist per SKU, packaging drop test (1 m, random sample), label/bar code scan verification'
+      qc_threshold: 'AQL 2.5 for major defects, AQL 4.0 for minor. Zero tolerance on safety defects. 100% of units visually inspected'
+      responsibility: Final QC team (4 inspectors) + Packing team lead
+
+workforce:
+  tagline: Our People
+  title: Workforce & Expertise
+  engineers: 25+
+  engineers_detail: 'Engineers across R&D, mold design, materials lab, and production engineering. Average 7+ years in inflatable manufacturing.'
+  shift_pattern: '2 shifts/day (07:00–15:30, 15:30–00:00). Optional night shift for urgent orders.'
+  training: 'Monthly QC training, quarterly safety drills, annual skills assessment. New hires complete 40-hour induction before working on production line.'
+  departments:
+    - name: R&D & Engineering
+      count: 25+
+      role: Product design, mold engineering, materials lab
+    - name: Cutting & Material Prep
+      count: 15
+      role: CNC cutting, panel preparation, material handling
+    - name: Welding & Lamination
+      count: 40
+      role: RF welding, hot-air welding, drop-stitch bonding
+    - name: SUP Core Bonding
+      count: 30
+      role: Drop-stitch lamination, heat bonding, rail band fusion
+    - name: Assembly & Rigging
+      count: 35
+      role: Final assembly, hardware installation, systems check
+    - name: Quality Control
+      count: 12
+      role: Incoming QC, in-process QC, final inspection, lab testing
+    - name: Logistics & Packing
+      count: 20
+      role: Packaging, container loading, export documentation
+    - name: Management & Admin
+      count: 15
+      role: Sales, procurement, HR, finance, compliance
+
+material_traceability:
+  tagline: Traceability
+  title: Material Tracking & Batch Control
+  description: Every batch of raw material is assigned a unique lot number in our ERP system. From arrival through production to the finished product, each board's bill of materials links back to the original supplier batch. This enables full upstream traceability for any quality or compliance inquiry.
+  system: Custom ERP (Qingdao Vatrad Group internal system) + physical batch tags on each work order
+  coverage: 100% of production materials —PVC, Hypalon, drop-stitch fabric, adhesives, valves, hardware, packaging
+  records_retained: 10 years (per CE 2013/53/EU requirement)
+  suppliers:
+    - material: Marine-grade PVC
+      source: Chinese and Korean suppliers
+      certified: ISO 9001, REACH, RoHS
+    - material: Hypalon (CSM)
+      source: Japanese supplier
+      certified: ISO 9001, REACH
+    - material: Drop-stitch fabric
+      source: In-house weaving + external partner
+      certified: Internal QC + supplier ISO 9001
+    - material: Valves & Hardware
+      source: Chinese OEM suppliers
+      certified: ISO 9001, material certs per batch
+
+qc_dashboard:
+  tagline: QC by the Numbers
+  title: Quality Control Metrics
+  subtitle: Real pass/fail data from our production line. Our quality lab operates independently from production and reports directly to management.
+  stats:
+    - value: 100%
+      label: Units pressure-tested
+      detail: Every board, every chamber, every batch
+    - value: '<5%'
+      label: Max allowable pressure drop
+      detail: Over 24h at 18.0 PSI
+    - value: AQL 2.5
+      label: Major defect threshold
+      detail: Per ISO 2859 sampling standard
+    - value: 24h
+      label: Pressure hold duration
+      detail: Every board, every chamber
+    - value: 18 PSI
+      label: Test pressure vs rated
+      detail: Safety margin on every chamber
+    - value: 0%
+      label: Tolerance on safety defects
+      detail: Valves, D-rings, seams, buoyancy
+
+process_cta:
+  title: See our manufacturing process
+  desc: Follow a SUP through every stage of production —from raw material to sea-ready board.
+  label: View production process →
+  link: /factory/process
+
+evidence_review:
+  tagline: 'Evidence & Verification'
+  title: 'Factory Evidence — Verified'
+  body: 'All manufacturing claims on this page are verified by our Manufacturing Engineering Team at the Laixi, Qingdao plant. Certificates, QC inspection records, pressure & structural test reports, and batch traceability records are available on request. Specifications last verified 2026-08.'
+
+cta:
+  title: 'Explore Our Factory'
+  actions:
+    - text: Factory Audit Checklist
+      href: /factory-audit-checklist

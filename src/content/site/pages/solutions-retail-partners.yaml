@@ -1,0 +1,104 @@
+meta:
+  title: 'Custom & Private Label SUP Production For Retailers | {SITE}'
+  description: 'Custom and private label SUP production for retail brands: board specifications, branded graphics, low trial MOQ and factory QC — from sample to bulk.'
+  dateModified: '2026-08'
+
+hero:
+  tagline: Retail Brands
+  title: 'Custom SUP Production For Retail Brands'
+  subtitle: 'Retail brands launch their own paddle board line with our factory: board specifications developed from your requirements, your brand on the product, and production QC handled end to end.'
+  image:
+    src: https://assets.vectoflare.com/images/vectoflare/products/sup-series/sup-ocean-voyager-1.webp
+    alt: Vectoflare SUP boards produced for a retail brand
+
+answer:
+  label: 'Straight answer'
+  text: 'MOQ is confirmed by project configuration: retail brands start with a sample (1–2 units) or pilot batch (20–50 units, samples in 7–12 days), scale to a standard volume OEM run of 90–100+ units per design (25–35 days after PO and deposit), or invest in a custom mould for full bespoke lines (tooling adds 15–20 days). Every board is pressure-tested before shipping, with FOB, CIF or DDP terms from Qingdao.'
+  verified: '2026-08'
+
+margin_section:
+  title: 'Production Stages For Retail Brands'
+  subtitle: 'Start with a sample, pilot to validate, scale to a standard volume run, or invest in a custom mould — MOQ and lead times are set by the production path, not by guesswork.'
+  items:
+    - tier: 'Sample Stage'
+      moq: '1–2 units'
+      margin_note: 'Sample lead time 7–12 days'
+      features:
+        - 'Artwork development from your brand assets'
+        - 'Physical sample for approval'
+        - 'Standard platform QC'
+    - tier: 'Pilot Stage'
+      moq: '20–50 units'
+      margin_note: 'Market validation on stock platforms'
+      features:
+        - 'Full-board graphics, logo and EVA layout'
+        - 'Reorders on the same verified platforms'
+        - 'Export documentation included'
+    - tier: 'Custom Mould'
+      moq: 'Confirmed by project config'
+      margin_note: 'Tooling adds 15–20 days'
+      features:
+        - 'New board shape and mould development'
+        - 'Full specification control'
+        - 'Priority production allocation'
+
+product_line:
+  title: Complete Product Line
+  subtitle: 'A production platform for every segment in your store.'
+  items:
+    - name: All-Round Series
+      description: 'Versatile shape — the most common starting platform'
+    - name: Touring Series
+      description: 'Displacement hull for distance paddling'
+    - name: Yoga Series
+      description: 'Wide, stable platform for the wellness segment'
+    - name: Kids Series
+      description: 'Short, light boards for younger paddlers'
+    - name: Racing Series
+      description: 'Fast hulls for the enthusiast segment'
+    - name: Accessories
+      description: 'Paddles, vests, pumps and bags to complete the line'
+
+catalog:
+  title: Retail Partner Resources
+  subtitle: 'Specifications, ordering details and product documentation.'
+  items:
+    - name: '2026 Product Catalog'
+      desc: 'Full lineup with specs and ordering information'
+      icon: 'tabler:file-text'
+      link: '/products'
+    - name: 'Retail Partner Guide'
+      desc: 'Specification guide, ordering process and QC standards'
+      icon: 'tabler:book'
+      link: '/products'
+    - name: 'Product & Technical Assets'
+      desc: 'Hi-res product photos, lifestyle images and technical documentation'
+      icon: 'tabler:photo'
+      link: '/products'
+
+support:
+  title: Manufacturing Support
+  subtitle: 'What your manufacturing partner provides around the order.'
+  items:
+    - 'Physical sample before bulk production'
+    - 'Tolerance and QC: every board pressure-tested before shipping'
+    - 'Specification support — shapes, graphics, EVA layout, accessories'
+    - 'Bulk lead time 25–35 days after confirmed PO'
+    - 'Spare parts and repair guidance for your customers'
+    - 'Export and documentation: FOB/CIF/DDP from Qingdao'
+
+content_html: |
+  <div class="mx-auto max-w-3xl space-y-4 rounded-2xl border bg-card p-6 text-[14.5px] leading-relaxed text-fg-2">
+    <p><strong>Keep reading:</strong> see the full <a href="/oem-manufacturing">OEM/ODM manufacturing program</a> — project-confirmed MOQs across sample, pilot and volume stages, private-label branding and CE compliance — or read the <a href="/oem-moq-guide">MOQ &amp; Flexible Branding Guide</a>, or tour the <a href="/factory">factory</a> to see how retail-ready QC is run.</p>
+  </div>
+
+cta:
+  title: 'Discuss Your Retail Product Line'
+  subtitle: 'Send your requirements — our team responds within 1 business day.'
+  actions:
+    - text: 'Send Your Requirements'
+      href: '/contact'
+      variant: 'primary'
+    - text: 'View Product Platforms'
+      href: '/products'
+      variant: 'secondary'

@@ -1,0 +1,27 @@
+name: CI
+on:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.0.0
+      - uses: pnpm/action-setup@fc06bc1257f339d1d5d8b3a19a8cae5388b55320 # v5.0.0
+      - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.4.0
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      # wrangler.jsonc 不入库（含真实资源 id）；用提交的占位模板即可通过 build 检查
+      # （占位符只被烘焙进产物、不校验真实性，CI 不部署）。
+      - run: cp wrangler.example.jsonc wrangler.jsonc
+      - run: pnpm lint
+      - run: pnpm typecheck
+      - run: pnpm test
+      - run: pnpm build
+      # First-load weight gate: main JS/CSS chunks must stay under their limits
+      # (see scripts/check-bundle-size.mjs) — the only CI guard against silent
+      # bundle regressions, since devDependencies rarely change chunk shape.
+      - run: node scripts/check-bundle-size.mjs

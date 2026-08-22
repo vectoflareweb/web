@@ -1,0 +1,513 @@
+meta:
+  title: 'Custom SUP Quality Control: 7-Stage Inspection | Vectoflare'
+  description: 'How every custom SUP order is controlled: 7 inspection gates from pre-production planning to shipment release, with downloadable bilingual reports.'
+  dateModified: '2026-08-15'
+  keywords:
+    - 'sup quality control'
+    - 'sup factory inspection'
+    - 'oem quality inspection plan'
+    - 'pre shipment inspection sup'
+    - 'ce certification sup'
+    - 'iso 9001 sup'
+hero:
+  tagline: Quality Control for Custom Projects
+  title: 'Quality Control for Custom Inflatable SUP Projects'
+  subtitle: 'Quality is verified against the approved sample, technical specification, artwork, bill of materials and packaging requirements for each project — not against a general claim. From incoming materials to shipment release, our inspection process is structured to verify product conformity at defined production stages. Powered by QINGDAO VATRAD GROUP, the 12,500 m² inflatable SUP factory behind vectoflare.'
+stats:
+  - value: 100%
+    label: Units pressure-tested
+  - value: '7'
+    label: Controlled inspection gates
+  - value: 18.0 PSI
+    label: 24-hour pressure hold
+  - value: ISO 9001
+    label: Quality certified
+quality_basis:
+  tagline: Quality Basis
+  title: 'What Defines Product Acceptance'
+  subtitle: 'Final acceptance criteria are established before production release. These controlled project documents define what is to be made, how key details are verified and what must be checked before shipment — approved with the buyer and frozen in the Quality Inspection Plan (QIP). Any change request goes through documented change control, never silently through the line.'
+  items:
+    - title: 'Approved Sample'
+      description: 'The physical reference board signed off by the buyer. Every finished board is compared against it for dimensions, profile, stiffness and finish.'
+      icon: tabler:medal
+    - title: 'Technical Specification'
+      description: 'Materials, construction and dimensional drawings locked to a revision number. The FAI verifies the first article against this exact revision.'
+      icon: tabler:file-check
+    - title: 'Approved Artwork'
+      description: 'Artwork, print colors and placement approved and version-locked before cutting, so every deck ships in the look the brand approved.'
+      icon: tabler:palette
+    - title: 'Customer Approved BOM'
+      description: 'Bill of materials — board, paddle, pump, leash, bag, manual — confirmed by the buyer. The PSI checks 100% kit completeness against this BOM.'
+      icon: tabler:list-checks
+    - title: 'Packaging & Labeling Requirements'
+      description: 'Carton structure, markings, barcodes, label content and shipping marks fixed in writing. Barcode readability and marking accuracy are verified at PSI.'
+      icon: tabler:package
+tests:
+  - title: Pressure Testing
+    description: Inflatable chambers are subjected to pressures exceeding their recommended operating limits for extended periods. This verifies the airtightness and structural integrity of the material and seams, ensuring the product can withstand intended use and potential over-inflation without failure or leaks.
+    image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-pressure-testing.webp
+    alt: Inflatable SUP chamber under pressure testing to verify airtightness
+  - title: Impact Testing
+    description: Products are subjected to controlled impacts from various weights and angles. This assesses the material's resistance to punctures, tears, and damage from collisions with obstacles in the water, demonstrating durability and longevity.
+    image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-production-department.webp
+    alt: Impact testing rig assessing inflatable boat material puncture resistance
+  - title: UV Resistance Testing
+    description: Material samples are exposed to accelerated UV radiation to verify they do not yellow, crack, or lose strength over time. Each PVC batch is checked against solar degradation before use in production.
+    image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-uv-resistance-testing.webp
+    alt: PVC material samples under accelerated UV radiation in resistance testing
+  - title: Abrasion Resistance Testing
+    description: Material samples are rubbed against abrasive surfaces for a specified number of cycles under controlled pressure. This measures the material's ability to withstand wear and tear from repeated use, contact with sand, rocks, or other surfaces, ensuring long-term durability.
+    image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-pvc-material-testing.webp
+    alt: Abrasion test machine rubbing PVC fabric sample to measure wear resistance
+  - title: Low-Temperature Performance Testing
+    description: Products are tested in cold environments to assess functionality and durability in various temperature conditions, preventing stiffness or cracking in colder waters. Essential for boats destined for winter or high-latitude use.
+    image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-factory-exterior.webp
+    alt: Inflatable product inside cold chamber for low-temperature performance testing
+  - title: Buoyancy & Load Capacity Testing
+    description: Products are tested with various weights to determine their maximum load-bearing capacity and ensure they safely support users and gear. Every model's rated capacity is verified before release.
+    image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-stock-boat-inventory.webp
+    alt: Buoyancy and load capacity test with weights on inflatable watercraft
+  - title: Maneuverability Testing
+    description: Products are tested for their responsiveness to paddling or motor inputs, evaluating turning radius and ease of handling. On-water trials validate that real-world handling matches design specifications.
+    image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-sup-manufacturing.webp
+    alt: On-water maneuverability testing of inflatable SUP and boat hulls
+  - title: Watertightness Testing
+    description: Fully assembled products are submerged or subjected to water spray to check for any leaks through seams, valves, or materials. Every boat passes a mandatory watertightness check before shipping.
+    image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-production-department-2.webp
+    alt: Submersion watertightness test checking seams and valves for leaks
+qc_flow:
+  tagline: The 7-Stage Inspection Flow
+  title: 'Seven Controlled Quality Gates, End to End'
+  subtitle: 'Each gate below is defined in the project Quality Inspection Plan with its inspection object, method, acceptance criteria and record output. The bilingual report dossiers are real controlled records — open any of them to see the actual structure.'
+  obj_label: Inspection object
+  method_label: Inspection method
+  criteria_label: Acceptance criteria
+  record_label: Record output
+  stages:
+    - stage: STAGE 01
+      title: 'Project Quality Planning (PPM)'
+      summary: 'The pre-production meeting locks scope, baselines and inspection plan before the line starts.'
+      checks:
+        - 'Product name, internal code, customer SKU, order number and batch definition are recorded.'
+        - 'Board type, drop-stitch core, materials, rail bands, EVA, valves and fin system are specified.'
+        - 'Artwork file name, version, colors, logo position and printing area are locked and approved.'
+        - 'BOM — every item per set with quantity, color, part number and substitution rules — is customer-approved.'
+        - 'Packaging, labeling, barcodes, language of manuals and third-party inspection arrangements are fixed in writing.'
+      object: 'Project scope vs. customer requirements — materials, dimensions, artwork, packaging, target market and applicable standards.'
+      method: 'Pre-production meeting with sales, engineering and QC; Golden Sample sign-off; Quality Inspection Plan (QIP) issued for the order.'
+      criteria: 'All five baselines approved and frozen before mass production starts. Unresolved items block production release.'
+      record: 'QIP + PPM minutes, approved sample records.'
+      image: https://assets.vectoflare.com/site/quality/node01-ppm.avif
+      alt: Pre-production meeting reviewing the golden sample and quality inspection plan for an OEM SUP order
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_SUP_OEM_QIP.pdf
+      link_label: 'Download QIP (PDF)'
+    - stage: STAGE 02
+      title: 'Incoming Material Inspection (IQC)'
+      summary: 'Raw materials are verified against the approved supplier specification before they enter production.'
+      checks:
+        - 'Drop-stitch fabric, PVC rolls, rail material and EVA deck pads checked against the approved sample — color, thickness, weight and surface defects.'
+        - 'Valves, fin boxes, D-rings, handles and hardware checked for type, size, finish, rust and correct function.'
+        - 'Pumps, paddles, leashes, bags and repair kits verified for model, color and project configuration.'
+        - 'Supplier certificates (COA), material declarations and REACH/RoHS compliance documents reviewed per batch.'
+        - 'Non-conforming lots are quarantined and returned before any material reaches the line.'
+      object: 'Drop-stitch fabric, PVC rolls, valves, fins, accessories and packaging materials against the approved spec and supplier test certificates.'
+      method: 'Visual, dimensional and weight checks; batch sampling per AQL; material certificates reviewed; approved supplier list enforced.'
+      criteria: 'Meets approved specification and certificates. Non-conforming lots are quarantined and rejected before release to the line.'
+      record: 'IQC test reports with lot references and dispositions.'
+      image: https://assets.vectoflare.com/site/quality/node02-iqc.avif
+      alt: Incoming material inspection of PVC fabric and SUP components at the factory
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_IQC_TEST_REPORTS.pdf
+      link_label: 'Download IQC reports (PDF)'
+    - stage: STAGE 03
+      title: 'In-Process Control & First Article (IPQC / FAI)'
+      summary: 'Construction methods and checkpoints are selected according to the approved board platform and project configuration. The first article is checked against the locked baselines; every shift keeps patrol checks on the line.'
+      checks:
+        - 'First article verified against approved sample, technical drawing, BOM, artwork and packaging files before mass production starts.'
+        - 'Board dimensions, outline and symmetry measured; ink and logo direction, position, colors and revision confirmed.'
+        - 'Seams and rail continuity checked for gaps, delamination, wrinkles, contamination or misalignment on the line.'
+        - 'Valve, D-ring, handle and fin-box installation checked for position, quantity and fit against the customer-approved BOM.'
+        - 'FAI approval version-locks artwork, dimensions and BOM; deviations route to the rework decision flow — never inline patching.'
+      object: 'First article and in-process assemblies — seams, rails, fin box, valve base, artwork position, hardware torque.'
+      method: 'First Article Inspection on the first unit; patrol checks per shift; weld strength and seam alignment verified inline.'
+      criteria: 'FAI approval version-locks artwork, dimensions and BOM. Deviations route to the rework decision flow — never inline patching.'
+      record: 'FAI record, shift patrol logs, rework and disposition notes.'
+      image: https://assets.vectoflare.com/site/quality/node03-ipqc-fai.avif
+      alt: In-process inspection and first article check during SUP production
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_IPQC_TEST_REPORTS.pdf
+      link_label: 'Download IPQC reports (PDF)'
+    - stage: STAGE 04
+      title: 'Inflation & Air-Tightness Testing'
+      summary: 'Every completed board undergoes inflation and air-tightness verification before packing — 100% of units, not a sample.'
+      checks:
+        - 'Board surface, rails and valve area checked for pinholes, cracks, abnormal folds or delamination before inflation.'
+        - 'Chambers inflated with a calibrated digital gauge to the project test pressure and initial reading locked.'
+        - 'Valve core, valve base and rail seams checked around the full circumference — nose, tail and curved areas.'
+        - '24-hour pressure hold with continuous logging; automatic reject above the allowed pressure drop.'
+        - 'Failed boards are quarantined, reworked under instruction and fully re-tested — not just re-checked at the repair point.'
+      object: '100% of inflated chambers — full-seam leak detection, valve integrity and pressure-drop retention.'
+      method: 'Full-seam leak detection followed by a 24-hour pressure hold at 18.0 PSI; automatic reject above a 0.50 PSI drop.'
+      criteria: 'Zero leak points and pressure drop within 0.50 PSI per chamber; failed units are quarantined and reworked or scrapped.'
+      record: 'Air-tightness test reports, one per chamber, linked to the batch.'
+      image: https://assets.vectoflare.com/site/quality/node04-airtightness.avif
+      alt: Inflation and air-tightness testing of an inflatable SUP chamber
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_AIRTIGHTNESS_TEST_REPORTS.pdf
+      link_label: 'Download air-tightness reports (PDF)'
+    - stage: STAGE 05
+      title: 'Final Product Inspection (FQC)'
+      summary: 'Finished boards are measured and cosmetically graded against the approved golden sample.'
+      checks:
+        - 'Key dimensions — length, width and thickness — measured at working pressure against drawing tolerances.'
+        - 'Board outline, rocker and symmetry verified; no abnormal distortion, twist or warping after inflation.'
+        - 'Cosmetics graded under D65 daylight lamps: scratches, stains, glue marks, bubbles, wrinkles, color deviation.'
+        - 'Functional checks: valve open/close and cap fit, fin insertion and locking, D-rings, handles and paddle function.'
+        - 'Configuration verified against the customer-approved BOM and SKU — accessories, labels, barcodes and serial numbers.'
+      object: 'Finished board vs. golden sample — dimensions, rocker, profile, cosmetics, fin-box fitment and accessory completeness.'
+      method: 'Dimensional verification against drawing tolerances; cosmetics graded under D65 daylight lamps; fin box and hardware fit tests.'
+      criteria: 'Dimensions within tolerance (e.g. 3508 × 814 × 150.3 mm), cosmetic grade per approved sample, all accessories present.'
+      record: 'FQC reports with inspector sign-off and disposition.'
+      image: https://assets.vectoflare.com/site/quality/node05-fqc.avif
+      alt: Final product inspection of finished SUP boards before packing
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_FQC_TEST_REPORTS.pdf
+      link_label: 'Download FQC reports (PDF)'
+    - stage: STAGE 06
+      title: 'Packaging & Pre-Shipment Inspection (PSI)'
+      summary: 'The packed kit is checked for completeness, marking accuracy and shipment readiness.'
+      checks:
+        - '100% kit completeness vs. BOM: board, paddle, pump, leash, bag, repair kit and manual — one set at a time.'
+        - 'Fragile parts protected (pump and blade bags), board folded per packing SOP, accessories match model and color.'
+        - 'Carton graphics, brand, warnings and language versions verified against the approved artwork revision.'
+        - 'Barcode type, number, position and scannability verified; shipping marks, SKU, PO, carton number and quantity correct.'
+        - 'Carton size, gross/net weight and inner packing match the packing specification; drop-test result recorded when required.'
+      object: 'Packed kit — board, paddle, pump, leash, bag, manual — against the customer-approved BOM and packaging spec.'
+      method: '100% kit completeness vs. BOM; barcode scan (Grade ≥ B); carton marking accuracy; ISTA-1A drop test on packed cartons.'
+      criteria: '100% kit match to BOM, readable barcodes, correct markings and drop-safe packing before loading.'
+      record: 'PSI checklists and packing records per carton.'
+      image: https://assets.vectoflare.com/site/quality/node06-psi.avif
+      alt: Pre-shipment inspection checking the packed SUP kit against the BOM
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_PSI_TEST_REPORTS.pdf
+      link_label: 'Download PSI reports (PDF)'
+    - stage: STAGE 07
+      title: 'Shipment Release & Traceability'
+      summary: 'Quality signs off the batch only when all six previous gates are closed and every record is complete.'
+      checks:
+        - 'Production batch, order number, SKU, quantity and carton count match the packing list and commercial invoice.'
+        - 'Specification, BOM, artwork and packaging files are all at the current approved revision.'
+        - 'IQC, FAI, in-process, air-tightness, FQC and PSI records are complete for the batch being released.'
+        - 'All non-conformances are resolved, reworked, re-inspected and closed — no open items on the release.'
+        - 'Traceability fields recorded per batch: project code, PO, SKU, artwork/BOM/packaging revisions, production date, inspector and record numbers.'
+      object: 'Release authorization for the batch — all gates closed, records complete, serial numbers mapped to the batch.'
+      method: 'Gate review of all six preceding records by quality; batch traceability dossier assembled; records handed over with the shipment.'
+      criteria: 'All gates approved by QA; batch records and traceability dossier delivered to the buyer or kept under NDA on request.'
+      record: 'Shipment release authorization and batch traceability dossier.'
+      image: https://assets.vectoflare.com/site/quality/node07-shipment-release.avif
+      alt: Shipment release sign-off and batch traceability record handover
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_SHIPMENT_RELEASE_REPORTS.pdf
+      link_label: 'Download release reports (PDF)'
+system_map:
+  tagline: The Quality System
+  title: 'One System, Four Controlled Standards'
+  subtitle: 'The seven gates above run on four documented standards, each published as a controlled procedure you can download and audit. Together they form the QMS behind every OEM/ODM order — inspection criteria, change control, non-conformance and laboratory testing.'
+  items:
+    - title: 'Inspection & Release Standards'
+      description: 'The project QIP drives every gate: inspection object, method, acceptance criteria and record output per order. Includes the 4-stage QC framework, traceability chain, quarantine flow, defect matrix and the 00–15 documentation register.'
+      icon: tabler:clipboard-check
+      link: /factory/quality-inspection
+      link_label: 'Inspection standards & QMS downloads'
+    - title: 'Rework Change Control'
+      description: 'No rework parameter changes without documented control: containment, risk classification, 9-step change loop, approval matrix and validation. Any change to approved specs, samples, BOMs or acceptance criteria requires written customer approval.'
+      icon: tabler:git-branch
+      link: /factory/quality-change-control
+      link_label: 'Change control standard'
+    - title: 'Non-Conforming Product Control'
+      description: 'A closed 7-step loop under ISO 9001:2015 clause 8.7: identify, quarantine, disposition per NCR, rework or reject, re-inspect, release, correct. Includes severity authority, SUP defect disposition matrix and witnessed destruction.'
+      icon: tabler:alert-triangle
+      link: /factory/non-conforming-control
+      link_label: 'Non-conforming product control standard'
+    - title: 'Laboratory Testing & Equipment'
+      description: 'The quality lab operates independently from production: tensile, pressure decay, UV weathering, weld peel, leak detection and temperature chambers — with the calibration and test procedures behind our published claims.'
+      icon: tabler:flask
+      link: /factory/quality-lab
+      link_label: 'Quality lab & test equipment'
+    - title: 'Material Testing Lab (R&D)'
+      description: 'The R&D center runs independent material testing for PVC/Hypalon formulations, accelerated ageing and certification support, feeding the standards production uses.'
+      icon: tabler:microscope
+      link: /randdcenter/quality-inspection-lab
+      link_label: 'R&D material testing lab'
+intelligence_cards:
+  tagline: Documentation & Traceability
+  title: 'Quality Records That Support Project Traceability'
+  subtitle: 'Inspection records are maintained by production batch and linked to the applicable project documentation — specification revision, artwork revision, BOM and packing requirements. To protect customer confidentiality, the samples on this page are anonymized: only structural fields are shown (project code, product/SKU, batch, inspection stage, inspection item, acceptance criteria, result, inspector, date and release status).'
+  cards:
+    - icon: 1
+      icon_bg: blue
+      title: Incoming Material Inspection Record
+      desc: 'Proves raw materials, drop-stitch fabrics, PVC rolls, and components are verified against the approved specification prior to production release.'
+      metrics:
+        - { label: Stage, value: '02 · IQC' }
+        - { label: Batch Ref, value: 'LOT-DEMO-DS-0814' }
+        - { label: Result, value: 'Pass · Approved for Production' }
+      link: 'https://assets.vectoflare.com/site/downloads/anonymized-quality-record-samples.pdf#page=1'
+      link_label: 'View anonymized sample (PDF)'
+    - icon: 2
+      icon_bg: green
+      title: First Article Inspection (FAI) Record
+      desc: 'Demonstrates version-locking (artwork, dimensions, BOM specs) before entering full mass production.'
+      metrics:
+        - { label: Stage, value: '03 · IPQC' }
+        - { label: Sample Code, value: 'SN-DEMO-FAI-001' }
+        - { label: Result, value: 'Pass · FAI Approved' }
+      link: 'https://assets.vectoflare.com/site/downloads/anonymized-quality-record-samples.pdf#page=2'
+      link_label: 'View anonymized sample (PDF)'
+    - icon: 3
+      icon_bg: purple
+      title: Inflation & Air-Tightness Test Record
+      desc: 'Verifies 100% full-seam leak detection, valve integrity, and pressure-drop retention per the project quality plan.'
+      metrics:
+        - { label: Stage, value: '04 · Air-Tightness' }
+        - { label: Test Condition, value: 'Per Project Plan (18.0 PSI)' }
+        - { label: Result, value: 'Pass · Approved for Final Inspection' }
+      link: 'https://assets.vectoflare.com/site/downloads/anonymized-quality-record-samples.pdf#page=3'
+      link_label: 'View anonymized sample (PDF)'
+    - icon: 4
+      icon_bg: orange
+      title: Final Product Inspection Report
+      desc: 'Validates finished board against approved sample for dimensions, rocker, cosmetics (D65 light), and fin-box fitment.'
+      metrics:
+        - { label: Stage, value: '05 · FQC' }
+        - { label: Dimension, value: '3508 × 814 × 150.3 mm' }
+        - { label: Result, value: 'Pass · Approved for Packing' }
+      link: 'https://assets.vectoflare.com/site/downloads/anonymized-quality-record-samples.pdf#page=4'
+      link_label: 'View anonymized sample (PDF)'
+    - icon: 5
+      icon_bg: green
+      title: Packing & Pre-Shipment Checklist
+      desc: 'Ensures 100% kit completeness, barcode readability (Grade ≥ B), carton marking accuracy, and ISTA-1A drop safety.'
+      metrics:
+        - { label: Stage, value: '06 · PSI' }
+        - { label: Kit, value: '100% Match BOM' }
+        - { label: Result, value: 'Pass · Approved for Shipment' }
+      link: 'https://assets.vectoflare.com/site/downloads/anonymized-quality-record-samples.pdf#page=5'
+      link_label: 'View anonymized sample (PDF)'
+doc_register:
+  tagline: Controlled Document Register
+  title: 'Every Document Behind a Shipment, Listed'
+  subtitle: 'Each order generates a structured 00–15 documentation register — project index, approved spec, BOM, artwork and packing references, QIP, inspection records, NCR, change control, third-party brief and release summary. Download the public documents to see the exact structure and criteria we control against.'
+  items:
+    - title: '00 · Project Quality Inspection Plan (QIP)'
+      description: 'The per-order contract for quality: gates, inspection scope, methods, acceptance criteria and records you will receive.'
+      icon: '00'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_SUP_OEM_QIP.pdf
+      link_label: 'Download QIP (PDF)'
+    - title: '01 · Quality Inspection Standards'
+      description: 'The full inspection and assurance standard applied to custom inflatable SUP orders.'
+      icon: '01'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_Quality_Inspection_Standards.pdf
+      link_label: 'Download standards (PDF)'
+    - title: '02 · Quality Documentation Pack'
+      description: 'The complete document structure a project receives, in one overview pack.'
+      icon: '02'
+      link: https://assets.vectoflare.com/site/downloads/Qingdao_Vatrad_Group_SUP_Quality_Documentation_Pack.pdf
+      link_label: 'Download pack (PDF)'
+    - title: '03 · IQC Test Reports'
+      description: 'Incoming material inspection reports — fabric, PVC rolls, valves and components.'
+      icon: '03'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_IQC_TEST_REPORTS.pdf
+      link_label: 'Download IQC reports (PDF)'
+    - title: '04 · IPQC Test Reports'
+      description: 'In-process inspection and first article reports against the locked revision.'
+      icon: '04'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_IPQC_TEST_REPORTS.pdf
+      link_label: 'Download IPQC reports (PDF)'
+    - title: '05 · Air-Tightness Test Reports'
+      description: '100% seam leak detection, valve integrity and pressure-hold records.'
+      icon: '05'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_AIRTIGHTNESS_TEST_REPORTS.pdf
+      link_label: 'Download air-tightness reports (PDF)'
+    - title: '06 · FQC Test Reports'
+      description: 'Final board inspection against the approved sample — dimensions, cosmetics, fin-box.'
+      icon: '06'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_FQC_TEST_REPORTS.pdf
+      link_label: 'Download FQC reports (PDF)'
+    - title: '07 · PSI Test Reports'
+      description: 'Packing and pre-shipment inspection — 100% kit completeness, barcode grade, drop safety.'
+      icon: '07'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_PSI_TEST_REPORTS.pdf
+      link_label: 'Download PSI reports (PDF)'
+    - title: '08 · Shipment Release Reports'
+      description: 'Release authorization signed when all gates are closed, with the batch dossier.'
+      icon: '08'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_SHIPMENT_RELEASE_REPORTS.pdf
+      link_label: 'Download release reports (PDF)'
+    - title: '09 · Traceability & NCR Dossier'
+      description: 'Batch traceability mapped to spec/artwork/BOM, plus non-conformance control records.'
+      icon: '09'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_BATCH_TRACEABILITY_AND_NCR_CONTROL_DOSSIER.pdf
+      link_label: 'Download dossier (PDF)'
+    - title: '10 · NCP Control SOP (ISO 8.7)'
+      description: 'The controlled procedure for quarantine, disposition, rework and release of non-conforming products.'
+      icon: '10'
+      link: https://assets.vectoflare.com/site/downloads/non-conforming-product-control-sop-iso-8-7.pdf
+      link_label: 'Download SOP (PDF)'
+    - title: '11 · Rework Change Control SOP + Annex'
+      description: 'The change control procedure and its execution annex — containment, approval and validation.'
+      icon: '11'
+      link: https://assets.vectoflare.com/site/downloads/rework-change-control-sop-qms-sop-qc-cc-001.pdf
+      link_label: 'Download SOP (PDF)'
+    - title: '12 · Pre-Shipment Release Summary'
+      description: 'The bilingual release summary every batch ships with, tying the register together.'
+      icon: '12'
+      link: https://assets.vectoflare.com/site/downloads/Pre_Shipment_Release_Summary_Bilingual.pdf
+      link_label: 'Download summary (PDF)'
+    - title: '13 · Third-Party Inspection Brief Template'
+      description: 'The briefing template inspectors use to announce, plan and report a pre-shipment inspection.'
+      icon: '13'
+      link: https://assets.vectoflare.com/site/downloads/Third_Party_Inspection_Brief_Template.pdf
+      link_label: 'Download template (PDF)'
+    - title: '14 · PSI Checklist'
+      description: 'The on-floor pre-shipment checklist — kit completeness, barcode grade, markings and drop-safety.'
+      icon: '14'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_SUP_Pre_Shipment_Inspection_Checklist.pdf
+      link_label: 'Download checklist (PDF)'
+    - title: '15 · OEM Project Feasibility & Quality Guide'
+      description: 'How a project moves from inquiry to approved golden sample — engineering and quality steps before mass production.'
+      icon: '15'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_OEM_PROJECT_FEASIBILITY_AND_QUALITY_GUIDE.pdf
+      link_label: 'Download guide (PDF)'
+traceability:
+  tagline: Batch-Level Traceability
+  title: 'Four Questions Every Batch Answers'
+  subtitle: 'Quality records are maintained by production batch and linked to the applicable product specification, artwork, BOM and packing requirements. This supports investigation and controlled action if a quality issue is identified. During a buyer audit, our quality team answers these four questions on the floor — each answer points to a controlled record.'
+  items:
+    - title: 'What was produced?'
+      description: 'Product, model, configuration and revision are tied to the order number and the approved specification revision.'
+      icon: '1'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_BATCH_TRACEABILITY_AND_NCR_CONTROL_DOSSIER.pdf
+      link_label: 'View traceability dossier (PDF)'
+    - title: 'Which materials went in?'
+      description: 'Every material lot feeding the batch is logged with its supplier, certificate and IQC disposition.'
+      icon: '2'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_BATCH_TRACEABILITY_AND_NCR_CONTROL_DOSSIER.pdf
+      link_label: 'View traceability dossier (PDF)'
+    - title: 'Who inspected, and when?'
+      description: 'Each record carries the inspector role, date, tools used and result — no anonymous sign-offs.'
+      icon: '3'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_BATCH_TRACEABILITY_AND_NCR_CONTROL_DOSSIER.pdf
+      link_label: 'View traceability dossier (PDF)'
+    - title: 'How was the batch released?'
+      description: 'Release is authorized by quality only when all gates are closed; the disposition is documented on the record.'
+      icon: '4'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_BATCH_TRACEABILITY_AND_NCR_CONTROL_DOSSIER.pdf
+      link_label: 'View traceability dossier (PDF)'
+non_conformance:
+  tagline: Control of Non-Conforming Products
+  title: 'When a Defect Is Found: Contain, Decide, Document'
+  subtitle: 'Products or components that do not meet the defined acceptance criteria are identified and placed under controlled hold. Rework or replacement is permitted only through the applicable quality procedure, followed by re-inspection before authorized release.'
+  items:
+    - title: 'Detect & Segregate'
+      description: 'Failed units are red-tagged and moved to the quarantine station — no further processing or packing until disposition.'
+      icon: tabler:alert-triangle
+    - title: 'Disposition per NCR'
+      description: 'Quality issues a Non-Conformance Report and routes the unit to rework, re-inspection, reject or scrap according to the disposition matrix.'
+      icon: tabler:git-branch
+      link: /factory/non-conforming-control
+      link_label: 'Non-conforming product control standard'
+    - title: 'Verify & Release'
+      description: 'Reworked units are re-inspected against the same criteria; the NCR is closed only after re-verification passes.'
+      icon: tabler:shield-check
+    - title: 'Scrap Control'
+      description: 'Scrapped material is destroyed with a signed scrap certificate, so it can never re-enter stock or the market.'
+      icon: tabler:trash
+      link: https://assets.vectoflare.com/site/downloads/scrap-destruction-certificate-vat-qa-scrap-cert-2026.pdf
+      link_label: 'Scrap & destruction certificate (PDF)'
+    - title: 'Root-Cause Feedback'
+      description: 'Repeated defects trigger corrective action with the responsible process or supplier — closed-loop, not paperwork.'
+      icon: tabler:refresh
+      link: https://assets.vectoflare.com/site/downloads/rework-change-control-sop-qms-sop-qc-cc-001.pdf
+      link_label: 'Rework change control SOP (PDF)'
+third_party:
+  tagline: Buyer-Appointed & Independent Inspection Support
+  title: 'Your Inspector Is Welcome on the Floor'
+  subtitle: 'Buyer-appointed and independent third-party inspection (SGS, TÜV, Bureau Veritas, customs brokers) can be discussed before production release. Inspection scope, sampling level, acceptance criteria, timing and reporting requirements should be confirmed before production begins. Where applicable, we coordinate access to the relevant production, final-inspection and packing stages in accordance with the agreed inspection plan.'
+  items:
+    - title: 'Inspection Scheduling'
+      description: 'In-house or third-party inspections can be arranged at any of the seven gates, with your inspection plan applied as the acceptance basis.'
+      icon: tabler:calendar-clock
+      link: /factory/quality-inspection
+      link_label: 'Inspection standards & QMS downloads'
+    - title: 'Pre-Shipment Briefing Template'
+      description: 'The briefing template inspectors use to announce, plan and report a pre-shipment inspection at our facility.'
+      icon: tabler:file-report
+      link: https://assets.vectoflare.com/site/downloads/Third_Party_Inspection_Brief_Template.pdf
+      link_label: 'Download briefing template (PDF)'
+    - title: 'PSI Checklist'
+      description: 'The pre-shipment checklist used on the floor — kit completeness, barcode grade, markings and drop-safety.'
+      icon: tabler:clipboard-check
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_SUP_Pre_Shipment_Inspection_Checklist.pdf
+      link_label: 'Download PSI checklist (PDF)'
+    - title: 'Full Quality Documentation Pack'
+      description: 'One dossier covering the complete documentation system — QIP, gate records, traceability and NCR control.'
+      icon: tabler:books
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_COMPLETE_SUP_QUALITY_DOSSIER.pdf
+      link_label: 'Download documentation pack (PDF)'
+    - title: 'OEM Project Feasibility & Quality Guide'
+      description: 'How a project moves from inquiry to approved golden sample — the engineering and quality steps before mass production.'
+      icon: tabler:route
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_OEM_PROJECT_FEASIBILITY_AND_QUALITY_GUIDE.pdf
+      link_label: 'Download project guide (PDF)'
+content_certifications:
+  tagline: Certifications & Standards
+  title: 'Certified Quality, Globally Recognized'
+  subtitle: 'Certifications are only as valuable as what they cover. Below is the certification scope, the certificate holder, and how to verify or request the documents for your project.'
+  items:
+    - title: 'CE Marking'
+      description: 'Standard SUP and boat models carry CE marking per Directive 2013/53/EU for recreational craft. Custom models are CE certified through our established process for your configuration. Certificate numbers and test reports available on request.'
+      icon: tabler:certificate
+    - title: 'ISO 9001:2015'
+      description: 'Quality management system certified to ISO 9001:2015, covering design, manufacturing, and distribution of inflatable watercraft and marine equipment. Certification scope and audit report available on request.'
+      icon: tabler:clipboard-check
+    - title: 'BSCI Social Compliance'
+      description: 'BSCI (Business Social Compliance Initiative) audited, covering working conditions and factory compliance. Audit report available on request.'
+      icon: tabler:heart-handshake
+    - title: 'REACH Material Compliance'
+      description: 'Materials comply with EU REACH regulation for chemical safety. Material declarations are provided with production documentation for each shipment.'
+      icon: tabler:flask
+    - title: 'RoHS Compliance'
+      description: 'Restricted-hazardous-substance compliance documented per RoHS for applicable components and materials.'
+      icon: tabler:flame
+    - title: 'Material Testing'
+      description: 'Fabrics are tested for tensile strength, tear resistance, UV degradation, and cold-crack performance. Every production batch is sampled and verified to the published test protocol.'
+      icon: tabler:test-pipe
+faqs:
+  tagline: FAQ
+  title: Frequently Asked Questions About Our Quality System
+  items:
+    - q: 'Can I download the actual inspection reports?'
+      a: 'Yes. The seven bilingual report dossiers on this page — QIP, IQC, IPQC/FAI, air-tightness, FQC, PSI and shipment release — are real controlled records with the confidential fields removed. They show the exact structure, methods and acceptance criteria used on every order.'
+    - q: 'How do the seven gates map to my project?'
+      a: 'Each project gets a Quality Inspection Plan (QIP) that defines the gates applicable to your product and market, the inspection scope at each gate and the records you will receive. Download the QIP sample on this page to see the structure.'
+    - q: 'Are these inspection record samples real?'
+      a: 'Yes. The samples follow our actual controlled record structure — document header, inspection checklist, acceptance criteria, method, results, inspector role and release disposition. All identifying values are replaced with demonstration values (DEMO-* codes), so no customer, artwork, order or pricing data is exposed.'
+    - q: 'Why are the samples anonymized?'
+      a: 'Buyer confidentiality comes first. Customer names, artwork, order details, supplier information and pricing are protected by design. Anonymization lets any prospective buyer verify our record structure and traceability without exposing another client\u2019s business.'
+    - q: 'Can we receive full inspection reports for our project?'
+      a: 'Yes. For approved projects we share the quality documentation applicable to your order — quality inspection plan, incoming, in-process, air-tightness, final and packing inspection reports, and shipment release authorization — linked to your batch traceability. Sensitive commercial data stays under NDA as agreed.'
+    - q: 'What does a batch-level inspection record contain?'
+      a: 'Each record links the production batch to the applicable specification or drawing revision, records every inspection item against its acceptance criteria with the method and tool used, and closes with the inspector role, result status and the release disposition signed off by quality.'
+evidence_review:
+  tagline: 'Evidence & Verification'
+  title: 'VERIFIED SPECIFICATIONS'
+  body: 'All manufacturing claims on this page are verified by our Manufacturing Engineering Team at the Laixi, Qingdao plant. Certificates, QC inspection records, pressure & structural test reports, and batch traceability records are available on request. Specifications last verified 2026-08.'
+
+cta:
+  title: 'Need Quality Requirements for Your SUP Project?'
+  subtitle: 'Share your product category, target market, estimated quantity and any inspection, documentation or packing requirements. We will review the applicable project inputs and advise the next step for sample development or production planning. NDA discussion is available before sharing non-public specifications, artwork or quality requirements.'
+  actions:
+    - variant: primary
+      text: Request a Project Quality Review
+      href: /contact#quality-inquiry
+    - text: Visit our quality inspection lab
+      href: /randdcenter/quality-inspection-lab
+    - text: Inspection standards & QMS downloads
+      href: /factory/quality-inspection
+    - text: Non-conforming product control standard
+      href: /factory/non-conforming-control

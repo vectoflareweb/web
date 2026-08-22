@@ -1,0 +1,111 @@
+meta:
+  title: 'Conocimiento — Guías de SUP y embarcaciones | {SITE}'
+  description: 'Guías sobre SUP hinchables, materiales, selección de embarcaciones y análisis del sector para marcas y profesionales.'
+  keywords:
+    - 'conocimiento sup'
+    - 'guía sup hinchable'
+    - 'materiales paddle board'
+    - 'análisis industria sup'
+  dateModified: '2026-08'
+hero:
+  tagline: 'Gráfico de conocimiento'
+  title: 'Conocimiento para explorar el agua'
+  subtitle: |
+    Una base de conocimiento estructurada que cubre la tecnología del SUP hinchable,
+    la seguridad en el agua, la ingeniería de embarcaciones y la planificación de aventuras.
+  taglineSection: 'Explora. Aprende. Navega con confianza.'
+
+clusters:
+  tagline: 'Grupos de conocimiento'
+  title: 'Explora por tema'
+  subtitle: 'Análisis en profundidad de la tecnología, la seguridad y las habilidades que hay detrás de cada producto vectoflare.'
+  items:
+    - title: 'Guías de compra de SUP'
+      description: 'Desde elegir tu primera tabla hasta técnicas avanzadas de travesía: todo sobre el paddle surf.'
+      icon: 'tabler:lifebuoy'
+      topics:
+        - 'Cómo elegir tu primer SUP hinchable'
+        - 'Guía de tallas y capacidad de peso del SUP'
+        - 'Mejor SUP para principiantes, travesías, yoga y competición'
+        - 'Errores de compra de SUP que debes evitar'
+        - 'Comparativa: hinchable frente a tabla rígida'
+    - title: 'Ingeniería y tecnología del SUP'
+      description: 'Guías técnicas sobre tablas SUP hinchables: materiales, métodos de construcción y procesos de fabricación.'
+      icon: 'tabler:microscope'
+      topics:
+        - 'Tecnología drop-stitch en profundidad'
+        - 'Especificaciones del PVC de grado militar'
+        - 'Laminación por fusión frente a unión adhesiva'
+        - 'Tecnología de espuma EVA y métodos de arte'
+        - 'Tipos de válvulas y sistemas de quillas para SUP'
+    - title: 'Seguridad y mantenimiento del SUP'
+      description: 'Conocimientos de seguridad esenciales para cada paddler: desde la elección del chaleco hasta la lectura del clima y el cuidado y reparación de la tabla.'
+      icon: 'tabler:shield'
+      topics:
+        - 'Lista de seguridad para SUP y requisitos de chalecos'
+        - 'Seguridad multicámara en aguas remotas'
+        - 'Guía de PSI de inflado del SUP'
+        - 'Almacenamiento y cuidado invernal de la tabla'
+        - 'Técnicas de reparación de hinchables'
+    - title: 'Habilidades y técnicas de SUP'
+      description: 'Técnicas de paleo, habilidades de travesía y entrenamiento físico para todos los niveles.'
+      icon: 'tabler:waves'
+      topics:
+        - 'Técnicas de paleo para principiantes'
+        - 'Dominio de la brazada intermedia'
+        - 'Planificación de travesías y expediciones'
+        - 'Entrenamiento de fitness y competición en SUP'
+        - 'Habilidades en aguas bravas y ríos'
+    - title: 'Estilo de vida y usos especiales del SUP'
+      description: 'Actividades especializadas de SUP: yoga, pesca, perros, familias y consejos de viaje.'
+      icon: 'tabler:heart'
+      topics:
+        - 'Yoga y meditación sobre el agua'
+        - 'Pesca desde un SUP hinchable'
+        - 'Paddle surf con perros y niños'
+        - 'Viajar con tu SUP en avión y coche'
+        - 'Accesorios y equipo esencial de SUP'
+    - title: 'Comparativas y referencias de SUP'
+      description: 'Comparativas lado a lado para ayudarte a tomar decisiones informadas.'
+      icon: 'tabler:chart-bar'
+      topics:
+        - 'SUP frente a kayak: ¿cuál te conviene?'
+        - 'Comparativa de materiales: PVC frente a Hypalon'
+        - 'Seguridad de una cámara frente a multicámara'
+        - 'Materiales de tablas SUP explicados'
+        - 'Impresión UV frente a arte en bloque EVA'
+
+featured_guides:
+  tagline: 'Guías destacadas'
+  title: 'Los recursos de conocimiento más populares'
+  items:
+    - title: 'Nociones de SUP'
+      href: '/es/knowledge'
+    - title: 'Tabla hinchable vs. rígida'
+      href: '/es/inflatable-vs-hardboard'
+    - title: 'Guía de seguridad en el agua'
+      href: '/es/guides/safety-tips'
+    - title: 'Referencia de materiales'
+      href: '/es/knowledge'
+    - title: 'Guía de compra de SUP'
+      href: '/es/knowledge'
+    - title: 'Guía de tallas de SUP'
+      href: '/es/size-guide'
+    - title: 'Centro técnico de SUP'
+      href: '/es/technology'
+    - title: 'Mantenimiento del SUP'
+      href: '/es/knowledge'
+    - title: 'Guía de travesías'
+      href: '/es/products/touring'
+    - title: 'Técnicas de paleo'
+      href: '/es/knowledge'
+
+cta:
+  title: 'Empieza a explorar'
+  subtitle: 'Sumérgete en nuestra base de conocimiento y obtén la información que necesitas para tu próxima aventura en el agua.'
+  actions:
+    - variant: primary
+      text: 'Ver todas las guías'
+      href: '/es/knowledge'
+    - text: 'Explorar el gráfico de conocimiento'
+      href: '/es/knowledge'

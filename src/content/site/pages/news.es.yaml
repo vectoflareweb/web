@@ -1,0 +1,14 @@
+meta:
+  title: 'Noticias — Fabricante de SUP y novedades náuticas | {SITE}'
+  description: 'Últimas noticias de Vectoflare: novedades de la fábrica, nuevos modelos de SUP hinchable, certificaciones y anuncios del mundo náutico.'
+  keywords:
+    - 'noticias fabricante de sup'
+    - 'novedades de Vectoflare'
+    - 'anuncios de sup hinchable'
+    - 'noticias de la industria náutica'
+hero_text:
+  tagline: ''
+  title: Noticias
+  subtitle: Lo último de Vectoflare —lanzamientos de producto, novedades de la empresa, guías e historias del agua
+news_list:
+  limit: 100

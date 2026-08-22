@@ -1,0 +1,49 @@
+---
+title: "品牌与元数据"
+---
+
+把站名、标题、社交预览图和 logo 换成你自己的产品。
+
+> **fork 后你要改哪:** 站名和品牌字符串在 `src/product/brand-constants.ts`;站标识在
+> `src/config/site.ts`(SITE_ID/SITE_NAME/SITE_DOMAIN);OG 预览图和 logo 在 `public/`;
+> 各页 canonical/OG 的 origin 由 `BETTER_AUTH_URL` 决定。
+
+## 站名与品牌
+
+站内显示的产品名来自 i18n 字典的 `common.appName`(现在由
+`src/product/dictionary/*-ui.ts` + `*-product.ts` 合并而成)。
+
+品牌字符串集中在 `src/product/brand-constants.ts`:
+- `PRODUCT_TAGLINE` — 全站 tagline
+- `PRODUCT_DESCRIPTION` — 全站 description
+- `PRODUCT_BOILERPLATE` — RSS/LLM 品牌摘要
+- `PRODUCT_BUILD_LINE` — JSON-LD 联系页描述
+- `PRODUCT_OG_IMAGE_FILENAME` — OG/hero 图片文件名
+
+这些常量被 `src/config/site.ts` 和 `src/config/branding.ts` 重新导出,
+框架代码统一从 `@/config` 读取。
+
+<Callout type="warn">
+UI 字典(`en-ui.ts`/`es-ui.ts`)与产品字典(`en-product.ts`/`es-product.ts`)结构必须
+对齐。改名时**四个文件都要改**。另外产品字典里可能还有品牌名引用,一并替换。
+</Callout>
+
+## 页面标题与描述
+
+- **全站默认** `<title>` / `og:title` / description 在 `src/routes/__root.tsx` 的 `head()`
+  里,改成你的产品。
+- **按页** 的 canonical + hreflang + OG 由 `localeHead`(`src/features/seo/seo.ts`)统一产出,
+  各路由的 loader 传入自己的 `title` / `description`。
+
+## 社交预览图与 logo
+
+- OG 预览图由 `BRAND_OG_IMAGE`(`src/config/branding.ts`)定义,路径从
+  `PRODUCT_OG_IMAGE_FILENAME` + `SITE_DOMAIN` 拼出。换图直接改 `brand-constants.ts`
+  里的文件名——可换成自己的产品照片或 `/logo512.png`(此时记得保留同源路径)。
+- 一并替换 `public/logo192.png`、`public/favicon.ico`,并更新 `public/manifest.json` 里的
+  名称与图标。
+
+<Callout type="info">
+`og:url` / canonical 的域名来自 `BETTER_AUTH_URL`。生产务必设成真实域名,否则社交分享和 SEO
+链接会指错(见 [部署](/docs/getting-started/deploy) 与 [国际化与 SEO](/docs/features/i18n))。
+</Callout>

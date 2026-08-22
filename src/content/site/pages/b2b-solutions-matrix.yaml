@@ -1,0 +1,134 @@
+meta:
+  title: 'B2B Client Solutions Matrix | {SITE}'
+  description: 'Complete Vectoflare B2B client solutions matrix covering 24 customer types — from outdoor startups to marine conservation institutions.'
+  dateModified: '2026-08'
+
+hero:
+  tagline: B2B Client Solutions
+  title: '24 B2B Solutions Matched to Your Business'
+  subtitle: 'From startup founders to global distributors — find the exact Vectoflare solution designed for your business model, industry, and goals.'
+  image:
+    src: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-factory-aerial-1.webp
+    alt: Vectoflare factory and manufacturing facility
+
+answer:
+  label: 'Straight answer'
+  text: 'One factory serves every B2B route: OEM/ODM manufacturing with project-confirmed MOQ (sample 1–2 units, pilot 20–50, standard volume 90–100+ per 150 m roll; co-branding from 5–10 units), private label on proven platforms, wholesale distribution and fleet programs for resorts, clubs and schools. Every customer type maps to a specific solution set — samples in 7–12 days, production 25–35 days after PO and deposit.'
+  verified: '2026-08'
+
+solutions:
+  title: Client Solutions Matrix
+  subtitle: 'Every customer type, their core need, and the Vectoflare solution page designed for them.'
+  items:
+    - clientType: Outdoor Startup Founder
+      need: Brand Creation
+      solutionPage: Build Your SUP Brand
+      link: /solutions/private-label-sup
+    - clientType: Outdoor Brand Manager
+      need: Outdoor Brand Expansion Into Water Sports
+      solutionPage: Expand Outdoor Brand Into Water Sports
+      link: /solutions/private-label-sup
+    - clientType: Surf Shop Owner
+      need: Surf Business Upgrade
+      solutionPage: Bring Inflatable Technology Into Surf Business
+      link: /products/surf
+    - clientType: Amazon Seller
+      need: E-commerce Growth
+      solutionPage: Product Differentiation & Fast Supply
+      link: /solutions/private-label-sup
+    - clientType: Fishing Gear Brand
+      need: Fishing SUP
+      solutionPage: Create Your Fishing SUP Brand
+      link: /products/fishing
+    - clientType: Yoga & Wellness Brand
+      need: Wellness Water Products
+      solutionPage: SUP Yoga Equipment Solutions
+      link: /products/yoga
+    - clientType: Creator Brand
+      need: Influencer Brand
+      solutionPage: Creator Edition SUP Startup
+      link: /solutions/private-label-sup
+    - clientType: Paddle Club Founder
+      need: Club Fleet
+      solutionPage: Commercial SUP Fleet
+      link: /solutions/club-sup
+    - clientType: Rental Business Owner
+      need: Rental Operations
+      solutionPage: Durable Rental Fleet Solution
+      link: /solutions/rental-operators
+    - clientType: Resort Activity Manager
+      need: Hotel Experience
+      solutionPage: Resort Water Activity Package
+      link: /solutions/resort-sup
+    - clientType: Water Sports Academy
+      need: Training & Education
+      solutionPage: SUP Academy Equipment Program
+      link: /solutions/school-sup
+    - clientType: Cruise & Yacht Company
+      need: Yacht Experience
+      solutionPage: Luxury Portable SUP Package
+      link: /product-development
+    - clientType: Outdoor Retail Buyer
+      need: Retail Channel
+      solutionPage: Retail Private Label Program
+      link: /solutions/retail-partners
+    - clientType: Distributor & Importer
+      need: Regional Distribution
+      solutionPage: Regional OEM & Supply Chain Partner
+      link: /solutions/distributors
+    - clientType: Corporate Project Buyer
+      need: Corporate Events
+      solutionPage: Corporate SUP Event Package
+      link: /contact
+    - clientType: Water Sports Brand Manager
+      need: Water Sports Brand Expansion
+      solutionPage: Expand Your Water Sports Portfolio
+      link: /solutions/private-label-sup
+    - clientType: Pet Adventure Brand Owner
+      need: Pet Outdoor
+      solutionPage: Pet-Friendly Paddle Board Program
+      link: /product-development
+    - clientType: Beach Recreation Operator
+      need: Beach Entertainment
+      solutionPage: Complete Beach Activity Equipment Solutions
+      link: /solutions/rental-operators
+    - clientType: Water Park Developer
+      need: Theme Entertainment
+      solutionPage: Commercial Water Park SUP Fleet
+      link: /solutions/resort-sup
+    - clientType: Private Island & Luxury Club Owner
+      need: High-End Lifestyle
+      solutionPage: Premium Custom SUP Collection
+      link: /product-development
+    - clientType: Tourism Board & Public Park Operator
+      need: Public Tourism Projects
+      solutionPage: Destination Water Sports Package
+      link: /solutions/rental-operators
+    - clientType: Kids Adventure & Summer Camp Operator
+      need: Youth Education
+      solutionPage: Kids Exploration SUP Program
+      link: /solutions/school-sup
+    - clientType: Water Rescue & Safety Organization
+      need: Professional Rescue
+      solutionPage: Professional Water Rescue SUP System
+      link: /product-development
+    - clientType: Marine Conservation & Research Institution
+      need: Environmental Research
+      solutionPage: Eco Research & Monitoring SUP Platform
+      link: /product-development
+
+cta:
+  title: 'Not sure which solution fits your business?'
+  subtitle: 'Describe your project to our B2B team and we will recommend the right configuration and pricing.'
+  actions:
+    - variant: primary
+      text: Talk to Our B2B Team
+      href: /contact?subject=b2b-solutions
+    - variant: secondary
+      text: Download Catalog
+      href: /products
+
+content_html: |
+  <div class="mx-auto max-w-3xl space-y-4 rounded-2xl border bg-card p-6 text-[14.5px] leading-relaxed text-fg-2">
+    <p>Every route on this matrix starts with the same two things: our <a href="/oem-manufacturing">OEM/ODM manufacturing program</a> and the <a href="/factory">factory behind it</a> — one 12,500 m&sup2; plant, one set of quality standards, every channel served.</p>
+  </div>

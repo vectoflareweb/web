@@ -1,0 +1,92 @@
+---
+title: 项目架构
+description: 了解本项目的目录结构与核心设计哲学。
+---
+
+本项目采用 **5 层架构**设计，产品层与框架层完全解耦。前端使用 **TanStack Start**（基于文件的路由），后端依赖 **Cloudflare Workers** 边缘节点，并使用垂直特性的项目结构。
+
+## 五层架构
+
+| 层 | 目录 | 职责 |
+|---|---|---|
+| **Product** | `src/product/` | 品牌字符串、产品数据、AI 提示词、字典 |
+| **Site Configuration** | `src/config/` | SITE_ID、域名、locale、功能开关、重定向 |
+| **Website Foundation** | `src/features/` + `src/routes/` | 认证、搜索、AI 聊天、SEO、询盘、管理、存储 |
+| **Cloudflare Platform** | D1 + KV + R2 + Vectorize + Workers AI | 运行时基础设施 |
+| **Infrastructure** | GitHub Actions CI/CD + CDN | 部署流水线 |
+
+框架代码从不直接引用品牌数据——统一从 `@/config/` 读取（底层重新导出自 `@/product/`）。
+要部署新产品，只需替换 Product 层和 Config 层。
+
+## 目录结构速览
+
+<Files>
+  <Folder name="src" defaultOpen>
+    <Folder name="product" defaultOpen>
+      <File name="brand-constants.ts - 品牌字符串(tagline, description, boilerplate)" />
+      <File name="ai-content.ts - AI/LLM 内容(提示词, 语料, FAQ)" />
+      <File name="content.ts - 页面板块内容(hero, products, FAQ, CTA 等)" />
+      <File name="dictionary/ - UI + 产品字典(en-ui, en-product, es-*)" />
+      <File name="asset-map.ts, route-registry.ts, edge-redirects.ts" />
+      <File name="entity-data.ts, product-jsonld.ts, guide-content.ts" />
+      <File name="facts.ts, site-config.ts, knowledge.ts, projects.ts" />
+      <File name="series-pages.ts, solution-pages.ts, procurement.ts" />
+      <File name="llms-content.ts, hub-pages.ts, geo/*.json" />
+    </Folder>
+    <Folder name="config" defaultOpen>
+      <File name="site.ts - SITE_ID, SITE_NAME, SITE_DOMAIN" />
+      <File name="branding.ts - logo, social, contact(多从 product 层重导出)" />
+      <File name="locales.ts - SUPPORTED_LOCALES(22), ACTIVE_LOCALES" />
+      <File name="navigation.ts - LEGACY_REDIRECTS, GONE_PATHS" />
+      <File name="features.ts - 功能开关(auth, search, ai, inquiry...)" />
+      <File name="deployment.ts - CF 资源命名(全从 SITE_ID 派生)" />
+    </Folder>
+    <Folder name="features" defaultOpen>
+      <Folder name="auth - 认证模块" />
+      <Folder name="feedback - 反馈模块" />
+      <Folder name="site/ - 重导出桩 → @/product/(向后兼容)" />
+      <Folder name="..." />
+    </Folder>
+    <Folder name="components">
+      <File name="ui/ - Radix/Shadcn 基础组件" />
+      <File name="marketing/ - 营销组件(hero, sections, site-nav, footer)" />
+      <File name="app/ - 业务相关的通用组件" />
+    </Folder>
+    <Folder name="content" defaultOpen>
+      <File name="site/ - 产品内容(pages, products, news, technology, case-use)" />
+      <File name="docs/ - Fumadocs 文档源文件" />
+    </Folder>
+    <Folder name="db">
+      <File name="client.ts - D1 & Drizzle 客户端" />
+      <File name="schema.ts - 全局 Schema 聚合" />
+    </Folder>
+    <Folder name="routes" defaultOpen>
+      <Folder name="api/ - API 路由" />
+      <Folder name="{-$locale}/ - 页面路由" />
+      <File name="__root.tsx - 根路由组件" />
+    </Folder>
+  </Folder>
+</Files>
+
+## 设计哲学
+
+### 1. 产品层与框架层分离
+品牌数据集中在 `src/product/`，框架代码通过 `@/config/` 读取。部署新产品时,
+只需替换 Product 层和 Config 层——框架代码无需修改。
+
+### 2. 垂直特性切片 (`src/features/*`)
+我们不推荐按照文件类型（如全部的 actions 放一个文件夹，全部的 components 放另一个）来组织代码，而是按照**业务功能 (Feature)** 来组织。
+比如 `src/features/feedback/` 目录下会包含与反馈相关的：
+- 数据库 Schema (`feedback.schema.ts`)
+- 服务端操作 (`feedback.server.ts`)
+- 前端组件 (`FeedbackForm.tsx`)
+
+这样修改反馈逻辑时，你只需要在这个目录中工作，实现了高内聚低耦合。
+
+### 3. 文件路由 (`src/routes/*`)
+我们使用 **TanStack Router** 进行基于文件的路由映射。
+- `src/routes/api/*` 用于定义供外部调用的标准 RESTful API 接口。
+- 绝大多数页面被放置在 `{-$locale}/` 组内，以便开箱即用支持多语言。
+
+### 4. 环境隔离 (`@/lib/env`)
+所有环境变量的读取**必须**通过 `@/lib/env` 进行。我们通过 Zod 校验了环境变量的完整性，这样在部署出错时能第一时间获得报错，而不是在运行时崩溃。

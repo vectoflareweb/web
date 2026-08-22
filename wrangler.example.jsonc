@@ -1,0 +1,175 @@
+/**
+ * Template Wrangler config — COMMITTED to git as the reference.
+ *
+ * On first setup, copy this to `wrangler.jsonc` (which is git-ignored) and fill
+ * in your own values:
+ *   cp wrangler.example.jsonc wrangler.jsonc
+ *
+ * Placeholders to replace in `wrangler.jsonc` after creating your resources:
+ *   - name                                 (your worker name, e.g. "myproduct")
+ *   - env.{staging,production}.name         (e.g. "myproduct-staging", "myproduct-production")
+ *   - d1_databases[].database_name          (e.g. "myproduct-db")
+ *   - d1_databases[].database_id            (wrangler d1 create ...)
+ *   - r2_buckets[].bucket_name              (e.g. "myproduct-files")
+ *   - kv_namespaces[].id                    (wrangler kv namespace create CACHE --env ...)
+ *   - vectorize[].index_name                (e.g. "myproduct-knowledge")
+ *   - optionally add env.production.routes for a custom domain
+ *
+ * All resource names follow the convention: {siteId}-{resource}-{env}
+ * where siteId comes from src/config/site.ts SITE_ID.
+ * gen-wrangler.mjs patches the production block during CI.
+ *
+ * For more details on how to configure Wrangler, refer to:
+ * https://developers.cloudflare.com/workers/wrangler/configuration/
+ */
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "myproduct",
+	"compatibility_date": "2026-05-30",
+	"compatibility_flags": [
+		"nodejs_compat"
+	],
+	"main": "./src/worker.ts",
+	"observability": {
+		"enabled": true
+	},
+	"upload_source_maps": true,
+	"triggers": {
+		"crons": [
+			"0 3 * * *",
+			"*/5 * * * *"
+		]
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "myproduct-db",
+			"database_id": "00000000-0000-0000-0000-000000000000",
+			"migrations_dir": "drizzle"
+		}
+	],
+	"r2_buckets": [
+		{
+			"binding": "BUCKET",
+			"bucket_name": "myproduct-files"
+		}
+	],
+	"kv_namespaces": [
+		{
+			"binding": "CACHE",
+			"id": "00000000000000000000000000000000"
+		}
+	],
+	// Workers AI + Vectorize — AI sales assistant (POST /api/ask).
+	// Free-tier limits: 10,000 neurons/day, 30M query-dims/month Vectorize.
+	// Daily reindex uses ~774 neurons; per-query ~14 neurons; daily cap of
+	// 500 AI queries = ~7,774 neurons/day (safe margin under 10,000).
+	// When bindings are absent (local dev), ask() falls back to FAQ keyword search.
+	// Setup: `wrangler vectorize create myproduct-knowledge --dimensions=1024 --metric=cosine`
+	//         `wrangler secret put REINDEX_TOKEN`
+	"ai": {
+		"binding": "AI"
+	},
+	"vectorize": [
+		{
+			"binding": "VECTORIZE",
+			"index_name": "myproduct-knowledge"
+		}
+	],
+	"vars": {
+		"BETTER_AUTH_SECRET": "",
+		"BETTER_AUTH_URL": "",
+		"RESEND_API_KEY": "",
+		"EMAIL_FROM": "",
+		"GOOGLE_CLIENT_ID": "",
+		"GOOGLE_CLIENT_SECRET": "",
+		"GITHUB_CLIENT_ID": "",
+		"GITHUB_CLIENT_SECRET": "",
+		"ADMIN_EMAILS": "",
+		"TURNSTILE_SITE_KEY": "",
+		"TURNSTILE_SECRET_KEY": "",
+		"CF_ANALYTICS_TOKEN": "",
+		"SENTRY_DSN": "",
+		"RESEND_AUDIENCE_ID": "",
+		"GA4_MEASUREMENT_ID": "",
+		"REINDEX_TOKEN": ""
+	},
+	"env": {
+		"staging": {
+			"name": "myproduct-staging",
+			"triggers": {
+				"crons": [
+					"0 3 * * *",
+					"*/5 * * * *"
+				]
+			},
+			"d1_databases": [
+				{
+					"binding": "DB",
+					"database_name": "myproduct-db-staging",
+					"database_id": "00000000-0000-0000-0000-000000000000",
+					"migrations_dir": "drizzle"
+				}
+			],
+			"r2_buckets": [
+				{
+					"binding": "BUCKET",
+					"bucket_name": "myproduct-files-staging"
+				}
+			],
+			"kv_namespaces": [
+				{
+					"binding": "CACHE",
+					"id": "00000000000000000000000000000000"
+				}
+			],
+			"ai": {
+				"binding": "AI"
+			},
+			"vectorize": [
+				{
+					"binding": "VECTORIZE",
+					"index_name": "myproduct-knowledge-staging"
+				}
+			]
+		},
+		"production": {
+			"name": "myproduct-production",
+			"triggers": {
+				"crons": [
+					"0 3 * * *",
+					"*/5 * * * *"
+				]
+			},
+			"d1_databases": [
+				{
+					"binding": "DB",
+					"database_name": "myproduct-db-prod",
+					"database_id": "00000000-0000-0000-0000-000000000000",
+					"migrations_dir": "drizzle"
+				}
+			],
+			"r2_buckets": [
+				{
+					"binding": "BUCKET",
+					"bucket_name": "myproduct-files-prod"
+				}
+			],
+			"kv_namespaces": [
+				{
+					"binding": "CACHE",
+					"id": "00000000000000000000000000000000"
+				}
+			],
+			"ai": {
+				"binding": "AI"
+			},
+			"vectorize": [
+				{
+					"binding": "VECTORIZE",
+					"index_name": "myproduct-knowledge-prod"
+				}
+			]
+		}
+	}
+}

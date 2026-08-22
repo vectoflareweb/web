@@ -1,0 +1,125 @@
+﻿meta:
+  title: 'Guía de Onboarding OEM — Proceso Paso a Paso desde el Primer Contacto hasta la Producción | Vectoflare'
+  description: 'Guía de onboarding OEM: NDA, factibilidad, muestras, aprobación, preproducción, QC y envío. Proceso paso a paso con cronogramas.'
+  dateModified: '2026-08-20'
+  keywords:
+    - 'guía de onboarding OEM'
+    - 'proceso de fabricación de SUP'
+    - 'onboarding de comprador OEM'
+    - 'proceso de fábrica de SUP'
+    - 'pasos para pedido SUP personalizado'
+    - 'proceso de muestra OEM'
+    - 'cronograma de producción SUP'
+
+hero:
+  tagline: 'Onboarding de Comprador OEM'
+  title: 'Tu Primer Pedido de SUP, Paso a Paso'
+  subtitle: 'Desde el primer contacto hasta las tablas entregadas, el proceso de onboarding OEM en Vectoflare atraviesa siete puertas definidas — cada una con un cronograma claro, un entregable documentado y un punto de control de aprobación/rechazo. Sin ambigüedad, sin pasos ocultos, sin sorpresas después del depósito.'
+  actions:
+    - variant: primary
+      text: Inicia Tu Brief de Proyecto
+      href: /es/contact#project-brief
+    - text: Compara las rutas OEM, ODM y Private Label
+      href: /es/oem-odm-private-label-comparison
+
+answer:
+  label: 'Respuesta directa'
+  text: 'Un onboarding OEM típico toma 2–4 semanas para la aprobación de muestras y 6–8 semanas para la primera serie de producción desde PO confirmado. Empiezas enviando un brief de proyecto (especificaciones de tabla, volumen, necesidades de cumplimiento). Respondemos en un día hábil, ofrecemos un NDA antes de que compartas detalles de propiedad, y producimos 1–2 muestras físicas en 7–12 días para tu revisión y aprobación. Una vez congelada la muestra, la planificación de producción y la fabricación siguen con puertas de QC fijas en cada etapa. Cada paso está documentado y es trazable.'
+  verified: '2026-08'
+
+process_steps:
+  tagline: Las Siete Puertas
+  title: 'Flujo de Onboarding — Siete Puertas desde el Brief hasta la Entrega'
+  subtitle: 'Cada puerta tiene una entrada definida, una salida definida y un cronograma que acuerdas por adelantado. Nunca avanzas past una puerta sin aprobación explícita.'
+  steps:
+    - step: 'Puerta 1'
+      title: 'Consulta Inicial y NDA (Día 0)'
+      desc: 'Envía un brief de proyecto a través de /contact con las especificaciones de tabla objetivo, volumen del pedido, requisitos de cumplimiento y cronograma. Un NDA está disponible de inmediato — antes de que compartas cualquier especificación técnica o arte de propiedad. Respuesta en un día hábil.'
+    - step: 'Puerta 2'
+      title: 'Revisión de Factibilidad y Cotización (Días 1–5)'
+      desc: 'Ingeniería revisa tu brief contra la capacidad de fabricación, disponibilidad de materiales y alcance de cumplimiento. Recibes una cotización detallada con el cálculo de MOQ, tarifas de muestra (acreditadas hacia la producción) y segmentos de plazo — no un rango aproximado, un cronograma puerta por puerta.'
+    - step: 'Puerta 3'
+      title: 'Producción de Muestras (Días 6–17)'
+      desc: '1–2 tablas físicas producidas según tu especificación: rigidez del casco, textura de almohadilla EVA, precisión de gráficos, ajuste de accesorios. Remas y evalúas la tabla antes de comprometerte con nada más. Las tarifas de muestra se acreditan a tu pedido de producción al firmar el contrato.'
+    - step: 'Puerta 4'
+      title: 'Revisión y Aprobación de Muestra (Días 18–21)'
+      desc: 'Evalúas la muestra contra tus especificaciones — calidad de navegación, fidelidad de gráficos, empaque, accesorios. Los ajustes se capturan en un BOM revisado y firma de arte. La especificación congelada se convierte en la referencia de producción para todas las series posteriores.'
+    - step: 'Puerta 5'
+      title: 'Planificación de Preproducción (Días 22–28)'
+      desc: 'Adquisición de materiales, configuración de utillaje, confirmación de empaque y reserva de cupo de producción. Todos los materiales son inspeccionados a la entrada contra el BOM congelado. Se emite un cronograma de producción con fechas de puertas de QC antes de que comience la fabricación.'
+    - step: 'Puerta 6'
+      title: 'Producción y Puertas de QC (Días 29–55)'
+      desc: 'La fabricación atraviesa el sistema de inspección de 7 etapas: inspección de material entrante, inspección de tela drop-stitch, soldadura y ensamblaje, pruebas de presión y hermeticidad (sostenimiento a 18.0 PSI, auto-rechazo por caída superior a 0.50 PSI), instalación de almohadilla EVA y accesorios, QC de gráficos y branding, y empaque y documentación final. Cada puerta tiene criterios de aprobación/rechazo y registros de trazabilidad.'
+    - step: 'Puerta 7'
+      title: 'Envío y Revisión Post-Entrega (Días 56–63)'
+      desc: 'Embalaje de grado exportación, documentación de cumplimiento (CE, ISO 9001, BSCI, REACH, RoHS) y coordinación de flete marítimo a 50+ países. Una revisión post-entrega captura lecciones aprendidas y refinamientos para el próximo ciclo de pedidos.'
+
+collaboration_modes:
+  tagline: Elige Tu Camino
+  title: 'Tres Modelos de Colaboración, Un Proceso de Onboarding'
+  subtitle: 'Cada nuevo comprador atraviesa el mismo onboarding de siete puertas — lo que cambia es el alcance de la participación de ingeniería y dónde queda la propiedad del IP.'
+  grid: 'sm:grid-cols-2 lg:grid-cols-3'
+  features:
+    - icon: O
+      icon_bg: blue
+      title: 'Fabricación OEM'
+      desc: 'Provees la especificación completa de diseño — forma del casco, construcción, gráficos, accesorios. Fabricamos según tu especificación. Tú posees todo el IP. Mejor para marcas con una línea de productos existente y geometría de tabla probada.'
+      link_label: 'Cómo funciona OEM'
+      href: /es/oem-manufacturing
+    - icon: D
+      icon_bg: green
+      title: 'Desarrollo ODM'
+      desc: 'Provees el brief — peso del rider objetivo, caso de uso, precio objetivo — y nuestro equipo de ingeniería desarrolla la tabla según tus requisitos. Plataforma adaptada con tu marca. Mejor para marcas que entran al mercado sin capacidad de diseño interna.'
+      link_label: 'Cómo funciona ODM'
+      href: /es/odm-development
+    - icon: P
+      icon_bg: purple
+      title: 'Private Label / Co-Branding'
+      desc: 'Aplica tu marca a una plataforma probada en el campo — sin etapa de ingeniería. Tu logo en proa o raíles laterales desde tan solo 5–10 unidades. Mejor para operadores y distribuidores que quieren tablas con su marca sin ciclo de desarrollo.'
+      link_label: 'Opciones de Private Label'
+      href: /es/solutions/private-label-sup
+
+checklist:
+  heading: 'Qué Preparar Antes de Tu Brief de Proyecto'
+  body: |
+    Cuanto más completo sea tu brief, más rápida y precisa será la cotización. Esto es lo que debes tener listo:
+
+    - **Especificaciones de tabla** — Largo, ancho, grosor, rango de peso del rider y uso previsto (touring, all-around, surf, pesca, yoga, etc.) objetivo. Si tienes dimensiones de tabla de referencia o un modelo competidor, inclúyelas.
+    - **Archivos de diseño** — Arte vectorial (AI, SVG o PDF) para gráficos de tabla, logo de almohadilla EVA y cualquier branding secundario. Si el arte no está listo, un mood board o imágenes de referencia son suficientes para la factibilidad inicial.
+    - **Volumen y cronograma del pedido** — Tu cantidad objetivo para el primer pedido y el calendario de temporada que necesitas cumplir. Incluso un rango aproximado ("20–50 tablas para marzo") es suficiente para confirmar factibilidad y disponibilidad de cupo.
+    - **Requisitos de cumplimiento** — Mercados objetivo (UE, Norteamérica, Australia, etc.) y cualquier requisito específico de certificación o pruebas más allá de nuestro alcance estándar (CE, ISO 9001, BSCI, REACH, RoHS).
+    - **Rango de presupuesto** — Un presupuesto indicativo por tabla o costo landed objetivo nos ayuda a recomendar la plataforma y el nivel de construcción adecuados. El precio exacto se confirma después de la revisión de ingeniería — nunca antes.
+
+    Si aún no tienes todo esto, envía lo que tengas. Nosotros guiamos el resto.
+
+evidence_review:
+  tagline: 'Evidencia y verificación'
+  title: 'ESPECIFICACIONES VERIFICADAS'
+  body: 'Todas las afirmaciones de fabricación en esta página son verificadas por nuestro equipo de ingeniería de fabricación en la planta de Laixi, Qingdao. Certificados, registros de inspección QC, informes de presión y pruebas estructurales, y registros de trazabilidad por lote están disponibles a petición. Especificaciones verificadas por última vez 2026-08.'
+
+faqs:
+  tagline: FAQ
+  title: 'Onboarding OEM — Preguntas Frecuentes'
+  items:
+    - q: '¿Cuánto tarda el proceso completo de onboarding?'
+      a: 'La aprobación de muestras típicamente toma 2–4 semanas (incluyendo producción de muestras en 7–12 días y tu período de revisión). La primera serie de producción toma 6–8 semanas desde PO confirmado y depósito. Un casco a medida añade 15–20 días de desarrollo de molde. Cada puerta tiene un cronograma fijo que acuerdas por adelantado.'
+    - q: '¿Necesito firmar un NDA antes de compartir mi diseño?'
+      a: 'Un NDA está disponible de inmediato a petición — antes de que compartas cualquier especificación técnica o arte de propiedad. Fabricamos exclusivamente bajo las marcas de nuestros clientes y nunca competimos con ellos en ningún mercado. La misma política se aplica a una muestra de 1 tabla que a un programa de contenedor.'
+    - q: '¿Cuál es el pedido mínimo para una primera serie OEM?'
+      a: 'El punto de entrada es escalonado: primero 1–2 muestras (listas en 7–12 días), un pedido de prueba o piloto de 20–50 tablas (producción en 25–35 días), y luego series de volumen estándar de 90–100+ tablas por configuración aprobada. El co-branding de lotes pequeños parte desde 5–10 unidades cuando no se necesita etapa de desarrollo. Las tarifas de muestra se acreditan a tu pedido de producción.'
+    - q: '¿Cómo se maneja la protección de IP durante el onboarding?'
+      a: 'Tus diseños y especificaciones están protegidos bajo el NDA firmado antes de que se comparta cualquier información de propiedad. Todos los archivos de arte, datos de BOM y archivos técnicos se almacenan en sistemas con control de acceso y trazabilidad de auditoría. En modo OEM, tú posees todo el IP. En modo ODM, el IP de la plataforma adaptada se comparte según acuerdo. En modo Private Label, el IP permanece con Vectoflare y tú licencias la aplicación de marca.'
+    - q: '¿Qué garantías de calidad aplican a un primer pedido?'
+      a: 'Cada tabla — muestra, prueba o volumen — pasa por el mismo sistema de inspección de 7 etapas: inspección de material entrante, inspección de tela drop-stitch, soldadura y ensamblaje, pruebas de presión y hermeticidad de 24 horas (sostenimiento a 18.0 PSI, auto-rechazo por caída superior a 0.50 PSI), instalación de almohadilla EVA y accesorios, QC de gráficos y branding, y empaque y documentación final. La calidad nunca se reduce para pedidos más pequeños.'
+
+cta:
+  title: '¿Listo para Iniciar Tu Proyecto SUP?'
+  subtitle: 'Envíanos las especificaciones de tu tabla, el volumen objetivo y el cronograma. Confirmaremos la factibilidad, produciremos muestras y entregaremos un cronograma de producción — puerta por puerta, con QC documentado en cada paso.'
+  actions:
+    - variant: primary
+      text: Inicia Tu Brief de Proyecto
+      href: /es/contact#project-brief
+    - text: Compara OEM, ODM y Private Label
+      href: /es/oem-odm-private-label-comparison
+    - text: Verifica la fábrica y el sistema de calidad
+      href: /es/proof-center

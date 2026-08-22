@@ -1,0 +1,164 @@
+﻿meta:
+  title: 'Fabricante OEM de SUP hinchables | Producción de paddle boards a medida'
+  description: 'Fábrica OEM de SUP hinchables: fabricamos tu diseño — revisión de ingeniería, muestras en 7–12 días, producción en 25–35 días, cumplimiento CE/ISO/BSCI.'
+  dateModified: '2026-08-16'
+  keywords:
+    - 'fabricante OEM de SUP'
+    - 'SUP OEM inflable'
+    - 'producción de SUP personalizada'
+    - 'fábrica de SUP en China'
+    - 'fábrica de paddle boards a medida'
+
+hero:
+  tagline: Fabricación OEM
+  title: 'Fabricación OEM de SUP a medida — Tu especificación, nuestra fábrica'
+  subtitle: 'Tú aportas el diseño, los planos o una plataforma probada — nosotros fabricamos a escala de contenedor. Revisión de ingeniería en un día laborable, muestras en 7–12 días y producción en 25–35 días tras confirmar el pedido y el depósito, enviada bajo tu marca.'
+
+answer:
+  label: 'Respuesta directa'
+  text: 'La producción OEM parte de tu especificación. El MOQ se confirma por configuración del proyecto y no es un número fijo: la producción de volumen estándar corre de 90–100 unidades por lote a partir de un rollo de drop-stitch de 150 m, los lotes piloto parten de 20–50 unidades sobre plataformas existentes y cada proyecto pasa por una muestra (1–2 unidades) antes del volumen. Las muestras salen en 7–12 días; la producción corre en 25–35 días tras confirmar el pedido y el depósito, más 15–20 días cuando se requiere utillaje nuevo.'
+  verified: '2026-08'
+
+features:
+  title: Capacidades OEM
+  subtitle: 'Todo lo necesario para convertir tu especificación, plano o plataforma existente en un contenedor enviado.'
+  items:
+    - title: Fabricación desde tu especificación
+      description: 'Tus planos, dimensiones, calidades de material y arte se ejecutan tal cual — nuestros ingenieros revisan la fabricabilidad antes de cotizar.'
+      icon: 'tabler:file-check'
+    - title: Adaptación de plataformas
+      description: 'Plataformas de producción probadas pueden adaptarse con tus cambios de forma, especificación de raíl, posición de válvulas y accesorios — sin desarrollo de molde completo.'
+      icon: 'tabler:arrows-diff'
+    - title: Moldes a medida
+      description: 'Nuevas formas de tabla a partir de tus planos o CAD — diseño e ingeniería de moldes en casa. El utillaje añade 15–20 días al plazo del proyecto.'
+      icon: 'tabler:shapes'
+    - title: Prototipo y muestra
+      description: 'Se produce y aprueba una muestra física antes de cualquier tirada, normalmente en 7–12 días, con pruebas en el agua para formas nuevas.'
+      icon: 'tabler:tools'
+    - title: Producción a escala de contenedor
+      description: 'Lotes de volumen estándar de 90–100 unidades por diseño (un rollo completo de 150 m), pilotos desde 20–50 uds. y 25–35 días de plazo tras confirmar el pedido.'
+      icon: 'tabler:package'
+    - title: Certificación CE
+      description: 'CE, ISO 9001, BSCI, REACH y RoHS — documentación de cumplimiento preparada para cada mercado al que exportas.'
+      icon: 'tabler:certificate'
+    - title: Inspección y trazabilidad
+      description: 'Prueba de retención de presión de 24 horas a 18.0 PSI con auto-rechazo por encima de 0.50 PSI de caída, lista de comprobación de 100 puntos y trazabilidad ERP de 10 años.'
+      icon: 'tabler:shield-check'
+    - title: Logística global
+      description: 'FOB Qingdao, CIF y DDP a más de 50 países, con embalaje de exportación y despacho de aduanas gestionados por nuestro equipo de logística.'
+      icon: 'tabler:world'
+
+customization:
+  tagline: Hecho a tu especificación
+  title: Puntos de especificación OEM
+  subtitle: 'Estos son los puntos de especificación que controlas en un proyecto OEM — tu documento de especificación es el contrato de producción:'
+  items:
+    - 'Dimensiones de la tabla — largo, ancho, grosor, rocker y volumen según tus planos o tus riders objetivo'
+    - 'Estructura del material — número y calidad de capas de PVC, densidad del drop-stitch, rigidizadores y refuerzos de raíl'
+    - 'Gráfica y colores — tu arte aplicado con paletas ilimitadas, o soporte de nuestro equipo de diseño interno'
+    - 'Plataforma de agarre EVA — deck pads cortados a medida, logotipos y colores en cada tabla'
+    - 'Asas y anillas D — posición, cantidad y especificación de herrajes según tu uso'
+    - 'Sistemas de quillas — configuraciones de una, dos o tres quillas y cajas de quilla a tu especificación'
+    - 'Palas, bombas, correas y accesorios — tu paquete, tu marca'
+    - 'Embalaje y presentación retail — cajas retail, embalaje marítimo y displays para punto de venta bajo tu marca'
+    - 'Etiquetas y marcas de cumplimiento — etiquetas de serie, logotipos y documentación por mercado preparada para tu región de exportación'
+
+faq_section:
+  tagline: FAQ
+  title: Preguntas sobre fabricación OEM
+  questions:
+    - q: '¿Cómo inicio un proyecto OEM con mi propio diseño?'
+      a: 'Envía tus planos, una tabla de referencia o una especificación escrita. Nuestra revisión de ingeniería confirma la fabricabilidad y devuelve un presupuesto en un día laborable — es nuestro compromiso estándar, y se firma un NDA antes de cualquier intercambio de archivos cuando sea necesario.'
+    - q: '¿Cuál es el MOQ para un SUP OEM hinchable?'
+      a: 'El MOQ se confirma por configuración del proyecto — casco y utillaje, colores y PVC, arte, embalaje y accesorios. La producción de volumen estándar corre de 90–100 unidades por lote (un rollo de drop-stitch de 150 m), y los pilotos parten de 20–50 unidades sobre plataformas existentes. Consulta la lógica completa en nuestra Guía de MOQ y branding flexible.'
+    - q: '¿Cuál es el plazo típico de un pedido OEM?'
+      a: 'La producción corre en 25–35 días desde el pedido confirmado y el depósito. El desarrollo de moldes a medida añade 15–20 días de utillaje. Las muestras de prototipo suelen enviarse en 7–12 días.'
+    - q: '¿Podéis fabricar solo a partir de mis planos?'
+      a: 'Sí. OEM construye desde tu especificación tal cual — tú eres dueño del diseño. Nuestros ingenieros revisan los planos para viabilidad de producción, señalan cualquier conflicto de especificación antes de empezar el utillaje o el corte, y la muestra aprobada se convierte en la referencia de producción.'
+    - q: '¿Proporcionáis muestras antes de la producción?'
+      a: 'Sí. Se produce y aprueba una muestra física antes de cualquier tirada, normalmente en 7–12 días, y es la referencia para todos los controles de calidad posteriores.'
+    - q: '¿Qué certificaciones tiene la fábrica?'
+      a: 'CE, ISO 9001, BSCI, REACH y RoHS. Con cada envío OEM se entrega documentación completa de cumplimiento, preparada para tus mercados objetivo.'
+    - q: '¿Cómo se controla la calidad en una tirada OEM?'
+      a: 'La producción corre bajo control de calidad multipunto — material entrante, proceso y inspección final — con prueba de retención de presión de 24 horas a 18.0 PSI (auto-rechazo por encima de 0.50 PSI de caída), lista de comprobación de 100 puntos y trazabilidad ERP de 10 años por número de serie.'
+    - q: '¿Cuáles son vuestros términos de envío?'
+      a: 'FOB Qingdao, CIF a los principales puertos globales, o DDP para socios cualificados. Enviamos a más de 50 países en los mercados de la UE, EE. UU., AU y Asia.'
+
+process:
+  title: 'El proceso OEM — De la especificación al contenedor enviado'
+  subtitle: 'Siete fases controladas dirigidas por un solo equipo de fábrica, para que cada paso desde tu primera especificación hasta el contenedor embalado quede documentado y a tiempo.'
+  steps:
+    - phase: '01'
+      title: Revisión de especificación y presupuesto
+      period: 1 día laborable
+      items:
+        - 'Comparte tus planos, especificación o tablas de referencia — nuestros ingenieros comprueban la fabricabilidad.'
+        - 'Recibes un presupuesto detallado y un plan de proyecto en un día laborable.'
+    - phase: '02'
+      title: Confirmación de ingeniería
+      period: Semana 1
+      items:
+        - 'Las dimensiones del casco, la calidad del drop-stitch, las especificaciones de PVC y la construcción del raíl se confirman contra tu documento.'
+        - 'Se cierran las decisiones de molde o plataforma — el utillaje del molde a medida empieza aquí cuando se requiere.'
+    - phase: '03'
+      title: Prototipo y muestra
+      period: 7–12 días
+      items:
+        - 'Se produce una muestra física y se envía para tu revisión — pruebas en el agua incluidas para formas nuevas.'
+        - 'La muestra (1–2 unidades) valida tu especificación antes de cualquier compromiso de volumen.'
+    - phase: '04'
+      title: Ensayos y validación
+      period: En paralelo
+      items:
+        - 'Controles de retención de aire, presión, resistencia de costuras, carga y UV por línea de producción.'
+        - 'Documentación CE, ISO 9001, BSCI, REACH y RoHS preparada para tus mercados de exportación.'
+    - phase: '05'
+      title: Aprobación y confirmación
+      period: Tras el visto bueno de la muestra
+      items:
+        - 'Apruebas la muestra y el arte; el pedido y el depósito bloquean el cupo de producción.'
+        - 'Un plan de preproducción confirma fechas, cantidades, embalaje y puerto de carga.'
+    - phase: '06'
+      title: Producción
+      period: 25–35 días
+      items:
+        - 'La producción corre bajo control de calidad multipunto — material entrante, proceso e inspección final.'
+        - 'Desde pedidos piloto (20–50 unidades) sobre plataformas existentes hasta lotes completos de 150 m (90–100+ unidades) para volumen estándar.'
+    - phase: '07'
+      title: Embalaje y envío
+      period: 1 día + tránsito
+      items:
+        - 'Embalaje de exportación con etiquetas de serie por modelo, luego FOB Qingdao, CIF o DDP a más de 50 países.'
+        - 'Documentación aduanera, seguimiento y soporte para reordenes incluidos en cada fase.'
+
+geo:
+  tagline: Con quién trabajamos
+  title: Socios OEM en toda la industria del SUP
+  sentence: 'Cada proyecto OEM en Vectoflare se asigna a un equipo que ya ha construido tablas para el mismo tipo de negocio — estos son a quienes servimos.'
+  audiences:
+    - 'Marcas de SUP'
+    - 'Empresas de outdoor y deportes acuáticos'
+    - 'Distribuidores y minoristas'
+    - 'Resorts, clubes y organizaciones'
+
+cta:
+  title: '¿Listo para producir tu línea de SUP?'
+  subtitle: 'Recibe un presupuesto OEM detallado en un día laborable — envía tu especificación o planos.'
+  actions:
+    - variant: primary
+      text: Solicitar un presupuesto OEM
+      href: /es/contact#custom-oem
+    - text: Verifica la fábrica y el sistema de calidad
+      href: /es/oem-trust-assurance
+    - text: El sistema de inspección de 7 etapas
+      href: /es/quality
+    - text: Guía de MOQ y branding flexible
+      href: /es/oem-moq-guide
+    - text: Desglose de MOQ y plazos para SUP personalizados
+      href: /es/sup-oem-moq-lead-time
+    - text: Lanza una nueva marca con un pedido de prueba
+      href: /es/new-brand-trial-order
+    - text: Comparación de Construcción SUP
+      href: /es/sup-construction-comparison
+    - text: Cumplimiento SUP por Mercado
+      href: /es/sup-compliance-by-market

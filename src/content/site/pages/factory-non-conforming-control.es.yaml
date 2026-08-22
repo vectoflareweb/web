@@ -1,0 +1,242 @@
+﻿meta:
+  title: 'No conformidades y retrabajo SUP | Fábrica OEM | Vectoflare'
+  description: 'Control de productos no conformes (ISO 9001 Cláusula 8.7): cuarentena NCR, retrabajo controlado bajo SRI, reinspección independiente, destrucción presenciada.'
+  dateModified: '2026-08-14'
+  keywords:
+    - 'control de productos no conformes'
+    - 'proceso de retrabajo y reinspección sup'
+    - 'salidas no conformes iso 9001'
+    - 'control ncr fabricación'
+    - 'certificado de destrucción sup'
+    - 'control de calidad oem sup hinchable'
+
+hero:
+  tagline: Control de productos no conformes
+  title: Proceso de aislamiento, retrabajo y reinspección de productos no conformes
+  subtitle: 'En QINGDAO VATRAD GROUP.,LTD., una tabla no conforme nunca sigue fluyendo. Cualquier producto o componente que no supere los criterios de aceptación definidos se identifica, se registra en un informe de no conformidad (NCR), se etiqueta y segrega, se evalúa su alcance y se le da una disposición al nivel de autoridad adecuado. El retrabajo permitido sigue instrucciones controladas, los artículos corregidos se reinspeccionan contra los criterios de aceptación originales — incluida la repetición completa de ensayos cuando se requiere — y el producto solo se envía tras la firma de calidad autorizada. Esta página presenta nuestro estándar controlado bajo la ISO 9001:2015 Cláusula 8.7 y la evidencia de trazabilidad que lo respalda.'
+  actions:
+    - text: Descargar SOP de control de productos no conformes (PDF)
+      variant: primary
+      href: 'https://assets.vectoflare.com/site/downloads/non-conforming-product-control-sop-iso-8-7.pdf?dl=1'
+    - text: Descargar certificado de destrucción (PDF)
+      href: 'https://assets.vectoflare.com/site/downloads/scrap-destruction-certificate-vat-qa-scrap-cert-2026.pdf?dl=1'
+    - text: Solicitar revisión de calidad
+      href: /es/contact
+
+answer:
+  label: 'Respuesta directa'
+  text: 'Los productos no conformes nunca se ocultan, se retrabajan informalmente ni se liberan sin verificación en QINGDAO VATRAD GROUP.,LTD. Toda no conformidad identificada se registra contra el producto, lote o componente afectado y se vincula a un NCR. El artículo se etiqueta (HOLD / QUARANTINE / REJECTED), se segrega físicamente y se evalúa el alcance afectado por lote, lote de material, etapa de proceso y revisión documental. La disposición se decide al nivel de autoridad que corresponde a la gravedad del defecto: los problemas menores se firman a nivel de línea; los mayores requieren una disposición de Gerente de Calidad + Ingeniero Técnico con instrucción de retrabajo controlada y reinspección independiente al 100%; y los críticos requieren una decisión del comité de revisión de materiales (MRB) con concesión escrita del cliente cuando corresponde — si no, destrucción física presenciada obligatoria. Los artículos retrabajados se reinspeccionan contra los criterios de aceptación originales, las reparaciones de estanqueidad reciben un ciclo completo nuevo de prueba de presión y la liberación del envío solo ocurre tras la firma autorizada de calidad. Los problemas repetidos o sistémicos activan acciones correctivas de causa raíz (CAPA).'
+  verified: '2026-08'
+
+stats:
+  tagline: De un vistazo
+  title: El control de no conformidades en cifras
+  stats:
+    - value: '7'
+      label: Pasos desde la identificación hasta la acción correctiva
+    - value: '100%'
+      label: Reinspección de cada tabla retrabajada por QA independiente
+    - value: '24h'
+      label: Re-ensayo completo de presión para reparaciones de estanqueidad
+    - value: '≥ 5 años'
+      label: Retención de evidencia de destrucción (bóveda SHA-256)
+
+nc_intro:
+  tagline: Control de productos no conformes
+  title: Qué ocurre cuando un producto no cumple los criterios
+  body: |
+    Los productos o componentes que no cumplen los criterios de aceptación definidos se identifican y controlan para evitar su uso no intencionado, el procesamiento posterior o su envío. Los criterios de aceptación aplicables se basan en la muestra aprobada, la especificación técnica, el arte, la lista de materiales, los requisitos de embalaje y el plan de inspección del proyecto.
+
+    Los artículos no conformes se evalúan para determinar el alcance afectado y la disposición adecuada. Según el problema, el artículo puede retenerse, retrabajarse bajo instrucciones controladas, reemplazarse, rechazarse o gestionarse mediante un proceso aprobado. Los artículos retrabajados o corregidos se reinspeccionan antes de su liberación. La liberación del envío solo se permite cuando los registros de calidad pertinentes están completos y el producto cumple los criterios de aceptación aplicables.
+
+nc_flow:
+  tagline: Bucle cerrado estándar de 7 pasos
+  title: De la identificación a la acción correctiva
+  subtitle: 'Un bucle controlado para cada no conformidad: identificar, poner en cuarentena, revisar, retrabajar o reemplazar, reinspeccionar, liberar o rechazar, mejorar.'
+  steps:
+    - step: '01'
+      title: Identificar
+      desc: 'Toda no conformidad identificada se registra contra el producto, lote o componente afectado y se evalúa contra los requisitos del proyecto aplicables. La detección puede ocurrir en el material entrante, el control en proceso, los ensayos finales, el embalaje o la inspección del cliente o de terceros.'
+    - step: '02'
+      title: Cuarentena
+      desc: 'Los artículos se identifican claramente y se colocan bajo retención o cuarentena controlada para evitar su uso no intencionado, procesamiento posterior o envío. Las etiquetas HOLD / QUARANTINE / REJECTED llevan el número NCR, SKU, lote, cantidad, descripción del defecto y fecha.'
+    - step: '03'
+      title: Revisión
+      desc: 'Se evalúan el alcance afectado y la disposición adecuada: unidad individual, lote de turno, lote completo o varios lotes — entre lotes de materiales compartidos, revisiones de arte, etapas de proceso y revisiones documentales. Se aplican contención adicional o inspección intensificada cuando se requiere.'
+    - step: '04'
+      title: Retrabajo o reemplazo
+      desc: 'El retrabajo permitido sigue instrucciones aprobadas que identifican el artículo afectado, el método, los materiales, los puntos de inspección y los requisitos de reinspección. Nunca se permiten cambios no aprobados en la especificación del producto, el arte, la configuración de accesorios o el embalaje. Los artículos de reemplazo vuelven a pasar por las compuertas de inspección aplicables.'
+    - step: '05'
+      title: Reinspección
+      desc: 'Los artículos retrabajados o corregidos se reinspeccionan contra los criterios de aceptación aplicables. La característica fallada original y cualquier característica relacionada potencialmente afectada por el retrabajo se verifican antes de la liberación — por QC independiente, y con un ciclo completo nuevo de prueba de presión de 24h para las reparaciones de estanqueidad.'
+    - step: '06'
+      title: Liberar o rechazar
+      desc: 'El producto se libera solo tras completar la reinspección requerida y que personal de calidad autorizado confirme la conformidad con los requisitos del proyecto aplicables. Los artículos que no pueden alcanzar la conformidad se rechazan, reemplazan, devuelven o reciben una disposición bajo procedimientos controlados — incluida la destrucción física presenciada.'
+    - step: '07'
+      title: Acción correctiva
+      desc: 'Las no conformidades repetidas, significativas o sistémicas se revisan para determinar la causa raíz y la acción correctiva (CAPA). Las mejoras pueden incluir actualizaciones de instrucciones de trabajo, controles de materiales, puntos de inspección, formación, gestión de proveedores o control documental.'
+
+nc_pillars:
+  tagline: Pilares de confianza del comprador
+  title: Tres controles que protegen su marca
+  subtitle: 'El proceso está diseñado en torno a las preguntas que realmente hacen los compradores internacionales: ¿se ocultarán los problemas, se descontrolará el retrabajo y se volverán a verificar las tablas reparadas?'
+  features:
+    - icon: 1
+      icon_bg: blue
+      title: Solo instrucciones controladas
+      desc: 'El retrabajo se rige estrictamente por instrucciones de retrabajo estándar (SRI) autorizadas. Las alteraciones de campo no aprobadas, el cambio de especificaciones o la modificación de arte sin autorización escrita están terminantemente prohibidos.'
+    - icon: 2
+      icon_bg: green
+      title: Reinspección independiente
+      desc: 'Las tablas retrabajadas reciben reinspección al 100% por inspectores de QA contra los criterios de aceptación originales. Las reparaciones de estanqueidad requieren un ciclo completo nuevo de prueba de presión de 24h — nunca una verificación parcial.'
+    - icon: 3
+      icon_bg: purple
+      title: Firma autorizada y trazabilidad
+      desc: 'La liberación del envío solo se permite tras la documentación NCR completa y la firma autorizada de QC, pasando el estado del lote de HOLD a RELEASED. Las desviaciones sistémicas o repetidas activan automáticamente flujos de trabajo CAPA de causa raíz.'
+
+nc_photos:
+  tagline: En el piso de fábrica
+  title: Cuarentena, retrabajo y reinspección en la práctica
+  subtitle: Fotos de nuestro taller en Qingdao muestran cómo las tablas no conformes se segregan físicamente, se retrabajan bajo instrucciones controladas y se vuelven a verificar antes de cualquier decisión de liberación.
+  features:
+    - image: https://assets.vectoflare.com/site/quality/qc-air-tightness-test-area.avif
+      alt: Tablas de SUP hinchables infladas en el área de pruebas de estanqueidad de la fábrica, monitorizadas con manómetros digitales
+      title: Puerta de reinspección
+      desc: 'Tras el retrabajo, toda tabla vuelve al área de pruebas de QC para una verificación independiente: se infla y se monitoriza con manómetros digitales contra los criterios de aceptación aprobados por proyecto — nunca una comprobación parcial.'
+    - image: https://assets.vectoflare.com/site/quality/qc-hold-quarantine-station.avif
+      alt: Hojas de control de calidad y etiquetas controladas de estado HOLD en la estación de inspección de la fábrica
+      title: Estación de retención y cuarentena
+      desc: 'Estación de inspección con hojas de control de QC y etiquetado de estado. Todo artículo que falle los criterios de aceptación se etiqueta HOLD / QUARANTINE, se registra contra un NCR y se segrega físicamente — no puede pasar al embalaje hasta completar una disposición autorizada y la reinspección obligatoria.'
+    - image: https://assets.vectoflare.com/site/quality/qc-air-tightness-rework.avif
+      alt: Técnico de QC realizando retrabajo controlado de estanqueidad al aire en un SUP hinchable en la estación de retrabajo
+      title: Estación de retrabajo controlado
+      desc: 'El retrabajo se realiza en una estación dedicada bajo una instrucción SRI aprobada: el defecto se marca, la tabla permanece en HOLD y, tras el período de curado requerido, vuelve al área de pruebas para reinspección contra los criterios de aceptación originales.'
+    - image: https://assets.vectoflare.com/site/quality/qc-workshop-inspection-demo.avif
+      alt: Demostración en el taller de los controles de calidad en la fábrica de Qingdao
+      title: Demostración de control de calidad en el taller
+      desc: 'Fotografía de demostración del taller que muestra los controles de calidad aplicados en la práctica, respaldando los registros de inspección y control de estado referenciados a lo largo de esta página.'
+
+nc_severity:
+  tagline: Gravedad del defecto y autoridad
+  title: Clasificación de gravedad y autoridad de disposición
+  subtitle: No toda no conformidad se gestiona al mismo nivel — la autoridad de disposición escala con la gravedad del defecto, desde la firma a nivel de línea hasta el comité de revisión de materiales y la concesión del cliente.
+  headers:
+    severity: Gravedad
+    examples: Ejemplos típicos
+    authority: Autoridad de disposición y control
+    control: Condición de liberación
+  rows:
+    - severity: 'Menor'
+      examples: 'Esquina de caja arrugada, desalineación leve de accesorios no críticos'
+      authority: 'Firma en sitio del líder de QC de sección + supervisor de línea, reemplazo o liberación'
+      control: 'Registrado en el NCR; sin impacto en la función del producto ni en los requisitos del cliente'
+    - severity: 'Mayor'
+      examples: 'Fuga lenta de válvula, desalineación de EVA fuera de tolerancia (>2 mm), accesorio faltante'
+      authority: 'El Gerente de Calidad + el Ingeniero Técnico emiten una instrucción de retrabajo controlada (SRI)'
+      control: 'Re-ensayo independiente al 100% de la característica fallada original y las afectadas antes de la liberación'
+    - severity: 'Crítico'
+      examples: 'Daño de la cámara drop-stitch, burbuja o grieta de raíl a alta presión, logo del cliente mal impreso o desviación de color'
+      authority: 'Decisión del comité de revisión de materiales (MRB); concesión escrita del cliente cuando corresponde'
+      control: 'Sin liberación sin concesión autorizada; si no, destrucción física presenciada obligatoria'
+
+nc_matrix:
+  tagline: Matriz de protocolo de ingeniería
+  title: Matriz de disposición de defectos y reinspección de SUP
+  subtitle: Protocolos de ingeniería estándar aplicados a las desviaciones de fabricación más comunes — los mismos parámetros cuantificados que los clientes pueden verificar durante las auditorías.
+  headers:
+    defect: Categoría de defecto
+    protocol: Protocolo de disposición controlada
+    validation: Reinspección y validación independientes
+  rows:
+    - defect: 'Fuga lenta de válvula'
+      protocol: 'Aislar la tabla. Desmontar el núcleo de válvula con herramienta de par calibrada (25 N·m), limpiar las roscas internas, sustituir la junta tórica de silicona y reapretar.'
+      validation: 'Sumergir en solución de burbujas; re-inflar a 18 PSI para un re-ensayo completo de caída de presión de 24h (ΔP ≤ 0,05 PSI).'
+    - defect: 'Burbujas de aire en la costura del raíl'
+      protocol: 'Poner en cuarentena el lote de turno. Delaminar la zona de burbujas con boquilla de asistencia térmica, limpiar la superficie con solvente, aplicar adhesivo PU de dos componentes a 5 bar de presión.'
+      validation: 'Inspección visual y táctil al 100% de la costura; prueba de presión estructural de comprobación (18,0 PSI) más retención de estanqueidad de 24h.'
+    - defect: 'Desalineación de la almohadilla EVA'
+      protocol: 'Pelado con asistencia térmica con herramienta regulada en temperatura (80°C). Re-alineación con plantilla acrílica de precisión.'
+      validation: 'Verificación de tolerancia de holgura (≤ ±1,5 mm), comprobación de simetría del patrón de rombos y ensayo de adhesión del borde al 100%.'
+    - defect: 'Error de marca / logo'
+      protocol: 'Parada inmediata de la línea de impresión. Retener todos los paneles impresos. Revisar la revisión vectorial con el cliente; cero alteraciones no aprobadas.'
+      validation: 'Comprobación de color con espectrofotómetro (ΔE ≤ 1,5); verificación visual al 100% de la alineación del texto contra el PDF vectorial maestro firmado por el cliente.'
+    - defect: 'Desajuste de embalaje / SKU faltante'
+      protocol: 'Poner en cuarentena el palé de exportación. Desembalar y realizar una comprobación BOM al 100% por artículo (bomba, aleta, correa, pala, tubo de reparación).'
+      validation: 'Validación dinámica en línea con pesadora electrónica (±30 g de variación); verificación con escáner óptico de código de barras 2D.'
+
+nc_scrap:
+  tagline: Cero fugas al mercado
+  title: Destrucción presenciada y desguace — protocolo antidivertido de cero defectos
+  body: |
+    Los socios de marca internacionales necesitan certeza de que las tablas fallidas nunca llegarán a la venta minorista secundaria, a mercados grises o a canales de comercio electrónico. Las tablas que no pueden alcanzar la conformidad se destruyen bajo un protocolo presenciado y registrado:
+
+    **1. Corte de herrajes y accesorios.** Bajo supervisión del Director de QA, una cizalla hidráulica retira todos los anillos en D de acero inoxidable 316, las cintas de asa y las hebillas de equipaje. El conjunto de válvula de inflado y la base del encaje de aleta (US-Box / aleta snap-in) se cortan en la raíz de la tabla, eliminando cualquier componente aprovechable.
+
+    **2. Corte del drop-stitch y seccionado del raíl.** El núcleo interno drop-stitch se corta transversalmente por tabla y cubierta con cortes profundos en cruz (≥ 50 cm por corte), y los raíles laterales reforzados se seccionan en al menos 4 segmentos — destruyendo permanentemente la capacidad de sellado y la flotabilidad.
+
+    **3. Bóveda de video y fotos.** La destrucción se graba como video 1080p sin cortes con primeros planos del código de barras de serie, el proceso de corte, el ranurado del núcleo y la pila final de residuos pesada. El video se somete a hash (SHA-256) y se archiva en un servidor controlado durante ≥ 5 años.
+
+    **4. Eliminación certificada de residuos.** Todos los fragmentos de PVC y drop-stitch se pesan, se registran en el libro de salida y se transportan solo por socios cualificados de reciclaje de polímeros — ningún residuo sale de la planta por otro canal.
+
+    > **Garantía de protección de marca:** QINGDAO VATRAD GROUP CO., LTD. garantiza la destrucción al 100% de las embarcaciones fuera de especificación no retrabajables. Cero segundas marcas de fábrica o tablas comprometidas entrarán jamás en la venta minorista secundaria, mercados grises o canales de comercio electrónico. El certificado de destrucción (VAT-QA-SCRAP-CERT-2026) registra el producto, el lote, la conclusión del MRB, las fotos de testigo y la doble firma del Director de QA y el Gerente de Planta.
+
+nc_downloads:
+  tagline: Documentos QMS descargables
+  title: Documentos controlados bilingües (PDF)
+  subtitle: Documentos oficiales bilingües EN/ZH de QINGDAO VATRAD GROUP.,LTD. — estructurados según la ISO 9001:2015 Cláusula 8.7 y listos para auditorías de clientes, documentos técnicos B2B y distribución controlada en planta.
+  features:
+    - icon: N
+      icon_bg: blue
+      title: SOP de control de productos no conformes (PDF)
+      desc: 'SOP bilingüe basado en la ISO 9001:2015 Cláusula 8.7: control de bucle cerrado en 8 etapas, matriz de disposición de defectos de SUP, estructura de datos NCR y compromiso de calidad con el cliente.'
+      link: 'https://assets.vectoflare.com/site/downloads/non-conforming-product-control-sop-iso-8-7.pdf?dl=1'
+      link_label: Descargar PDF
+    - icon: S
+      icon_bg: orange
+      title: Certificado de destrucción y desguace (PDF)
+      desc: 'VAT-QA-SCRAP-CERT-2026: trazabilidad de producto y lote, conclusión del MRB, protocolo de destrucción física en 4 pasos, campos de fotos de testigo y bloque de doble firma.'
+      link: 'https://assets.vectoflare.com/site/downloads/scrap-destruction-certificate-vat-qa-scrap-cert-2026.pdf?dl=1'
+      link_label: Descargar PDF
+    - icon: R
+      icon_bg: green
+      title: Gobernanza controlada de retrabajo (página)
+      desc: 'Página complementaria de las tarjetas de método de retrabajo de estanqueidad aprobadas MC-RW-01 a MC-RW-06 y el flujo de retrabajo controlado de 7 pasos.'
+      link: '/es/factory/quality-inspection'
+      link_label: Ver página
+    - icon: C
+      icon_bg: purple
+      title: Estándar de control de cambios de retrabajo (página)
+      desc: 'Control de cambios formal según ISO 9001 para parámetros de retrabajo: ECR, clasificación de riesgos, matriz de aprobación, plan de validación y salvaguardas Poka-Yoke — QMS-SOP-QC-CC-001 Rev 2.0.'
+      link: '/es/factory/quality-change-control'
+      link_label: Ver página
+
+faqs:
+  tagline: FAQ
+  title: FAQ sobre calidad y control de defectos para compradores globales
+  items:
+    - q: '¿Cómo garantizan que las tablas retrabajadas cumplen todos los estándares de seguridad?'
+      a: 'Toda tabla retrabajada se trata como una unidad nueva y debe completar el mismo ciclo completo de ensayos desde cero — para reparaciones de estanqueidad, una prueba de presión completa de 24h. Los inspectores de QC independientes, no los operadores del retrabajo, realizan la validación de liberación.'
+    - q: '¿Enviará la fábrica tablas con desviaciones cosméticas menores sin avisarnos?'
+      a: 'Nunca. Cualquier desviación que afecte a las muestras doradas aprobadas por el cliente, el arte del logo, las gamas de color o el embalaje requiere un acuerdo de concesión formal por escrito firmado por el cliente antes de la liberación del envío.'
+    - q: '¿Qué ocurre si una tabla retrabajada falla la reinspección?'
+      a: 'La tabla no se libera. Vuelve a una nueva revisión de disposición y, si no puede alcanzar la conformidad, se reemplaza, rechaza o destruye bajo el protocolo de desguace presenciado. El fallo repetido de la misma clase de defecto activa un CAPA de causa raíz.'
+    - q: '¿Pueden venderse las tablas fallidas como segundas marcas de fábrica o por otros canales?'
+      a: 'No. Las tablas fuera de especificación no retrabajables se destruyen físicamente bajo el protocolo de desguace presenciado — herrajes cortados, núcleo y raíles seccionados, video grabado con hash SHA-256 y archivado durante al menos 5 años. El certificado de destrucción lo firman el Director de QA y el Gerente de Planta.'
+    - q: '¿Cómo se evalúa el alcance afectado cuando se encuentra un defecto?'
+      a: 'El alcance se revisa por identificación de producto, lote de producción, lote de material o componente, etapa de proceso y revisión documental aplicable. Si están implicados el mismo lote de material, revisión de arte o puesto de trabajo, los productos afectados se contienen y verifican en consecuencia.'
+    - q: '¿Necesitan nuestra aprobación antes de realizar una concesión?'
+      a: 'Sí. Cualquier aceptación bajo una concesión documentada que afecte a los requisitos del cliente — muestras aprobadas, especificación, arte, embalaje o criterios de aceptación — requiere la aprobación escrita del cliente antes de la liberación. Sin ella, el producto se retrabaja según el requisito original, se reemplaza o se rechaza.'
+    - q: '¿Qué documentación recibimos por una no conformidad?'
+      a: 'El registro NCR cubre el número NCR, la etapa de detección, el producto/SKU, el lote, las revisiones documentales aplicables, la descripción del defecto, la contención, la disposición, la referencia de la instrucción de retrabajo, el resultado de la reinspección y la aprobación de liberación o cierre — disponible según el acuerdo de calidad de su proyecto.'
+
+cta:
+  title: Los problemas de calidad se gestionan mediante un proceso controlado
+  desc: 'Comparta sus requisitos específicos de calidad, inspección o documentación durante la consulta — podemos revisar los puntos de control aplicables antes del desarrollo de muestras o la planificación de la producción.'
+  actions:
+    - text: Hablar de requisitos de calidad
+      variant: primary
+      href: /es/contact
+    - text: Descargar SOP de control de no conformes (PDF)
+      href: 'https://assets.vectoflare.com/site/downloads/non-conforming-product-control-sop-iso-8-7.pdf?dl=1'
+    - text: Descargar certificado de destrucción (PDF)
+      href: 'https://assets.vectoflare.com/site/downloads/scrap-destruction-certificate-vat-qa-scrap-cert-2026.pdf?dl=1'

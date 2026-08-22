@@ -1,0 +1,132 @@
+meta:
+  title: 'SUP Wholesale Distribution Partner Program | {SITE}'
+  description: "Join Vectoflare's global SUP wholesale distribution network: exclusive territories, complete product portfolio and dedicated account management in 50+ countries."
+  dateModified: '2026-08'
+
+hero:
+  tagline: Distributors
+  title: 'Join Our Global Distribution Network'
+  subtitle: "SUP wholesale distribution partner program with exclusive territories, complete inflatable SUP product portfolio, and world-class support. Vectoflare ships to 50+ countries — we're looking for established marine and water sports distributors."
+  image:
+    src: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-factory-building.webp
+    alt: Vectoflare global distribution and shipping operations
+
+answer:
+  label: 'Straight answer'
+  text: 'Wholesale distribution terms: exclusive territory, 3–8 SKUs per program, 45–60 day payment terms, and 100% factory pressure-tested stock before dispatch. Distributors buy at factory-direct wholesale pricing with a dedicated account manager; minimum opening order and freight terms are agreed per territory, shipped FOB Qingdao or CIF.'
+  verified: '2026-08'
+
+intro:
+  tagline: About the program
+  title: 'SUP Wholesale Distribution, Built Around Long-Term Partnership'
+  body: |
+    Vectoflare plans, builds and quality-tests every inflatable SUP, kayak and accessory in our own manufacturing facility — so a wholesale distribution agreement with us comes with the source of supply built in. Distributors do not resell a distant third-party range: they receive the complete Vectoflare product catalog, direct factory pricing, and a dedicated account manager who plans seasonal replenishment around their sell-through.
+
+    Most of our distribution partners operate in one exclusive territory and carry a concentrated range of 4–8 best-selling models — all-around boards in three sizes, a touring model, and the matching pump, paddle and care accessories. Because we control the full production line, we can schedule large runs for the northern-hemisphere season start, stabilize freight costs with forward orders, and free up working capital with transparent wholesale terms and agreed payment schedules.
+
+    The distribution program is one of two ways to buy Vectoflare products wholesale. If you already run a wholesale channel, this page is for you. Brands, resorts, training schools and rental fleets buying direct for their own use should review the OEM/ODM manufacturing and fleet programs instead.
+
+wholesale_pricing:
+  tagline: Why join
+  title: 'What Distributors Get'
+  subtitle: 'Everything you need to succeed in your market.'
+  intro: 'Distribution partners receive the same product, factory quality and engineering depth Vectoflare is known for, packaged for the wholesale channel.'
+  stats:
+    - value: '50+'
+      label: 'Countries shipped'
+    - value: '1'
+      label: 'Dedicated account manager'
+    - value: '45–60'
+      label: 'Day payment terms'
+    - value: '10+'
+      label: 'Core product lines'
+    - value: '3–8'
+      label: 'SKUs per territory program'
+    - value: '100%'
+      label: 'Factory-tested before dispatch'
+
+steps:
+  tagline: How it works
+  title: 'Pathway from Application to First Container'
+  subtitle: 'A clear, multi-stage onboarding process so your wholesale channel ships on time in its first season.'
+  steps:
+    - step: 1
+      title: Apply
+      desc: 'Submit the distributor application with your company profile, existing wholesale turnover and territory.'
+    - step: 2
+      title: Territory mapping
+      desc: 'We confirm exclusivity and agree which countries or regions your program will cover.'
+    - step: 3
+      title: Catalog & pricing selection
+      desc: 'Choose your opening product range and receive wholesale pricing for your territory.'
+    - step: 4
+      title: Sample order
+      desc: 'Order certification samples to test quality, packaging and drop-ship handling before the first container.'
+    - step: 5
+      title: Seasonal replenishment
+      desc: 'Your account manager schedules production and replenishment around your forecast and the season calendar.'
+
+benefits:
+  title: What Distributors Get
+  subtitle: 'Everything you need to succeed in your market.'
+  items:
+    - 'Exclusive territory rights'
+    - 'Complete product catalog (SUP, accessories, parts)'
+    - 'Competitive wholesale pricing'
+    - 'Marketing & sales materials (translated)'
+    - 'Training program (product, sales, maintenance)'
+    - 'Trade show support'
+    - 'Sample program'
+    - 'Drop-ship capability'
+    - 'Dedicated distributor account manager'
+    - '45-60 day payment terms'
+
+coverage:
+  title: Current Distribution
+  subtitle: 'Vectoflare currently serves these markets directly.'
+  regions:
+    - name: Europe
+      countries: 'France, Germany, UK, Spain, Italy, Netherlands, Sweden, Norway, Poland, Greece'
+    - name: Asia
+      countries: 'Japan, South Korea, China, Thailand, Singapore'
+    - name: Middle East
+      countries: 'UAE, Saudi Arabia'
+    - name: Americas
+      countries: 'USA, Canada, Brazil, Mexico'
+    - name: Oceania
+      countries: 'Australia, New Zealand'
+    - name: Africa
+      countries: 'South Africa, Morocco'
+
+faqs:
+  tagline: Distributor FAQ
+  title: 'Wholesale Distribution Program — Frequently Asked Questions'
+  items:
+    - q: 'What is the minimum wholesale order for a new distributor?'
+      a: 'New distribution partners typically open with a sample order followed by a first container scheduled to their season. Exact minimums depend on territory size and the chosen product range; your account manager confirms the opening volume during catalog selection.'
+    - q: 'Are territories exclusive?'
+      a: 'Yes. The Vectoflare distribution program is built on exclusive territories — each wholesale partner covers a defined country or region and receives pricing and program support for that market.'
+    - q: 'Do you support drop-shipping?'
+      a: 'Drop-ship capability is included in the distributor program. Samples, product packaging and handling are validated during the sample-order stage so drop-ship orders run cleanly from day one.'
+    - q: 'What products can distributors order?'
+      a: 'The complete Vectoflare catalog: inflatable SUP boards across all-around, touring and surf shapes, inflatable kayaks, pumps, paddles, life vests and care accessories. Most partners open with 4–8 best-selling SKUs and expand in later seasons.'
+    - q: 'How are orders shipped?'
+      a: 'Orders leave our factory on scheduled sailings, with forward ordering available to stabilize freight costs. Your dedicated account manager plans production and dispatch around your forecast and the season calendar.'
+    - q: 'How do I apply?'
+      a: 'Use the application form on this page or contact us directly. Applications are reviewed by the distribution team, and we respond with next steps, including territory mapping and a draft agreement, within a few working days.'
+
+content_html: |
+  <div class="mx-auto max-w-3xl space-y-4 rounded-2xl border bg-card p-6 text-[14.5px] leading-relaxed text-fg-2">
+    <p><strong>Keep reading:</strong> distribution partners sell the same boards we make for <a href="/oem-manufacturing">OEM/private-label brands</a> — review the manufacturing program and the <a href="/factory">factory quality process</a> so you can position the product with confidence.</p>
+  </div>
+
+cta:
+  title: 'Ready to become a distributor?'
+  subtitle: 'Apply for our distributor program or download our distributor information kit.'
+  actions:
+    - text: 'Apply for Distributor Program'
+      href: '/contact?partner=distributor'
+      variant: 'primary'
+    - text: 'Download Distributor Kit'
+      href: '/products'
+      variant: 'secondary'

@@ -1,0 +1,53 @@
+meta:
+  title: 'Tecnología — Drop stitch y PVC marino | {SITE}'
+  description: 'Tecnologías Vectoflare: construcción drop stitch, PVC marino, estructuras de doble capa y alta presión.'
+  dateModified: '2026-08'
+  keywords:
+    - 'tecnología sup'
+    - 'construcción drop stitch'
+    - 'sup de alta presión'
+    - 'materiales sup hinchable'
+hero:
+  tagline: Tecnología
+  title: Diseñado para el rendimiento
+  subtitle: 'Cada SUP hinchable Vectoflare se fabrica con construcción drop-stitch y PVC de grado marino: materiales de precisión y métodos de fabricación probados en entornos marinos exigentes.'
+
+sections:
+  - title: Núcleo Drop-Stitch
+    description: Miles de hilos internos de poliéster conectan las capas superior e inferior, creando una estructura rígida a 12–15 PSI. Es la misma tecnología que usan las tablas de paddle profesionales y los SUP de competición hinchables.
+    imageAlt: Diagrama núcleo DS
+  - title: PVC de grado marino
+    description: Tejido de PVC laminado multicapa apto para entornos marinos. Cada capa se fusiona por soldadura en lugar de pegarse, lo que elimina los riesgos de delaminación. Ensayado contra rayos UV, corrosión por agua salada y abrasión.
+    imageAlt: Capa de PVC
+  - title: PVC de grado militar
+    description: Utilizado en todos los modelos de SUP, este PVC premium ofrece resistencia superior a los rayos UV y a los productos químicos. Mantiene la flexibilidad en temperaturas extremas y resiste la degradación.
+    imageAlt: PVC
+  - title: Cubierta Air Deck
+    description: Construcción hinchable de alta presión con drop stitch que aporta una rigidez excepcional para estar de pie, pescar y hacer yoga. Reduce el tiempo de montaje, el peso total y el volumen de almacenamiento.
+    imageAlt: Air Deck
+
+related:
+  title: Relacionado
+  links:
+    - text: Centro de I+D
+      url: /es/randdcenter
+    - text: Ensayos de calidad
+      url: /es/quality
+    - text: Normas de seguridad
+      url: /es/quality
+    - text: Garantía
+      url: /es/warranty
+    - text: Embarcaciones de trabajo comercial
+      url: https://vectoflare.com/es/commercial-workboats
+    - text: Búsqueda y rescate
+      url: https://vectoflare.com/es/search-and-rescue
+    - text: Turismo y recreo
+      url: /es/tourism-recreation
+    - text: Ayuda en catástrofes
+      url: https://vectoflare.com/es/disaster-relief-humanitarian-aid
+    - text: Seguridad y defensa marítima
+      url: https://vectoflare.com/es/maritime-safety-defense
+    - text: Guías
+      url: /es/knowledge
+    - text: Productos
+      url: /es/products

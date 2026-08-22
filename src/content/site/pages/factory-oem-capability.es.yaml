@@ -1,0 +1,74 @@
+meta:
+  title: 'Fabricación OEM y con marca propia | {SITE}'
+  description: 'Del concepto a la producción: personalice cada detalle de su línea de SUP hinchables. Servicio OEM/ODM completo para marcas de paddle boards con marca propia.'
+  dateModified: '2026-08'
+  keywords:
+    - 'fabricación sup oem'
+    - 'paddle board marca propia'
+    - 'sup oem hinchable'
+    - 'fábrica de sup personalizado'
+hero:
+  tagline: Fabricación OEM/ODM
+  title: Fabricación OEM y con marca propia
+  subtitle: 'Del concepto a la producción: personalice cada detalle de su línea de SUP hinchables'
+
+answer:
+  label: 'Respuesta directa'
+  text: 'El MOQ se confirma según la configuración del proyecto, no con un número fijo: cada proyecto pasa por las etapas de muestra (1–2 unidades) y piloto (20–50 unidades), con una producción de volumen estándar de 90–100+ unidades por lote a partir de un rollo completo de drop-stitch de 150 m. Las muestras están listas en 7–12 días; la producción estándar se realiza en 25–35 días tras la confirmación del PO y el depósito.'
+  verified: '2026-08'
+
+intro: Vectoflare ofrece servicios OEM y ODM integrales para marcas, distribuidores y agencias gubernamentales de todo el mundo. Con más de 10 años de experiencia en exportación y una fábrica de 12.500 m² certificada ISO 9001 y BSCI, nos encargamos de todo, desde el diseño del producto y el desarrollo de moldes hasta la producción a gran escala, el embalaje y la gestión de exportación.
+
+highlight:
+  - value: 10+
+    label: Años de experiencia OEM
+    detail: Desde 2012
+  - value: 50+
+    label: Países de exportación
+    detail: Alcance global
+  - value: 200+
+    label: Proyectos personalizados entregados
+    detail: En todas las líneas de producto
+  - value: 25–35
+    label: Plazo de entrega estándar (días)
+    detail: Tras PO confirmado y depósito
+
+services:
+  - title: Diseño de producto e ingeniería
+    description: Nuestro equipo interno de I+D trabaja con su concepto o especificación para desarrollar planos CAD, modelos 3D y prototipos. Ofrecemos diseño de moldes, optimización de la forma del casco y asesoramiento en la selección de materiales.
+  - title: Marca y gráficos personalizados
+    description: Impresión digital a todo color, serigrafía, grabado y opciones de etiquetado. Desarrollamos gráficos de cubierta específicos de la marca, branding en el tubo y embalaje listo para el comercio minorista.
+  - title: Personalización de materiales y especificaciones
+    description: Elija entre PVC (estándar, ecológico, ignífugo), Hypalon/CSM, drop-stitch y construcciones híbridas. Colores de tubo personalizados, pesos de tejido y opciones de refuerzo.
+  - title: Embalaje y logística
+    description: Embalaje minorista personalizado, cajas con marca propia, envasado al vacío, paletizado y embalaje listo para exportación preparado en casa.
+
+moq_table:
+  - product: Tablas de SUP hinchables
+    standard_moq: 'Muestra 1–2 | Piloto 20–50'
+    custom_moq: 'Volumen 90–100+ (por rollo de 150 m)'
+    lead_time: 25–35 días
+
+why_us:
+  - title: Integración vertical
+    description: 'Somos propietarios de nuestra fábrica, moldes y cadena de suministro: sin intermediarios ni subcontratistas. Esto nos da control sobre la calidad, el coste y la entrega.'
+  - title: Doble certificación
+    description: Gestión de calidad ISO 9001 y certificación de cumplimiento social BSCI. Informes de auditoría de fábrica disponibles bajo petición.
+  - title: Cumplimiento CE
+    description: Todos los modelos estándar cuentan con certificación CE 2013/53/EU. Los modelos personalizados pueden obtener la certificación CE mediante nuestro proceso establecido.
+  - title: MOQ específico por proyecto
+    description: 'El MOQ se confirma según la configuración de tu proyecto: el co-branding de lotes pequeños parte de menos de 20 unidades y el volumen estándar corre en lotes de 90–100+ unidades. Ayudamos a las marcas emergentes a lanzarse sin comprometer inventario en exceso.'
+
+cta:
+  title: 'Pon tu propia marca en una tabla probada'
+  subtitle: 'Desde la revisión de especificaciones hasta el contenedor enviado: envía tu brief hoy y recibe una cotización OEM detallada en un día laborable. Verifica la fábrica y su sistema de calidad antes de comprometerte.'
+  actions:
+    - variant: primary
+      text: Solicitar una cotización OEM
+      href: /es/contact#custom-oem
+    - text: Verifica la fábrica y el sistema de calidad
+      href: /es/oem-trust-assurance
+    - text: El sistema de inspección de 7 etapas
+      href: /es/quality
+    - text: Ve la línea de producción
+      href: /es/factory/process

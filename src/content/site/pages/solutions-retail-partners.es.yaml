@@ -1,0 +1,104 @@
+﻿meta:
+  title: 'Producción SUP de etiqueta privada para minoristas | Vectoflare'
+  description: 'Producción SUP personalizada y de etiqueta privada para minoristas: especificaciones, gráficos con tu marca, MOQ reducido y control de calidad de fábrica.'
+  dateModified: '2026-08'
+
+hero:
+  tagline: Marcas Minoristas
+  title: 'Producción de SUP personalizada para marcas minoristas'
+  subtitle: 'Las marcas minoristas lanzan su propia línea de paddle boards con nuestra fábrica: especificaciones de tablas desarrolladas a partir de tus requisitos, tu marca en el producto y control de calidad de producción gestionado de principio a fin.'
+  image:
+    src: https://assets.vectoflare.com/images/vectoflare/products/sup-series/sup-ocean-voyager-1.webp
+    alt: Tablas SUP de Vectoflare producidas para una marca minorista
+
+answer:
+  label: 'Respuesta directa'
+  text: 'El MOQ se confirma según la configuración del proyecto: las marcas minoristas empiezan con una muestra (1–2 unidades) o un lote piloto (20–50 unidades, muestras en 7–12 días), escalan a una producción de volumen estándar de 90–100+ unidades por diseño (25–35 días tras el PO y el depósito) o invierten en un molde a medida para líneas totalmente personalizadas (el utillaje añade 15–20 días). Cada tabla se prueba a presión antes del envío, con condiciones FOB, CIF o DDP desde Qingdao.'
+  verified: '2026-08'
+
+margin_section:
+  title: 'Etapas de Producción para Marcas Minoristas'
+  subtitle: 'Empieza con una muestra, valida con un piloto, escala a una producción de volumen estándar o invierte en un molde a medida: los MOQ y los plazos los fija la vía de producción, no las estimaciones.'
+  items:
+    - tier: 'Etapa de Muestra'
+      moq: '1–2 unidades'
+      margin_note: 'Plazo de la muestra de 7–12 días'
+      features:
+        - 'Desarrollo de la gráfica a partir de los recursos de tu marca'
+        - 'Muestra física para su aprobación'
+        - 'Control de calidad (QC) estándar de plataforma'
+    - tier: 'Etapa Piloto'
+      moq: '20–50 unidades'
+      margin_note: 'Validación de mercado sobre plataformas de stock'
+      features:
+        - 'Gráficos de toda la tabla, logo y distribución EVA'
+        - 'Pedidos repetidos sobre las mismas plataformas verificadas'
+        - 'Documentación de exportación incluida'
+    - tier: 'Molde a Medida'
+      moq: 'Confirmado por configuración'
+      margin_note: 'El utillaje añade 15–20 días'
+      features:
+        - 'Desarrollo de nueva forma y molde de tabla'
+        - 'Control total de la especificación'
+        - 'Asignación prioritaria de producción'
+
+product_line:
+  title: Línea de Producto Completa
+  subtitle: 'Una plataforma de producción para cada segmento de tu tienda.'
+  items:
+    - name: Serie All-Round
+      description: 'Forma versátil: la plataforma de inicio más habitual'
+    - name: Serie Touring
+      description: 'Casco de desplazamiento para el paleo de larga distancia'
+    - name: Serie Yoga
+      description: 'Plataforma ancha y estable para el segmento de bienestar'
+    - name: Serie Kids
+      description: 'Tablas cortas y ligeras para paleadores más jóvenes'
+    - name: Serie Racing
+      description: 'Cascos rápidos para el segmento entusiasta'
+    - name: Accesorios
+      description: 'Palas, chalecos, bombas y bolsas para completar la línea'
+
+catalog:
+  title: Recursos para Socios Minoristas
+  subtitle: 'Especificaciones, datos de pedido y documentación del producto.'
+  items:
+    - name: 'Catálogo de Producto 2026'
+      desc: 'Gama completa con especificaciones e información de pedido'
+      icon: 'tabler:file-text'
+      link: '/es/products'
+    - name: 'Guía del Socio Minorista'
+      desc: 'Guía de especificaciones, proceso de pedido y estándares de QC'
+      icon: 'tabler:book'
+      link: '/es/products'
+    - name: 'Recursos de Producto y Técnicos'
+      desc: 'Fotos de producto en alta resolución, imágenes de estilo de vida y documentación técnica'
+      icon: 'tabler:photo'
+      link: '/es/products'
+
+support:
+  title: Soporte de Fabricación
+  subtitle: 'Lo que aporta tu socio de fabricación en torno al pedido.'
+  items:
+    - 'Muestra física antes de la producción en serie'
+    - 'Tolerancia y QC: cada tabla se prueba a presión antes del envío'
+    - 'Soporte de especificaciones: formas, gráficos, distribución EVA, accesorios'
+    - 'Plazo de producción en serie de 25–35 días tras confirmar el PO'
+    - 'Repuestos y asesoramiento de reparación para tus clientes'
+    - 'Exportación y documentación: FOB/CIF/DDP desde Qingdao'
+
+content_html: |
+  <div class="mx-auto max-w-3xl space-y-4 rounded-2xl border bg-card p-6 text-[14.5px] leading-relaxed text-fg-2">
+    <p><strong>Sigue leyendo:</strong> consulta el <a href="/es/oem-manufacturing">programa completo de fabricación OEM/ODM</a> — MOQ confirmados por proyecto en las etapas de muestra, piloto y volumen, branding de etiqueta privada y cumplimiento CE — o lee la <a href="/es/oem-moq-guide">Guía de MOQ y Branding Flexible</a>, o visita la <a href="/es/factory">fábrica</a> para ver cómo se gestiona el QC preparado para el comercio minorista.</p>
+  </div>
+
+cta:
+  title: 'Habla Sobre Tu Línea de Producto Minorista'
+  subtitle: 'Envía tus requisitos: nuestro equipo responde en menos de 1 día laborable.'
+  actions:
+    - text: 'Enviar Tus Requisitos'
+      href: '/es/contact'
+      variant: 'primary'
+    - text: 'Ver Plataformas de Producto'
+      href: '/es/products'
+      variant: 'secondary'

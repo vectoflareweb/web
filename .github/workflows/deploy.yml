@@ -1,0 +1,200 @@
+name: Deploy
+on:
+  push:
+    branches: [main]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # secrets 不能直接用于 if，先探测并暴露为 step output，缺失时优雅跳过整个部署，
+      # 避免 fork/未配置凭据的仓库每次 push 到 main 都留下红叉。
+      - name: Check for Cloudflare credentials
+        id: guard
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          if [ -n "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::CLOUDFLARE_API_TOKEN 未配置，跳过部署。如需自动部署，请设置 CLOUDFLARE_API_TOKEN 与 CLOUDFLARE_ACCOUNT_ID secrets。"
+          fi
+      - if: steps.guard.outputs.enabled == 'true'
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.0.0
+      - if: steps.guard.outputs.enabled == 'true'
+        uses: pnpm/action-setup@fc06bc1257f339d1d5d8b3a19a8cae5388b55320 # v5.0.0
+      - if: steps.guard.outputs.enabled == 'true'
+        uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.4.0
+        with:
+          node-version: 22
+          cache: pnpm
+      - if: steps.guard.outputs.enabled == 'true'
+        run: pnpm install --frozen-lockfile
+      # wrangler.jsonc 不入库；从提交的占位模板生成，并注入真实生产资源 id。
+      # 在仓库 Variables 里配置 CF_PROD_D1_ID / CF_PROD_KV_ID（必填）、CF_PROD_DOMAIN（可选）。
+      - if: steps.guard.outputs.enabled == 'true'
+        name: Generate wrangler.jsonc
+        env:
+          CF_PROD_D1_ID: ${{ vars.CF_PROD_D1_ID }}
+          CF_PROD_KV_ID: ${{ vars.CF_PROD_KV_ID }}
+          CF_PROD_DOMAIN: ${{ vars.CF_PROD_DOMAIN }}
+        run: node .github/scripts/gen-wrangler.mjs
+      # @cloudflare/vite-plugin 在 build 时根据 CLOUDFLARE_ENV 把对应环境的 bindings
+      # 烘焙进 dist/server/wrangler.json；deploy 读取该产物，故环境在 build 时选定。
+      - if: steps.guard.outputs.enabled == 'true'
+        run: pnpm build
+        env:
+          CLOUDFLARE_ENV: production
+      # D1 结构变更随部署自动应用：用同一生产凭据跑迁移（先于 deploy，
+      # 避免新代码写入不存在的列导致线上回归）。幂等，无新迁移时无操作。
+      - name: Apply D1 migrations
+        if: steps.guard.outputs.enabled == 'true'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CF_PROD_D1_NAME: ${{ vars.CF_PROD_D1_NAME }}
+        run: npx wrangler d1 migrations apply "${CF_PROD_D1_NAME:-myproduct-db-prod}" --env production --remote
+      # Vectorize 索引缺失会让 deploy 直接失败（code 10159）——必须在部署前
+      # 幂等建好三个索引（top-level/staging/production 绑定各自引用）。已存在时
+      # wrangler 报 "already exists"/duplicate_name，识别后跳过。
+      - name: Ensure Vectorize indexes exist (idempotent)
+        if: steps.guard.outputs.enabled == 'true'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CF_VECTORIZE_INDEX: ${{ vars.CF_VECTORIZE_INDEX }}
+        run: |
+          set -e
+          create_index() {
+            local name="$1"; shift
+            if npx wrangler vectorize create "$name" --dimensions=1024 --metric=cosine \
+              --config wrangler.example.jsonc "$@" > /tmp/vz.log 2>&1; then
+              echo "created $name"
+            elif grep -qiE 'already exists|duplicate_name' /tmp/vz.log; then
+              echo "exists (skip) $name"
+            else
+              cat /tmp/vz.log
+              exit 1
+            fi
+          }
+          IDX="${CF_VECTORIZE_INDEX:-myproduct-knowledge}"
+          create_index "$IDX"
+          create_index "$IDX-staging"
+          create_index "$IDX-prod"
+      # site 媒体（视频/PDF/质量照片）源文件随仓库提交（public/downloads/ 等），
+      # 引用已改为 CDN 链接（https://assets.myproduct.com/site/*）。必须先于 deploy
+      # 上传：新代码上线瞬间 CDN 链接就要可访问，--missing 幂等，只 PUT 缺失对象。
+      # R2 权限缺失时跳过，不留红叉。
+      - name: Upload site assets to R2 (before deploy)
+        if: steps.guard.outputs.enabled == 'true'
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: node scripts/upload-site-assets.mjs --http --missing
+      - name: Deploy to Cloudflare
+        if: steps.guard.outputs.enabled == 'true'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: npx wrangler deploy
+      # 每次部署后把 GitHub Secrets 同步为 Worker secrets（单一数据源，无需手动
+      # wrangler secret put）。GitHub 里未设置/为空的 key 自动跳过（不覆盖 Cloudflare
+      # 已有值）；要"删除"某个密钥请先在 GitHub 清空它，再手动清理 Cloudflare 侧。
+      # 部署后清除 CDN 缓存：marketing HTML 在边缘缓存 1 小时(max-age=3600)，
+      # 不清理的话部署后窗口期内旧 HTML 会引用已被替换的旧 hash assets(404)。
+      # token 需 Zone › Cache Purge 权限；缺 zone/权限时跳过，不留红叉。
+      - name: Purge CDN cache
+        if: steps.guard.outputs.enabled == 'true'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CF_PROD_DOMAIN: ${{ vars.CF_PROD_DOMAIN }}
+        run: |
+          CDN_ZONE="${CF_PROD_DOMAIN:-myproduct.com}"
+          API="https://api.cloudflare.com/client/v4"
+          AUTH="Authorization: Bearer $CLOUDFLARE_API_TOKEN"
+          ZHTTP=$(curl -sS -o /tmp/zones.json -w '%{http_code}' \
+            "$API/zones?name=$CDN_ZONE&per_page=1" -H "$AUTH")
+          if [ "$ZHTTP" != "200" ]; then
+            echo "::notice::Zone lookup failed (HTTP $ZHTTP) — skip cache purge"
+            exit 0
+          fi
+          ZID=$(jq -r '.result[0].id // ""' /tmp/zones.json)
+          if [ -z "$ZID" ]; then
+            echo "::notice::Zone $CDN_ZONE not in this account — skip cache purge"
+            exit 0
+          fi
+          PHTTP=$(curl -sS -o /tmp/purge.json -w '%{http_code}' -X POST \
+            "$API/zones/$ZID/purge_cache" \
+            -H "$AUTH" -H "Content-Type: application/json" \
+            -d '{"purge_everything":true}')
+          if [ "$PHTTP" = "200" ] && jq -e '.success == true' /tmp/purge.json >/dev/null 2>&1; then
+            echo "::notice::CDN cache purged — visitors hit the freshly deployed version"
+          else
+            echo "::notice::Cache purge skipped (HTTP $PHTTP) — token needs Zone › Cache Purge permission"
+          fi
+      # purge 后缓存为空，而 cron 每小时才 warm 一次 → 冷窗口期用户直击
+      # 冷 worker（TTFB 2-6s）。这里部署完立刻回源一次，把首页/es 写入
+      # 边缘缓存（第一次渲染 + waitUntil 写缓存，sleep 后第二次确认命中）。
+      - name: Warm edge cache
+        if: steps.guard.outputs.enabled == 'true'
+        env:
+          CF_PROD_DOMAIN: ${{ vars.CF_PROD_DOMAIN }}
+        run: |
+          CDN_ORIGIN="https://${CF_PROD_DOMAIN:-myproduct.com}"
+          for p in / /es; do
+            code=$(curl -sS -o /dev/null -w '%{http_code}' "$CDN_ORIGIN$p")
+            echo "warm $p first pass -> HTTP $code"
+            sleep 2
+            code2=$(curl -sS -o /dev/null -w '%{http_code}' "$CDN_ORIGIN$p")
+            echo "warm $p second pass -> HTTP $code2"
+          done
+      - name: Sync Worker secrets
+        if: steps.guard.outputs.enabled == 'true'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          BETTER_AUTH_SECRET: ${{ secrets.BETTER_AUTH_SECRET }}
+          BETTER_AUTH_URL: ${{ secrets.BETTER_AUTH_URL }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GITHUB_CLIENT_ID: ${{ secrets.GITHUB_CLIENT_ID }}
+          GITHUB_CLIENT_SECRET: ${{ secrets.GITHUB_CLIENT_SECRET }}
+          TURNSTILE_SITE_KEY: ${{ secrets.TURNSTILE_SITE_KEY }}
+          TURNSTILE_SECRET_KEY: ${{ secrets.TURNSTILE_SECRET_KEY }}
+          ADMIN_EMAILS: ${{ secrets.ADMIN_EMAILS }}
+          CF_ANALYTICS_TOKEN: ${{ secrets.CF_ANALYTICS_TOKEN }}
+          SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
+          RESEND_AUDIENCE_ID: ${{ secrets.RESEND_AUDIENCE_ID }}
+          REINDEX_TOKEN: ${{ secrets.REINDEX_TOKEN }}
+        run: |
+          jq -n '{
+            BETTER_AUTH_SECRET: env.BETTER_AUTH_SECRET,
+            BETTER_AUTH_URL: env.BETTER_AUTH_URL,
+            RESEND_API_KEY: env.RESEND_API_KEY,
+            EMAIL_FROM: env.EMAIL_FROM,
+            GOOGLE_CLIENT_ID: env.GOOGLE_CLIENT_ID,
+            GOOGLE_CLIENT_SECRET: env.GOOGLE_CLIENT_SECRET,
+            GITHUB_CLIENT_ID: env.GITHUB_CLIENT_ID,
+            GITHUB_CLIENT_SECRET: env.GITHUB_CLIENT_SECRET,
+            TURNSTILE_SITE_KEY: env.TURNSTILE_SITE_KEY,
+            TURNSTILE_SECRET_KEY: env.TURNSTILE_SECRET_KEY,
+            ADMIN_EMAILS: env.ADMIN_EMAILS,
+            CF_ANALYTICS_TOKEN: env.CF_ANALYTICS_TOKEN,
+            SENTRY_DSN: env.SENTRY_DSN,
+            RESEND_AUDIENCE_ID: env.RESEND_AUDIENCE_ID,
+            REINDEX_TOKEN: env.REINDEX_TOKEN
+          } | with_entries(select(.value != null and .value != ""))' > /tmp/secrets.json
+          npx wrangler secret bulk /tmp/secrets.json --env production
+      # 图片新增后不再依赖手动触发上传 workflow：每次部署自动补传 R2 缺失的
+      # vectoflare 图片（--missing 只 PUT 缺失对象，已存在的跳过）。R2 权限缺失
+      # 时跳过，不留红叉。
+      - name: Backfill missing vectoflare images to R2
+        if: steps.guard.outputs.enabled == 'true'
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: node scripts/upload-vectoflare-images.mjs --http --missing --src scripts/vectoflare-images

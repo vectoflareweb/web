@@ -1,0 +1,83 @@
+﻿meta:
+  title: 'Socios — Distribución y venta al por mayor | {SITE}'
+  description: 'Colaboraciones de fabricación con vectoflare: distribución, suministro al por mayor, programas OEM/de marca privada y asistencia para empresas de paddle surf.'
+  keywords:
+    - 'socio de distribución de sup'
+    - 'paddle board al por mayor'
+    - 'distribuidor de sup hinchable'
+    - 'colaboración sup'
+  dateModified: '2026-08'
+hero:
+  tagline: Socios y distribución
+  title: 'Colaboraciones de fabricación y distribución'
+  subtitle: "Fabricamos para distribuidores marinos, concesionarios, marcas detallistas y organizaciones de más de 50 países. Tú especificas el producto — nosotros lo ingeniamos, desarrollamos la muestra y lo producimos bajo tu marca."
+  image:
+    src: https://assets.vectoflare.com/images/vectoflare/partners/partners-hero.webp
+    alt: red mundial de socios y distribuidores de Vectoflare
+
+answer:
+  label: 'Respuesta directa'
+  text: 'Las condiciones de colaboración parten de muestras (1–2 unidades) y lotes piloto (20–50 unidades, muestras en 7–12 días), escalan a series de volumen OEM estándar de 90–100+ unidades por lote a partir de un rollo completo de drop-stitch de 150 m, o invierten en moldes a medida para productos de marca privada. El MOQ se confirma según la configuración del proyecto. Los programas de distribución incluyen territorios exclusivos, precios mayoristas directos de fábrica y condiciones de pago de 45–60 días, con envío FOB Qingdao o CIF.'
+  verified: '2026-08'
+content_programs:
+  tagline: Programas para socios
+  title: 'Modelos de colaboración basados en la fabricación'
+  subtitle: 'Tanto si eres distribuidor, concesionario o socio de marca, el programa se construye en torno a los requisitos de tu producto y tu plan de producción.'
+  columns: 3
+  items:
+    - title: 'Programa de distribuidor'
+      description: 'Acuerdos de distribución con acceso directo a la fábrica, asistencia de especificaciones y una calidad de nuevo pedido constante en todos los territorios. El pedido mínimo se basa en el tamaño del territorio.'
+      icon: tabler:world
+    - title: 'Programa de concesionario'
+      description: 'Especificaciones de producto, aprobación de muestras, asistencia de garantía y nuevos pedidos fiables para tiendas físicas y en línea.'
+      icon: tabler:building-store
+    - title: 'Colaboración OEM/ODM'
+      description: 'Fabricación OEM y ODM integral con marca, embalaje y especificaciones personalizados. Del concepto al contenedor.'
+      icon: tabler:certificate
+    - title: 'Colaboración de marca'
+      description: 'Desarrollo de marca privada y de modelos para marcas establecidas del sector náutico y del ocio al aire libre.'
+      icon: tabler:stars
+    - title: 'Gubernamental e institucional'
+      description: 'Programas de proveedor preferente para agencias gubernamentales, guardacostas, ejército y organizaciones humanitarias. Documentación lista para licitaciones.'
+      icon: tabler:building-community
+    - title: 'Socio de resort y alquiler'
+      description: 'Precios de flota, calidad constante y marca personalizada para resorts, centros de buceo y operadores de alquiler de todo el mundo.'
+      icon: tabler:sun
+content_benefits:
+  tagline: Por qué colaborar con nosotros
+  title: 'Por qué los socios eligen Vectoflare'
+  subtitle: 'Nuestros socios trabajan con una capacidad de fabricación real, una calidad constante y una ingeniería receptiva.'
+  list:
+    - 'Acceso directo a la fábrica: trabaja directamente con nuestro equipo de fabricación — sin intermediarios. Respuestas más rápidas, visibilidad completa de la producción y respuestas de ingeniería procedentes de quienes construyen las tablas.'
+    - 'Personalización lista: marca tus productos con colores personalizados, logotipos, embalajes y especificaciones. El MOQ se confirma según la configuración del proyecto — etapas de muestra, piloto y volumen.'
+    - 'Calidad garantizada: producción certificada ISO 9001, conforme a CE, BSCI y REACH. Todos los productos se prueban a presión antes de la expedición.'
+    - 'Logística mundial: envíos desde Qingdao (China) con opciones FOB, CIF y DDP. Almacén estadounidense en Montclair (CA) para la distribución en Norteamérica.'
+    - 'Documentación técnica: catálogos de producto, fotografías y documentación técnica para apoyar las decisiones de reiteración de pedidos.'
+    - 'Asistencia de especificación y control de calidad: primero la muestra, luego el lote; asistencia técnica para tus clientes y coordinación del servicio de garantía.'
+content_process:
+  tagline: Cómo hacerse socio
+  title: 'Proceso de colaboración'
+  subtitle: 'Un proceso sencillo: desde la solicitud hasta tu primera serie de producción.'
+  items:
+    - title: 'Paso 1: envía la solicitud'
+      description: 'Completa el formulario de solicitud de socio con el perfil de tu empresa, tu mercado objetivo y tus intereses de producto.'
+    - title: 'Paso 2: revisión de idoneidad'
+      description: 'Nuestro equipo revisa tu solicitud y se comunicará contigo en 3 días laborables para hablar de los requisitos.'
+    - title: 'Paso 3: acuerdo y alta'
+      description: 'Firma un acuerdo de colaboración, crea tu cuenta y recibe muestras de producto, especificaciones y las condiciones pactadas.'
+    - title: 'Paso 4: muestreo y producción'
+      description: 'Aprobación de las muestras físicas, confirmación de especificaciones y pedido mínimo y series de producción bajo tu marca.'
+cta:
+  title: 'Hablar de una colaboración'
+  subtitle: 'Envía tus requisitos y nuestro equipo te responderá en 3 días laborables.'
+  actions:
+    - variant: primary
+      text: Envía tus requisitos
+      href: /es/contact
+    - text: Ver nuestros productos
+      href: /es/products
+
+content_html: |
+  <div class="mx-auto max-w-3xl space-y-4 rounded-2xl border bg-card p-6 text-[14.5px] leading-relaxed text-fg-2">
+    <p><strong>Sigue leyendo:</strong> los programas de colaboración comparten un <a href="/es/oem-manufacturing">motor de fabricación OEM/ODM</a> —las condiciones, los pedidos mínimos de prueba y la personalización quedan definidos allí— y toda la producción pasa por la <a href="/es/factory">fábrica de 12,500 m&sup2;</a>.</p>
+  </div>

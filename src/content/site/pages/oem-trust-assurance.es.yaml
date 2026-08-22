@@ -1,0 +1,165 @@
+meta:
+  title: 'Confianza en una fábrica OEM: verifica antes de pedir'
+  description: 'Cómo verifican los compradores a Vectoflare antes de pedir: registro, auditorías, ingenieros bajo NDA e inspecciones de terceros (SGS/TÜV/BV/Intertek).'
+  dateModified: '2026-08-14'
+  keywords:
+    - 'verificación fábrica OEM SUP'
+    - 'verificar fabricante SUP'
+    - 'auditoría fábrica SUP China'
+    - 'fábrica SUP hinchables Qingdao'
+    - 'garantía de confianza OEM'
+    - 'credenciales fabricante SUP'
+
+hero:
+  tagline: 'Fabricación que puedes verificar'
+  title: 'Confianza y Garantía de Fábrica OEM'
+  subtitle: 'Cada afirmación de este sitio se puede verificar: registro oficial de la empresa, una fábrica física de 12.500 m² que puedes visitar o auditar, ingenieros reales bajo NDA, documentos QMS descargables y datos de ensayo registrados por número de serie. Ingeniería y operación de Qingdao Vatrad Group Co., Ltd.'
+
+answer:
+  label: 'Respuesta directa'
+  text: 'La confianza no es una promesa — es documentación. Somos una entidad manufacturera china registrada (Qingdao Vatrad Group Co., Ltd.) con una planta física de 12.500 m² en Qingdao, más de 350 trabajadores y más de 120.000 tablas de capacidad anual. Puedes verificar el registro, auditar la fábrica, revisar los SOP de QMS, descargar registros de calidad de muestra, programar inspecciones de terceros (SGS, TÜV, BV o Intertek) y firmar un NDA en un plazo de 4 horas laborables. Cada tabla se prueba a presión a 18,0 PSI durante 24 horas con rechazo automático por encima de 0,50 PSI de caída, y cada lote conserva trazabilidad ERP de 10 años. Si una afirmación no se puede documentar, no la hacemos.'
+  verified: '2026-08'
+
+trust_stats:
+  - value: '12.500 m²'
+    label: Superficie de fábrica
+    detail: 4 talleres especializados, abiertos a auditorías
+  - value: '350+'
+    label: Trabajadores en planta
+    detail: 25+ ingenieros en I+D, materiales y QC
+  - value: '120.000+'
+    label: Tablas producidas al año
+    detail: 10.000 tablas/mes en 4 líneas automatizadas
+  - value: '4 horas'
+    label: Respuesta de NDA
+    detail: NDA estándar firmado en 4 horas laborables
+  - value: '7 etapas'
+    label: Sistema de puertas de calidad
+    detail: Nodo 01–07, registrado por número de serie
+  - value: '18,0 PSI'
+    label: Prueba de presión al 100%
+    detail: Retención 24 h, rechazo automático > 0,50 PSI
+
+role_boundary:
+  tagline: 'Qué somos — y qué no somos'
+  title: 'Una fábrica verificable, nunca una afirmación que debas tomar al pie de la letra'
+  subtitle: 'La diferencia entre una fábrica y una mesa comercial es simple: detrás de cada afirmación hay un documento, una persona o una máquina.'
+  features:
+    - icon: A
+      icon_bg: blue
+      title: 'Qué somos — un fabricante verificable'
+      desc: '· Una entidad legal registrada: Qingdao Vatrad Group Co., Ltd. — datos del registro compartidos bajo NDA o durante la auditoría · Una fábrica física: 12.500 m² en la Zona de Desarrollo Económico de Laixi, Qingdao, con 4 talleres especializados, 350+ trabajadores y 4 líneas automatizadas · Un equipo de fabricación: las personas que responden tus preguntas son las que construyen tus tablas · Documentos reales: SOP de QMS, estándares de inspección y registros de calidad anonimizados descargables · Verificación independiente bienvenida: inspecciones SGS, TÜV, BV o Intertek a tu elección, según ISO 2859-1 Nivel II'
+      link: '/es/factory'
+      link_label: 'Visita la página de la fábrica'
+    - icon: B
+      icon_bg: green
+      title: 'Qué no somos — el perfil de mesa comercial'
+      desc: '· Sin trading: no reenviamos tu pedido a una tercera fábrica ni añadimos márgenes de intermediario · Sin marca propia sobre tus tablas: tú eres dueño de la marca, el mercado y el cliente · Sin mínimos vagos: el MOQ se calcula a partir de la física del rollo de materia prima y se confirma por proyecto · Sin certificados "solo bajo petición": la lista está publicada y los registros de auditoría se pueden revisar · Sin afirmaciones solo verbales: presión de ensayo, umbrales y trazabilidad documentados por número de serie'
+      link: '/es/oem-moq-guide'
+      link_label: 'Consulta la guía MOQ transparente'
+
+trust_steps:
+  tagline: 'Un caso real'
+  title: 'Cómo nos verificó una flota de alquiler del norte de Europa antes de pedir'
+  subtitle: 'Siete pasos de verificación que completó un operador de alquiler comercial antes de realizar un pedido de flota de 90–100+ unidades — la misma lista de verificación está abierta para ti.'
+  steps:
+    - step: '01'
+      title: 'Verificación oficial de la entidad'
+      desc: 'El comprador solicitó el Registro Mercantil chino y la licencia de comercio exterior. La entidad legal detrás de Vectoflare es Qingdao Vatrad Group Co., Ltd., fabricante registrado desde 2012 en Qingdao, Shandong — verificado en el registro nacional bajo NDA.'
+    - step: '02'
+      title: 'Auditoría física de la fábrica'
+      desc: 'Una auditoría de fábrica (presencial y por videollamada) confirmó la planta de 12.500 m²: cuatro talleres especializados, 350+ trabajadores, cuatro líneas automatizadas y una producción mensual de unas 10.000 tablas. El informe de auditoría queda archivado con los registros del contrato.'
+    - step: '03'
+      title: 'Personas: ingenieros reales, no guiones de venta'
+      desc: 'El comprador habló directamente con el equipo de ingeniería — diseño de casco, laboratorio de materiales y QC. La especificación del proyecto y el NDA se intercambiaron en 4 horas laborables, y la revisión de ingeniería llegó en un día laborable.'
+    - step: '04'
+      title: 'Papel: QMS, certificados e inspección de terceros'
+      desc: 'Se revisaron ISO 9001:2015, ISO 25649 y documentación de cumplimiento CE, registros BSCI/REACH/RoHS y los SOP de QMS. El comprador programó una inspección pre-embarque SGS según ISO 2859-1 Nivel II en el primer pedido de volumen — y recibió un Certificado de Conformidad por lote.'
+    - step: '05'
+      title: 'Datos: registros de ensayo por número de serie'
+      desc: 'El comprador auditó registros de ensayo reales: cada cámara probada a 18,0 PSI durante 24 horas con rechazo automático por encima de 0,50 PSI, listas de montaje de 100 puntos y trazabilidad ERP de lote de 10 años. Se entregaron registros de QC de muestra antes del pedido.'
+    - step: '06'
+      title: 'Protección contractual'
+      desc: 'El contrato cubrió licencia de marca, un periodo acordado de exclusividad territorial, titularidad y compra del molde, y definió los datos y registros que se transfieren con el utillaje. El comprador aprobó el molde en la fábrica antes de la producción.'
+    - step: '07'
+      title: 'Gobernanza continua'
+      desc: 'Revisiones trimestrales de negocio con el VP de Ventas y el Ingeniero Jefe, derecho reservado a auditar durante la producción y una vía de escalado al Director de QA para cualquier disputa de calidad. El acuerdo fue firmado conjuntamente por el VP de Ventas, el Ingeniero Jefe y el Director de QA.'
+
+trust_faqs:
+  tagline: 'FAQ'
+  title: 'Las 12 preguntas que hacen los compradores antes de pedir'
+  items:
+    - q: '¿Vectoflare es realmente una fábrica o una empresa comercial?'
+      a: 'Vectoflare es la división de desarrollo de producto y fabricación de SUP de Vectoflare, la división de fabricación de Qingdao Vatrad Group Co., Ltd. Operamos nosotros mismos la planta de 12.500 m² en Qingdao — diseño, corte, soldadura, montaje y ensayos ocurren en una sola instalación. No hay intermediarios: las personas que responden tus preguntas son las que construyen tus tablas.'
+    - q: '¿Con quién exactamente trataré durante mi proyecto?'
+      a: 'Con un ingeniero de proyecto designado y un contacto de QC designado, además de los jefes de departamento que firman tus documentos. Puedes pedir hablar directamente con el Ingeniero Jefe, el Director de QA o el director de fábrica — antes y después del pedido. Ninguna capa de gestores de cuenta se interpone entre tú y las personas que hacen el trabajo.'
+    - q: '¿Puedo visitar o auditar la fábrica?'
+      a: 'Sí. Organizamos visitas a la fábrica en la Zona de Desarrollo Económico de Laixi, Qingdao, y apoyamos auditorías remotas con recorridos en vivo por videollamada. Las auditorías pueden organizarse de forma independiente (tu inspector o un tercero como SGS, TÜV, BV o Intertek) y el calendario de auditoría puede escribirse en el contrato.'
+    - q: '¿Firmaréis un NDA antes de que comparta mi diseño?'
+      a: 'Sí. Nuestro NDA estándar se firma en 4 horas laborables desde tu solicitud, antes de compartir cualquier especificación, arte o archivo técnico patentado. Hay versiones bilingües (inglés/chino) y el documento está contrafirmado por el director de fábrica.'
+    - q: '¿Cómo sé que vuestras afirmaciones de calidad son reales?'
+      a: 'Cada afirmación de este sitio tiene un documento detrás: los SOP de QMS y los estándares de inspección son descargables, se publican muestras anonimizadas de registros de calidad y los datos de ensayo se registran por número de serie con trazabilidad ERP de lotes de 10 años. También puedes programar una inspección pre-embarque de terceros a tu elección.'
+    - q: '¿Qué pasa si mis tablas llegan con defectos?'
+      a: 'Cada tabla se prueba antes del embalaje y los registros por lote permiten rastrear la causa raíz por número de serie. El contrato define las obligaciones de inspección, sustitución y retrabajo, y el Director de QA firma la liberación del lote. Las tablas retrabajadas se vuelven a probar por completo — nunca de forma parcial.'
+    - q: '¿Podéis probar realmente el 100% de las tablas antes de enviar?'
+      a: 'Sí — y los registros lo demuestran. Cada cámara se infla a 18,0 PSI y se mantiene durante 24 horas con registro continuo de sensores; cualquier cámara que supere 0,50 PSI de caída en 24 horas se rechaza automáticamente y se reinspecciona. Los registros de ensayo se vinculan a cada número de serie y forman parte de la documentación del lote.'
+    - q: '¿Qué certificaciones tenéis realmente?'
+      a: 'Gestión de calidad ISO 9001:2015, cumplimiento ISO 25649 y CE para productos SUP hinchables, además de cumplimiento BSCI, REACH y RoHS de la instalación y los materiales. Los números de certificado y los registros de auditoría se entregan bajo petición o durante una auditoría — la lista está publicada, no es "solo disponible bajo petición".'
+    - q: '¿Mi marca estará a salvo — diseño, moldes y mercado?'
+      a: 'Sí. Tu marca, diseños y utillaje quedan protegidos por NDA, términos de licencia de marca y cláusulas de titularidad o compra del molde escritas en el contrato. El utillaje se conserva para la marca y es transferible. Los términos de territorio y exclusividad se acuerdan por escrito antes de la producción.'
+    - q: '¿Cuál es vuestro MOQ real?'
+      a: 'El MOQ es específico de cada proyecto y se explica en nuestra guía de MOQ: muestras de 1–2 unidades, co-branding desde 5–10 unidades, lotes piloto de 20–50 unidades y volumen estándar de 90–100+ unidades por rollo de 150 m (unas 180–220 tablas). Los diseños con molde a medida se producen en el tramo de volumen. El cálculo se confirma antes de cotizar — sin números "MOQ bajo" vagos.'
+    - q: '¿Qué pasa si la producción se retrasa?'
+      a: 'El plazo de entrega se confirma después de revisar especificación, arte y embalaje — nunca se promete de antemano. El contrato cubre la programación, la notificación de retrasos y la vía de resolución, y la revisión trimestral de negocio hace seguimiento del cumplimiento de entregas frente al calendario acordado.'
+    - q: '¿Quién firma los documentos del contrato por vuestra parte?'
+      a: 'Los pedidos y acuerdos se firman conjuntamente por el VP de Ventas, el Ingeniero Jefe y el Director de QA — las tres personas responsables respectivamente de los términos comerciales, la ejecución de ingeniería y la liberación de calidad. Recibes los documentos firmados con los registros del contrato.'
+
+governance:
+  tagline: 'Estructura de responsabilidad'
+  title: 'Firmantes designados y derechos reservados'
+  subtitle: 'Cada compromiso está vinculado a un rol designado — no a un departamento de ventas.'
+  body: |
+    **Firma conjunta.** Los pedidos, planes de calidad y resoluciones de disputas se firman por tres roles: el VP de Ventas (términos comerciales), el Ingeniero Jefe (ejecución de ingeniería) y el Director de QA (liberación de calidad). Los SOP bilingües están controlados por versión y llevan la misma estructura de firmas.
+
+    **Derechos reservados.** El comprador conserva el derecho de auditar la producción, revisar los registros de ensayo y retener la liberación del lote hasta la firma de la inspección. El retrabajo solo ocurre bajo un registro de cambio aprobado, y la liberación la valida QC independiente — nunca los operadores del retrabajo.
+
+    **Registros que se transfieren.** Los registros de ensayo por lote, los certificados de conformidad y los informes de inspección se entregan con cada envío, y la trazabilidad ERP de lotes se conserva durante 10 años. Los registros de utillaje y los planos de molde se transfieren con el utillaje cuando el contrato lo establece.
+
+trust_downloads:
+  tagline: 'Documentos oficiales'
+  title: 'Documentos de verificación — descarga y comparte'
+  subtitle: 'Documentos oficiales de Qingdao Vatrad Group Co., Ltd., listos para adjuntar a tu expediente de debida diligencia de proveedor.'
+  features:
+    - icon: G
+      icon_bg: blue
+      title: 'Guía de Confianza y Garantía de Fábrica para Compradores OEM (PDF)'
+      desc: 'Guía B2B oficial (Parte II, DOC-ENG-2026-EN): verificación de la fábrica paso a paso — registro de la entidad, auditoría física, ingenieros reales, documentos QMS, inspección de terceros, protección contractual y firmas de gobernanza.'
+      link: 'https://assets.vectoflare.com/site/downloads/oem-buyer-trust-and-factory-assurance-guide.pdf'
+      link_label: 'Descargar guía (PDF)'
+    - icon: P
+      icon_bg: green
+      title: 'Guía de Branding Flexible y MOQ (PDF)'
+      desc: 'Guía B2B oficial (Parte I, DOC-MOQ-EXP-2026-EN): la lógica de ingeniería detrás de los rendimientos del rollo de 150 m (90–100 tablas), co-branding desde 5–10 unidades, lotes piloto de 20–50 unidades y las tres etapas de producción.'
+      link: 'https://assets.vectoflare.com/site/downloads/flexible-branding-and-moq-guide.pdf'
+      link_label: 'Descargar guía de MOQ (PDF)'
+    - icon: Q
+      icon_bg: orange
+      title: 'El sistema de calidad detrás de estas afirmaciones'
+      desc: 'Una página que lo une todo: el sistema de inspección de 7 puertas, los cuatro estándares que lo rigen y el registro de documentos 00–15 con cada SOP e informe descargable — QIP, estándares de inspección, dosier de trazabilidad, SOP de NCP y retrabajo.'
+      link: '/es/quality'
+      link_label: 'Explorar el sistema de calidad'
+
+evidence_review:
+  tagline: 'Evidencia y verificación'
+  title: 'ESPECIFICACIONES VERIFICADAS'
+  body: 'Todas las afirmaciones de fabricación en esta página son verificadas por nuestro equipo de ingeniería de fabricación en la planta de Laixi, Qingdao. Certificados, registros de inspección QC, informes de presión y pruebas estructurales, y registros de trazabilidad por lote están disponibles a petición. Especificaciones verificadas por última vez 2026-08.'
+cta:
+  title: 'Empieza por la verificación — después hablamos de especificaciones'
+  subtitle: 'Envía tu solicitud de NDA, pide el paquete de registro o reserva una visita de auditoría. La verificación va primero; la conversación del pedido viene después. Enviar una consulta no te compromete a ningún pedido.'
+  button_text: 'Solicitar paquete de verificación'
+  button_link: '/es/contact#trust-verification'
+  actions:
+    - text: Lista de Verificación de Auditoría de Fábrica
+      href: /es/factory-audit-checklist
+    - text: Identidad de marca
+      href: /es/about/identity

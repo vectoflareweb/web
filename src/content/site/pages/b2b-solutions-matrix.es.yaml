@@ -1,0 +1,134 @@
+meta:
+  title: 'Matriz de soluciones para clientes B2B | {SITE}'
+  description: 'Matriz completa de soluciones B2B de Vectoflare para 24 tipos de cliente: desde startups de outdoor hasta instituciones de conservación marina.'
+  dateModified: '2026-08'
+
+hero:
+  tagline: Soluciones B2B
+  title: '24 soluciones B2B adaptadas a tu negocio'
+  subtitle: 'Desde fundadores de startups hasta distribuidores globales: encuentra la solución Vectoflare exacta diseñada para tu modelo de negocio, tu sector y tus objetivos.'
+  image:
+    src: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-factory-aerial-1.webp
+    alt: Fábrica e instalaciones de fabricación de Vectoflare
+
+answer:
+  label: 'Respuesta directa'
+  text: 'Una sola fábrica sirve todas las vías B2B: fabricación OEM/ODM con MOQ confirmado por proyecto (muestra 1–2 unidades, piloto 20–50, volumen estándar 90–100+ por rollo de 150 m; co-branding desde menos de 20 unidades), marca privada sobre plataformas probadas, distribución mayorista y programas de flotas para resorts, clubes y escuelas. Muestras en 7–12 días; producción en 25–35 días tras el PO y el depósito.'
+  verified: '2026-08'
+
+solutions:
+  title: Matriz de soluciones para clientes
+  subtitle: 'Cada tipo de cliente, su necesidad principal y la página de solución Vectoflare diseñada para él.'
+  items:
+    - clientType: Fundador de startup de outdoor
+      need: Creación de marca
+      solutionPage: Crea tu marca de SUP
+      link: /es/solutions/private-label-sup
+    - clientType: Responsable de marca outdoor
+      need: Expansión de la marca outdoor a los deportes acuáticos
+      solutionPage: Expande tu marca outdoor a los deportes acuáticos
+      link: /es/solutions/private-label-sup
+    - clientType: Propietario de tienda de surf
+      need: Mejora del negocio de surf
+      solutionPage: Lleva la tecnología hinchable a tu negocio de surf
+      link: /es/products/surf
+    - clientType: Vendedor de Amazon
+      need: Crecimiento del e-commerce
+      solutionPage: Diferenciación de producto y suministro rápido
+      link: /es/solutions/private-label-sup
+    - clientType: Marca de equipo de pesca
+      need: SUP de pesca
+      solutionPage: Crea tu marca de SUP de pesca
+      link: /es/products/fishing
+    - clientType: Marca de yoga y bienestar
+      need: Productos acuáticos de bienestar
+      solutionPage: Equipamiento de yoga SUP
+      link: /es/products/yoga
+    - clientType: Marca de creadores
+      need: Marca de influencers
+      solutionPage: SUP de edición creador
+      link: /es/solutions/private-label-sup
+    - clientType: Fundador de club de paddle
+      need: Flota para club
+      solutionPage: Flota SUP comercial
+      link: /es/solutions/club-sup
+    - clientType: Propietario de negocio de alquiler
+      need: Operaciones de alquiler
+      solutionPage: Solución de flota de alquiler duradera
+      link: /es/solutions/resort-sup
+    - clientType: Responsable de actividades de resort
+      need: Experiencia hotelera
+      solutionPage: Paquete de actividades acuáticas para resorts
+      link: /es/solutions/resort-sup
+    - clientType: Academia de deportes acuáticos
+      need: Formación y educación
+      solutionPage: Programa de equipamiento para academias de SUP
+      link: /es/solutions/school-sup
+    - clientType: Compañía de cruceros y yates
+      need: Experiencia náutica
+      solutionPage: Paquete de SUP portátil de lujo
+      link: /es/solutions/resort-sup
+    - clientType: Comprador minorista outdoor
+      need: Canal minorista
+      solutionPage: Programa de etiqueta privada minorista
+      link: /es/solutions/private-label-sup
+    - clientType: Distribuidor e importador
+      need: Distribución regional
+      solutionPage: Socio OEM regional y de cadena de suministro
+      link: /es/oem-manufacturing
+    - clientType: Comprador de proyectos corporativos
+      need: Eventos corporativos
+      solutionPage: Paquete de eventos SUP corporativos
+      link: /es/solutions/private-label-sup
+    - clientType: Responsable de marca de deportes acuáticos
+      need: Expansión de marca de deportes acuáticos
+      solutionPage: Expande tu cartera de deportes acuáticos
+      link: /es/solutions/private-label-sup
+    - clientType: Propietario de marca de aventuras para mascotas
+      need: Outdoor con mascotas
+      solutionPage: Programa de paddle board para mascotas
+      link: /es/product-development
+    - clientType: Operador de recreo de playa
+      need: Entretenimiento de playa
+      solutionPage: Soluciones completas de equipamiento para actividades de playa
+      link: /es/solutions/resort-sup
+    - clientType: Desarrollador de parques acuáticos
+      need: Entretenimiento temático
+      solutionPage: Flota SUP para parques acuáticos comerciales
+      link: /es/solutions/resort-sup
+    - clientType: Propietario de isla privada y club de lujo
+      need: Estilo de vida de alta gama
+      solutionPage: Colección SUP premium a medida
+      link: /es/product-development
+    - clientType: Oficina de turismo y operador de parque público
+      need: Proyectos de turismo público
+      solutionPage: Paquete de deportes acuáticos de destino
+      link: /es/solutions/resort-sup
+    - clientType: Operador de campamento de verano y aventura infantil
+      need: Educación juvenil
+      solutionPage: Programa SUP de exploración infantil
+      link: /es/solutions/school-sup
+    - clientType: Organización de rescate y seguridad acuática
+      need: Rescate profesional
+      solutionPage: Sistema SUP profesional de rescate acuático
+      link: /es/solutions
+    - clientType: Institución de conservación e investigación marina
+      need: Investigación medioambiental
+      solutionPage: Plataforma SUP ecológica de investigación y monitorización
+      link: /es/tourism-recreation
+
+cta:
+  title: '¿No sabes qué solución se adapta a tu negocio?'
+  subtitle: 'Describe tu proyecto a nuestro equipo B2B y te recomendaremos la configuración y los precios adecuados.'
+  actions:
+    - variant: primary
+      text: Habla con nuestro equipo B2B
+      href: /es/contact?subject=b2b-solutions
+    - variant: secondary
+      text: Descargar catálogo
+      href: /es/knowledge
+
+content_html: |
+  <div class="mx-auto max-w-3xl space-y-4 rounded-2xl border bg-card p-6 text-[14.5px] leading-relaxed text-fg-2">
+    <p>Todas las rutas de esta matriz parten de lo mismo: nuestro <a href="/es/oem-manufacturing">programa de fabricación OEM/ODM</a> y la <a href="/es/factory">fábrica</a> — una planta de 12.500 m&sup2;, un mismo estándar de calidad para cada canal.</p>
+  </div>

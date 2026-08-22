@@ -1,0 +1,164 @@
+meta:
+  title: 'Inflatable SUP OEM Manufacturer | Custom Paddle Board Production'
+  description: 'Inflatable SUP OEM factory: manufacture your existing design — engineering review, samples in 7–12 days, production in 25–35 days, CE/ISO/BSCI compliance.'
+  dateModified: '2026-08-16'
+  keywords:
+    - 'SUP OEM manufacturer'
+    - 'OEM inflatable SUP'
+    - 'custom SUP production'
+    - 'SUP factory in China'
+    - 'custom paddle board factory'
+
+hero:
+  tagline: OEM Manufacturing
+  title: 'Custom SUP OEM Manufacturing — Your Spec, Our Factory'
+  subtitle: 'You bring the design, drawing or well-tested platform — we manufacture it at container scale. Engineering review within one business day, samples in 7–12 days, production runs 25–35 days after confirmed PO and deposit, shipped under your brand.'
+
+answer:
+  label: 'Straight answer'
+  text: 'OEM production runs from your specification. MOQ is confirmed by project configuration rather than a fixed number: standard volume production runs 90–100 units per batch from a 150 m drop-stitch fabric roll, pilot runs start at 20–50 units on existing platforms, and every project moves through sample (1–2 units) before volume. Samples ship in 7–12 days; production runs 25–35 days after confirmed PO and deposit, plus 15–20 days when new tooling is required.'
+  verified: '2026-08'
+
+features:
+  title: OEM Capabilities
+  subtitle: 'Everything needed to turn your existing spec, drawing or platform into a shipped container.'
+  items:
+    - title: Manufacture from Your Spec
+      description: 'Your drawings, dimensions, material grades and artwork are executed as delivered — our engineers review the spec for manufacturability before quoting.'
+      icon: 'tabler:file-check'
+    - title: Platform Adaptation
+      description: 'Proven production platforms can be adapted with your shape changes, rail spec, valve layout and accessories — without full mould development.'
+      icon: 'tabler:arrows-diff'
+    - title: Custom Moulds
+      description: 'New board shapes from your drawings or CAD — in-house mould design and engineering. Tooling adds 15–20 days to your project lead time.'
+      icon: 'tabler:shapes'
+    - title: Prototype & Sample
+      description: 'A physical sample is produced and approved before any volume run, typically within 7–12 days, with runway trials for new shapes.'
+      icon: 'tabler:tools'
+    - title: Container-Scale Production
+      description: 'Standard volume batches of 90–100 units per design (one full 150 m fabric roll), pilot runs from 20–50 pcs, 25–35 days lead time after confirmed PO.'
+      icon: 'tabler:package'
+    - title: CE Certified
+      description: 'CE, ISO 9001, BSCI, REACH and RoHS — compliance documentation prepared for every market you ship to.'
+      icon: 'tabler:certificate'
+    - title: Inspection & Traceability
+      description: '18.0 PSI 24-hour pressure-hold testing with auto-reject above 0.50 PSI drop, a 100-point assembly checklist and 10-year ERP batch traceability.'
+      icon: 'tabler:shield-check'
+    - title: Global Logistics
+      description: 'FOB Qingdao, CIF and DDP to more than 50 countries, with export packing and customs clearance handled by our logistics team.'
+      icon: 'tabler:world'
+
+customization:
+  tagline: Built to Your Spec
+  title: OEM Specification Points
+  subtitle: 'These are the specification points you control on an OEM project — your specification document is the production contract:'
+  items:
+    - 'Board dimensions — length, width, thickness, rocker and volume per your drawings or target riders'
+    - 'Material structure — PVC layer count and grade, drop-stitch density, stiffeners and rail reinforcements'
+    - 'Graphics and colors — your artwork applied with unlimited palettes, or support from our in-house design team'
+    - 'EVA traction pad — custom-cut deck pads, logos and deck colors on every board'
+    - 'Handles and D-rings — placement, count and hardware spec for your use case'
+    - 'Fin systems — single, twin or tri-fin configurations and fin boxes to your spec'
+    - 'Paddles, pumps, leashes and accessories — your package, your branding'
+    - 'Packaging and retail presentation — retail boxes, seaworthy shipping packing and point-of-sale displays under your brand'
+    - 'Labels and compliance marks — serial labels, logos and per-market documentation prepared for your export region'
+
+faq_section:
+  tagline: FAQ
+  title: OEM Manufacturing Questions
+  questions:
+    - q: How do I start an OEM project with my own design?
+      a: 'Send your drawings, a reference board or a written specification. Our engineering review confirms manufacturability and returns a quotation within one business day — it is our standard commitment, and an NDA is signed before any file exchange when needed.'
+    - q: What is the MOQ for OEM inflatable SUP?
+      a: 'MOQ is confirmed by project configuration — hull and tooling, colorways and PVC, artwork, packaging and accessories. Standard volume production runs 90–100 units per batch (one 150 m drop-stitch roll), while pilot runs start at 20–50 units on existing platforms. Read the full calculation logic in our MOQ & Flexible Branding Guide.'
+    - q: What is the typical lead time for an OEM order?
+      a: 'Production runs 25–35 days from confirmed PO and deposit. Custom mould development adds 15–20 days for tooling. Prototype samples usually ship within 7–12 days.'
+    - q: Can you manufacture from my existing drawings only?
+      a: 'Yes. OEM builds from your specification as-is — you own the design. Our engineers review the drawings for production feasibility, flag any spec conflicts before tooling or cutting starts, and the approved sample becomes the production reference.'
+    - q: Do you provide samples before production?
+      a: 'Yes. A physical sample is produced and approved before any production run, typically within 7–12 days, and it is the reference for all subsequent QC checks.'
+    - q: Which certifications does the factory hold?
+      a: 'CE, ISO 9001, BSCI, REACH and RoHS. Full compliance documentation is provided with every OEM shipment, prepared for your target markets.'
+    - q: How is quality controlled on an OEM run?
+      a: 'Production runs under multi-point QC — incoming material, in-process and final inspection — with 18.0 PSI 24-hour pressure-hold testing (auto-reject above 0.50 PSI drop), a 100-point assembly checklist and 10-year ERP batch traceability per serial number.'
+    - q: What are your shipping terms?
+      a: 'FOB Qingdao, CIF major global ports, or DDP for qualified partners. We ship to 50+ countries across EU, US, AU and Asia markets.'
+
+process:
+  title: The OEM Process — From Spec to Shipped Container
+  subtitle: 'Seven controlled stages run by one factory team, so every step from your first spec to the packed container stays documented and on schedule.'
+  steps:
+    - phase: '01'
+      title: Spec Review & Quotation
+      period: 1 business day
+      items:
+        - 'Share your drawings, specification or reference boards — our engineers check manufacturability.'
+        - 'You receive a detailed quotation and project plan within one business day.'
+    - phase: '02'
+      title: Engineering Confirmation
+      period: Week 1
+      items:
+        - 'Hull dimensions, drop-stitch grade, PVC specs and rail construction are confirmed against your document.'
+        - 'Mould or platform decisions are locked — custom mould tooling starts here when required.'
+    - phase: '03'
+      title: Prototype & Sample
+      period: 7–12 days
+      items:
+        - 'A physical sample is produced and sent for your review — runway trials included for new shapes.'
+        - 'Sample (1–2 units) validates your spec before any volume commitment.'
+    - phase: '04'
+      title: Testing & Validation
+      period: In parallel
+      items:
+        - 'Air-retention, pressure-hold, seam-strength, load and UV checks per production line.'
+        - 'CE, ISO 9001, BSCI, REACH and RoHS documentation prepared for your export markets.'
+    - phase: '05'
+      title: Approval & Confirmation
+      period: After sample sign-off
+      items:
+        - 'You approve the sample and artwork; the PO and deposit lock the production slot.'
+        - 'A pre-production plan confirms dates, quantities, packaging and port of loading.'
+    - phase: '06'
+      title: Production
+      period: 25–35 days
+      items:
+        - 'Production runs under multi-point QC — incoming material, in-process and final inspection.'
+        - 'From pilot orders (20–50 units) on existing platforms up to full 150 m roll batches (90–100+ units) for standard volume production.'
+    - phase: '07'
+      title: Packing & Shipment
+      period: 1 day + transit
+      items:
+        - 'Export packing with model serial labels, then FOB Qingdao, CIF or DDP to 50+ countries.'
+        - 'Customs documentation, tracking and reorder support included at every stage.'
+
+geo:
+  tagline: Who We Work With
+  title: OEM Partners Across the SUP Industry
+  sentence: 'Every OEM project at Vectoflare is paired with a team that has built boards for the same business type before — here is who we serve.'
+  audiences:
+    - 'SUP Brands'
+    - 'Outdoor & Water Sports Companies'
+    - 'Distributors & Retailers'
+    - 'Resorts, Clubs & Organizations'
+
+cta:
+  title: 'Ready to run your SUP line?'
+  subtitle: 'Receive a detailed OEM quotation within one business day — send your spec or drawings.'
+  actions:
+    - variant: primary
+      text: Request an OEM Quotation
+      href: /contact#custom-oem
+    - text: Verify the factory & quality system
+      href: /oem-trust-assurance
+    - text: The 7-stage inspection system
+      href: /quality
+    - text: MOQ & flexible branding guide
+      href: /oem-moq-guide
+    - text: Custom SUP MOQ & lead time breakdown
+      href: /sup-oem-moq-lead-time
+    - text: Launch a new brand with a trial order
+      href: /new-brand-trial-order
+    - text: SUP Construction Comparison
+      href: /sup-construction-comparison
+    - text: SUP Compliance by Market
+      href: /sup-compliance-by-market

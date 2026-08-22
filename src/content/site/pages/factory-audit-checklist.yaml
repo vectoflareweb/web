@@ -1,0 +1,105 @@
+meta:
+  title: 'Factory Audit Checklist — What to Verify Before Choosing a SUP Manufacturer | Vectoflare'
+  description: 'Factory audit checklist for inflatable SUP buyers: quality system, capacity, material traceability, pressure testing, social compliance and documentation.'
+  dateModified: '2026-08-21'
+  keywords:
+    - 'SUP factory audit checklist'
+    - 'inflatable board manufacturer audit'
+    - 'SUP factory verification'
+    - 'OEM factory inspection'
+    - 'SUP quality audit'
+    - 'SUP manufacturer due diligence'
+    - 'inflatable SUP production audit'
+
+hero:
+  tagline: 'Due Diligence'
+  title: 'Factory Audit Checklist'
+  subtitle: 'Before you commit to a SUP manufacturer, verify the fundamentals. This checklist covers the eight areas a professional buyer should audit — from quality management and production capacity to material traceability and social compliance. Every item on this list is something we can demonstrate with records, not just claims.'
+
+answer:
+  label: 'Quick answer'
+  text: 'The eight audit areas that matter most: (1) Quality management system — ISO 9001 certification and actual gate-by-gate inspection records, not just a certificate on the wall. (2) Production capacity — real output numbers, not nameplate. (3) Material traceability — batch-level incoming inspection and test reports. (4) Pressure and structural testing — documented hold-test protocols. (5) Welding and assembly controls — RF welding parameters and seam inspection. (6) Social compliance — BSCI or equivalent audit. (7) Documentation and traceability — batch records, inspection logs, conformity certificates. (8) Post-delivery support — warranty process, spare parts, communication responsiveness.'
+  verified: '2026-08'
+
+audit_areas:
+  tagline: Eight Audit Areas
+  title: 'What to Verify — The Eight Audit Areas'
+  subtitle: 'Each area includes the questions to ask, the records to request and the red flags to watch for.'
+  grid: 'sm:grid-cols-2 lg:grid-cols-4'
+  features:
+    - icon: Q
+      icon_bg: blue
+      title: '1. Quality Management System'
+      desc: 'Ask for: ISO 9001 certificate (accredited body, current), internal audit schedule, CAPA (corrective and preventive action) log, inspection gate procedures. Red flag: Certificate only, no gate-level inspection records or CAPA process.'
+    - icon: C
+      icon_bg: green
+      title: '2. Production Capacity'
+      desc: 'Ask for: Monthly output figures by product type, production schedule showing current utilization, tooling capacity (number of moulds, CNC machines, RF welders). Red flag: Nameplate capacity only, no utilization data or production schedule.'
+    - icon: M
+      icon_bg: purple
+      title: '3. Material Traceability'
+      desc: 'Ask for: Incoming material inspection records, PVC and drop-stitch supplier certificates, batch traceability from raw material to finished board, REACH/RoHS substance declarations. Red flag: No batch-level traceability, material certificates not available.'
+    - icon: P
+      icon_bg: orange
+      title: '4. Pressure & Structural Testing'
+      desc: 'Ask for: Pressure test protocol (PSI, duration, pass/fail criteria), test logs for recent production batches, structural test records (drop, impact, rail stress). Red flag: "Visual inspection only" or no documented test protocol with quantitative pass/fail.'
+    - icon: W
+      icon_bg: blue
+      title: '5. Welding & Assembly Controls'
+      desc: 'Ask for: RF welding parameter records (temperature, pressure, dwell time), seam inspection criteria and reject rates, assembly sequence documentation. Red flag: No welding parameter logs, high seam reject rate with no CAPA.'
+    - icon: S
+      icon_bg: green
+      title: '6. Social Compliance'
+      desc: 'Ask for: BSCI or SMETA audit report (current, full scope), working hours and wage records, health and safety inspection reports, environmental compliance documentation. Red flag: No third-party social audit, or audit with major non-conformances unresolved.'
+    - icon: D
+      icon_bg: purple
+      title: '7. Documentation & Traceability'
+      desc: 'Ask for: Batch production records, inspection logs per gate, certificates of conformity, packing lists with batch references, warranty claim tracking system. Red flag: No batch-level documentation, warranty claims not tracked or analyzed.'
+    - icon: A
+      icon_bg: orange
+      title: '8. Post-Delivery Support'
+      desc: 'Ask for: Warranty terms and claim process, average claim resolution time, spare parts availability, communication response time commitment, post-delivery review process. Red flag: No documented warranty process, slow or inconsistent communication after delivery.'
+
+our_position:
+  heading: 'Our Position on Each Audit Area'
+  body: |
+    We do not just claim compliance — we provide the records. Here is our position on each of the eight audit areas:
+
+    - **Quality management**: ISO 9001:2015 certified, audited annually by accredited third party. 7-stage inspection gate system with documented pass/fail criteria at every gate. CAPA log maintained and reviewed quarterly.
+    - **Production capacity**: 30,000+ boards annual capacity, 2,500+ monthly output. Production schedule available for review during factory visit. 4 production lines, 3 CNC machines, 5 RF welders.
+    - **Material traceability**: Batch-level traceability from incoming material to finished board. PVC and drop-stitch supplier certificates on file. REACH and RoHS substance declarations available per batch.
+    - **Pressure testing**: 18.0 PSI hold test with auto-reject above 0.50 PSI drop over 24 hours. Test logs available for every production batch. Structural and impact testing per construction type.
+    - **Welding controls**: RF welding parameters logged per production run. Seam inspection at gate 3 with documented reject rates. CAPA initiated for reject rates above threshold.
+    - **Social compliance**: BSCI audited. Working hours, wage and safety records available for inspection during factory visit.
+    - **Documentation**: Batch production records, inspection logs per gate, certificates of conformity and packing lists with batch references shipped with every order. Warranty claim tracking system maintained.
+    - **Post-delivery support**: Warranty terms documented per contract. Average claim resolution under 14 business days. Spare parts available from stock. Post-delivery review offered for every first order.
+
+evidence_review:
+  tagline: 'Evidence & Verification'
+  title: 'SPECIFICATIONS VERIFIED'
+  body: 'All manufacturing and quality claims on this page are verified by our manufacturing engineering team at the Laixi, Qingdao factory. Certificates, QC inspection records, pressure and structural test reports, and batch traceability logs are available on request. Specifications last verified 2026-08.'
+
+faqs:
+  tagline: FAQ
+  title: 'Factory Audit — Frequently Asked Questions'
+  items:
+    - q: 'Can I visit the factory for an on-site audit?'
+      a: 'Yes. We welcome factory visits and can arrange a structured audit covering all eight areas. Typical visit includes production floor walkthrough, QC gate observation, material warehouse inspection, document review and Q&A with the quality manager. Allow a full day. Contact us to schedule.'
+    - q: 'Do you provide audit documentation before a visit?'
+      a: 'Yes. We can share ISO 9001 certificate, BSCI report, production capacity summary, pressure test protocol and sample inspection records before your visit — so you can prepare targeted questions. Full batch records are available on-site during the visit.'
+    - q: 'What third-party inspections do you use?'
+      a: 'We work with SGS, Intertek and TUV for third-party inspections and certifications. Third-party pre-shipment inspection is available on request for any order. Inspection scope and costs are confirmed during the quotation phase.'
+    - q: 'How do I know your quality system is actually enforced, not just documented?'
+      a: 'Every board passes 7 inspection gates with quantitative pass/fail criteria — not visual checklists. Pressure test data, welding parameters and reject rates are logged per batch and available for your review. CAPA is triggered automatically for out-of-spec results. We encourage you to audit the live process during a factory visit.'
+
+cta:
+  title: 'Schedule a Factory Audit'
+  subtitle: 'Request audit documentation or schedule an on-site visit. We provide the records — you verify the process.'
+  actions:
+    - variant: primary
+      text: Request Audit Documentation
+      href: /contact#project-brief
+    - text: Verify certifications and quality system
+      href: /proof-center
+    - text: OEM onboarding process
+      href: /oem-onboarding-guide

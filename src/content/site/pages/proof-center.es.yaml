@@ -1,0 +1,168 @@
+﻿meta:
+  title: 'Centro de Evidencia —La Documentación Detrás de Cada Afirmación'
+  description: 'Carpeta de prueba detrás de las afirmaciones de Vectoflare: entidades, certificados con alcance, equipos, trazabilidad por lote y documentación de inspección.'
+  dateModified: '2026-08-16'
+  keywords:
+    - 'evidencia fábrica SUP'
+    - 'lista certificados fábrica'
+    - 'trazabilidad lote SUP'
+    - 'verificación fábrica SUP'
+
+hero:
+  tagline: 'Centro de Evidencia de Fábrica'
+  title: 'Centro de Evidencia —Todo Lo Que Afirmamos, Archivado Aquí'
+  subtitle: 'Una página que conecta cada afirmación de este sitio con su evidencia: la entidad registrada detrás de la fábrica, los certificados con su alcance, las máquinas que hacen el trabajo y los registros de lote que sobreviven a cada producción.'
+  actions:
+    - { variant: primary, text: 'Solicitar el paquete de verificación', href: '/es/contact#trust-verification' }
+    - { variant: ghost, text: 'Explorar el sistema de calidad', href: '/es/quality' }
+
+answer:
+  label: 'Respuesta directa'
+  text: 'La cadena afirmación-evidencia es: cada afirmación de este sitio está respaldada por un registro, un certificado, una máquina, un documento o un registro de prueba — y cada uno de ellos puede revisarse. Vectoflare es la división de desarrollo y fabricación de SUP de Vectoflare, la división de fabricación de Qingdao Vatrad Group Co., Ltd. (registrada en Qingdao desde 2012). La planta de 12,500 m² cuenta con gestión de calidad ISO 9001:2015, cumplimiento ISO 25649, documentación de conformidad CE, cumplimiento social BSCI (informe de auditoría bajo petición) y documentación de materiales REACH/RoHS por pedido. Cada cámara hinchable se prueba a 18.0 PSI durante 24 horas con auto-rechazo por encima de 0.50 PSI de caída, y los registros de lote se conservan con trazabilidad ERP de 10 años. La documentación se publica o se comparte, y la fábrica misma está abierta a auditorías.'
+  verified: '2026-08'
+
+entities:
+  tagline: 'Quién Está Detrás De La Fábrica'
+  title: 'Tres Nombres, Una Cadena Legal —Nada Oculto'
+  subtitle: 'El lado comercial, la división de fabricación y la entidad legal son una sola cadena que se puede seguir del sitio web al registro mercantil.'
+  features:
+    - icon: S
+      icon_bg: blue
+      title: 'Vectoflare — el sitio web público'
+      desc: 'La línea de productos SUP OEM/ODM y marca privada con su documentación pública: catálogo, guía de MOQ, páginas del sistema de calidad y casos de éxito. El nombre con el que negocias es el nombre que puedes inspeccionar.'
+      link: '/es/about/vectoflare-entity'
+      link_label: 'Página de la entidad'
+    - icon: A
+      icon_bg: green
+      title: 'Vectoflare — la división de fabricación'
+      desc: 'La marca marina detrás de la planta: tablas SUP, barcos hinchables y RIB producidos en la misma instalación de Qingdao. La documentación de producto y calidad se emite bajo esta marca.'
+      link: '/es/factory'
+      link_label: 'Explorar la fábrica'
+    - icon: V
+      icon_bg: orange
+      title: 'Qingdao Vatrad Group Co., Ltd. — la entidad legal'
+      desc: 'El fabricante registrado (desde 2012) que opera la planta de 12,500 m² en la Zona de Desarrollo Económico de Laixi, Qingdao. Los datos de registro, la licencia de comercio exterior y los registros de auditoría se comparten bajo NDA o durante una auditoría.'
+      link: '/es/oem-trust-assurance'
+      link_label: 'Ver el caso de verificación'
+
+proof_stats:
+  - value: '12,500 m²'
+    label: 'Una sola planta'
+    detail: '4 talleres especializados, abiertos a auditorías'
+  - value: '350+'
+    label: 'Trabajadores en planta'
+    detail: '25+ ingenieros en I+D, materiales y calidad'
+  - value: '120,000+'
+    label: 'Tablas al año'
+    detail: '~10,000 tablas/mes en 4 líneas automatizadas'
+  - value: '50+'
+    label: 'Países atendidos'
+    detail: 'Europa, América, APAC, Oriente Medio'
+  - value: '7 etapas'
+    label: 'Sistema de puertas de inspección'
+    detail: 'Nodo 01–07, registrado por número de serie'
+  - value: '10 años'
+    label: 'Trazabilidad ERP por lote'
+    detail: 'Registros conservados y vinculados por lote'
+
+certifications:
+  tagline: 'Certificados Y Alcance'
+  title: 'Qué Tenemos, Qué Cubre, Cómo Se Verifica'
+  subtitle: 'La lista publicada —nunca "solo disponible bajo petición". Números de certificado y registros de auditoría se facilitan bajo petición o durante una auditoría.'
+  headers:
+    certificate: 'Certificado / norma'
+    scope: 'Cobertura'
+    verify: 'Cómo se verifica'
+  rows:
+    - certificate: 'ISO 9001:2015'
+      scope: 'Gestión de calidad para diseño y producción de SUP'
+      verify: 'Número de certificado y registros de auditoría bajo petición o en auditoría'
+    - certificate: 'ISO 25649'
+      scope: 'Seguridad y conformidad estructural de embarcaciones hinchables (Europa)'
+      verify: 'Documentación de conformidad por familia de producto'
+    - certificate: 'CE'
+      scope: 'Conformidad UE para productos SUP hinchables'
+      verify: 'Documentación CE entregada con los pedidos'
+    - certificate: 'BSCI'
+      scope: 'Cumplimiento social para instalaciones y plantilla'
+      verify: 'Informe de auditoría disponible bajo petición'
+    - certificate: 'REACH y RoHS'
+      scope: 'Sustancias restringidas y documentación de materiales'
+      verify: 'Documentación de materiales con cada pedido'
+    - certificate: 'Inspección externa (opción)'
+      scope: 'Inspección previa al envío SGS, TÜV, BV o Intertek'
+      verify: 'ISO 2859-1 Nivel II, programada a tu elección'
+
+evidence_gates:
+  tagline: 'Dónde Vive La Evidencia'
+  title: 'Carpetas De Evidencia —Abiertas Para Inspección'
+  subtitle: 'Cada carpeta es una página viva que puedes revisar ahora, más documentos que viajan con tu pedido.'
+  features:
+    - icon: E
+      icon_bg: blue
+      title: 'Lista de equipos y maquinaria'
+      desc: 'Corte, soldadura, laminación, impresión y ensamblaje, más el laboratorio de calidad — máquinas con nombre, especificación y función. Pide un recorrido en vivo.'
+      link: '/es/factory/equipment'
+      link_label: 'Abrir lista de equipos'
+    - icon: P
+      icon_bg: green
+      title: 'Fotos e informes de inspección'
+      desc: 'Siete puertas de inspección con fotos de planta e informes bilingües — qué se verifica, con qué método, contra qué criterio, dónde queda registrado.'
+      link: '/es/factory/process'
+      link_label: 'Abrir puertas de inspección'
+    - icon: Q
+      icon_bg: orange
+      title: 'Laboratorio de calidad y procedimientos'
+      desc: 'Máquina de tracción universal (ASTM D751), prueba de pelado de costuras (ISO 6185), bancos de retención de aire y cámara de envejecimiento xenón — las máquinas que verifican telas y cámaras.'
+      link: '/es/factory/quality-lab'
+      link_label: 'Abrir el laboratorio'
+    - icon: T
+      icon_bg: purple
+      title: 'Trazabilidad y cuarentena'
+      desc: 'La cadena literal del rollo de tela a la tabla embarcada, el flujo de cuarentena de 7 pasos para existencias no conformes y la matriz de defectos que gobierna las disposiciones.'
+      link: '/es/factory/quality-inspection'
+      link_label: 'Abrir archivo de trazabilidad'
+
+traceability:
+  tagline: 'Un Lote, Seguido Del Rollo A La Tabla'
+  title: 'Cómo Es La Trazabilidad Real'
+  body: |
+    Cada lote recibe un **código de lote ERP de 10 años**. La cadena registrada bajo un mismo lote:
+
+    - **Rollo entrante** — certificado de material, número de rollo, lote de tela probada (tracción, desgarro, costuras)
+    - **Corte** — trabajo de anidado CNC contra el archivo de diseño, porcentaje de desperdicio registrado
+    - **Soldadura y laminación** — línea, operario, parámetros de máquina por cámara
+    - **Ensamblaje** — número de serie de la tabla, tipo de válvula, lote del piso EVA
+    - **Prueba** — 18.0 PSI × 24 h de retención por cámara, auto-rechazo por encima de 0.50 PSI de caída
+    - **Liberación** — checklist de 100 puntos por tabla, firma del Director de QA por lote
+    - **En adelante** — Certificado de Conformidad con el envío; derecho de auditoría reservado en el contrato
+
+    Pide el registro de control de calidad de muestra antes de tu primer pedido: es el mismo formato que recibes con tu envío.
+
+faqs:
+  tagline: 'FAQ'
+  title: 'Preguntas De Evidencia Que Hacen Los Compradores'
+  items:
+    - q: '¿Esta página es solo para verificación y no sustituye la diligencia debida?'
+      a: 'Correcto — esta página muestra dónde se puede verificar cada afirmación: registro de la entidad, certificados, máquinas, registros y una planta abierta a auditorías. Tus pasos habituales de diligencia debida (comprobación del registro, auditoría, inspección externa) siguen aplicándose y son bienvenidos.'
+    - q: '¿Qué entidad debe aparecer en la documentación de mi pedido?'
+      a: 'Los pedidos se formalizan con Qingdao Vatrad Group Co., Ltd., que opera como Vectoflare (división de fabricación), con Vectoflare como línea de producto SUP. Los contratos se firman por el Vicepresidente Comercial, el Ingeniero Jefe y el Director de QA.'
+    - q: '¿Puedo obtener copias de los certificados antes de pedir?'
+      a: 'Sí: los números de certificado y los registros de auditoría se facilitan bajo petición o durante una auditoría. La lista está publicada, nunca es "solo disponible bajo petición".'
+    - q: '¿Cómo verifico yo mismo los registros de prueba del lote?'
+      a: 'Cada cámara se prueba a 18.0 PSI durante 24 horas con auto-rechazo por encima de 0.50 PSI de caída; los registros se vinculan a los números de serie y viajan con el Certificado de Conformidad por lote. Puedes programar inspección previa al envío SGS, TÜV, BV o Intertek según ISO 2859-1 Nivel II.'
+    - q: '¿Los certificados cubren también los accesorios?'
+      a: 'La documentación de materiales REACH/RoHS aplica a tablas y accesorios del mismo pedido, y los checklists de control de calidad cubren el kit completo: tabla, remo, bomba, correa y bolsa.'
+    - q: '¿Qué pasa con la evidencia después del pedido?'
+      a: 'La trazabilidad ERP del lote se conserva durante 10 años. Los SOP del SGC y las normas de inspección siguen descargables, y el comprador reserva un derecho de auditoría durante la producción según el contrato.'
+
+cta:
+  title: 'Verifica Primero —Después Hablamos De Especificaciones'
+  subtitle: 'Pide el paquete de registro, copias de certificados o una cita de auditoría. La verificación viene primero; la conversación del pedido después. Enviar una consulta no te compromete a ningún pedido.'
+  button_text: 'Solicitar el paquete de verificación'
+  button_link: '/es/contact#trust-verification'
+  actions:
+    - text: Identidad de marca
+      href: /es/about/identity
+    - text: Lista de Verificación de Auditoría de Fábrica
+      href: /es/factory-audit-checklist

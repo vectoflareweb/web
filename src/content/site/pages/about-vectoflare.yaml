@@ -1,0 +1,100 @@
+meta:
+  title: 'About Vectoflare — the Marine Manufacturing Division'
+  description: 'Vectoflare is the marine manufacturing division of Qingdao Vatrad Group, founded in 2012 in Qingdao, China — the factory behind every Vectoflare custom project.'
+  dateModified: '2026-08'
+  keywords:
+    - 'Vectoflare'
+    - 'sup factory china'
+    - 'inflatable sup manufacturer'
+    - 'qingdao vatrad group'
+hero:
+  tagline: About Vectoflare
+  title: 'Vectoflare — the Marine Manufacturing Division Behind {SITE}'
+  subtitle: 'Founded in 2012 in Qingdao, China, Vectoflare builds the inflatable watercraft and SUP boards behind Vectoflare custom projects — a 12,500 m² factory, 350+ workers and 120,000+ units of annual capacity.'
+  actions:
+    - text: 'Start a Custom Project'
+      href: /contact
+      variant: primary
+    - text: 'See the Factory'
+      href: /factory
+      variant: secondary
+intro: |
+  <p><strong>Vectoflare</strong> is the marine manufacturing division of <strong>Qingdao Vatrad Group Co., Ltd.</strong>, based in the Economic Development Zone of Laixi, Qingdao, Shandong, China. Founded in 2012, the company began as a specialized watercraft workshop committed to marine craftsmanship, and has grown into a certified factory serving OEM and ODM clients across more than 50 countries.</p>
+  <p>Vectoflare is the B2B custom-development division of the Vectoflare factory. Every Vectoflare project — from a first sample or small-batch co-branded run to a full private-label product line — is manufactured in the same facility, by the same teams, and under the same quality system described here.</p>
+  <p>The factory covers 12,500 m² with dedicated workshops for PVC cutting, drop-stitch core assembly, high-frequency welding, board assembly and a testing area for air-retention, pressure-hold and seam-strength checks. Production capacity exceeds 120,000 inflatable units per year, and the facility operates under ISO 9001 quality management with CE, BSCI, REACH and USCG-approved compliance for exported products.</p>
+  <p>More than 350 skilled workers and 14+ R&D engineers support the two lines of work that matter to SUP brands: engineering (hull design, material selection, prototyping) and production (graphics application, assembly, inspection, export packing). An in-house R&D center with a PVC fabric lab and test tank handles custom molds and structure validation before mass production begins.</p>
+stats:
+  title: Vectoflare by the Numbers
+  stats:
+    - title: Founded
+      amount: 2012
+    - title: Facility
+      amount: '12,500 m²'
+    - title: Countries Served
+      amount: '50+'
+    - title: Annual Capacity
+      amount: '120,000+ units'
+    - title: Employees
+      amount: '350+'
+    - title: R&D Engineers
+      amount: '14+'
+values_section:
+  title: How the Factory Works With Brands
+  subtitle: 'Three principles that shape every project built by the Vectoflare factory.'
+  columns: 3
+  items:
+    - title: Engineering Before Production
+      description: 'Every project starts with requirements, drawings and a physical sample — hull shape, drop-stitch grade, graphics placement and packaging are validated before any production run, not discovered on the line.'
+      icon: 'tabler:settings'
+    - title: One Team, One Facility
+      description: 'Design, cutting, welding, assembly and testing happen in one 12,500 m² facility. No trading-company handoffs: the people who answer your questions are the people who build your boards.'
+      icon: 'tabler:building-factory-2'
+    - title: Small First Runs
+      description: 'Small-batch co-branding starts at 5–10 units and standard volume production runs 90–100+ units per batch (one 150 m drop-stitch roll), so brands validate the market before scaling — with tooling and artwork retained for reorders.'
+      icon: 'tabler:layers-intersect'
+services_section:
+  title: What the Factory Delivers
+  subtitle: 'The manufacturing services available to Vectoflare clients.'
+  columns: 2
+  items:
+    - title: Custom SUP Development
+      description: 'Requirement evaluation, specification, materials selection, graphics, prototyping, sample approval and production for custom inflatable SUP products.'
+      icon: 'tabler:bulb'
+    - title: Private Label Production
+      description: 'Your logo, colors and packaging on proven commercial-grade platforms — board, deck pad, accessories and cartons all carry your identity, with no factory branding.'
+      icon: 'tabler:tag'
+    - title: OEM / ODM Manufacturing
+      description: 'Full OEM and ODM inflatable SUP manufacturing from client drawings or co-developed designs, including custom molds for new board shapes.'
+      icon: 'tabler:package'
+    - title: Fleet Supply
+      description: 'Branded board fleets for resorts, clubs, schools and rental operators, with matching accessories and fleet-friendly production runs.'
+      icon: 'tabler:users-group'
+certifications_section:
+  title: Certification & Compliance
+  subtitle: 'The factory ships to the EU, US and Asia-Pacific under a documented compliance system.'
+  columns: 2
+  items:
+    - title: CE Certification
+      description: 'Inflatable SUP and watercraft product lines comply with EU safety directives, with documentation provided for each market.'
+      icon: 'tabler:certificate'
+    - title: ISO 9001 Quality System
+      description: 'Manufacturing facility operates under an ISO 9001 quality management system covering incoming material, in-process and final inspection.'
+      icon: 'tabler:badge-check'
+    - title: BSCI Social Compliance
+      description: 'Social responsibility audited under BSCI, covering working conditions and factory compliance.'
+      icon: 'tabler:shield-check'
+    - title: REACH Material Compliance
+      description: 'Materials comply with EU REACH regulation for chemical safety.'
+      icon: 'tabler:flask'
+    - title: USCG Approval
+      description: 'US Coast Guard approved manufacturing for inflatable watercraft product lines.'
+      icon: 'tabler:anchor'
+    - title: Product Testing
+      description: 'Buoyancy, load capacity, seam strength, UV resistance, abrasion resistance and pressure-hold testing on every production line.'
+      icon: 'tabler:test-pipe'
+cta:
+  title: 'Build your SUP project with the Vectoflare factory'
+  subtitle: 'Send your requirements — board type, size, quantity and graphics — and receive a detailed quote within one business day.'
+  actions:
+    - text: Brand Identity
+      href: /about/identity

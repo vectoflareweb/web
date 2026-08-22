@@ -1,0 +1,349 @@
+meta:
+  title: 'Rework Parameter Change Control & Validation | Vectoflare'
+  description: 'Rework parameter change control under ISO 9001: ECR, risk classification, approval matrix, validation and re-inspection for SUP production.'
+  dateModified: '2026-08-14'
+  keywords:
+    - 'sup rework change control'
+    - 'iso 9001 change control manufacturing'
+    - 'inflatable sup oem quality management'
+    - 'ecr engineering change request sup'
+    - 'air-tightness validation standard'
+    - 'sup factory quality assurance'
+
+hero:
+  tagline: Rework Parameter Change Control
+  title: Rework Process Parameter Change Control & Validation Standard
+  subtitle: 'At QINGDAO VATRAD GROUP.,LTD., no operator, shift leader or single department may change an approved rework parameter on the spot. Any proposed change to approved rework materials, process conditions, tooling, test methods, inspection criteria or authorized personnel is managed through documented change control — Engineering Change Request, impact & risk assessment, cross-functional approval, validation plan, controlled implementation, re-inspection and effectiveness review, then closure and record retention. This page presents our controlled standard QMS-SOP-QC-CC-001 (Rev 2.0, ISO 9001:2015-based) and the engineering evidence behind it.'
+  actions:
+    - text: Download Change Control SOP (PDF)
+      variant: primary
+      href: 'https://assets.vectoflare.com/site/downloads/rework-change-control-sop-qms-sop-qc-cc-001.pdf?dl=1'
+    - text: Download Execution Annex A (PDF)
+      href: 'https://assets.vectoflare.com/site/downloads/rework-execution-annex-a-qms-sop-qc-cc-001.pdf?dl=1'
+    - text: Request Quality Review
+      href: /contact
+
+answer:
+  label: 'Straight answer'
+  text: 'Rework parameter changes are never decided verbally or retroactively at QINGDAO VATRAD GROUP.,LTD. Every proposed change to approved rework materials, process conditions, equipment, test methods, inspection criteria or authorized personnel must pass formal change control before implementation: a documented Engineering Change Request (ECR), impact and risk assessment, cross-functional review by Engineering, Quality, Production, Procurement and Project, approval at the level fixed by our authorization matrix, an approved validation plan for high-risk changes, controlled pilot implementation, re-inspection and effectiveness review, and closure only after document revision and training. Any change affecting customer-approved specifications, samples, BOMs, artwork or acceptance criteria additionally requires written customer approval.'
+  verified: '2026-08'
+
+stats:
+  tagline: At a Glance
+  title: Change Control in Numbers
+  stats:
+    - value: '9'
+      label: Steps in the change control closed-loop
+    - value: '6'
+      label: Change categories requiring formal change control
+    - value: '4'
+      label: Core rework processes with quantified parameters
+    - value: '≥ 5'
+      label: Sample boards + 2 independent QC for high-risk validation
+
+
+cc_intro:
+  tagline: Scope & Policy
+  title: Core Governance Principles
+  body: |
+    **Document:** QMS-SOP-QC-CC-001 — *Rework Process Parameter Change Control Standard* (Rev 2.0, Official Release). **Manufacturer:** QINGDAO VATRAD GROUP.,LTD. / 青岛万国通衢进出口有限公司. **Standard reference:** ISO 9001:2015 Quality Management Systems.
+
+    - **No uncontrolled changes.** Rework parameter changes must be routed through formal change control. On-site operators, shift leaders or a single department are never allowed to modify approved rework parameters by verbal agreement or handwriting on a rework record.
+    - **Full-element coverage.** The controlled scope covers air-tightness, valve seats, rail bands, seam bonding, hot-air curing and pressure-hold testing — every parameter that can influence sealing, structural durability, appearance, customer acceptance or traceability.
+    - **Customer approval bottom line.** Any change that moves a product away from the customer-approved sample, technical specification, BOM, artwork, packaging requirement or acceptance criteria is implemented only with written customer approval. Without it, the board is reworked per the original requirement, replaced or rejected — never "relaxed" by the factory alone.
+
+cc_scope:
+  tagline: Risk Classification
+  title: Change Scope & Risk Classification
+  subtitle: Any of the following triggers formal change control — it is never handled by writing a note in the rework record. Risk level drives who approves and how much validation is required.
+  headers:
+    category: Change Category
+    examples: Typical Examples
+    risk: Risk
+    requirements: Control & Approval Requirements
+  rows:
+    - category: 'Rework Materials'
+      examples: 'Adhesive, cleaner, patch material, valve seal, primer or supplier change'
+      risk: 'High'
+      requirements: 'Cross-department review + material compatibility & pressure-hold validation + customer sign-off where applicable'
+    - category: 'Process Conditions'
+      examples: 'Surface preparation, hot-air curing temperature/humidity, clamp pressure, hold duration'
+      risk: 'High'
+      requirements: 'Engineering + Quality approval with defined temperature & humidity window validation'
+    - category: 'Tooling & Gauges'
+      examples: 'Pressure gauges, leak detectors, heat guns, valve tools, test software'
+      risk: 'Medium/High'
+      requirements: 'Calibration validity check + equipment suitability assessment'
+    - category: 'Defect Scope'
+      examples: 'Rework area expansion; surface micro-leak growing into rail, seam or valve-seat critical zones'
+      risk: 'High'
+      requirements: 'Structural load-bearing surfaces: mandatory stop and re-assessment'
+    - category: 'Inspection Methods'
+      examples: 'Leak-detection method, test pressure (18.0 PSI), hold duration (24h)'
+      risk: 'High'
+      requirements: 'Quality approval + customer technical agreement confirmation'
+    - category: 'Documentation & Authorization'
+      examples: 'Rework instruction, inspection sheets, NCR disposition logic, operator qualification'
+      risk: 'Medium'
+      requirements: 'Controlled document revision (Rev A → Rev B) + training records'
+
+cc_containment:
+  tagline: Hard Stop Rule
+  title: Immediate Containment When Conditions Get Serious
+  body: |
+    > "The existing rework method shall be placed under review and shall not be applied to additional affected product until the change is assessed and authorized, unless a documented temporary deviation is approved by Quality and Engineering."
+
+    The current rework method must be suspended immediately when rework re-inspection keeps failing, when the defect involves structural load-bearing zones (valve base, rails, seams, nose/tail pressure areas), when a substitute material is not yet validated, or when current parameters conflict with the customer-approved specification.
+
+    Temporary deviations never become permanent practice: each one carries a defined validity window, applicable batch scope, quantity cap, validation requirements and an automatic expiration mechanism. A verbal exception is not an exception — if it is not documented with its expiry, it does not exist.
+
+cc_flow:
+  tagline: Standard 9-Step Closed-Loop
+  title: From Change Request to Closure & Retention
+  subtitle: 'One documented loop for every parameter change: propose, screen, assess, approve, validate, pilot, verify, revise, close.'
+  steps:
+    - step: '01'
+      title: Change Request (ECR)
+      desc: 'Any department may raise a request, but Engineering, Quality or Production management sponsors it. The ECR answers why the change is proposed, what changes, what is affected and how it will be verified — with change control number, related NCR/CAPA, current vs proposed parameter, affected batches and temporary/permanent classification.'
+    - step: '02'
+      title: Initial Screening & Containment
+      desc: 'The request is screened first for immediate containment: does the current method have to stop now? If a temporary deviation is allowed, it is bounded by validity window, batch scope, quantity cap and automatic expiry.'
+    - step: '03'
+      title: Impact & Risk Assessment
+      desc: 'Engineering, Quality, Production, Procurement/Supply Chain and Project assess product performance, acceptance criteria, material compatibility, appearance, process capability, equipment and gauges, personnel qualification, customer requirements, compliance and traceability scope.'
+    - step: '04'
+      title: Joint Review & Approval
+      desc: 'Approval follows the fixed authorization matrix — not "whoever speaks loudest". High-risk changes require cross-departmental approval and, where required, written customer approval before any trial.'
+    - step: '05'
+      title: Validation Plan
+      desc: 'For high-risk changes, an approved validation plan is required before routine application: representative sample boards, current vs proposed method, test methods, acceptance criteria, inspection stages, responsible persons and schedule.'
+    - step: '06'
+      title: Controlled Pilot & Implementation
+      desc: 'New documents are released and obsolete versions withdrawn and marked OBSOLETE; new materials and gauges are verified and calibrated; operators are trained and qualified; the first batch runs under tightened inspection with clear status identification.'
+    - step: '07'
+      title: Re-Inspection & Effectiveness Review
+      desc: 'First-pass rework rate, re-inspection pass rate, recurrence rate and appearance acceptance are measured and reviewed before the change can be considered effective — one repaired board is never treated as process validation.'
+    - step: '08'
+      title: Document Revision & Training
+      desc: 'Work instructions, inspection sheets, NCR disposition options, parameter cards and training materials are updated to the new revision with recorded hands-on training and operator qualification.'
+    - step: '09'
+      title: Closure & Record Retention
+      desc: 'The change is closed only after validation evidence, document updates, training records and implementation effectiveness are reviewed and approved. If the intended result is not achieved, the change is revised, extended, suspended or withdrawn.'
+
+cc_approval:
+  tagline: Approval Matrix
+  title: Cross-Department Authorization Matrix
+  subtitle: 'A fixed authorization table prevents ad-hoc decision-making: each change type has its required approvers, from document-level clarification up to customer sign-off.'
+  headers:
+    change: Change Content
+    engineering: Engineering
+    quality: Quality
+    production: Production
+    procurement: Procurement
+    project: Project / Sales
+    customer: Customer
+  rows:
+    - change: 'Document wording clarification (no parameter impact)'
+      engineering: Review
+      quality: 'Approve'
+      production: Notify
+      procurement: '—'
+      project: '—'
+      customer: '—'
+    - change: 'Rework operation sequence adjustment'
+      engineering: 'Approve'
+      quality: 'Approve'
+      production: Countersign
+      procurement: '—'
+      project: Notify
+      customer: As required
+    - change: 'New rework operator qualification'
+      engineering: Review
+      quality: 'Approve'
+      production: 'Approve'
+      procurement: '—'
+      project: '—'
+      customer: '—'
+    - change: 'Tooling / test equipment change'
+      engineering: 'Approve'
+      quality: 'Approve'
+      production: Countersign
+      procurement: As needed
+      project: '—'
+      customer: As required
+    - change: 'Substitute rework material / supplier'
+      engineering: 'Approve'
+      quality: 'Approve'
+      production: Countersign
+      procurement: Countersign
+      project: Notify
+      customer: May be required
+    - change: 'Pressure / hold / curing parameter change'
+      engineering: 'Approve'
+      quality: 'Approve'
+      production: Countersign
+      procurement: '—'
+      project: Notify
+      customer: When project requires
+    - change: 'Rail / seam / valve-seat rework method change'
+      engineering: 'Approve'
+      quality: 'Approve'
+      production: Countersign
+      procurement: As needed
+      project: Notify
+      customer: Usually recommended
+    - change: 'Customer specification, approval sample or acceptance criteria change'
+      engineering: 'Approve'
+      quality: 'Approve'
+      production: Countersign
+      procurement: '—'
+      project: Countersign
+      customer: 'Written approval mandatory'
+
+cc_validation:
+  tagline: Engineering Validation
+  title: Validation & Acceptance Protocol — Evidence Over Statements
+  body: |
+    Vague acceptance wording such as *"the repaired board must be good"* is not accepted. The controlled wording is:
+
+    > "The reworked sample shall meet the same applicable air-tightness, visual workmanship, valve-function and project-specific acceptance criteria as a conforming board, unless a customer-approved deviation specifically defines an alternative criterion."
+
+    Validation evidence is quantitative, and the engineering baseline for air-tightness rework includes:
+
+    - **Leak elimination & pressure hold.** The original leak is removed with no sustained bubbles in soap-water leak detection; the board holds at the standard test pressure of 18.0 PSI for 24 hours, with net pressure drop ΔP ≤ 0.2 PSI after temperature/humidity compensation.
+    - **Valve function.** Valve core torque meets the 15–20 N·m specification, with no micro-leak at the seal under high-pressure inflation and dynamic pressing.
+    - **Seam bonding & durability.** Bond edges show no lifting, whitening or delamination; after heat-humidity aging cycles the adhesive layer shows no softening or brittle cracking.
+    - **Appearance & workmanship.** No adhesive run-off marks, no EVA damage, no board distortion, and no logo shift or printed-surface scratches.
+
+cc_engineering:
+  tagline: Engineering Execution Matrix
+  title: Quantified Parameters for the Four Core Rework Processes
+  subtitle: 'Each controlled rework process carries defined parameters, methodology and acceptance criteria — the same numbers our operators follow and our customers can verify during audits.'
+  headers:
+    process: Rework Process
+    parameters: Controlled Parameters
+    methodology: Test Methodology
+    acceptance: Acceptance Criteria
+  rows:
+    - process: 'Pinhole / Micro-Leak Patch Repair'
+      parameters: 'Solvent clean & dry 3–5 min; hot-air activation 60°C ± 5°C; press roller ≥ 0.4 MPa'
+      methodology: 'Inflate to 18 PSI; full water immersion or soap application; observe for 10 minutes'
+      acceptance: 'Zero bubble emission; 180° edge peel with no lifting and no adhesive run-off marks'
+    - process: 'Rail Band / Seam Re-Bonding'
+      parameters: 'Two-component adhesive ratio strictly controlled; environment 22–28°C, ≤ 65% RH; fixture clamp ≥ 4 h'
+      methodology: '22 PSI over-pressure test for 2 h; then 50°C heat-box bake 6 h and 2 h room-temperature rest'
+      acceptance: 'Zero separation, zero cracking; net pressure drop ΔP ≤ 0.1 PSI; adhesive layer without whitening or embrittlement'
+    - process: 'Valve Base Loosening / Micro-Leak'
+      parameters: 'Dedicated wrench torque 18–20 N·m; seal gasket flat without distortion; thread cleanliness confirmed'
+      methodology: 'Inflate to 15 PSI; 20 inflation/deflation cycles; underwater immersion observation'
+      acceptance: 'Zero bubbles at valve core and base periphery; torque after cycling ≥ 16 N·m'
+    - process: 'Final 24h Pressure-Hold Test'
+      parameters: 'Reference inflation 18.0 PSI; digital gauge Class 1.0 / ±0.5%; ambient temperature & humidity recorded and compensated'
+      methodology: 'Digital pressure recorder; continuous 24 h pressure curve'
+      acceptance: 'Net pressure drop ΔP ≤ 0.20 PSI / 24 h after compensation; no board bulging or deformation'
+
+cc_photos:
+  tagline: On the Factory Floor
+  title: Rebuild, Re-Test, Release — Documented at Every Step
+  subtitle: Photos from our Qingdao workshop show each controlled rework process with its calibrated gauges, defined parameters and on-site records — the same evidence inspectors can request at any time.
+  grid: 'sm:grid-cols-2'
+  features:
+    - image: https://assets.vectoflare.com/site/quality/cc-pinhole-repair.avif
+      alt: Technician repairing a pinhole micro-leak on an inflatable SUP with a hot-air gun and pressure roller
+      title: Pinhole Repair
+      desc: 'A technician treats a marked micro-leak with a hot-air gun set to the 60°C specification and a pressure roller; soapy water confirms the leak location, and the QC-signed ECR ticket on the bench shows the change control gate (Poka-Yoke #1).'
+    - image: https://assets.vectoflare.com/site/quality/cc-rail-seam-bonding.avif
+      alt: Technician applying two-component PU adhesive to a rail seam with a precision brush under controlled climate
+      title: Rail Seam Bonding
+      desc: 'Two-component PU adhesive is applied to the rail seam with a precision brush while the board is held in a fixture clamp; the on-site thermometer/hygrometer shows the controlled 24°C / 55% RH window.'
+    - image: https://assets.vectoflare.com/site/quality/cc-valve-base-integrity.avif
+      alt: Digital torque wrench set to 19 N·m securing the valve core against the drop-stitch material
+      title: Valve Base Integrity
+      desc: 'A digital torque wrench set to the 19 N·m specification makes the final tighten of the valve core, sealing the base against the drop-stitch material — the gauge carries the green CALIBRATED label.'
+    - image: https://assets.vectoflare.com/site/quality/cc-pressure-hold-testing.avif
+      alt: Finished inflatable SUP boards connected to digital pressure recorders in the final pressure-hold test area
+      title: Final Pressure-Hold Testing
+      desc: 'Finished boards are connected to high-precision digital pressure recorders; the master gauge reads the 18.00 PSI reference, and all test data is automatically uploaded and linked to the contract traceability system.'
+
+cc_pokayoke:
+  tagline: Anti-Error Safeguards
+  title: 'Poka-Yoke: Hard Blocks That Stop Uncontrolled Change'
+  subtitle: The standard is enforced not only by procedures but by physical and system-level blocks that make uncontrolled changes impossible to execute.
+  features:
+    - icon: 1
+      icon_bg: blue
+      title: ECR Gate for Tooling Unlock
+      desc: 'Rework stations read a QA-signed ECR barcode before pneumatic inflation valves and glue mixers unlock. No approved change control record, no supply — retroactive sign-off ("change first, sign later") is physically blocked.'
+    - icon: 2
+      icon_bg: green
+      title: Temporary Deviation Auto-Expiry
+      desc: 'Temporary deviations are hard-capped in the system (for example a maximum of 50 boards or 7 calendar days). Reaching the cap locks the batch and blocks printing of the shipment pass tag until the change is formally assessed.'
+    - icon: 3
+      icon_bg: purple
+      title: Minimum Validation Evidence
+      desc: 'High-risk changes require at least 5 representative sample boards covering the upper and lower tolerance limits, fully inspected by 2 independent QC inspectors, before a validation report can be issued — one repaired board is never treated as process validation.'
+    - icon: 4
+      icon_bg: orange
+      title: 1-In-1-Out Document Control
+      desc: 'Obsolete work-station cards are physically collected and cancelled (hole-punched) before the new card stamped with the controlled red seal is issued — old and new versions never share a workstation.'
+
+cc_downloads:
+  tagline: Downloadable QMS Documents
+  title: Controlled Bilingual Documents (PDF)
+  subtitle: Official EN/ZH bilingual documents of QINGDAO VATRAD GROUP.,LTD. — ready for customer audits, B2B technical whitepapers and shop-floor controlled distribution.
+  features:
+    - icon: S
+      icon_bg: blue
+      title: Rework Change Control SOP (PDF)
+      desc: 'QMS-SOP-QC-CC-001 Rev 2.0: change classification table, cross-department authorization matrix, engineering validation parameters, containment red lines and quality signature blocks.'
+      link: 'https://assets.vectoflare.com/site/downloads/rework-change-control-sop-qms-sop-qc-cc-001.pdf?dl=1'
+      link_label: Download PDF
+    - icon: A
+      icon_bg: green
+      title: Execution Annex A (PDF)
+      desc: 'ECR data schema, the quantified engineering execution matrix for the four core rework processes, Poka-Yoke block logic and the tri-party release sign-off block.'
+      link: 'https://assets.vectoflare.com/site/downloads/rework-execution-annex-a-qms-sop-qc-cc-001.pdf?dl=1'
+      link_label: Download PDF
+    - icon: R
+      icon_bg: purple
+      title: Controlled Rework Governance (Page)
+      desc: 'Companion page for the air-tightness rework system: defect classification A–G, approved method cards MC-RW-01 to MC-RW-06, and the 7-step controlled rework workflow.'
+      link: '/factory/quality-inspection'
+      link_label: View page
+    - icon: N
+      icon_bg: orange
+      title: Non-Conforming Product Control (Page)
+      desc: 'ISO 9001:2015 Clause 8.7 control of non-conforming outputs: NCR registration, quarantine, severity-based disposition authority, controlled rework under SRI instructions, independent re-inspection and the witnessed destruction protocol.'
+      link: '/factory/non-conforming-control'
+      link_label: View page
+
+faqs:
+  tagline: FAQ
+  title: Frequently Asked Questions About Rework Change Control
+  items:
+    - q: 'Can the factory change rework parameters without telling us?'
+      a: 'No. Any proposed change to approved rework materials, process conditions, tooling, test methods, inspection criteria or authorized personnel must pass documented change control first. Changes affecting customer-approved specifications, samples, BOMs, artwork or acceptance criteria require written customer approval.'
+    - q: 'What counts as a high-risk change?'
+      a: 'Changes to rework materials or suppliers, pressure/hold or curing conditions, valve/rail/seam rework methods, inspection or acceptance criteria, and defect scope expansion into structural zones are classified high-risk. They require a cross-department review, an approved validation plan and controlled pilot implementation before routine use.'
+    - q: 'Can a temporary deviation be used indefinitely?'
+      a: 'No. Every temporary deviation carries a defined validity window, batch scope, quantity cap and validation requirements, with automatic expiry. Reaching the cap locks the batch and blocks pass-tag printing until the change is formally assessed.'
+    - q: 'How is a changed method proven to work before full use?'
+      a: 'High-risk changes require a validation plan: at least 5 representative sample boards covering tolerance limits, tested by 2 independent QC inspectors against quantified acceptance criteria (leak elimination, pressure hold, valve function, seam durability, appearance). Approval to validate is not approval to apply.'
+    - q: 'Do we need to approve every change?'
+      a: 'Not every change, but any change that moves the product away from the customer-approved sample, technical specification, BOM, artwork, packaging or acceptance criteria is implemented only with written customer approval. Without it, boards are reworked per the original requirement, replaced or rejected.'
+    - q: 'What happens to old documents when a change is approved?'
+      a: 'Old work instructions, parameter cards and inspection sheets are physically collected and cancelled (1-in-1-out), marked OBSOLETE, and replaced by the new controlled revision after training. Old and new versions never share a workstation.'
+    - q: 'How long are change control records kept?'
+      a: 'Closure records — validation evidence, document revisions, training records and effectiveness reviews — are retained according to our record retention policy (minimum 3 years for closure records) so every change remains traceable for audits and traceability reviews.'
+
+cta:
+  title: Need Change Control Documents for Your Audit?
+  desc: 'Download the bilingual Change Control SOP and Execution Annex, or request an anonymized sample of our ECR template and validation plan for your OEM/ODM project.'
+  actions:
+    - text: Request Quality Review
+      variant: primary
+      href: /contact
+    - text: Download Change Control SOP (PDF)
+      href: 'https://assets.vectoflare.com/site/downloads/rework-change-control-sop-qms-sop-qc-cc-001.pdf?dl=1'
+    - text: Download Execution Annex A (PDF)
+      href: 'https://assets.vectoflare.com/site/downloads/rework-execution-annex-a-qms-sop-qc-cc-001.pdf?dl=1'

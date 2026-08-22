@@ -1,0 +1,109 @@
+﻿meta:
+  title: 'Proceso de fabricación: de la materia prima al SUP'
+  description: 'De la materia prima al SUP listo para el agua: cada paso del proceso de fabricación bajo nuestro control, desde el corte y la soldadura hasta los ensayos.'
+  dateModified: '2026-08'
+  keywords:
+    - 'proceso de fabricación sup'
+    - 'fábrica de sup hinchables'
+    - 'pasos de producción de paddle boards'
+    - 'soldadura de pvc sup'
+hero:
+  tagline: Proceso
+  title: Proceso de fabricación
+  subtitle: 'De la materia prima al SUP listo para el agua: cada paso bajo nuestro control'
+  back_label: Volver a la fábrica
+  back_link: /es/factory
+
+answer:
+  label: 'Respuesta directa'
+  text: 'Las tablas pasan por cinco etapas controladas: inspección de materiales (1–2 días), corte CNC automático (desperdicio inferior al 5%, 2–4 horas por kit), termosellado de tubos con costuras reforzadas por RF (1–2 días por tabla), unión del núcleo drop-stitch y ensamblaje final con retención de aire al 100% y pruebas de carga antes del embalaje.'
+  verified: '2026-08'
+
+intro: A diferencia de las marcas que subcontratan la producción a fábricas de terceros, Vectoflare es dueño y operador de toda su cadena de fabricación. Esta integración vertical nos permite mantener un estricto control de calidad en cada etapa, responder rápidamente a los requisitos personalizados y entregar una calidad de producto constante tanda tras tanda. Así se fabrica una tabla de SUP en nuestras instalaciones.
+
+steps:
+  - step: '01'
+    title: Recepción e inspección de materiales
+    description: Cada lote entrante de tejido de PVC, estera de fibra de vidrio, resina y herrajes se inspecciona según especificación. Se prueban muestras de tejido para verificar la resistencia a la tracción, la uniformidad del grosor y la resistencia UV antes de liberarlos a producción. Los materiales no conformes se ponen en cuarentena y se devuelven.
+    duration: 1–2 días
+  - step: '02'
+    title: Corte automático de PVC
+    description: <p>Los tejidos aprobados se extienden sobre la máquina de corte CNC automática y se cortan con precisión milimétrica. El anidado optimizado por ordenador dispone los paneles para minimizar el desperdicio, normalmente por debajo del 5%. Los paneles cortados se etiquetan por modelo de SUP y cámara, y se agrupan para trasladarlos al taller de soldadura.</p>
+    duration: 2–4 horas por kit de tabla
+  - step: '03'
+    title: Termosellado y soldadura de tubos
+    description: Los paneles se hilvanan y unen con máquinas de termosellado con soldadura de aire caliente a temperaturas controladas de 200–300 °C. Las costuras principales se refuerzan con soldadura dieléctrica RF para lograr uniones herméticas y de alta resistencia. Las cámaras terminadas se inflan a 18,0 PSI como comprobación inicial de estanqueidad antes de la retención de 24 horas.
+    duration: 1–2 días por tabla de SUP
+  - step: '04'
+    title: Unión del núcleo drop-stitch
+    description: Los núcleos drop-stitch de las tablas de SUP se unen a los laminados exteriores de PVC mediante laminación térmica. Miles de hilos internos de poliéster conectan las capas superior e inferior, creando una estructura rígida a 12-15 PSI. Las bandas del borde se fusionan en triple capa para la resistencia del contorno.
+    duration: 1–2 días por tabla
+  - step: '05'
+    title: Impresión y decoración del SUP
+    description: Los gráficos de la cubierta del SUP se aplican mediante impresión digital para diseños a todo color con calidad fotográfica, y serigrafía para logotipos duraderos y patrones repetidos. Las impresiones se curan y sellan para resistir los rayos UV y la abrasión.
+    duration: 1–2 días
+  - step: '06'
+    title: Ensamblaje final y ajuste
+    description: Las válvulas, anillos D, asas, cajas de quilla y cubiertas de espuma se instalan en la línea de ensamblaje. Cada tabla cumple una lista de control de ensamblaje de 100 puntos con firmas obligatorias en cada etapa.
+    duration: 1–2 días
+  - step: '07'
+    title: Pruebas de calidad e inspección
+    description: 'Cada tabla terminada supera un control de calidad obligatorio: prueba de retención de aire de las cámaras, comprobación de funcionamiento del herraje, verificación del par de apriete de los tornillos e inspección cosmética. Los modelos personalizados y de prototipo también reciben pruebas en el agua de estabilidad y manejo.'
+    duration: 1–2 días
+  - step: '08'
+    title: Embalaje y envío
+    description: Las tablas se desinflan, se pliegan según el procedimiento estándar, se embalan en bolsas de tejido resistente o cajas de retail y se cargan para su envío. Cada paquete se etiqueta con el modelo, el número de serie y el destino. Coordinamos con transitarios los envíos en contenedor FCL y LCL a todo el mundo.
+    duration: 1 día
+
+evidence_gates:
+  tagline: Evidencias de inspección
+  title: 'Cada etapa deja un registro: fotos e informes'
+  subtitle: 'A continuación tienes las fotos de inspección reales y los dosieres de informes de ensayo de nuestras siete puertas de control de calidad. Cada PDF es un registro bilingüe real que puedes descargar y auditar — los mismos registros que respaldan cada lote en el archivo de trazabilidad ERP de 10 años. Consulta el flujo completo de 7 etapas en /quality.'
+  items:
+    - title: 'PPM — Planificación de calidad del proyecto'
+      description: 'La reunión previa a la producción fija el alcance, la muestra patrón y el Plan de Inspección de Calidad antes de arrancar la línea. Los puntos sin resolver bloquean la liberación a producción.'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_SUP_OEM_QIP.pdf
+      link_label: 'Descargar QIP (PDF)'
+      image: https://assets.vectoflare.com/site/quality/node01-ppm.avif
+      alt: Reunión previa a la producción revisando la muestra patrón y el plan de inspección de calidad de un pedido OEM de SUP
+    - title: 'IQC — Inspección de materiales entrantes'
+      description: 'Cada lote entrante de PVC, tejido y herrajes se comprueba contra la especificación aprobada. Los lotes no conformes se ponen en cuarentena y se rechazan antes de liberarlos a la línea.'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_IQC_TEST_REPORTS.pdf
+      link_label: 'Descargar informes IQC (PDF)'
+      image: https://assets.vectoflare.com/site/quality/node02-iqc.avif
+      alt: Inspección de materiales entrantes de tejido de PVC y componentes de SUP en la fábrica
+    - title: 'IPQC / FAI — Control en proceso'
+      description: 'La primera pieza se verifica contra las líneas base bloqueadas y cada turno mantiene controles de patrulla en la línea. La aprobación FAI bloquea la versión de arte, dimensiones y BOM.'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_IPQC_TEST_REPORTS.pdf
+      link_label: 'Descargar informes IPQC (PDF)'
+      image: https://assets.vectoflare.com/site/quality/node03-ipqc-fai.avif
+      alt: Inspección en proceso y control de la primera pieza durante la producción de SUP
+    - title: 'Prueba de inflado y estanqueidad'
+      description: 'El 100% de las tablas terminadas — no solo una muestra — pasa una retención de presión de 24 horas a 18,0 PSI con rechazo automático por encima de una caída de 0,50 PSI. Un registro por cámara.'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_AIRTIGHTNESS_TEST_REPORTS.pdf
+      link_label: 'Descargar informes de estanqueidad (PDF)'
+      image: https://assets.vectoflare.com/site/quality/node04-airtightness.avif
+      alt: Prueba de inflado y estanqueidad de la cámara de un SUP hinchable
+    - title: 'FQC — Inspección final del producto'
+      description: 'Las tablas terminadas se miden contra las tolerancias del plano y se clasifican cosméticamente bajo lámparas de luz diurna D65 contra la muestra patrón aprobada.'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_FQC_TEST_REPORTS.pdf
+      link_label: 'Descargar informes FQC (PDF)'
+      image: https://assets.vectoflare.com/site/quality/node05-fqc.avif
+      alt: Inspección final del producto de tablas de SUP terminadas antes del embalaje
+    - title: 'PSI — Inspección de embalaje y previa al envío'
+      description: 'El kit embalado se comprueba al 100% contra el BOM aprobado por el cliente — escaneo de código de barras (grado ≥ B), marcado de cajas y prueba de caída ISTA-1A antes de la carga.'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_PSI_TEST_REPORTS.pdf
+      link_label: 'Descargar informes PSI (PDF)'
+      image: https://assets.vectoflare.com/site/quality/node06-psi.avif
+      alt: Inspección previa al envío comprobando el kit de SUP embalado contra el BOM
+    - title: 'Liberación de envío y trazabilidad'
+      description: 'Calidad firma la liberación del lote solo cuando las seis puertas anteriores están cerradas. Los números de serie se asignan al lote y el dosier se entrega con el envío.'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_SHIPMENT_RELEASE_REPORTS.pdf
+      link_label: 'Descargar informes de liberación (PDF)'
+      image: https://assets.vectoflare.com/site/quality/node07-shipment-release.avif
+      alt: Firma de liberación de envío y entrega del registro de trazabilidad del lote
+cta:
+  title: Vea nuestros equipos y maquinaria
+  desc: Explore el equipamiento de grado industrial que hay detrás de cada tabla de SUP de vectoflare.
+  label: Ver equipos →
+  link: /es/factory/equipment

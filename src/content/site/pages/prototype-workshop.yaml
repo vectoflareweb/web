@@ -1,0 +1,102 @@
+meta:
+  title: 'SUP Prototype Workshop — Sample Board Building'
+  description: 'From CAD to tested sample board in 7–12 days. Our Prototype Workshop builds, tests and validates custom SUP samples. Start your prototype project today.'
+  dateModified: '2026-08'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
+
+answer:
+  label: 'Straight answer'
+  text: 'We turn a CAD model into a rideable, tested sample board in 7–12 days: inflatable prototyping, on-water chop runs, rail and nose iterations, then production tooling commitment. Full custom moulds take 15–20 days of tooling on top of the standard 25–35 day bulk lead time.'
+  verified: '2026-08'
+
+hero:
+  tagline: 'Lab 05'
+  title: 'Prototype Workshop'
+  subtitle: 'From CAD model to tested sample board — built, fitted, and proven'
+  image: 'https://assets.vectoflare.com/images/vectoflare/products/sup-series/sup-ocean-voyager-1.webp'
+  image_alt: 'Vectoflare prototype workshop SUP board fabrication'
+
+intro: 'A CAD model, no matter how detailed, cannot reveal how a board will actually feel until it is inflated, stood on, and paddled. That is why our Prototype Workshop is designed to translate engineering data into a physical, rideable board as quickly and accurately as possible. Every new {SITE.name} model — and every significant custom build — passes through this workshop before the production tooling is committed.'
+
+content_html: |
+  <h2>Where design becomes reality</h2>
+  <p>The workshop is equipped for simultaneous fabrication of panels, drop-stitch cores, and rails. This parallel-workflow approach cuts prototype lead time to 7–12 days from engineering release. When your application demands a specialised solution, we can move from concept to on-water validation in under three weeks.</p>
+
+  <h2>Workshop capabilities</h2>
+  <table>
+    <thead><tr><th>Workstation</th><th>Equipment</th><th>Purpose</th></tr></thead>
+    <tbody>
+      <tr><td>Panel cutting</td><td>CNC fabric cutter, nesting software, panel pattern library</td><td>Precision cutting of deck, hull and rail panels for any board size</td></tr>
+      <tr><td>Core assembly</td><td>Drop-stitch core lamination table, glue-application rollers</td><td>Bonding of drop-stitch core between PVC skins with even adhesive coverage</td></tr>
+      <tr><td>Welding</td><td>RF welding press, hot-air tacking station, inflation test jig</td><td>Seam welding of full-size board assemblies with valves, handles and fin boxes</td></tr>
+      <tr><td>Fitting &amp; finishing</td><td>Deck-pad applicator, graphics lamination table, hardware bench</td><td>Complete outfitting: deck pads, logos, handle mount, leash plug, fin boxes</td></tr>
+      <tr><td>Instrumentation bay</td><td>Pressure gauges, data-logger, flex measurement rig</td><td>Sample testing: inflation cycling, deck deflection, air-retention measurement</td></tr>
+    </tbody>
+  </table>
+
+  <h2>The prototype journey — step by step</h2>
+  <ol>
+    <li><strong>Engineering handover</strong> — The design package (3D model, FEA report, bill of materials, panel lay plan) is formally reviewed by the workshop lead and the project engineer. Any manufacturing concerns are flagged and resolved before cutting begins.</li>
+    <li><strong>Panel production</strong> — The board is built according to the engineering specification. Panels are CNC-cut, the drop-stitch core is laminated between PVC skins, and the deck and hull are assembled with the approved material stack.</li>
+    <li><strong>Welding</strong> — Panels are RF-welded into the full board shape. The chamber is inflated to test pressure and left for 24 h for initial stabilisation.</li>
+    <li><strong>Assembly &amp; finishing</strong> — Deck pad, graphics, handle, leash plug and fin boxes are fitted. All fittings are installed and verified against the specification.</li>
+    <li><strong>Static tests</strong> — Before the board touches water, it undergoes: inflation cycling, air-retention hold test, deck deflection measurement at rated pressure, and hardware torque checks.</li>
+    <li><strong>On-water test programme</strong> — 10 hours of in-water testing, detailed below.</li>
+    <li><strong>Prototype review</strong> — A formal sign-off meeting is held with engineering, production, and quality teams. Any required design changes are documented and incorporated into the production release.</li>
+  </ol>
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">10-Hour On-Water Test Programme — Test Schedule</p>
+    <div class="space-y-2 text-sm">
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">1 h</span>
+        <span class="flex-1">Stability check — standing balance at rest, side-load tolerance</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
+        <span class="flex-1">Paddling trial — glide, tracking and turning at 3 speeds; paddle-stroke comfort</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
+        <span class="flex-1">Rider-load test — stability and flex at 60 / 80 / 100 / 120 kg riders</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
+        <span class="flex-1">Chop test — repeated runs through boat-wake chop; nose spray, rail deflection</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
+        <span class="flex-1">Endurance run — continuous paddling with periodic pressure checks; air-retention logging</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">1 h</span>
+        <span class="flex-1">Final inspection — post-trial inspection of seams, fittings and graphics; document findings</span>
+      </div>
+    </div>
+  </div>
+
+  <h2>Custom prototyping for unique applications</h2>
+  <p>The Prototype Workshop is where we solve the problems that standard production boards cannot address. Recent examples include:</p>
+  <ul>
+    <li>A 14'' touring board for a European endurance paddling brand, with a recessed cargo deck and reinforced nose — prototyped, fitted, and tested at our facility.</li>
+    <li>A 10'6'' yoga board with a full-length traction deck and extra thickness for stiffness, validated across a 4-week rental season trial.</li>
+    <li>A white-label fleet board with custom deck graphics and dual handles, where the prototype was used to validate colour, logo placement and packaging before the client committed to a container.</li>
+  </ul>
+
+  <h2>Our prototyping team</h2>
+  <p>The workshop is staffed by eight multi-skilled production technicians, each cross-trained in at least two of the three core disciplines (cutting, welding, fitting). The team lead is a master craftsman with 16 years of experience spanning custom one-off builds to production series. Every prototype is assigned a dedicated project engineer who serves as the single point of contact for the client throughout the build and test process.</p>
+
+  <h2>Client involvement</h2>
+  <p>We actively encourage our clients to attend key milestones during the prototype build — particularly the initial fit-out review and the on-water test. Your operational feedback during these stages is invaluable in fine-tuning the board before it enters production. We do not build in a vacuum; we build in partnership with you.</p>
+  <p>The on-water test programme is also an opportunity for your team to familiarise themselves with the board's handling and maintenance requirements, ensuring a smooth transition to production when the final boards are delivered.</p>
+
+cta:
+  title: 'Start your prototype project'
+  subtitle: 'Tell us about the board you need and we will propose a prototype development plan.'
+  actions:
+    - variant: primary
+      text: Contact our prototyping team
+      href: /contact#project-brief
+    - text: Back to the R&D Center
+      href: /randdcenter

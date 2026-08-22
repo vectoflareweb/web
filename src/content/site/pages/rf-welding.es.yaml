@@ -1,0 +1,99 @@
+meta:
+  title: 'Soldadura RF: unión dieléctrica de costuras SUP | Vectoflare'
+  description: 'Soldadura por radiofrecuencia para costuras herméticas de SUP: ensayos de pelado, validación de retención de aire y especificaciones de costura a medida.'
+  dateModified: '2026-08'
+back_text: 'Volver al Centro de I+D'
+home_label: 'Inicio'
+
+answer:
+  label: 'Respuesta directa'
+  text: 'Operamos prensas RF dieléctricas de 15 kW que unen molecularmente las costuras de PVC (equivalente a 200–600 °C de aire caliente) y después validamos cada soldadura: ensayos de pelado según ASTM D751 y retención de aire a 18,0 PSI, con costuras documentadas y trazables por unidad.'
+  verified: '2026-08'
+
+hero:
+  tagline: 'Lab 03'
+  title: 'Centro de Soldadura RF'
+  subtitle: 'Una unión dieléctrica que sostiene costuras a presión'
+  image: 'https://assets.vectoflare.com/images/vectoflare/products/sup-series/sup-jungle-mandala-1.webp'
+  image_alt: 'Proceso de unión dieléctrica RF de Vectoflare'
+
+intro: 'Una tabla de SUP hinchable vale tanto como sus costuras. Una sola soldadura débil puede comprometer una cámara completa, y, bajo tus pies, el fallo de una cámara no es un inconveniente: es un riesgo de seguridad. En {SITE.name}, hemos invertido en un Centro de Soldadura por Radiofrecuencia (RF) dedicado, que combina prensas dieléctricas de calidad industrial con un control riguroso del proceso y ensayos posteriores a la soldadura. Cada costura que producimos queda documentada, es trazable y está certificada para cumplir o superar los requisitos de la normativa internacional de embarcaciones hinchables.'
+
+content_html: |
+  <h2>La ciencia que hay detrás de la costura</h2>
+  <p>La soldadura RF utiliza energía electromagnética de alta frecuencia (normalmente 27.12 MHz) para excitar las moléculas polares dentro del tejido recubierto de PVC, generando calor justo en la interfaz del material. A diferencia de la soldadura por aire caliente o por cuña caliente, la soldadura RF crea una unión molecular real: las dos capas de tejido se funden en un material único y homogéneo en la zona de soldadura, produciendo una junta tan resistente como el material base.</p>
+
+  <h2>Equipos de soldadura y control del proceso</h2>
+  <p>Nuestro centro de soldadura está equipado con:</p>
+  <table>
+    <thead><tr><th>Máquina</th><th>Potencia / Capacidad</th><th>Aplicación</th></tr></thead>
+    <tbody>
+      <tr><td>Prensa RF dieléctrica 1</td><td>15 kW, placa de 2000 × 600 mm</td><td>Costuras principales de la tabla, uniones de railes a la cubierta</td></tr>
+      <tr><td>Prensa RF dieléctrica 2</td><td>10 kW, placa de 1500 × 500 mm</td><td>Soldaduras de la proa, parches del asa, parches de válvula</td></tr>
+      <tr><td>Soldadora RF con control CNC</td><td>8 kW, mesa XY de 2500 × 1200 mm</td><td>Costuras curvilíneas, estampado de logotipos y paneles, parcheo de precisión</td></tr>
+      <tr><td>Soldadora automática de cuña caliente</td><td>Temperatura variable, máximo 1.2 m/min</td><td>Método de respaldo para los materiales de CSM especiales</td></tr>
+    </tbody>
+  </table>
+  <p>Cada prensa RF dispone de monitorización de bucle cerrado de temperatura y presión. Los parámetros de soldadura — potencia, tiempo de prensado, tiempo de enfriamiento y presión de electrodos — se programan por tipo de material y se registran en nuestro Sistema de Ejecución de Fabricación (MES) para una trazabilidad total.</p>
+
+  <h2>Ensayos de calidad de la soldadura — cada costura, cada tabla</h2>
+  <p>La integridad de la soldadura se verifica con un protocolo obligatorio de cuatro ensayos:</p>
+  <ol>
+    <li><strong>Inspección visual</strong> — Se inspecciona visualmente el 100 % de las costuras para detectar perforaciones, desalineaciones, contaminación o fusión incompleta. Umbral de rechazo: 0.5 % de metros lineales.</li>
+    <li><strong>Ensayo de pelado</strong> — Se corta una tira de 25 mm de una probeta soldada con cada lote de producción. Fuerza mínima de pelado: 120 N/25 mm para PVC de 1100 dtex.</li>
+    <li><strong>Ensayo de retención de aire</strong> — Cada tabla terminada se presuriza a 18,0 PSI y se mantiene durante 24 horas. La caída de presión no debe superar 0,50 PSI.</li>
+    <li><strong>Ensayo de ciclado térmico</strong> — Las probetas se ciclan de -20 °C a +60 °C durante 50 ciclos y se vuelven a ensayar al pelado. Pérdida de resistencia admisible: &lt; 10 %.</li>
+  </ol>
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Comparativa de fuerza de pelado — RF frente a soldadura por aire caliente (PVC 1100 dtex)</p>
+    <div class="space-y-3">
+      <div class="flex items-center gap-3">
+        <span class="w-24 text-xs font-medium">Soldadura RF</span>
+        <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:92%"></div>
+        </div>
+        <span class="text-xs font-bold w-12 text-right">184 N</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="w-24 text-xs font-medium">Por aire caliente</span>
+        <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
+          <div class="h-full bg-gray-400 rounded" style="width:65%"></div>
+        </div>
+        <span class="text-xs font-bold w-12 text-right">130 N</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="w-24 text-xs font-medium">Mínimo estándar</span>
+        <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
+          <div class="h-full bg-green-500 rounded" style="width:48%"></div>
+        </div>
+        <span class="text-xs font-bold w-12 text-right">96 N</span>
+      </div>
+    </div>
+    <p class="text-xs text-gray-400 mt-2">La soldadura RF alcanza de forma regular el 90-95 % de la resistencia del material base, muy por encima del mínimo.</p>
+  </div>
+
+  <h2>Experiencia profesional</h2>
+  <p>Nuestro equipo de soldadura está dirigido por un ingeniero de procesos senior con 11 años de experiencia en soldadura dieléctrica de textiles recubiertos. Cada operario completa un programa de certificación interna de 6 meses antes de poder trabajar en las costuras de producción. La recertificación se exige anualmente, incluida una prueba práctica de soldadura evaluada contra nuestro estándar interno de Grado A (resistencia al pelado ≥ 160 N/25 mm).</p>
+
+  <h2>Soluciones de soldadura a medida para requisitos especiales</h2>
+  <p>Entendemos que una misma especificación de soldadura no sirve para todas las aplicaciones. Nuestro Centro de Soldadura RF desarrolla de forma habitual configuraciones de costura especiales para clientes con necesidades concretas:</p>
+  <ul>
+    <li><strong>Refuerzos de parche multicapa</strong> — para las zonas de gran desgaste, como las bandas de los railes y los conos de proa, desarrollamos soldaduras RF de múltiples pasadas que integran una capa exterior resistente al desgaste sin perder flexibilidad.</li>
+    <li><strong>Costuras de tablas de alta presión</strong> — para tablas con clasificación superior a los 15 PSI, validamos la geometría de la soldadura con presión de trabajo elevada y documentamos el límite en el informe de ensayo.</li>
+    <li><strong>Soldadura de paneles con cambio de color</strong> — paneles de tejido de dos colores (por ejemplo, cubierta naranja y rail gris) soldados con un solape oculto para mantener la estética de la marca sin una línea de unión visible.</li>
+  </ul>
+
+  <h2>Nuestro compromiso contigo</h2>
+  <p>Cada tabla que entregamos incluye nuestra garantía de calidad de soldadura: si cualquier costura falla en el servicio normal dentro del período de garantía, reparamos o sustituimos la cámara afectada sin coste y realizamos una investigación de causa raíz para evitar que se repita. Esto no es solo una garantía: es un compromiso de mejora continua impulsado por los datos operativos reales.</p>
+  <p>Cuando eliges {SITE.name}, eliges unas costuras que están diseñadas, ensayadas y documentadas, no solo soldadas. Esa es la diferencia entre una tabla que flota y una tabla que rinde.</p>
+
+cta:
+  title: 'Analiza tus necesidades de soldadura'
+  subtitle: 'Especificaciones de costura a medida, compatibilidad de materiales o validación de procesos.'
+  actions:
+    - variant: primary
+      text: Contacta con nuestro equipo de soldadura
+      href: /es/contact#project-brief
+    - text: Volver al centro de I+D
+      href: /es/randdcenter

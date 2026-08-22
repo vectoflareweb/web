@@ -1,0 +1,25 @@
+pages:
+  - slug: factory
+    title: Factory
+    title_es: Fábrica
+  - slug: quality
+    title: Quality
+    title_es: Calidad
+  - slug: oem-odm-manufacturer
+    title: OEM/ODM Manufacturer
+    title_es: Fabricante OEM/ODM
+  - slug: about
+    title: About
+    title_es: Nosotros
+  - slug: faq
+    title: FAQ
+    title_es: Preguntas Frecuentes
+  - slug: contact
+    title: Contact
+    title_es: Contacto
+  - slug: terms
+    title: Terms of Service
+    title_es: Términos de Servicio
+  - slug: privacy
+    title: Privacy Policy
+    title_es: Política de Privacidad

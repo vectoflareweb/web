@@ -1,0 +1,115 @@
+meta:
+  title: 'Canal hidrodinámico — Ensayos de rendimiento de tablas SUP'
+  description: 'Valida el rendimiento del casco de una tabla SUP en nuestro canal hidrodinámico: remolque de modelos a escala, análisis de planeo y medición de resistencia.'
+  dateModified: '2026-08'
+back_text: 'Volver al Centro de I+D'
+home_label: 'Inicio'
+
+answer:
+  label: 'Respuesta directa'
+  text: 'Ensayamos las formas de casco de SUP a escala de modelo 1:3 a 1:5 — perfil de proa, radio del canto, rocker y superficie mojada — midiendo la resistencia, la eficiencia de deslizamiento y la estabilidad antes de comprometer un prototipo a tamaño completo. Una semana en el canal devuelve los datos de rendimiento que costarían meses de prueba y error a escala real.'
+  verified: '2026-08'
+
+hero:
+  tagline: 'Lab 04'
+  title: 'Canal hidrodinámico'
+  subtitle: 'Validación del rendimiento antes del primer prototipo a tamaño completo'
+  image: 'https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-design-discussion-original.webp'
+  image_alt: 'Ensayos de rendimiento en el canal hidrodinámico de Vectoflare'
+
+intro: 'Es una idea equivocada común que los ensayos hidrodinámicos se reservan a los barcos y a las embarcaciones de regatas. En realidad, el rendimiento de una tabla de SUP — un casco planeador de entre 10 y 14 pies — depende de su forma sumergida tanto como cualquier otra embarcación. El perfil de la proa, el radio del canto, el rocker y la superficie mojada tienen un efecto significativo en la resistencia, la eficiencia de deslizamiento y la estabilidad. En {SITE.name}, disponemos de un canal hidrodinámico específico que nos permite cuantificar estos efectos a escala de modelo — antes de invertir en tejidos y utillaje para un prototipo a tamaño completo.'
+
+content_html: |
+  <h2>¿Por qué ensayar una tabla de SUP en el canal?</h2>
+  <p>Ensayar a escala de modelo (normalmente de 1:3 a 1:5) nos da la capacidad de iterar las formas de las tablas de una manera rápida y rentable. Una semana en el canal puede generar los mismos datos que requerirían meses de prueba y error a tamaño completo — y por una fracción del coste.</p>
+
+  <h2>Especificaciones de la instalación</h2>
+  <table>
+    <thead><tr><th>Parámetro</th><th>Especificación</th></tr></thead>
+    <tbody>
+      <tr><td>Dimensiones del canal</td><td>35 m (L) × 3.5 m (W) × 1.8 m (D)</td></tr>
+      <tr><td>Carro de remolque</td><td>Accionado por servomotor eléctrico, velocidad máxima 12 m/s (23 nudos), precisión de velocidad de ±0.5 %</td></tr>
+      <tr><td>Generador de olas</td><td>Tipo aleta, estados de mar regulares e irregulares programables, Hs hasta 0.3 m a escala de modelo</td></tr>
+      <tr><td>Instrumentación</td><td>Dinamómetro de 6 componentes (resistencia, fuerza lateral, momento de guiñada), acelerómetros, inclinómetros, sondas de ola</td></tr>
+      <tr><td>Adquisición de datos</td><td>Muestreo a 1000 Hz por canal, pantalla en tiempo real + paquete de post-procesado</td></tr>
+      <tr><td>Fabricación de modelos</td><td>Fresado CNC interno e impresión 3D para cascos de modelo de hasta 1.8 m de eslora</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Nuestro programa de ensayos</h2>
+  <p>Un programa estándar de desarrollo de tablas en nuestro canal sigue esta secuencia:</p>
+  <ol>
+    <li><strong>Construcción del modelo</strong> — Un modelo a escala 1:4 se mecaniza con CNC en espuma de alta densidad y se recubre con fibra de vidrio para garantizar su rigidez. El peso y el centro de gravedad se ajustan para igualar la condición de plena carga a escala de Froude.</li>
+    <li><strong>Pasadas de resistencia</strong> — El modelo se remolca a 6–10 velocidades que recorren el rango de paleo (2–6 nudos a escala real). La resistencia total se mide y descompone en componentes de fricción y residuales por el método ITTC-1957.</li>
+    <li><strong>Medición de inclinación y asiento</strong> — La inclinación y el asiento en marcha se registran a cada velocidad. El objetivo es el ángulo que minimiza la superficie mojada manteniendo la proa libre de la ola de proa.</li>
+    <li><strong>Estudio de la estela</strong> — Se miden los cortes transversales de olas a dos velocidades para evaluar la resistencia por formación de olas e identificar interacciones de la proa que frenan la tabla en el agua.</li>
+    <li><strong>Capacidad de mar (opcional)</strong> — Pasadas con mar de frente en olas regulares para medir la resistencia adicional y la aceleración vertical en aguas picadas — los datos detrás del diseño de proas de las tablas de travesía.</li>
+    <li><strong>Análisis de datos y recomendaciones</strong> — Se entrega un informe completo con gráficas comparativas, curvas de resistencia/velocidad y recomendaciones específicas de diseño para la tabla a tamaño completo.</li>
+  </ol>
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Resultados típicos del canal — Resistencia vs velocidad (tabla polivalente 11''0, escala 1:4)</p>
+    <div class="space-y-2">
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">2 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:18%"></div>
+        </div>
+        <span class="w-16 text-right">11 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">3 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:35%"></div>
+        </div>
+        <span class="w-16 text-right">21 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">4 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:52%"></div>
+        </div>
+        <span class="w-16 text-right">32 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">5 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:68%"></div>
+        </div>
+        <span class="w-16 text-right">42 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">6 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:85%"></div>
+        </div>
+        <span class="w-16 text-right">52 N</span>
+      </div>
+    </div>
+    <p class="text-xs text-gray-400 mt-2">Arrastre del modelo (N) a velocidades escaladas de Froude. La predicción de potencia a tamaño completo sigue el método de predicción de rendimiento ITTC-1978.</p>
+  </div>
+
+  <h2>Equipo técnico</h2>
+  <p>Nuestro canal está a cargo de un hidrodinámico con doctorado en arquitectura naval y 8 años de experiencia en canales de remolque en un importante instituto europeo de investigación marítima. Está respaldado por un técnico que prepara todos los modelos e instrumentación. El equipo sigue los procedimientos recomendados de la ITTC (International Towing Tank Conference) para garantizar que cada ensayo sea repetible, trazable y defendible internacionalmente.</p>
+
+  <h2>Ensayos para el desarrollo de tablas a medida</h2>
+  <p>Nuestro canal no solo se usa para las tablas diseñadas internamente: de forma regular realizamos programas de ensayos para clientes que quieren validar una forma de tabla personalizada o investigar un problema de rendimiento:</p>
+  <ul>
+    <li><strong>Comparación de formas</strong> — Dos o más formas candidatas de casco ensayadas en condiciones idénticas, lo que ofrece una comparación objetiva de resistencia/velocidad/estabilidad que orienta tu decisión de diseño.</li>
+    <li><strong>Optimización de proa y canto</strong> — Se pueden ensayar variaciones en el perfil de la proa y el radio del canto en varias configuraciones para cuantificar su contribución a la reducción de la resistencia.</li>
+    <li><strong>Estudio de carga del rider</strong> — Los datos de resistencia se proyectan sobre el rango de peso del rider, lo que permite elegir la eslora y la manga correctas para tu palista objetivo.</li>
+  </ul>
+
+  <h2>¿Por qué hacer ensayos con nosotros?</h2>
+  <p>No te entregamos solo un conjunto de cifras crudas. Nuestros informes traducen los datos del canal en recomendaciones de ingeniería aplicables: "Aumenta el rocker de la proa 10 mm para reducir la resistencia de la ola de proa a velocidad", "Redondea el canto en la sección central para reducir la superficie mojada", o "Mueve la zona de pie 50 mm hacia delante para un mejor asiento". Sales con una idea clara de qué cambiar y por qué.</p>
+  <p>Nuestro canal también está disponible para ensayos independientes de terceros con pago del servicio. Si estás desarrollando una tabla y quieres una evaluación hidrodinámica imparcial y profesionalmente ejecutada, tu consulta será bienvenida.</p>
+
+cta:
+  title: 'Reserva una sesión de ensayos en el canal'
+  subtitle: 'Tanto si necesitas un programa completo de desarrollo como una única prueba comparativa, podemos acomodarnos a tu calendario.'
+  actions:
+    - variant: primary
+      text: Contacta con nuestro equipo de hidrodinámica
+      href: /es/contact#project-brief
+    - text: Volver al centro de I+D
+      href: /es/randdcenter

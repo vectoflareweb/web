@@ -1,0 +1,128 @@
+﻿meta:
+  title: 'OEM vs ODM vs Marca Privada SUP — Guía Comparativa'
+  description: 'Comparativa lado a lado de fabricación SUP OEM, ODM y marca privada: definiciones, propiedad, MOQ, plazos, utillaje, reglas de PI y escenarios recomendados.'
+  dateModified: '2026-08-20'
+  keywords:
+    - 'OEM vs ODM vs marca privada'
+    - 'comparativa fabricación SUP'
+    - 'fabricación paddle board a medida'
+    - 'OEM SUP China'
+    - 'desarrollo ODM SUP'
+    - 'SUP marca privada'
+
+hero:
+  tagline: 'Elige tu vía de colaboración'
+  title: 'OEM vs ODM vs Marca Privada — ¿Qué modelo se adapta a tu proyecto?'
+  subtitle: 'Tres formas de trabajar con una fábrica de SUP, cada una con diferentes compromisos de propiedad, inversión y velocidad. Esta guía explica las diferencias para que elijas la vía correcta antes de tu primera consulta.'
+
+answer:
+  label: 'Comparación rápida'
+  text: 'OEM: tú eres propietario del diseño y la especificación — fabricamos según tus planos. ODM: nuestro equipo de ingeniería desarrolla la tabla a partir de tu brief — tú apruebas antes de la producción. Marca privada: tu marca sobre una plataforma existente validada sin cambios estructurales — la vía más rápida al mercado. Las tres rutas pasan por la misma planta, el mismo sistema de QC y el mismo equipo de exportación en Qingdao, China.'
+  verified: '2026-08'
+
+comparison_table:
+  tagline: 'Lado a lado'
+  title: 'Comparativa OEM / ODM / Marca Privada'
+  subtitle: 'Diferencias clave en propiedad de diseño, MOQ, utillaje, plazos y propiedad intelectual.'
+  headers:
+    dimension: Dimensión
+    oem: Fabricación OEM
+    odm: Desarrollo ODM
+    pl: Marca Privada
+  rows:
+    - dimension: '¿Quién diseña la tabla?'
+      oem: 'Tú aportas la especificación, planos o tabla de referencia'
+      odm: 'El equipo de ingeniería de fábrica desarrolla desde tu brief'
+      pl: 'Plataforma existente de fábrica — sin trabajo de diseño'
+    - dimension: 'Propiedad del diseño y PI'
+      oem: 'Tú eres propietario de todos los diseños, moldes y propiedad intelectual'
+      odm: 'Tú eres propietario del diseño final aprobado; la fábrica retiene la PI del proceso de desarrollo'
+      pl: 'La fábrica es propietaria del diseño de la plataforma; tú eres propietario de tu marca y gráficos'
+    - dimension: 'Molde / utillaje'
+      oem: 'Molde a medida necesario para formas nuevas — cuota de utillaje única, 15–20 días adicionales'
+      odm: 'Puede requerir molde a medida según la especificación — mismo plazo de utillaje'
+      pl: 'Sin molde nuevo — se usa el utillaje de la plataforma existente'
+    - dimension: 'Cantidad mínima de pedido'
+      oem: '90–100+ unidades por configuración aprobada'
+      odm: '90–100+ unidades por configuración aprobada; lotes piloto desde 20–50'
+      pl: '5–10 unidades (co-branding) o 20–50 (lote piloto sobre plataforma existente)'
+    - dimension: 'Plazo típico de entrega'
+      oem: '25–35 días + 15–20 días de utillaje si molde nuevo'
+      odm: '25–35 días + tiempo de iteración de desarrollo (varía por complejidad)'
+      pl: '25–35 días (sin retraso de utillaje)'
+    - dimension: 'Nivel de personalización'
+      oem: 'Total — forma, construcción, materiales, gráficos, embalaje'
+      odm: 'Total — la fábrica propone, tú apruebas cada elemento'
+      pl: 'Solo gráficos y embalaje — sin cambios estructurales'
+    - dimension: 'Proceso de muestras'
+      oem: '1–2 muestras de prototipo en 7–12 días tras aprobación de especificación'
+      odm: '1–2 muestras de prototipo en 7–12 días tras aprobación del diseño'
+      pl: '1–2 muestras en 7–12 días — plataforma ya validada'
+    - dimension: 'Mejor para'
+      oem: 'Compradores con diseños existentes, tablas de referencia o especificaciones detalladas'
+      odm: 'Compradores con ideas de producto o requisitos de mercado sin especificación detallada'
+      pl: 'Compradores que necesitan tablas con marca rápidamente sin desarrollo de producto'
+
+scenario_cards:
+  tagline: 'Cuándo elegir cada vía'
+  title: 'Escenarios reales'
+  subtitle: 'Situaciones comunes de compradores y el modelo de colaboración recomendado.'
+  features:
+    - icon: '1'
+      icon_bg: 'blue'
+      title: 'Tienes especificaciones completas y eres propietario del diseño'
+      desc: 'Tienes planos CAD, una tabla de referencia o una ficha de especificación detallada con dimensiones, materiales, construcción y requisitos de embalaje. Elige OEM — fabricamos exactamente según tu especificación.'
+      link: '/es/factory/oem-capability'
+      link_label: 'Detalles de fabricación OEM'
+    - icon: '2'
+      icon_bg: 'green'
+      title: 'Tienes un concepto de producto pero sin especificación de ingeniería'
+      desc: 'Conoces el mercado objetivo, el punto de precio y los requisitos de rendimiento, pero necesitas soporte de ingeniería para desarrollar la tabla. Elige ODM — nuestro equipo desarrolla desde tu brief, tú apruebas antes de la producción.'
+      link: '/es/odm-development'
+      link_label: 'Detalles de desarrollo ODM'
+    - icon: '3'
+      icon_bg: 'orange'
+      title: 'Necesitas tablas con marca rápido, sin desarrollo de producto'
+      desc: 'Eres distribuidor, resort u operador de alquiler que quiere tu logo en tablas de calidad sin invertir en desarrollo de producto. Elige Marca Privada — la vía más rápida del concepto a la entrega.'
+      link: '/es/solutions/private-label-sup'
+      link_label: 'Detalles de Marca Privada'
+    - icon: '4'
+      icon_bg: 'purple'
+      title: 'Operas un resort, club o flota de alquiler'
+      desc: 'Necesitas paquetes SUP de uso frecuente con consistencia por lote, repuestos y gestión de color entre reposiciones. Elige nuestro Programa de Flota Comercial.'
+      link: '/es/solutions/resort-sup'
+      link_label: 'Detalles de Flota Comercial'
+
+ip_rules:
+  tagline: 'Protección de propiedad intelectual'
+  title: 'Cómo protegemos tus diseños y marca'
+  subtitle: 'Independientemente del modelo de colaboración, tus archivos de arte, utillaje y especificaciones siguen siendo de tu propiedad.'
+  body: |
+    **NDA antes del intercambio de archivos.** Firmamos un acuerdo de confidencialidad antes de cualquier intercambio de archivos técnicos — plazo estándar de respuesta en 4 horas laborables.
+
+    **Sin reutilización de diseños.** Tus archivos de arte, utillaje y especificaciones nunca se comparten ni se venden a otros clientes. Los moldes OEM son exclusivamente tuyos. Los diseños ODM son aprobados por ti antes de la producción. Las plataformas de Marca Privada son estructuras compartidas, pero tus gráficos y marca son exclusivos.
+
+    **Solo B2B.** Fabricamos exclusivamente bajo las marcas de nuestros clientes. No vendemos a consumidores finales y no competimos con nuestros clientes en ningún mercado.
+
+    **Propiedad del molde.** Los moldes a medida pagados por el comprador son propiedad del comprador. Los almacenamos y mantenemos, pero no podemos usarlos para otros clientes sin autorización escrita.
+
+faqs:
+  tagline: 'Preguntas frecuentes'
+  title: 'Preguntas comunes sobre OEM, ODM y Marca Privada'
+  items:
+    - q: '¿Puedo pasar de marca privada a OEM más adelante?'
+      a: 'Sí. Muchos clientes empiezan con un lote de marca privada o piloto para validar el mercado, luego invierten en utillaje a medida para un programa OEM completo una vez demostrada la demanda. La misma planta y sistema de QC soporta ambas vías.'
+    - q: '¿ODM significa que la fábrica es dueña de mi marca?'
+      a: 'No. Bajo ODM, tú eres propietario de tu marca, gráficos y embalaje. La fábrica desarrolla la estructura de la tabla a partir de tu brief y tú apruebas el diseño antes de la producción. La fábrica retiene la PI del proceso de desarrollo, pero la especificación de producto aprobada es tuya.'
+    - q: '¿Es la marca privada de menor calidad que OEM?'
+      a: 'No. Las tres vías pasan por la misma planta, el mismo sistema de QC y el mismo equipo de exportación. Las tablas de marca privada se fabrican sobre plataformas probadas y validadas con prueba completa de presión 18 PSI / 24h y el mismo checklist de ensamblaje de 100 puntos.'
+    - q: '¿Qué tal si no estoy seguro de qué modelo elegir?'
+      a: 'Contáctanos con tu situación — nuestro equipo de ingeniería recomendará la vía más práctica según tus requisitos de producto, plazo y objetivos de volumen. Sin compromiso antes de la revisión de especificaciones.'
+    - q: '¿Puedo obtener muestras antes de comprometerme con algún modelo?'
+      a: 'Sí. 1–2 muestras de prototipo salen en 7–12 días. El coste de la muestra se descuenta del pedido de volumen. Esto te permite evaluar la construcción y calidad antes de cualquier compromiso de volumen.'
+
+cta:
+  title: '¿Listo para discutir tu proyecto de SUP?'
+  subtitle: 'Cuéntanos sobre tus requisitos de producto, mercado y objetivos de volumen — recomendaremos la vía de colaboración más práctica.'
+  button: 'Inicia tu proyecto de SUP'
+  note: 'Respuesta en 1 día laborable · NDA disponible antes del intercambio de archivos'

@@ -1,0 +1,91 @@
+﻿meta:
+  title: 'Sobre Vectoflare — Identidad de Marca, División de Fabricación de Qingdao Vatrad Group | Vectoflare'
+  description: 'Identidad de Vectoflare: división de fabricación de SUP y productos marinos hinchables. Fábrica, entidad legal, certificaciones y posicionamiento de marca.'
+  dateModified: '2026-08-21'
+  keywords:
+    - 'Vectoflare identity'
+    - 'Qingdao Vatrad Group'
+    - 'Vectoflare SUP manufacturer'
+    - 'SUP factory Laixi Qingdao'
+    - 'inflatable SUP manufacturer China'
+    - 'OEM SUP factory identity'
+
+hero:
+  tagline: 'Identidad de Marca'
+  title: '¿Quién Es Vectoflare?'
+  subtitle: 'Vectoflare es la división de fabricación marina de Qingdao Vatrad Group Co., Ltd. — un fabricante especializado de tablas SUP hinchables y productos marinos hinchables en Laixi, Qingdao, China. Fabricamos exclusivamente bajo las marcas de nuestros clientes y nunca competimos con ellos en ningún mercado.'
+
+answer:
+  label: 'En resumen'
+  text: 'Entidad legal: Qingdao Vatrad Group Co., Ltd. División de fabricación: Vectoflare (marca Vectoflare). Fábrica: Laixi, Qingdao, Shandong, China. Alcance: Fabricación OEM, ODM y marca privada de tablas SUP hinchables, remos y productos marinos hinchables. Certificaciones: ISO 9001:2015, CE (modelos destinados a la UE), BSCI, REACH, RoHS. No vendemos bajo nuestra propia marca — cada tabla que producimos lleva la marca del comprador.'
+  verified: '2026-08'
+
+identity_detail:
+  tagline: Legal y Organizativo
+  title: 'Entidad Legal y Estructura'
+  subtitle: 'Transparencia total sobre estructura corporativa, alcance de fabricación y certificaciones.'
+  grid: 'sm:grid-cols-2 lg:grid-cols-3'
+  features:
+    - icon: L
+      icon_bg: blue
+      title: 'Entidad Legal'
+      desc: 'Qingdao Vatrad Group Co., Ltd. — la entidad contratante para todos los acuerdos de fabricación, órdenes de compra y documentación de exportación. Registrada en Qingdao, Shandong, China.'
+    - icon: M
+      icon_bg: green
+      title: 'División de Fabricación'
+      desc: 'Vectoflare opera como la división de fabricación marina bajo Qingdao Vatrad Group. Vectoflare es la marca orientada al comprador utilizada para servicios de fabricación OEM, ODM y marca privada a nivel internacional.'
+    - icon: F
+      icon_bg: purple
+      title: 'Ubicación de Fábrica'
+      desc: 'Laixi, Qingdao, Shandong, China. Instalación de producción de más de 10,000 m² con 4 líneas de producción, corte CNC, soldadura RF, laboratorio de pruebas de presión y almacén de materiales. A 120 km del puerto de Qingdao.'
+
+manufacturing_scope:
+  heading: 'Alcance de Fabricación'
+  body: |
+    Nuestro alcance de fabricación cubre toda la cadena de producción para productos SUP hinchables y marinos — desde la inspección de material entrante hasta el empaque final y documentación de exportación.
+
+    - **Categorías de productos**: Tablas SUP hinchables (polivalentes, travesía, surf, pesca, yoga, carreras), kayaks hinchables, botes hinchables, remos, bombas y accesorios.
+    - **Tipos de construcción**: PVC monocapa, PVC bicapa, núcleo drop-stitch con carcasa de PVC. Especificaciones de construcción personalizadas por proyecto.
+    - **Modelos de colaboración**: OEM (diseño del comprador), ODM (desarrollado por fábrica a partir del brief del comprador), marca privada/co-branding (marca aplicada a plataformas probadas).
+    - **Certificaciones**: ISO 9001:2015 (gestión de calidad de fábrica), CE (modelos destinados a la UE, alcance por proyecto), BSCI (cumplimiento social), REACH (seguridad química), RoHS (sustancias restringidas).
+    - **Capacidad de producción**: Más de 30,000 tablas anuales, más de 2,500 de producción mensual. Escalabilidad disponible con programación anticipada.
+
+brand_positioning:
+  heading: 'Posicionamiento de Marca'
+  body: |
+    Vectoflare ocupa una posición específica en el mercado — no somos una marca, somos un fabricante. Esta distinción moldea cada aspecto de cómo operamos:
+
+    - **Nunca vendemos bajo nuestra propia marca.** Cada tabla que producimos lleva la marca del comprador. No competimos con nuestros clientes en ningún mercado, en ningún canal. Esta política es innegociable.
+    - **No somos una empresa comercializadora.** Operamos la fábrica. El control de calidad, la ingeniería, la programación de producción y la documentación de exportación se gestionan internamente. No hay intermediarios entre su pedido y la planta de producción.
+    - **Nos especializamos en productos hinchables.** Esto no es una actividad secundaria ni una categoría de producto entre muchas. Los productos SUP hinchables y marinos son nuestra competencia central. Cada máquina, cada proceso, cada puerta de control de calidad está optimizada para esta categoría de producto.
+    - **Servimos a compradores profesionales.** Nuestros clientes son marcas, distribuidores, operadores de resorts, clubes y escuelas — no consumidores individuales. Nuestros precios, estructura de MOQ, documentación y comunicación están diseñados para relaciones B2B.
+
+evidence_review:
+  tagline: 'Evidencia y Verificación'
+  title: 'ESPECIFICACIONES VERIFICADAS'
+  body: 'Todas las afirmaciones organizativas y de fabricación en esta página son verificables. El certificado ISO 9001, informe BSCI, licencia comercial y documentos de registro de fábrica están disponibles bajo solicitud. Visitas de fábrica bienvenidas. Especificaciones verificadas por última vez 2026-08.'
+
+faqs:
+  tagline: Preguntas Frecuentes
+  title: 'Identidad de Marca — Preguntas Frecuentes'
+  items:
+    - q: '¿Vectoflare es una empresa separada de Qingdao Vatrad Group?'
+      a: 'No. Vectoflare es la marca orientada al comprador de Vectoflare, que es la división de fabricación marina de Qingdao Vatrad Group Co., Ltd. La entidad legal contratante para todos los pedidos es Qingdao Vatrad Group Co., Ltd. La fábrica, el equipo y el sistema de calidad son una sola operación.'
+    - q: '¿Venden tablas bajo su propia marca?'
+      a: 'No. Fabricamos exclusivamente bajo las marcas de nuestros clientes y nunca competimos con ellos en ningún mercado. Esta es una política fundamental — no una posición temporal. Si encuentra una tabla con la marca Vectoflare en el mercado, no proviene de nuestra fábrica.'
+    - q: '¿Puedo visitar la fábrica?'
+      a: 'Sí. Recibimos visitas de fábrica y podemos organizar una auditoría estructurada que cubra todo el proceso de producción, puertas de control de calidad, almacén de materiales y revisión de documentación. Contáctenos para programar una visita.'
+    - q: '¿Cuál es la relación entre Vectoflare y Vectoflare?'
+      a: 'Vectoflare es el nombre de la división de fabricación dentro de Qingdao Vatrad Group. Vectoflare es la marca internacional orientada al comprador utilizada para servicios de fabricación OEM, ODM y marca privada. Se refieren a la misma operación — la división de fabricación marina en Laixi, Qingdao.'
+
+cta:
+  title: '¿Listo para Verificar Nuestra Fábrica?'
+  subtitle: 'Solicite documentación, programe una visita de fábrica o inicie su breve de proyecto. Transparencia total, sin excepciones.'
+  actions:
+    - variant: primary
+      text: Solicitar Documentación
+      href: /es/contact#project-brief
+    - text: Verificar certificaciones y sistema de calidad
+      href: /es/proof-center
+    - text: Proceso de incorporación OEM
+      href: /es/oem-onboarding-guide

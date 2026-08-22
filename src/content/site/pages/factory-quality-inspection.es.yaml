@@ -1,0 +1,477 @@
+﻿meta:
+  title: 'Estándares de inspección de calidad para SUP a medida | Vectoflare'
+  description: 'Fabricación OEM de SUP hinchables: inspección de materiales, producción, ensayos finales, embalaje y trazabilidad, con control de retrabajo bajo ISO 9001.'
+  dateModified: '2026-08-14'
+  keywords:
+    - 'fabricante de sup hinchables'
+    - 'fábrica oem de sup'
+    - 'fabricante de paddle boards personalizados'
+    - 'inspección de calidad sup'
+    - 'proceso de fabricación sup'
+    - 'fabricante sup marca privada'
+
+hero:
+  tagline: Inspección y garantía de calidad
+  title: Control de calidad para tablas de SUP hinchables personalizadas
+  subtitle: 'QINGDAO VATRAD GROUP.,LTD. aplica criterios de inspección específicos por proyecto durante la preparación de materiales, la construcción de la tabla, las pruebas finales de inflado, el embalaje y la liberación del envío. Los requisitos de calidad se gestionan de forma dinámica según la muestra aprobada, la especificación técnica, la prueba de arte, la lista de materiales (BOM) y los estándares de embalaje acordados para cada pedido OEM/ODM.'
+  actions:
+    - text: Descargar el paquete de garantía de calidad
+      variant: primary
+      href: 'https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_Quality_Inspection_Standards.pdf?dl=1'
+    - text: Descargar el paquete de calidad de muestra (PDF)
+      href: 'https://assets.vectoflare.com/site/downloads/Qingdao_Vatrad_Group_SUP_Quality_Documentation_Pack.pdf?dl=1'
+    - text: Solicitar información de calidad OEM
+      href: /es/contact
+
+answer:
+  label: 'Respuesta directa'
+  text: 'QINGDAO VATRAD GROUP.,LTD. controla la calidad de los SUP hinchables mediante un sistema de verificación en 4 fases: control de materiales entrantes (IQC), control de calidad en proceso (IPQC), ensayos finales de la tabla y verificación de inflado (FQC) y liberación de embalaje y pre-embarque (OQC). Cada pedido se inspecciona según la muestra aprobada, la especificación técnica, la prueba de arte, la BOM y los estándares de embalaje, con verificación de estanqueidad al aire, controles visuales y dimensionales, confirmación de accesorios y trazabilidad del lote. Los artículos que no cumplen los criterios de aceptación se ponen bajo retención o cuarentena controlada, se retrabajan solo bajo instrucciones aprobadas y se reinspeccionan antes de la liberación autorizada.'
+  verified: '2026-08'
+
+intro: 'Nuestro sistema de calidad está diseñado para proyectos OEM/ODM: los criterios de inspección se definen por pedido, se documentan y son seguidos por los equipos de producción y calidad desde el material entrante hasta el embalaje. Esto mantiene alineadas las expectativas de calidad entre la fábrica y tu marca, desde la primera muestra hasta los contenedores completos.'
+
+scope_note:
+  tagline: Alcance
+  title: Criterios de inspección específicos por proyecto
+  body: |
+    Las especificaciones de calidad pueden variar según la construcción de la tabla (p. ej., capa simple/doble, drop-stitch tejido, raíl fusionado), el uso final previsto, las normativas del mercado de destino y los parámetros aprobados por el cliente. La autorización final de liberación se basa estrictamente en los criterios de inspección documentados y acordados para el pedido.
+
+stages:
+  tagline: Marco de calidad
+  title: Nuestro sistema de verificación de calidad en 4 fases
+  subtitle: Un circuito completo de control de calidad desde la llegada de la materia prima hasta la liberación del envío.
+  steps:
+    - title: '1. Control de materiales entrantes (IQC)'
+      desc: 'Los materiales principales y los componentes adquiridos se comprueban según las especificaciones aprobadas y las muestras de referencia antes de entrar en la línea de producción. El drop-stitch y el PVC se verifican en cuanto a identificación del material, lote del proveedor, peso/densidad, grosor, concordancia de color con las muestras aprobadas y defectos superficiales. Las plataformas de agarre de EVA se revisan en cuanto a patrón, color, grosor, precisión de corte y compatibilidad del adhesivo. Las válvulas y los herrajes se someten a pruebas de funcionamiento, rosca, integridad del sello y ajuste. Los accesorios y el embalaje (bombas, palas, quillas, correas, bolsas, cartones) se cotejan en cantidad, color, marca, precisión del código de barras y versión de arte según la BOM aprobada.'
+    - title: '2. Control de calidad en proceso (IPQC)'
+      desc: 'Los pasos críticos de fabricación se inspeccionan para detectar no conformidades antes de que las tablas pasen a los siguientes puestos de trabajo. El corte y la impresión se verifican en cuanto a dimensiones de los paneles, disposición del arte, orientación del espejo y limpieza de bordes según los planos técnicos aprobados. El ensamblaje de la tabla y la unión del raíl se comprueban en cuanto a simetría del contorno, continuidad del solape de las costuras y eliminación de huecos o bolsas de aire en las zonas de alta tensión. La fijación de válvulas y accesorios, la gráfica y la marca se verifican en cuanto a posición, orientación, cobertura del adhesivo, ortografía del logotipo y versión del arte.'
+    - title: '3. Ensayos finales de la tabla y verificación de inflado (FQC)'
+      desc: 'Las tablas terminadas se someten a pruebas físicas y estructurales obligatorias antes de la aprobación para su embalaje. Las tablas se inflan a la presión de inspección aprobada para el proyecto y se mantienen para verificar la rigidez estructural y la estabilidad de la presión. Los análisis de estanqueidad al aire cubren el alojamiento de la válvula, las costuras del raíl, los conos de proa y popa y las juntas de tensión, mediante métodos calibrados de detección de fugas (control de caída de presión o prueba de burbujas). La inspección cosmética y dimensional verifica dimensiones, perfil de rocker y alineación de la plataforma de EVA (tolerancia ±2 mm) bajo iluminación estándar de luz diurna.'
+    - title: '4. Embalaje y liberación de pre-embarque (OQC)'
+      desc: 'La verificación exhaustiva de pre-embarque garantiza cero discrepancias en la configuración del SKU o las marcas de envío. La comprobación de la integridad del kit cruza tabla, quilla, correa, pala, bomba, bolsa, kit de reparación y manual de usuario con la BOM del pedido. Los controles de embalaje y código de barras verifican las marcas del cartón, las etiquetas de SKU, la legibilidad del código de barras, el idioma del manual y la integridad estructural del cartón. Los pedidos se liberan solo tras la auditoría final de embalaje firmada por personal de calidad autorizado.'
+
+inspection_points:
+  tagline: Cobertura de inspección
+  title: Puntos clave de control de inspección
+  subtitle: Cada punto de control se ejecuta según criterios de aceptación documentados y acordados por pedido.
+  features:
+    - icon: A
+      icon_bg: blue
+      title: Verificación de estanqueidad al aire
+      desc: 'Las tablas terminadas se inflan a la presión de inspección aprobada y se comprueban en cuanto a retención de presión, estado de la base de la válvula, costuras del raíl, zonas de proa y popa y puntos de alta tensión. Cuando el procedimiento de inspección lo requiere, las zonas con fugas sospechosas se examinan con métodos aprobados de detección de fugas.'
+    - icon: B
+      icon_bg: green
+      title: Inspección visual y dimensional
+      desc: 'Las tablas se inspeccionan con iluminación adecuada en cuanto a estado de la superficie del material, defectos de impresión, variación de color, alineación del EVA, arrugas, arañazos, contaminación y aspecto de las uniones. Las dimensiones clave y las posiciones de los accesorios se verifican según los planos o especificaciones aprobados.'
+    - icon: C
+      icon_bg: purple
+      title: Verificación de accesorios y embalaje
+      desc: 'La configuración completa del producto se verifica antes del envío: modelo de tabla, sistema de quillas, pala, bomba, correa, bolsa de transporte, kit de reparación, manual de usuario y accesorios específicos del cliente, cada uno cotejado con la muestra, los planos y la BOM aprobados.'
+    - icon: D
+      icon_bg: orange
+      title: Embalaje y liberación del envío
+      desc: 'Las unidades embaladas se comprueban en cuanto a configuración de SKU, integridad de accesorios, etiquetas de producto, información del código de barras, versión del manual de instrucciones, marcado del cartón, cantidad de embalaje y estado del cartón. La liberación del envío se autoriza solo tras completar todos los requisitos de inspección y embalaje.'
+
+traceability_intro:
+  tagline: Trazabilidad de lotes
+  title: Sistema de trazabilidad a nivel de proyecto y de lote
+  body: |
+    Cada pedido de SUP personalizado se gestiona bajo un código de proyecto unificado que vincula las especificaciones técnicas, la BOM aprobada, las revisiones de arte, los números de lote de material, las referencias de embalaje y los registros de inspección. Los registros de producción e inspección se mantienen por proyecto y por lote de producción aplicable, y cada lote puede vincularse de nuevo a la especificación del producto aprobada, la BOM, el arte y las referencias de embalaje.
+
+    Esto respalda una revisión eficiente de la configuración del producto, el estado de la inspección y el alcance afectado si se identifica un problema de calidad — desde el producto terminado hasta los registros de origen, utilizando la identificación de la tabla o del cartón.
+
+traceability_chain:
+  tagline: Cadena de trazabilidad
+  title: Del código de proyecto a la liberación del envío
+  subtitle: Una cadena de referencias controladas desde la confirmación del pedido hasta el despacho autorizado.
+  steps:
+    - step: '01'
+      title: Código de proyecto
+      desc: 'Referencia unificada del proyecto que vincula cada documento controlado con el pedido.'
+    - step: '02'
+      title: Revisiones de documentos
+      desc: 'Niveles de revisión actuales de especificación, BOM, arte y embalaje: solo las versiones aprobadas son válidas para producción.'
+    - step: '03'
+      title: Lote y materiales
+      desc: 'Lotes de materiales y componentes registrados contra el lote de producción.'
+    - step: '04'
+      title: Registros de inspección
+      desc: 'Resultados de inspección IQC, en proceso, estanqueidad al aire, final y de embalaje por lote.'
+    - step: '05'
+      title: Embalaje y liberación
+      desc: 'Lote de embalaje, estado de cierre de NCR y resumen de liberación de envío autorizada.'
+
+traceability_sample:
+  tagline: Muestra anonimizada
+  title: Registro de control de trazabilidad (demo)
+  body: |
+    Los valores de demostración se muestran solo con fines ilustrativos: los nombres de clientes, números de PO, arte personalizado, datos de proveedores e información comercial se eliminan para proteger la confidencialidad.
+
+    - **Fabricante:** QINGDAO VATRAD GROUP, LTD.
+    - **Código de proyecto:** DEMO-SUP-2026-01
+    - **Referencia de SKU:** DEMO-TR-126
+    - **Lote de producción:** BATCH-AUG-01
+    - **Revisión de especificación / BOM / arte:** Rev B / Rev C / Rev B
+    - **Registro de estanqueidad al aire:** PASS — conservado por lote
+    - **Estado de inspección:** PASS
+    - **Estado de envío:** RELEASED
+
+quarantine_intro:
+  tagline: Control de no conformidades
+  title: Control de productos no conformes y cuarentena
+  body: |
+    Los productos o componentes que no cumplen los criterios de aceptación definidos se identifican claramente y se ponen bajo estado de retención o cuarentena controlada. No pueden pasar a la siguiente etapa de producción, al embalaje ni al envío hasta completar una disposición autorizada. El retrabajo se realiza bajo instrucciones aprobadas y se vincula al registro de no conformidad correspondiente; los artículos retrabajados se reinspeccionan según los requisitos del proyecto aplicables antes de la liberación de calidad.
+
+quarantine_flow:
+  tagline: Flujo de control en 7 pasos
+  title: Qué ocurre cuando se detecta una no conformidad
+  subtitle: Identificar, controlar, corregir, verificar — luego liberar o rechazar. El producto no conforme nunca vuelve a producción o embalaje sin verificación.
+  steps:
+    - step: '01'
+      title: Identificar
+      desc: 'La no conformidad se registra contra el producto, SKU, lote o etapa de proceso afectados.'
+    - step: '02'
+      title: Etiquetar
+      desc: 'Los artículos afectados se identifican claramente con etiquetas de estado controladas — HOLD, CUARENTENA o RECHAZADO.'
+    - step: '03'
+      title: Cuarentena
+      desc: 'Los artículos se separan en una zona de cuarentena físicamente controlada o se bloquean por sistema para evitar su uso o envío no intencionado.'
+    - step: '04'
+      title: Evaluar el alcance
+      desc: 'El alcance afectado se revisa por lote, etapa de proceso, lote de material y revisión de documento.'
+    - step: '05'
+      title: Retrabajo / Sustitución
+      desc: 'La corrección solo se permite mediante una disposición aprobada y una instrucción de trabajo controlada.'
+    - step: '06'
+      title: Reinspección
+      desc: 'Los artículos corregidos se reinspeccionan según los criterios de aceptación aplicables antes de la liberación.'
+    - step: '07'
+      title: Liberar o rechazar
+      desc: 'Solo el producto conforme autorizado avanza al embalaje o a la liberación del envío.'
+
+quarantine_evidence:
+  tagline: En el taller
+  title: Ensayos controlados y cuarentena en la práctica
+  subtitle: Fotografías de nuestro taller en Qingdao que muestran cómo se aplican el control de estado y los registros de inspección en planta.
+  features:
+    - image: https://assets.vectoflare.com/site/quality/qc-air-tightness-test-area.avif
+      alt: Tablas de SUP hinchables infladas en la zona de pruebas de estanqueidad de la fábrica, monitorizadas con un manómetro digital
+      title: Zona de pruebas de estanqueidad al aire
+      desc: 'Tablas infladas mantenidas en la zona de control de calidad bajo iluminación industrial, con manómetros digitales que monitorizan la prueba de retención de aire aprobada en la base de la válvula, las costuras del raíl, la proa, la popa y las zonas de alta tensión. Los registros se conservan por lote y se vinculan a la inspección final.'
+    - image: https://assets.vectoflare.com/site/quality/qc-hold-quarantine-station.avif
+      alt: Hojas de control de calidad y etiquetas de estado de retención controlada en la estación de inspección de la fábrica
+      title: Estación de retención y cuarentena
+      desc: 'Estación de inspección con hojas de control de calidad y etiquetado de estado. Cualquier artículo que no cumpla los criterios de aceptación se etiqueta, se registra y se traslada a cuarentena: no puede pasar al embalaje hasta completar una disposición autorizada y una reinspección obligatoria.'
+    - image: https://assets.vectoflare.com/site/quality/qc-air-tightness-rework.avif
+      alt: Técnico de control de calidad realizando un retrabajo controlado de estanqueidad al aire en un SUP hinchable en la estación de retrabajo de la fábrica
+      title: Estación de retrabajo controlado
+      desc: 'El retrabajo de estanqueidad al aire se realiza en una estación dedicada según una tarjeta de método aprobada: el defecto se marca, la tabla permanece en HOLD y, tras el periodo de curado requerido, vuelve a la zona de ensayos para su reinspección contra los criterios de aceptación originales.'
+    - image: https://assets.vectoflare.com/site/quality/qc-workshop-quarantine-demo.avif
+      alt: Demostración en el taller de la segregación controlada en cuarentena en la fábrica de Qingdao
+      title: Demostración de la zona de cuarentena
+      desc: 'Fotografía de demostración del taller que muestra cómo funciona la segregación controlada en cuarentena en planta: las unidades segregadas se mantienen bajo control de estado hasta que se completa una disposición autorizada.'
+
+rework_intro:
+  tagline: Gobernanza del retrabajo
+  title: Gobernanza controlada de no conformidades de estanqueidad al aire y retrabajo
+  body: |
+    En QINGDAO VATRAD GROUP.,LTD., el retrabajo se define estrictamente como la restauración de una unidad no conforme hasta el pleno cumplimiento de su especificación de ingeniería original — no como un arreglo rápido. Cualquier tabla identificada con una no conformidad de estanqueidad al aire se coloca bajo retención controlada y se vincula a un Informe de No Conformidad (NCR) antes de continuar cualquier proceso; la fuente de la fuga se localiza y registra mediante el método de diagnóstico aprobado.
+
+    El retrabajo solo puede realizarse cuando el defecto está dentro del alcance de retrabajo aprobado y se dispone de un método autorizado. La instrucción de retrabajo identifica el producto, el lote, la ubicación del defecto, el material aprobado, el método, las condiciones requeridas y el alcance de la reinspección. Tras el periodo de curado o estabilización requerido, la tabla se reinspecciona contra los mismos criterios de aceptación aplicables que una tabla conforme — el retrabajo nunca reduce el estándar de aceptación. El fallo de la reinspección exige una nueva disposición de ingeniería y calidad; no se permite repetir el retrabajo sin una aprobación documentada.
+
+rework_decision:
+  tagline: Flujo interactivo
+  title: Flujo de decisión de retrabajo — haz clic en cualquier nodo
+  subtitle: Sigue cómo se gestiona una no conformidad de estanqueidad al aire desde la detección hasta la liberación o el desecho. Haz clic en un nodo para expandir los requisitos de control en ese paso.
+  nodes:
+    - id: detect
+      type: start
+      label: Fuga detectada
+      detail: 'Se identifica una no conformidad de estanqueidad al aire durante la inspección — fallo de retención de presión, fuga visible o defecto relacionado del sistema de aire.'
+    - id: hold
+      type: step
+      label: Parada de línea · Etiqueta HOLD · NCR
+      detail: 'El procesamiento se detiene. Se registran el ID de la tabla, el código de producto, el lote, el puesto de trabajo, la fecha y el inspector; se coloca una etiqueta HOLD / CUARENTENA y se abre un NCR contra la revisión de especificación aplicable.'
+    - id: locate
+      type: step
+      label: Localizar la fuente de la fuga
+      detail: 'La tabla se infla a la presión de diagnóstico aprobada para el proyecto y la fuente se localiza con un método aprobado — retención de presión, prueba de burbujas calibrada, acústica o equipos de detección de fugas.'
+    - id: classify
+      type: step
+      label: Clasificar el defecto (A–G)
+      detail: 'El defecto se clasifica según la matriz de aprobación: A interfaz de válvula, B base de la válvula, C porosidad superficial, D costura local del raíl, E falla amplia del raíl, F fuga recurrente, G daño estructural.'
+    - id: authorize
+      type: decision
+      label: ¿Retrabajo autorizado?
+      yes: rework
+      no: escalate
+      detail: 'Calidad confirma la categoría del defecto e Ingeniería evalúa si la tabla puede restaurarse a su especificación original. La autorización registra la tarjeta de método, los materiales, las condiciones y el alcance de la reinspección — o deriva a sustitución, rechazo, desecho o concesión del cliente.'
+    - id: rework
+      type: step
+      label: Retrabajo controlado
+      detail: 'Se ejecuta solo dentro del límite del defecto aprobado, con la tarjeta de método, el lote de material y las herramientas aprobados — nunca se alteran las dimensiones, la construcción, la gráfica, los accesorios ni los requisitos de embalaje.'
+    - id: cure
+      type: step
+      label: Curado y estabilización
+      detail: 'La tabla permanece en HOLD durante el periodo de curado y estabilización definido por la instrucción de material y proceso aprobada, y recibe una preinspección visual y de acabado.'
+    - id: reinspect
+      type: decision
+      label: ¿Reinspección superada?
+      yes: release
+      no: escalate
+      detail: 'La tabla se infla a la presión de reinspección aprobada para el proyecto y se reverifican el fallo original y todas las características potencialmente afectadas — ubicación de la fuga, válvula, raíles, costuras, zonas de alta tensión, accesorios y aspecto. El retrabajo nunca reduce el estándar de aceptación.'
+    - id: release
+      type: release
+      label: Liberación de calidad
+      detail: 'Calidad revisa el NCR cerrado, el registro de retrabajo y el resultado de la reinspección y autoriza la liberación. Ninguna tabla retrabajada se embala ni se envía sin la liberación de calidad autorizada.'
+    - id: escalate
+      type: escalate
+      label: Escalar — Sustituir / Desechar / Concesión
+      detail: 'No se repite el retrabajo sin aprobación documentada. La tabla se deriva a sustitución, rechazo, desecho o concesión escrita del cliente cuando no puede restaurarse la especificación original.'
+
+defect_matrix:
+  tagline: Clasificación de defectos
+  title: Matriz de clasificación de defectos de estanqueidad y aprobación
+  subtitle: No toda fuga se retrabaja — cada defecto se clasifica y su disposición se aprueba al nivel adecuado, desde el inspector de calidad hasta el director de planta.
+  headers:
+    category: Categoría de defecto
+    area: Zona típica
+    eligibility: Elegibilidad de retrabajo
+    approval: Aprobación requerida
+  rows:
+    - category: 'Clase A — Interfaz de válvula'
+      area: 'Núcleo de la válvula, tapa de sellado, junta, interfaz de la bomba'
+      eligibility: 'Retrabajo estándar autorizado'
+      approval: 'Inspector de calidad'
+    - category: 'Clase B — Base de la válvula'
+      area: 'Microfuga en el borde de la válvula'
+      eligibility: 'Retrabajo evaluado según la tarjeta de método aprobada'
+      approval: 'Calidad + Ingeniería'
+    - category: 'Clase C — Porosidad superficial'
+      area: 'Microporo local en una superficie sin tensión'
+      eligibility: 'Autorizado solo si cumple las especificaciones del cliente'
+      approval: 'Calidad + Ingeniería'
+    - category: 'Clase D — Costura local del raíl'
+      area: 'Fuga local en el solape de la banda del raíl'
+      eligibility: 'Riesgo alto; requiere disposición estricta de ingeniería'
+      approval: 'Ingeniería + Jefe de calidad'
+    - category: 'Clase E — Falla amplia del raíl'
+      area: 'Falla continua de costura en zonas de alta tensión'
+      eligibility: 'Retrabajo estándar no autorizado — sustitución o revisión de causa raíz'
+      approval: 'Jefe de calidad + Concesión del cliente'
+    - category: 'Clase F — Fuga recurrente'
+      area: 'Fuga no localizable o fallo en el reensayo'
+      eligibility: 'Sin retrabajo repetido; sustitución, desecho o análisis de causa raíz'
+      approval: 'Jefe de calidad / Ingeniería'
+    - category: 'Clase G — Daño estructural'
+      area: 'Daño de material, delaminación, deformación de la tabla'
+      eligibility: 'Liberación por retrabajo no autorizada — sustitución, desecho o concesión escrita del cliente'
+      approval: 'Responsable de calidad + Aprobación del cliente'
+
+rework_flow:
+  tagline: Circuito cerrado en 7 pasos
+  title: Flujo de retrabajo controlado — de la detección a la liberación o el desecho
+  subtitle: 'Todo retrabajo de estanqueidad sigue el mismo circuito controlado: detectar, aislar, diagnosticar, autorizar, retrabajar, reinspeccionar, liberar.'
+  steps:
+    - step: '01'
+      title: Detección, parada de línea y cuarentena
+      desc: 'El procesamiento de la tabla afectada se detiene de inmediato. Se registran el ID de la tabla, el código de producto, el lote, el puesto de trabajo, la fecha y el inspector; se coloca una etiqueta HOLD / CUARENTENA y se abre un NCR contra la revisión de especificación aplicable.'
+    - step: '02'
+      title: Diagnóstico sistemático de la fuga
+      desc: 'La tabla se infla a la presión de diagnóstico aprobada para el proyecto y la fuente de la fuga se localiza con un método aprobado — retención de presión, prueba de burbujas calibrada, acústica o equipos de detección de fugas. La ubicación sospechosa se marca sin dañar la tabla.'
+    - step: '03'
+      title: Disposición e autorización de ingeniería
+      desc: 'Calidad confirma la categoría del defecto e Ingeniería evalúa si la tabla puede restaurarse a su especificación original. Una autorización de retrabajo vinculada al NCR registra el método, los materiales, las condiciones y el alcance de la reinspección aprobados — o asigna sustitución, rechazo, desecho o concesión del cliente.'
+    - step: '04'
+      title: Ejecución controlada del retrabajo
+      desc: 'El retrabajo se ejecuta solo dentro del límite del defecto aprobado, utilizando la tarjeta de método, el lote de material y las herramientas aprobados. Nunca se alteran las dimensiones, la construcción, la gráfica, la configuración de accesorios ni los requisitos de embalaje de la tabla.'
+    - step: '05'
+      title: Curado, estabilización y preinspección
+      desc: 'La tabla retrabajada permanece en estado HOLD durante el periodo de curado y estabilización definido por la instrucción de material y proceso aprobada, y recibe una preinspección visual y de acabado antes de la reinspección.'
+    - step: '06'
+      title: Reinspección y ensayo de prueba
+      desc: 'La tabla se infla a la presión de reinspección aprobada para el proyecto y se reverifican el fallo original y todas las características potencialmente afectadas: la ubicación de la fuga y su entorno, la válvula, los raíles, las costuras, las zonas de alta tensión, los accesorios y el aspecto. El retrabajo nunca reduce el estándar de aceptación.'
+    - step: '07'
+      title: Liberación de calidad o disposición final
+      desc: 'Calidad revisa el NCR completado, el registro de retrabajo y el resultado de la reinspección y autoriza la liberación — o escala a sustitución, rechazo, desecho o concesión del cliente. Ninguna tabla retrabajada se embala ni se envía sin la liberación de calidad autorizada.'
+
+quality_safeguards:
+  tagline: Salvaguardas de calidad
+  title: Reglas a prueba de errores que protegen tu marca
+  subtitle: Controles firmes que evitan bucles de reparación no controlados — un retrabajo documentado por defecto, umbrales de alerta por lote, instrumentación calibrada y condiciones de ensayo controladas.
+  features:
+    - icon: 1
+      icon_bg: blue
+      title: Un retrabajo por defecto
+      desc: 'Una misma ubicación puede retrabajarse una sola vez bajo una instrucción autorizada. Si la reinspección sigue fallando, la tabla se escala a sustitución, rechazo, desecho o concesión del cliente — no se permite repetir el retrabajo sin aprobación documentada.'
+    - icon: 2
+      icon_bg: green
+      title: Alerta por lote y parada de línea
+      desc: 'Cuando la no conformidad de un lote de producción supera el umbral fijado por ingeniería, la línea se detiene e Ingeniería investiga la causa — lote de material, condiciones de proceso y registros — antes de reanudar la producción.'
+    - icon: 3
+      icon_bg: purple
+      title: Instrumentación calibrada
+      desc: 'Los manómetros, manómetros digitales y temporizadores utilizados para las pruebas de estanqueidad se controlan y calibran por laboratorios de terceros dentro de su periodo de validez, con el estado de calibración visible en la zona de inspección.'
+    - icon: 4
+      icon_bg: orange
+      title: Condiciones de ensayo controladas
+      desc: 'Las zonas de ensayo de estanqueidad y curado se mantienen en un entorno controlado para que los resultados no se vean afectados por las variaciones de temperatura entre el día y la noche.'
+
+rework_boundaries:
+  tagline: Alcance y límites
+  title: Qué no cubre este sistema
+  body: |
+    El sistema de control de retrabajo se aplica a tablas de SUP hinchables terminadas o en proceso identificadas con fugas de aire, fallos de retención de presión o defectos relacionados del sistema de aire antes de la liberación del envío. No autoriza cambios en la construcción, los materiales, la gráfica, la configuración del producto o los requisitos del cliente aprobados, y no cubre:
+
+    - Productos ya enviados o en canales de distribución del cliente.
+    - Daños estructurales o deformaciones de la tabla no evaluados por Ingeniería.
+    - Fallos generalizados de raíl o costura, daños en el material del núcleo o defectos que puedan afectar a la seguridad.
+    - Proyectos en los que no se permite el retrabajo: muestras aprobadas por el cliente, unidades de certificación o ensayo.
+    - Proyectos con procesos propietarios del cliente, materiales especiales o requisitos de reparación especiales.
+    - Fugas recurrentes que no pueden localizarse, o tablas que vuelven a fallar tras el retrabajo.
+
+    Cualquier desviación de las especificaciones del cliente requiere una revisión de ingeniería documentada y, cuando corresponda, la aprobación escrita del cliente. Las tablas que no puedan restaurarse a su especificación original solo se liberan bajo una concesión explícita del cliente — nunca por decisión únicamente de producción.
+
+method_cards:
+  tagline: Sistema de tarjetas de método
+  title: Índice de tarjetas de método de retrabajo controlado
+  subtitle: 'La instrucción general controla el proceso; las tarjetas de método controlan la operación. La instrucción de retrabajo (WI-QC-AT-001) referencia las tarjetas de método MC-RW-01 a MC-RW-06, además de MC-RW-00 para desecho y rechazo obligatorios.'
+  headers:
+    code: Tarjeta de método
+    defect: Clase de defecto
+    scope: Alcance de aplicación
+    controls: Controles clave de ingeniería
+    approval: Autoridad de aprobación
+  rows:
+    - code: MC-RW-01
+      defect: Clase A (Interfaz de válvula)
+      scope: 'Servicio del núcleo de la válvula, limpieza y montaje del sello'
+      controls: 'Llave dinamométrica calibrada, asiento de junta limpio, sin daños en la rosca de la válvula'
+      approval: 'Inspector de calidad'
+    - code: MC-RW-02
+      defect: Clase B (Perímetro de la válvula)
+      scope: 'Sellado de la brida de la base de la válvula y sujeción controlada'
+      controls: 'Preparación controlada de la superficie, material de unión aprobado, utillaje de presión circular'
+      approval: 'Calidad + Ingeniería'
+    - code: MC-RW-03
+      defect: Clase C (Microfuga superficial)
+      scope: 'Sellado de poros en superficies no estructurales'
+      controls: 'Adhesivo aprobado de dos componentes, sin exudación hacia la gráfica o el EVA'
+      approval: 'Calidad + Ingeniería'
+    - code: MC-RW-04
+      defect: Clase D (Costura local del raíl)
+      scope: 'Reunión controlada del solape local del raíl'
+      controls: 'Activación térmica con temperatura controlada, rodillo de presión, utillaje anticurvado'
+      approval: 'Ingeniería + Jefe de calidad'
+    - code: MC-RW-05
+      defect: Clase B/C (Borde de accesorio)
+      scope: 'Parche de la caja de quillas y sellado de la base de montaje de accesorios'
+      controls: 'Promotor de adherencia de superficie, bloque de sujeción perfilado, periodo de espera definido'
+      approval: 'Calidad + Ingeniería'
+    - code: MC-RW-06
+      defect: Clase D (Costura de proa/popa)
+      scope: 'Intervención en costuras de curvatura de alta tensión'
+      controls: 'Material de unión aprobado de alta cizalla, periodo de curado ampliado antes del reensayo'
+      approval: 'Ingeniero jefe'
+    - code: MC-RW-00
+      defect: Clase E/F/G (Crítico / Ruptura)
+      scope: 'Desecho obligatorio y destrucción física'
+      controls: 'Corte físico para evitar mezclas, registro de desecho, revisión de causa raíz entre departamentos'
+      approval: 'Director de planta'
+
+inspector_friendly:
+  tagline: Inspección de terceros
+  title: Protocolo amigable para inspectores
+  body: |
+    Disponemos de una zona de inspección dedicada con manómetros calibrados, mesas de luz estandarizadas para la revisión de costuras y gráficos, y Briefs de inspección precumplimentados para que las agencias de terceros (SGS, BV, Intertek, QIMA) puedan completar la inspección de pre-embarque de forma eficiente — reduciendo tus costes de inspección.
+
+    Cada brief resume las revisiones de documentos aplicables, la referencia de la muestra aprobada, los controles críticos de calidad, el nivel de muestreo acordado, los ensayos funcionales y los requisitos de embalaje y código de barras del PO. Las cantidades, la calidad, el embalaje y los elementos básicos de seguridad especificados se verifican contra las referencias del proyecto aprobadas — sin búsquedas de última hora sobre el terreno.
+
+document_pack:
+  tagline: Paquete de documentación de calidad
+  title: Descarga el paquete de calidad de muestra y las plantillas de protocolo
+  subtitle: Plantillas controladas estándar utilizadas en proyectos OEM/ODM — estructuradas como el registro documental 00–15 (índice de proyecto, especificación aprobada, BOM, arte y referencias de embalaje, QIP, registros de inspección, NCR, control de cambios, brief de terceros, resumen de liberación).
+  features:
+    - icon: P
+      icon_bg: blue
+      title: Paquete de documentación de calidad (PDF)
+      desc: 'Estructura documental controlada completa 00–15: índice de proyecto, especificación, BOM, referencias de arte y embalaje, Plan de Inspección de Calidad (QIP), registros de inspección, NCR, control de cambios, brief de inspección de terceros y resumen de liberación de pre-embarque.'
+      link: 'https://assets.vectoflare.com/site/downloads/Qingdao_Vatrad_Group_SUP_Quality_Documentation_Pack.pdf?dl=1'
+      link_label: Descargar PDF
+    - icon: T
+      icon_bg: green
+      title: Brief de inspección de terceros (PDF)
+      desc: 'Brief de una página para inspectores de SGS / BV / Intertek / QIMA: cantidad del pedido, nivel de muestreo AQL, revisiones aplicables y controles críticos de calidad, incluida la verificación del registro de estanqueidad al aire, el ensayo de retención de presión, la integridad del kit, el escaneo de código de barras y la prueba de caída del cartón.'
+      link: 'https://assets.vectoflare.com/site/downloads/Third_Party_Inspection_Brief_Template.pdf?dl=1'
+      link_label: Descargar PDF
+    - icon: C
+      icon_bg: purple
+      title: Protocolo de control de cambios (PDF)
+      desc: 'Registro de control de cambios que cubre el arte, la BOM aprobada por el cliente y las revisiones de marcado del cartón — con resumen del cambio, motivo, evaluación de impacto, estado de aprobación del cliente, lote efectivo y retirada de documentos obsoletos.'
+      link: 'https://assets.vectoflare.com/site/downloads/Change_Control_Protocol_Bilingual.pdf?dl=1'
+      link_label: Descargar PDF
+    - icon: R
+      icon_bg: orange
+      title: Resumen de liberación de pre-embarque (PDF)
+      desc: 'Firma de liberación de una página: verificación de puertas de calidad (IQC, IPQC, estanqueidad al aire, inspección final, embalaje), estado de NCR abiertas y la decisión de liberación autorizada firmada por calidad y operaciones.'
+      link: 'https://assets.vectoflare.com/site/downloads/Pre_Shipment_Release_Summary_Bilingual.pdf?dl=1'
+      link_label: Descargar PDF
+    - icon: W
+      icon_bg: blue
+      title: Instrucción de retrabajo de estanqueidad al aire (PDF)
+      desc: 'Instrucción de trabajo controlada WI-QC-AT-001 Rev A: alcance y límites, clasificación de defectos, NCR y autorización de retrabajo, ejecución controlada, curado, reinspección y liberación para tablas de SUP hinchables.'
+      link: 'https://assets.vectoflare.com/site/downloads/air-tightness-rework-instruction-wi-qc-at-001.pdf?dl=1'
+      link_label: Descargar PDF
+    - icon: M
+      icon_bg: green
+      title: Índice de tarjetas de método (PDF)
+      desc: 'Documento controlado SOP-QC-AT-IDX-001 Rev A: el sistema de tarjetas de método numeradas MC-RW-01 a MC-RW-06, más MC-RW-00 para desecho y rechazo, vinculado a la instrucción de retrabajo de estanqueidad al aire.'
+      link: 'https://assets.vectoflare.com/site/downloads/method-card-index-sop-qc-at-idx-001.pdf?dl=1'
+      link_label: Descargar PDF
+    - icon: V
+      icon_bg: orange
+      title: Estándar de control de cambios de retrabajo (página)
+      desc: 'Control de cambios formal según ISO 9001 para parámetros de retrabajo: ECR, clasificación de riesgos, matriz de aprobación interdepartamental, bucle cerrado de 9 pasos, validación de ingeniería cuantificada y salvaguardas Poka-Yoke — con el SOP bilingüe QMS-SOP-QC-CC-001 Rev 2.0.'
+      link: '/es/factory/quality-change-control'
+      link_label: Ver página
+    - icon: N
+      icon_bg: blue
+      title: Control de productos no conformes (página)
+      desc: 'Control de salidas no conformes según la ISO 9001:2015 Cláusula 8.7: registro NCR, cuarentena, autoridad de disposición por gravedad, retrabajo controlado bajo SRI, reinspección independiente y destrucción presenciada con bóveda de video SHA-256 — con SOP bilingüe y descargas de certificado de desguace.'
+      link: '/es/factory/non-conforming-control'
+      link_label: Ver página
+
+faqs:
+  tagline: FAQ
+  title: Preguntas frecuentes sobre el control de calidad de los SUP
+  items:
+    - q: '¿Cómo controla QINGDAO VATRAD GROUP.,LTD. la calidad de las tablas de SUP hinchables?'
+      a: 'La calidad se controla mediante inspección de materiales entrantes, puntos de control en el proceso de producción, verificación final del producto, inspección del embalaje y trazabilidad de la producción, cada uno ejecutado según muestras, especificaciones y criterios de inspección aprobados por proyecto.'
+    - q: '¿Qué inspecciones de calidad se realizan durante la producción de los SUP?'
+      a: 'Las inspecciones incluyen verificación de materiales, controles de corte e impresión, inspección de la construcción de la tabla, verificación de la instalación de válvulas, inspección de accesorios, pruebas de estanqueidad al aire, inspección de aspecto y verificación del embalaje.'
+    - q: '¿Pueden los clientes OEM solicitar los registros de inspección de los SUP?'
+      a: 'Sí. Los registros de inspección y la documentación de calidad pueden facilitarse según los requisitos del proyecto y los acuerdos de calidad con el cliente, incluidos informes de muestra de inspección de pre-embarque.'
+    - q: '¿Cómo garantiza la fábrica la consistencia de la producción OEM?'
+      a: 'La consistencia de la producción se mantiene mediante muestras aprobadas, especificaciones técnicas, puntos de control de fabricación, procedimientos de inspección y procesos documentados de control de calidad vinculados a cada pedido.'
+    - q: '¿Puedo organizar una inspección de terceros con SGS, BV, Intertek o QIMA?'
+      a: 'Sí. Recibimos a los inspectores de terceros con una zona de inspección dedicada, manómetros calibrados, briefs de inspección precumplimentados y registros accesibles. Comparte tu especificación, muestra aprobada, arte, requisitos de embalaje y criterios de defectos — o utiliza nuestra plantilla de brief de inspección de terceros.'
+    - q: '¿Cómo se gestionan los cambios de arte, BOM o embalaje durante la producción?'
+      a: 'Los cambios se registran en nuestro registro de control de cambios con la revisión del documento afectado, el resumen del cambio, el motivo, la evaluación de impacto, el estado de aprobación del cliente y el lote efectivo. Las versiones obsoletas se retiran para que producción e inspección utilicen siempre los documentos aprobados vigentes.'
+    - q: '¿La fábrica admite proyectos de SUP hinchables personalizados?'
+      a: 'Sí. Se admiten proyectos OEM/ODM de SUP hinchables personalizados según las especificaciones del cliente, los requisitos de arte, las configuraciones de accesorios y las necesidades de embalaje, con criterios de inspección específicos por proyecto acordados antes de la producción.'
+    - q: '¿Puede retrabajarse en fábrica una tabla de SUP con fugas?'
+      a: 'Sí — bajo condiciones controladas. La tabla se coloca en HOLD y se vincula a un NCR, la fuga se localiza con un método de diagnóstico aprobado y el retrabajo solo se realiza tras la autorización de Calidad/Ingeniería y únicamente dentro de las clases de defecto aprobadas para retrabajo. La tabla se reinspecciona después contra los mismos criterios de aceptación que una tabla conforme antes de su liberación.'
+    - q: '¿Cuántas veces puede retrabajar la fábrica una tabla?'
+      a: 'Una misma ubicación puede retrabajarse una sola vez bajo una instrucción autorizada. Si la reinspección sigue fallando, la tabla se escala a sustitución, rechazo, desecho o concesión del cliente — no se permite repetir el retrabajo sin aprobación documentada.'
+
+cta:
+  title: ¿Necesitas un paquete de calidad de proyecto de muestra?
+  desc: 'Solicita un paquete de soporte de inspección de terceros anonimizado y un Plan de Inspección de Calidad (QIP) para tu proyecto OEM/ODM — o descarga las plantillas de muestra para revisar la estructura documental que puedes esperar para tu pedido.'
+  actions:
+    - text: Solicitar revisión de calidad
+      variant: primary
+      href: /es/contact
+    - text: Descargar el paquete de calidad de muestra (PDF)
+      href: 'https://assets.vectoflare.com/site/downloads/Qingdao_Vatrad_Group_SUP_Quality_Documentation_Pack.pdf?dl=1'
+    - text: Descargar el protocolo de QC y la lista PSI
+      href: 'https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_Quality_Inspection_Standards.pdf?dl=1'

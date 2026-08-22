@@ -1,0 +1,108 @@
+﻿meta:
+  title: 'Desarrollo de SUP personalizados — Diseño, prototipo y producción'
+  description: 'Desarrollo de productos SUP del concepto al contenedor: especificación, ingeniería, prototipado, ensayos, utillaje y producción en masa.'
+  dateModified: '2026-08-10'
+  keywords:
+    - 'desarrollo de productos SUP'
+    - 'desarrollo de prototipos SUP'
+    - 'diseño de SUP personalizado'
+    - 'ingeniería de productos SUP'
+    - 'prototipado de SUP hinchables'
+
+hero:
+  tagline: Desarrollo de producto
+  title: 'Desarrollo de SUP personalizados, del concepto al contenedor'
+  subtitle: 'Seis etapas convierten tu idea de producto en tablas de SUP listas para producir — especificación, ingeniería, prototipado, ensayos, utillaje y producción en masa, todo dentro de una sola fábrica con un único sistema de calidad responsable.'
+
+answer:
+  label: 'Respuesta directa'
+  text: 'El desarrollo de productos SUP en Vectoflare transcurre en seis etapas — especificación del producto, ingeniería estructural, muestreo de prototipo, ensayos y validación, utillaje a medida y producción en masa. La primera muestra física sale en 7–12 días tras la aprobación de la especificación; la producción transcurre en 25–35 días tras el PO y el depósito confirmados; el desarrollo de un molde nuevo añade 15–20 días.'
+  verified: '2026-08'
+
+stages:
+  title: 'Las seis etapas del desarrollo de SUP personalizados'
+  subtitle: 'Cada etapa tiene un entregable claro, para que siempre sepas dónde está tu proyecto — y qué llega después.'
+  items:
+    - title: '1. Idea y especificación del producto'
+      description: 'Geometría de la tabla, rango de peso del rider, volumen, objetivos de construcción y paquete de accesorios. Una tabla de referencia, un boceto o la especificación de un competidor bastan para empezar.'
+      icon: 'tabler:bulb'
+    - title: '2. Ingeniería y diseño 3D'
+      description: 'Ingeniería estructural, grosor del drop-stitch y selección de calidad de PVC, más una revisión de fabricabilidad y presupuesto — devueltos en un día laborable.'
+      icon: 'tabler:blueprint'
+    - title: '3. Muestreo de prototipo'
+      description: 'Tu primera muestra física sale en 7–12 días, documentada con una ficha de aprobación que cubre construcción, colores de impresión y resultados del ensayo de presión.'
+      icon: 'tabler:tools'
+    - title: '4. Ensayos y validación'
+      description: 'Retención de presión, resistencia de costuras y comprobaciones dimensionales contra la muestra aprobada, con documentación CE y REACH preparada para tus mercados objetivo.'
+      icon: 'tabler:test-pipe'
+    - title: '5. Utillaje y producción en masa'
+      description: 'Desarrollo de molde a medida en 15–20 días cuando se necesita; la producción transcurre en 25–35 días con puntos de control de QC en proceso y trazabilidad de lote.'
+      icon: 'tabler:settings'
+    - title: '6. Entrega y escalado'
+      description: 'Logística FOB, CIF o DDP a más de 50 países — y después pedidos repetidos de tu línea consolidada con plazos estables y arte aprobado en archivo.'
+      icon: 'tabler:truck-delivery'
+
+why_inhouse:
+  title: 'Por qué el desarrollo dentro de una fábrica gana a un proyecto intermediado'
+  subtitle: 'Que el trabajo de desarrollo esté dentro de la planta de producción cambia lo que obtienes en cada etapa.'
+  items:
+    - title: Sin brechas de traspaso de diseño
+      description: 'El equipo de ingeniería y dibujo trabaja en la misma planta que la línea de soldadura — un cambio de plano llega a producción la misma semana, no después de un viaje comercial de ida y vuelta.'
+      icon: 'tabler:handshake'
+    - title: Muestras que coinciden con la producción
+      description: 'La tirada de muestra y la tirada de producción comparten máquinas, materiales y puestos de QC, así que la muestra aprobada es lo que realmente recibes a escala de contenedor.'
+      icon: 'tabler:stack-2'
+    - title: Ingeniería que no vende nada más
+      description: 'Las decisiones se toman contra el coste objetivo, el peso y la durabilidad — no contra márgenes de venta adicional, porque esto es una fábrica y la producción es el único ingreso.'
+      icon: 'tabler:scale'
+    - title: Confidencialidad como contrato permanente
+      description: 'Se firma un NDA antes de cualquier intercambio de archivos, y tus archivos de arte, utillaje y especificaciones siguen siendo de tu propiedad — nunca reutilizados, revendidos ni mostrados a otro cliente.'
+      icon: 'tabler:lock'
+
+buyer_guides:
+  tagline: 'Guías del comprador'
+  title: 'La biblioteca completa de abastecimiento'
+  subtitle: 'Cada etapa de un proyecto SUP a medida, explicada con nuestros plazos, condiciones y documentación reales.'
+  items:
+    - title: 'SUP de marca privada: la guía completa paso a paso'
+      body: 'De elegir fábrica a un contenedor entregado — el recorrido completo en seis pasos para nuevas marcas.'
+      href: '/es/news/private-label-sup-guide'
+    - title: 'Cómo elegir un fabricante OEM de SUP'
+      body: 'Las preguntas de auditoría que separan una fábrica real de un intermediario: certificaciones, control de calidad, muestras y propiedad.'
+      href: '/es/news/how-to-choose-sup-oem-manufacturer'
+    - title: 'Calendario de desarrollo de producto SUP'
+      body: 'Muestra en 7–12 días, producción en 25–35 días, utillaje más 15–20 — el calendario completo, etapa por etapa.'
+      href: '/es/news/custom-sup-development-timeline'
+    - title: 'Información para preparar antes de pedir'
+      body: 'Los cinco detalles que permiten a una fábrica cotizar con precisión a la primera — y evitar rehacer la especificación.'
+      href: '/es/news/info-needed-before-sup-production'
+    - title: 'MOQ y precios OEM de SUP'
+      body: 'Niveles de MOQ en las etapas de muestra (1–2), piloto (20–50) y volumen (90–100+ por rollo de 150 m), los seis factores de coste y cinco formas de reducir coste sin bajar calidad.'
+      href: '/es/news/sup-oem-moq-pricing'
+    - title: 'Certificación CE para SUP hinchables'
+      body: 'Qué cubre realmente el CE, los cinco documentos que debes exigir y cómo verificar que un certificado nombra tu modelo.'
+      href: '/es/news/ce-certification-inflatable-sup'
+    - title: 'Envío: FOB vs CIF vs DDP'
+      body: 'Qué cubre y cuesta cada incoterm, el calendario de 4–6 semanas de flete marítimo y qué término encaja con tu negocio.'
+      href: '/es/news/private-label-sup-oem-guide'
+
+faq_section:
+  tagline: FAQ
+  title: 'Preguntas frecuentes sobre desarrollo de SUP'
+  questions:
+    - q: ¿Podéis desarrollar un producto SUP desde una idea?
+      a: 'Sí. Apoyamos todo el recorrido, desde la especificación del producto y la ingeniería hasta el desarrollo del prototipo, la personalización y la producción en masa según tus requisitos. Un boceto, una tabla de referencia o incluso la especificación de un competidor bastan para iniciar la revisión de ingeniería.'
+    - q: ¿Cuánto cuesta el desarrollo de un producto SUP?
+      a: 'La revisión de especificación y la evaluación de ingeniería son gratuitas y se devuelven en un día laborable. El muestreo del prototipo se presupuesta por proyecto tras fijar la especificación; el precio de producción depende de los materiales, el volumen y de si se requiere utillaje a medida.'
+    - q: ¿Cuánto tarda el desarrollo de un producto SUP?
+      a: 'La primera muestra sale en 7–12 días tras la aprobación de la especificación, con 3–7 días por ronda de revisión. La producción transcurre en 25–35 días tras el PO y el depósito. El desarrollo de molde añade 15–20 días al inicio, y el flete marítimo añade 4–6 semanas a la mayoría de los destinos.'
+    - q: ¿Qué va primero — la muestra o la producción?
+      a: 'Siempre la muestra. Se produce, mide y aprueba un prototipo físico contra la especificación antes de iniciar cualquier tirada de producción. No lanzamos producción en volumen sobre diseños no aprobados.'
+    - q: ¿Firmáis un NDA para el desarrollo de producto?
+      a: 'Sí. Se firma un NDA antes de cualquier intercambio de archivos, y tus diseños, arte y utillaje siguen siendo de tu propiedad durante todo el desarrollo y la fabricación.'
+    - q: ¿Podéis proteger mi diseño y mis especificaciones de SUP?
+      a: 'Los diseños, especificaciones y conceptos de producto de los clientes se tratan de forma confidencial durante el desarrollo y la fabricación. Tus archivos de utillaje nunca se reutilizan, revenden ni muestran a otro cliente.'
+
+cta:
+  title: 'Inicia tu proyecto de producto SUP'
+  subtitle: 'Envía un boceto, una tabla de referencia o una especificación — revisión de ingeniería y presupuesto en un día laborable.'

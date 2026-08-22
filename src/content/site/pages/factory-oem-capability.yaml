@@ -1,0 +1,74 @@
+meta:
+  title: 'OEM & Private Label Manufacturing | {SITE}'
+  description: 'From concept to production: customize every detail of your inflatable SUP line. Full OEM/ODM service for private label paddle board brands.'
+  dateModified: '2026-08'
+  keywords:
+    - 'oem sup manufacturing'
+    - 'private label paddle board'
+    - 'oem inflatable sup'
+    - 'custom sup factory'
+hero:
+  tagline: OEM/ODM Manufacturing
+  title: OEM & Private Label Manufacturing
+  subtitle: From concept to production —customize every detail of your inflatable SUP line
+
+answer:
+  label: 'Straight answer'
+  text: 'MOQ is confirmed by project configuration rather than a fixed number: every project moves through sample (1–2 units) and pilot (20–50 units) stages, with standard volume production running 90–100+ units per batch from a full 150 m drop-stitch roll. Samples are ready in 7–12 days; standard production runs 25–35 days after confirmed PO and deposit.'
+  verified: '2026-08'
+
+intro: Vectoflare offers comprehensive OEM and ODM services for brands, distributors, and government agencies worldwide. With 10+ years of export experience and a 12,500 m² ISO 9001 & BSCI certified factory, we handle everything from product design and mold development to full-scale production, packaging, and export management.
+
+highlight:
+  - value: 10+
+    label: Years OEM experience
+    detail: Since 2012
+  - value: 50+
+    label: Export countries
+    detail: Global reach
+  - value: 200+
+    label: Custom projects delivered
+    detail: Across all product lines
+  - value: 25–35
+    label: Standard lead time (days)
+    detail: After confirmed PO and deposit
+
+services:
+  - title: Product Design & Engineering
+    description: Our in-house R&D team works with your concept or spec to develop CAD drawings, 3D models, and prototypes. We offer mold design, hull shape optimization, and material selection guidance.
+  - title: Custom Branding & Graphics
+    description: Full-color digital printing, screen printing, embossing, and label options. We develop brand-specific deck graphics, tube branding, and retail-ready packaging.
+  - title: Material & Specification Customization
+    description: Choose from PVC (standard, eco-friendly, fire-retardant), Hypalon/CSM, drop-stitch, and hybrid constructions. Custom tube colors, fabric weights, and reinforcement options.
+  - title: Packaging & Logistics
+    description: Custom retail packaging, private-label boxes, vacuum packing, palletizing, and export-grade packing prepared in-house.
+
+moq_table:
+  - product: Inflatable SUP Boards
+    standard_moq: 'Sample 1–2 | Pilot 20–50'
+    custom_moq: 'Volume 90–100+ (per 150 m roll)'
+    lead_time: 25–35 days
+
+why_us:
+  - title: Vertical Integration
+    description: We own our factory, molds, and supply chain —no middlemen, no subcontractors. This gives us control over quality, cost, and delivery.
+  - title: Dual Certification
+    description: ISO 9001 quality management and BSCI social compliance certification. Factory audit reports available upon request.
+  - title: CE Compliance
+    description: CE certification applies to models destined for EU markets (scope confirmed per project). Custom models can be CE certified through our established process.
+  - title: Project-Specific MOQ
+    description: 'MOQ is confirmed by your project configuration — small-batch co-branding starts at 5–10 units, standard volume runs 90–100+ units per batch. We help emerging brands launch without overcommitting inventory.'
+
+cta:
+  title: 'Put Your Own Brand on a Proven Board'
+  subtitle: 'From spec review to shipped container — send your brief today and receive a detailed OEM quotation within one business day. Verify the factory and its quality system before you commit.'
+  actions:
+    - variant: primary
+      text: Request an OEM Quotation
+      href: /contact#custom-oem
+    - text: Verify the factory & quality system
+      href: /oem-trust-assurance
+    - text: The 7-stage inspection system
+      href: /quality
+    - text: See the production line
+      href: /factory/process

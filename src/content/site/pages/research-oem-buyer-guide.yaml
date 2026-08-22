@@ -1,0 +1,103 @@
+meta:
+  title: 'OEM Buyer Guide: Sourcing SUP Boards from Asia | Vectoflare'
+  description: 'Sourcing inflatable SUP boards from Asia: factory audit checklist, QC protocols, compliance, MOQ negotiation, shipping terms and pitfalls.'
+  author: 'Vectoflare'
+  datePublished: '2026-08-04'
+  dateModified: '2026-08-07'
+back_text: 'Back to Research'
+
+hero:
+  tagline: 'Sourcing'
+  title: 'OEM Buyer Guide — Sourcing Inflatable SUP Boards from Asia'
+  subtitle: '12 min read'
+
+answer:
+  label: 'Straight answer'
+  text: 'Minimum order quantity is confirmed by project configuration rather than a fixed number: sample development (1–2 units) validates the build, pilot orders (20–50 units) test the market on existing platforms, standard volume production runs 90–100+ units per batch from a full 150 m drop-stitch roll, and small-batch co-branding starts at 5–10 units. Samples ship in 7–12 days; bulk production runs 25–35 days after confirmed PO and deposit, plus 15–20 days when new tooling is required.'
+  verified: '2026-08'
+
+content_html: |
+  <h2>1. Pre-Qualification: What to Look for in a Factory</h2>
+
+  <h3>Compliance Certificates</h3>
+  <ul>
+    <li><strong>ISO 9001:2015</strong> – Quality management system</li>
+    <li><strong>CE certification</strong> – Verify the Notified Body number</li>
+    <li><strong>BSCI / SMETA / SEDEX</strong> – Social compliance audits</li>
+    <li><strong>REACH / RoHS</strong> – Material compliance declarations</li>
+  </ul>
+
+  <h3>Manufacturing Capabilities</h3>
+  <ul>
+    <li>Drop-stitch core weaving in-house vs. outsourced</li>
+    <li>PVC coating / lamination line</li>
+    <li>RF welding and hot air welding equipment</li>
+    <li>In-house mold making (CNC machining)</li>
+    <li>Testing lab (pressure testing, UV aging, tensile testing)</li>
+  </ul>
+
+  <h3>Experience Verification</h3>
+  <ul>
+    <li>Years in inflatable watercraft manufacturing (5+ years minimum)</li>
+    <li>Number of engineers on staff</li>
+    <li>Existing OEM/ODM clients (request references)</li>
+    <li>Export destinations – are they already shipping to your target market?</li>
+  </ul>
+
+  <h2>2. Quality Control Protocols</h2>
+  <p>Material incoming QC: tensile strength (ASTM D751 or ISO 1421), tear resistance (ASTM D2261 or ISO 4674), adhesion strength, UV aging spot checks.</p>
+  <p>In-process QC: seam strength monitoring every 50 units, valve torque verification, drop-stitch thread density checks, dimensional checks against CAD drawings.</p>
+  <p>Final inspection: 100% inflation hold test (24 hours, max 0.50 PSI drop), visual inspection, valve function test, random sample testing (AQL 2.5 or 4.0 per ISO 2859).</p>
+
+  <h2>3. Compliance Documentation Checklist</h2>
+  <ul>
+    <li>Declaration of Conformity (DoC) referencing correct EU directive</li>
+    <li>CE certificate from notified body</li>
+    <li>Test report from accredited lab</li>
+    <li>Material safety data sheets (MSDS)</li>
+    <li>REACH compliance declaration</li>
+    <li>Bill of Materials with supplier traceability</li>
+    <li>Factory inspection report</li>
+  </ul>
+
+  <h2>4. MOQ Negotiation</h2>
+  <p>Inflatable SUP board MOQs are set by the production path and project configuration, not by guesswork. All Vectoflare OEM/ODM projects follow three distinct quantity stages — sample, pilot and volume — and the full calculation logic is explained in our <a href="/oem-moq-guide">MOQ &amp; Flexible Branding Guide</a>:</p>
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-gray-100">
+        <th class="p-3 text-left font-semibold text-gray-900 border">Production Path</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">MOQ</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Timeline</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="p-3 border font-medium">Sample development (per design)</td><td class="p-3 border">1 – 2 units</td><td class="p-3 border">Samples in 7 – 12 days</td></tr>
+      <tr><td class="p-3 border font-medium">Pilot order (existing platforms)</td><td class="p-3 border">20 – 50 units</td><td class="p-3 border">Market validation with stock materials</td></tr>
+      <tr><td class="p-3 border font-medium">Standard volume batch (per design)</td><td class="p-3 border">90 – 100+ units</td><td class="p-3 border">25 – 35 days after PO and deposit</td></tr>
+      <tr><td class="p-3 border font-medium">Full custom mould / private label</td><td class="p-3 border">Confirmed by project config</td><td class="p-3 border">Adds 15 – 20 days for tooling</td></tr>
+    </tbody>
+  </table>
+  <p>Sample, pilot and volume production quantities are different: sample development (1–2 units) validates the build, pilot orders (20–50 units) test the market on existing platforms, and standard volume production runs 90–100+ units per batch from a full 150 m drop-stitch roll — with volume pricing tiers as order size increases. Get the MOQ calculation, lead time, and payment terms for your specific board in writing before you commit to a supplier.</p>
+
+  <h2>5. Logistics and Shipping</h2>
+  <p>Common Incoterms: <strong>FOB</strong> (Factory delivers to departure port – most common), <strong>EXW</strong> (Buyer arranges all shipping from factory door), <strong>CIF</strong> (Factory pays freight and insurance to destination port).</p>
+  <p>Inflatable products are low-weight, high-volume – volumetric weight (DIM) often determines shipping cost. Request vacuum-packed packaging to reduce volume by 50–60%. Sea freight transit from China to the EU typically takes 25–35 days, and 7–12 days to the US West Coast — on top of the 25–35 day production lead time.</p>
+
+  <h2>6. Common Pitfalls</h2>
+  <ul>
+    <li><strong>No factory audit:</strong> Always perform or commission a third-party audit (QIMA, SGS, Bureau Veritas)</li>
+    <li><strong>Verbal specs only:</strong> Detailed technical specification sheet signed by both parties</li>
+    <li><strong>Skipping sample approval:</strong> Written sign-off on samples before bulk production</li>
+    <li><strong>No QC during production:</strong> Third-party inspection during production (DUPRO) and before shipment (PSI)</li>
+    <li><strong>Ignoring compliance:</strong> Verify CE marking (Directive 2013/53/EU) and market-specific documentation before production</li>
+  </ul>
+
+  <h2>7. Why Vectoflare</h2>
+  <p>Vectoflare has been manufacturing OEM/ODM inflatable SUP boards since 2012. With a 12,500 m&sup2; ISO 9001 certified facility, 25+ engineers, and CE certification for models destined for EU markets (scope confirmed per project), we meet every criterion in this guide. We offer trial MOQs for new partners and full compliance documentation packages.</p>
+  <p>Review our <a href="/oem-manufacturing">inflatable SUP OEM/ODM manufacturing services</a> or tour the <a href="/factory">12,500 m&sup2; factory floor</a> to see the equipment and QC processes behind each step above.</p>
+
+cta:
+  title: 'Ready to start sourcing?'
+  subtitle: 'Contact our OEM team to discuss your project requirements.'
+  button_text: 'Request a quote'
+  button_link: /contact

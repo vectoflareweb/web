@@ -1,0 +1,69 @@
+﻿meta:
+  title: 'Cómo funciona la certificación CE para tablas de SUP hinchables'
+  description: 'Certificación CE para SUP, barcas y kayaks hinchables: directivas (2013/53/UE RCD, EPI 2016/425), ensayos, organismos notificados y expedientes técnicos.'
+  author: 'Vectoflare'
+  datePublished: '2026-08-04'
+  dateModified: '2026-08-07'
+back_text: 'Volver a Investigación'
+
+hero:
+  tagline: 'Cumplimiento'
+  title: 'Cómo funciona la certificación CE para SUP y kayaks hinchables'
+  subtitle: '7 min de lectura'
+
+answer:
+  label: 'Respuesta directa'
+  text: 'Los SUP hinchables están sujetos a la Directiva de Embarcaciones de Recreo 2013/53/UE de la UE cuando superan los 2.5 m de eslora, o a la Directiva General de Seguridad de los Productos cuando son más pequeños. La certificación cuesta aproximadamente 13,000&ndash;31,000 EUR y tarda 8&ndash;14 semanas para el primer producto: expediente técnico, ensayo de tipo por un organismo notificado, auditoría de fábrica y, a continuación, una Declaración de Conformidad.'
+  verified: '2026-08'
+
+content_html: |
+  <h2>¿Qué es la certificación CE?</h2>
+  <p>El marcado CE (Conformit&eacute; Europ&eacute;enne) indica que un producto cumple los requisitos de salud, seguridad y medio ambiente de la UE. Para las embarcaciones hinchables, el marco normativo aplicable depende de la categoría del producto.</p>
+
+  <h2>Directivas aplicables</h2>
+
+  <h3>Directiva de Embarcaciones de Recreo (2013/53/UE)</h3>
+  <p>La directiva principal para la mayoría de las barcas hinchables, SUP y kayaks. Se aplica a las embarcaciones de recreo de 2.5 m a 24 m de eslora, a las embarcaciones parcialmente terminadas (para suministro OEM) y a las motos de agua.</p>
+
+  <h3>Reglamento de Equipos de Protección Individual (2016/425)</h3>
+  <p>Los chalecos salvavidas, los dispositivos de flotación y el equipo de seguridad suministrados con las embarcaciones deben cumplir los requisitos del Reglamento EPI, incluido el examen de tipo (módulo B) por un organismo notificado y el aseguramiento de la calidad de producción (módulo D o E).</p>
+
+  <h2>El proceso de certificación</h2>
+  <ol>
+    <li>Clasificación del producto: determina la categoría de diseño de la embarcación (A – D según ISO 8666)</li>
+    <li>Normas aplicables: EN ISO 6185 (partes 1 – 4), EN ISO 10087 (HIN), EN ISO 14945 (placa del constructor)</li>
+    <li>Preparación del expediente técnico: planos de diseño, lista de materiales, certificados de materiales, evaluación de riesgos</li>
+    <li>Ensayo de tipo: flotabilidad, estabilidad, capacidad de carga, ensayo de materiales, resistencia de costuras, retención de aire</li>
+    <li>Control de producción en fábrica: auditoría de los procesos de fabricación por un organismo notificado</li>
+    <li>Declaración de Conformidad: el fabricante firma la DoC y aplica el marcado CE</li>
+  </ol>
+
+  <h2>Organismos notificados para embarcaciones hinchables</h2>
+  <p>Los organismos notificados habituales incluyen Bureau Veritas (Francia), DNV GL (Alemania), RINA (Italia), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Alemania).</p>
+
+  <h2>Plazos y costes</h2>
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-gray-100">
+        <th class="p-3 text-left font-semibold text-gray-900 border">Fase</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Duración</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Coste típico (EUR)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="p-3 border">Preparación del expediente técnico</td><td class="p-3 border">2 – 4 semanas</td><td class="p-3 border">2,000 – 5,000</td></tr>
+      <tr><td class="p-3 border">Ensayo de tipo</td><td class="p-3 border">4 – 8 semanas</td><td class="p-3 border">8,000 – 20,000</td></tr>
+      <tr><td class="p-3 border">Auditoría de fábrica</td><td class="p-3 border">1 – 2 días (in situ)</td><td class="p-3 border">3,000 – 6,000</td></tr>
+      <tr><td class="p-3 border">Total (primer producto)</td><td class="p-3 border">8 – 14 semanas</td><td class="p-3 border">13,000 – 31,000</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Qué significa esto para los compradores</h2>
+  <p>Al comprar tablas hinchables con certificación CE, verifica siempre que el marcado CE esté en la placa del constructor, que exista una DoC válida, que figure el número del organismo notificado y que el manual del propietario incluya instrucciones de seguridad en tu idioma local. Todos los productos Vectoflare llevan certificación CE con trazabilidad completa hasta los informes de auditoría del organismo notificado.</p>
+  <p>La certificación forma parte de cada lote de producción en nuestra planta de Qingdao: consulta el <a href="/es/factory">flujo de trabajo de calidad y ensayos de la fábrica</a> y cómo apoyamos el <a href="/es/oem-manufacturing">cumplimiento de CE para socios OEM y de marca blanca</a>.</p>
+
+cta:
+  title: '¿Necesitas soporte con la certificación CE?'
+  subtitle: 'Gestionamos la certificación para socios OEM en todo el mundo.'
+  button_text: 'Iniciar el proceso de certificación'
+  button_link: /es/contact

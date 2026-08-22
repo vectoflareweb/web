@@ -1,0 +1,100 @@
+﻿meta:
+  title: 'Acerca de Vectoflare — la división de fabricación náutica'
+  description: 'Vectoflare es la división de fabricación náutica de Qingdao Vatrad Group, fundada en 2012: la fábrica detrás de cada proyecto personalizado de Vectoflare.'
+  dateModified: '2026-08'
+  keywords:
+    - 'Vectoflare'
+    - 'fábrica de sup en china'
+    - 'fabricante de sup hinchable'
+    - 'qingdao vatrad group'
+hero:
+  tagline: Acerca de Vectoflare
+  title: 'Vectoflare — la división de fabricación náutica detrás de {SITE}'
+  subtitle: 'Fundada en 2012 en Qingdao, China, Vectoflare fabrica las embarcaciones hinchables y las tablas de SUP que están detrás de los proyectos personalizados de Vectoflare: una fábrica de 12,500 m², más de 350 trabajadores y más de 120,000 unidades de capacidad anual.'
+  actions:
+    - text: 'Iniciar un proyecto personalizado'
+      href: /es/contact
+      variant: primary
+    - text: 'Ver la fábrica'
+      href: /es/factory
+      variant: secondary
+intro: |
+  <p><strong>Vectoflare</strong> es la división de fabricación náutica de <strong>Qingdao Vatrad Group Co., Ltd.</strong>, con sede en la Zona de Desarrollo Económico de Laixi, Qingdao, Shandong (China). Fundada en 2012, la empresa empezó como un taller especializado de embarcaciones dedicado a la artesanía náutica, y se ha convertido en una fábrica certificada que da servicio a clientes OEM y ODM en más de 50 países.</p>
+  <p>Vectoflare es la división B2B de desarrollo personalizado de la fábrica de Vectoflare. Cada proyecto de Vectoflare — desde una primera muestra o una tirada pequeña de co-branding hasta una línea de producto completa de marca privada — se fabrica en las mismas instalaciones, con los mismos equipos y bajo el mismo sistema de calidad que se describe aquí.</p>
+  <p>La fábrica ocupa 12,500 m² con talleres dedicados al corte de PVC, al montaje del núcleo drop-stitch, a la soldadura de alta frecuencia, al ensamblaje de las tablas y a una zona de pruebas para las comprobaciones de retención de aire, mantenimiento de la presión y resistencia de las costuras. La capacidad de producción supera las 120,000 unidades inflables al año, y las instalaciones operan bajo un sistema de gestión de calidad ISO 9001 con cumplimiento certificado CE, BSCI, REACH y aprobación USCG para los productos exportados.</p>
+  <p>Más de 200 trabajadores cualificados y más de 14 ingenieros de I+D respaldan las dos líneas de trabajo que importan a las marcas de SUP: la ingeniería (diseño de casco, selección de materiales, creación de prototipos) y la producción (aplicación de gráficos, ensamblaje, inspección, embalaje de exportación). Un centro de I+D interno con laboratorio de tejido PVC y tanque de pruebas se ocupa de los moldes personalizados y de la validación estructural antes de empezar la producción en masa.</p>
+stats:
+  title: Vectoflare en cifras
+  stats:
+    - title: Fundación
+      amount: 2012
+    - title: Instalaciones
+      amount: '12,500 m²'
+    - title: Países atendidos
+      amount: '50+'
+    - title: Capacidad anual
+      amount: '120,000+ unidades'
+    - title: Empleados
+      amount: '200+'
+    - title: Ingenieros de I+D
+      amount: '14+'
+values_section:
+  title: Cómo trabaja la fábrica con las marcas
+  subtitle: 'Tres principios que configuran cada proyecto construido por la fábrica de Vectoflare.'
+  columns: 3
+  items:
+    - title: Ingeniería antes que producción
+      description: 'Cada proyecto comienza con los requisitos, los planos y una muestra física: la forma del casco, la calidad del drop-stitch, la colocación de los gráficos y el embalaje se validan antes de cualquier tirada de producción, no se descubren en la línea.'
+      icon: 'tabler:settings'
+    - title: Un solo equipo, una sola fábrica
+      description: 'El diseño, el corte, la soldadura, el ensamblaje y las pruebas ocurren en unas instalaciones de 12,500 m². Sin reenvíos de casas comerciales: las personas que responden a tus preguntas son las que construyen tus tablas.'
+      icon: 'tabler:building-factory-2'
+    - title: Primeras tiradas pequeñas
+      description: 'El co-branding de lotes pequeños parte de menos de 20 unidades y la producción de volumen estándar corre en lotes de 90–100+ unidades (un rollo de drop-stitch de 150 m), de modo que las marcas validan el mercado antes de escalar — con las herramientas y los diseños conservados para los pedidos repetidos.'
+      icon: 'tabler:layers-intersect'
+services_section:
+  title: Lo que entrega la fábrica
+  subtitle: 'Los servicios de fabricación disponibles para los clientes de Vectoflare.'
+  columns: 2
+  items:
+    - title: Desarrollo de SUP personalizado
+      description: 'Evaluación de requisitos, especificaciones, selección de materiales, gráficos, prototipado, aprobación de la muestra y producción de productos de SUP hinchables a medida.'
+      icon: 'tabler:bulb'
+    - title: Producción de marca privada
+      description: 'Tu logotipo, tus colores y tu embalaje sobre plataformas comerciales probadas: la tabla, la cubierta de agarre, los accesorios y los cartones llevan tu identidad, sin ningún uso de la marca de fábrica.'
+      icon: 'tabler:tag'
+    - title: Fabricación OEM / ODM
+      description: 'Fabricación completa de SUP hinchables OEM y ODM a partir de los diseños del cliente o de diseños desarrollados en conjunto, incluidos los moldes personalizados para las nuevas formas de las tablas.'
+      icon: 'tabler:package'
+    - title: Suministro de flotas
+      description: 'Flotas de tablas personalizadas para resorts, clubes, escuelas y operadores de alquiler, con accesorios a juego y series de producción pensadas para flotas.'
+      icon: 'tabler:users-group'
+certifications_section:
+  title: Certificación y cumplimiento
+  subtitle: 'La fábrica envía a la UE, Estados Unidos y Asia-Pacífico con un sistema de cumplimiento documentado.'
+  columns: 2
+  items:
+    - title: Certificación CE
+      description: 'Las líneas de producto de SUP hinchable y embarcaciones cumplen las directivas de seguridad de la UE, con toda la documentación para cada mercado.'
+      icon: 'tabler:certificate'
+    - title: Sistema de calidad ISO 9001
+      description: 'La instalación de fabricación opera bajo un sistema de gestión de la calidad ISO 9001 que cubre el material entrante, el proceso y la inspección final.'
+      icon: 'tabler:badge-check'
+    - title: Conformidad social BSCI
+      description: 'La responsabilidad social se evalúa según BSCI, que cubre las condiciones de trabajo y el cumplimiento de la fábrica.'
+      icon: 'tabler:shield-check'
+    - title: Conformidad de materiales REACH
+      description: 'Los materiales cumplen el Reglamento REACH de la UE en materia de seguridad química.'
+      icon: 'tabler:flask'
+    - title: Aprobación USCG
+      description: 'Fabricación aprobada por la Guardia Costera de Estados Unidos para las líneas de embarcaciones hinchables.'
+      icon: 'tabler:anchor'
+    - title: Pruebas de producto
+      description: 'Flotabilidad, capacidad de carga, resistencia de las costuras, resistencia a los rayos UV, resistencia a la abrasión y pruebas de mantenimiento de la presión en cada línea de producción.'
+      icon: 'tabler:test-pipe'
+cta:
+  title: 'Construye tu proyecto de SUP con la fábrica de Vectoflare'
+  subtitle: 'Envía tus requisitos — tipo de tabla, tamaño, cantidad y gráficos — y recibe una propuesta detallada en un día laborable.'
+  actions:
+    - text: Identidad de marca
+      href: /es/about/identity

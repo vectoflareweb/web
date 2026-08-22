@@ -1,0 +1,93 @@
+﻿meta:
+  title: 'Equipo de fábrica: corte, soldadura e impresión'
+  description: 'Equipos de fabricación de grado industrial de Vectoflare: corte de PVC, soldadura RF, impresión digital, ensamblaje y ensayos para tablas de SUP hinchables.'
+  dateModified: '2026-08'
+  keywords:
+    - 'equipos de fabricación sup'
+    - 'fábrica de sup hinchables'
+    - 'soldadura rf de pvc'
+    - 'producción de paddle boards'
+hero:
+  tagline: Equipo
+  title: Equipos y maquinaria de fabricación
+  subtitle: Equipos de grado industrial en corte, soldadura, impresión y ensamblaje
+  back_label: Volver a la fábrica
+  back_link: /es/factory
+
+answer:
+  label: 'Respuesta directa'
+  text: 'Nuestra fábrica de 12.500 m² dispone de corte automático controlado por CNC (precisión de 0,1 mm, desperdicio inferior al 5%), termosellado de aire caliente a 200–600 °C más soldadura dieléctrica RF de 15 kW para las costuras principales, prensas de laminación de núcleos drop-stitch de hasta 14 ft, y un laboratorio de control de calidad que prueba la presión de cada cámara, realiza comprobaciones de tracción según ASTM D751 y verifica el pelado de costuras según ISO 6185.'
+  verified: '2026-08'
+
+categories:
+  - title: Corte y preparación de materiales
+    items:
+      - name: Máquina de corte de PVC automática
+        spec: Control CNC, 6,5 m × 2,5 m, precisión de 0,1 mm
+        desc: Máquina de corte automática controlada por ordenador para tejidos de PVC, Hypalon y drop-stitch. El software de anidado optimiza el aprovechamiento del material hasta dejar el desperdicio por debajo del 5%.
+      - name: Extensora de tejido
+        spec: Anchura máxima de 3 m, alimentación con control de tensión
+        desc: Extiende el tejido en una o varias capas con tensión controlada para evitar deformaciones antes del corte.
+
+  - title: Soldado y unión de tubos
+    items:
+      - name: Máquina de termosellado
+        spec: Soldadura de aire caliente, variable 200–600 °C, 0,5–5 m/min
+        desc: Máquina de termosellado por aire caliente para unir y soldar las costuras de tubos de PVC y Hypalon. Se usa para hilvanar, sellar y fusionar las cámaras de los tubos y las uniones de los flotadores.
+      - name: Prensa dieléctrica RF
+        spec: 15 kW, plato de 2000 × 600 mm
+        desc: Prensas de soldadura por radiofrecuencia para las costuras longitudinales principales, las uniones de espejo a tubo y la fabricación de cámaras grandes.
+      - name: Soldadora RF controlada por CNC
+        spec: 8 kW, mesa XY de 2500 × 1200 mm
+        desc: Soldadura programable de costuras curvas para geometrías complejas, marcado de logotipos y parches de precisión.
+
+  - title: Fabricación de tablas de SUP
+    items:
+      - name: Prensa de laminación de núcleos drop-stitch
+        spec: Prensa de gran formato para núcleos de hasta 14 ft de eslora
+        desc: Laminación de precisión de los núcleos drop-stitch sobre los laminados exteriores de PVC. Cada capa se une a presión para lograr una calidad y resistencia constantes.
+      - name: Fresadora CNC (5 ejes)
+        spec: Recorrido de 3 m × 2 m × 1 m, husillo refrigerado por agua
+        desc: Mecanizado de cajas de quilla, recortes para asas y componentes personalizados de las tablas.
+
+  - title: Impresión y decoración de SUP
+    items:
+      - name: Impresora digital
+        spec: Inkjet de alta resolución, anchura de impresión de hasta 2 m
+        desc: Impresión digital directa sobre tejido para los gráficos a todo color de la cubierta del SUP. Imprime patrones personalizados, degradados e imágenes con calidad fotográfica con tintas de base acuosa resistentes a los rayos UV.
+      - name: Máquina de serigrafía
+        spec: Manual y semiautomática, registro multicolor
+        desc: Serigrafía para logotipos, marcas y patrones repetidos de las tablas de SUP. Proporciona impresiones duraderas y opacas con una saturación de color vibrante.
+
+  - title: Ensamblaje y aparejo
+    items:
+      - name: Estación de ensamblaje de tablas
+        spec: Modular ajustable, disposición de varias estaciones
+        desc: Ensamblaje de cajas de quilla, asas, anillos D, válvulas y cubiertas de espuma sobre las tablas de SUP.
+      - name: Prensa de instalación de válvulas
+        spec: Neumática, presión ajustable
+        desc: Instalación y sellado de precisión de válvulas Halkey-Roberts y Leafield.
+      - name: Laminador de cubierta de espuma
+        spec: 3 m × 1,5 m, temperatura controlada
+        desc: Laminación térmica de las cubiertas de espuma EVA sobre las cubiertas de las tablas de SUP con una resistencia de unión constante.
+
+  - title: Ensayos y control de calidad
+    items:
+      - name: Máquina universal de tracción
+        spec: 50 kN, conforme a ASTM D751
+        desc: Ensayos de fuerza de quiebra, elongación a la rotura y propagación de desgarro para lotes de tejido.
+      - name: Rig de retención de aire
+        spec: Programable, mantenimiento de presión de 30 min
+        desc: Ensayo automatizado de mantenimiento de presión para cada cámara del tubo antes del ensamblaje.
+      - name: Comprobador de pelado de costuras
+        spec: Motorizado, pelado de 180° a 100 mm/min
+        desc: Ensayo de resistencia al pelado de costuras soldadas y encoladas según ISO 6185.
+      - name: Cámara de intemperismo de xenón
+        spec: Exposición de 2000 h
+        desc: Ensayos de resistencia a la luz UV para el cambio de color y la retención de resistencia.
+
+cta:
+  title: ¿Le interesa una visita a la fábrica?
+  desc: Recibimos visitas en nuestras instalaciones de Qingdao. Vea en persona nuestros equipos y procesos.
+  label: Programar una visita →
+  link: /es/contact

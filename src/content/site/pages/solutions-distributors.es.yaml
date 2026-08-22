@@ -1,0 +1,132 @@
+﻿meta:
+  title: 'Programa de Socios de Distribución Mayorista SUP | {SITE}'
+  description: "Únete a la red global de distribución mayorista de SUP de Vectoflare: territorios exclusivos, cartera de productos completa y gestión de cuenta dedicada en más de 50 países."
+  dateModified: '2026-08'
+
+hero:
+  tagline: Distribuidores
+  title: 'Únete a Nuestra Red de Distribución Global'
+  subtitle: "Programa de socios de distribución mayorista de SUP con territorios exclusivos, cartera completa de SUP hinchables y soporte de primer nivel. Vectoflare envía a más de 50 países — buscamos distribuidores consolidados del sector náutico y de deportes acuáticos."
+  image:
+    src: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-factory-building.webp
+    alt: Operaciones globales de distribución y envío de Vectoflare
+
+answer:
+  label: 'Respuesta directa'
+  text: 'Condiciones de distribución mayorista: territorio exclusivo, 3–8 SKU por programa, condiciones de pago a 45–60 días y stock 100% probado a presión en fábrica antes del despacho. Los distribuidores compran a precio mayorista directo de fábrica con un gestor de cuenta dedicado; el pedido mínimo inicial y las condiciones de flete se acuerdan por territorio, con envío FOB Qingdao o CIF.'
+  verified: '2026-08'
+
+intro:
+  tagline: Sobre el programa
+  title: 'Distribución Mayorista de SUP, Construida en Torno a una Colaboración a Largo Plazo'
+  body: |
+    Vectoflare planifica, fabrica y comprueba la calidad de cada SUP hinchable, kayak y accesorio en sus propias instalaciones de fabricación, de modo que un acuerdo de distribución mayorista con nosotros incluye la fuente de suministro integrada. Los distribuidores no revenden una gama ajena de terceros: reciben el catálogo completo de productos Vectoflare, precio directo de fábrica y un gestor de cuenta dedicado que planifica la reposición estacional en función de sus ventas.
+
+    La mayoría de nuestros socios de distribución operan en un único territorio exclusivo y mantienen una gama concentrada de 4–8 modelos de mayor venta: tablas all-round en tres tallas, un modelo de travesía y los accesorios de bomba, pala y cuidados correspondientes. Como controlamos toda la línea de producción, podemos programar grandes tiradas para el inicio de temporada del hemisferio norte, estabilizar los costes de flete con pedidos anticipados y liberar capital circulante con condiciones mayoristas transparentes y calendarios de pago acordados.
+
+    El programa de distribución es una de las dos vías para comprar productos Vectoflare al por mayor. Si ya operas un canal mayorista, esta página es para ti. Las marcas, resorts, escuelas de formación y flotas de alquiler que compran directamente para su propio uso deben consultar los programas de fabricación OEM/ODM y de flotas.
+
+wholesale_pricing:
+  tagline: Por qué participar
+  title: 'Lo Que Obtienen los Distribuidores'
+  subtitle: 'Todo lo que necesitas para triunfar en tu mercado.'
+  intro: 'Los socios de distribución reciben el mismo producto, la misma calidad de fábrica y la misma profundidad de ingeniería por la que se conoce a Vectoflare, empaquetada para el canal mayorista.'
+  stats:
+    - value: '50+'
+      label: 'Países a los que se envía'
+    - value: '1'
+      label: 'Gestor de cuenta dedicado'
+    - value: '45–60'
+      label: 'Días de pago'
+    - value: '10+'
+      label: 'Líneas de producto principales'
+    - value: '3–8'
+      label: 'SKU por programa de territorio'
+    - value: '100%'
+      label: 'Probado en fábrica antes del despacho'
+
+steps:
+  tagline: Cómo funciona
+  title: 'Camino de la Solicitud al Primer Contenedor'
+  subtitle: 'Un proceso de incorporación claro y por etapas para que tu canal mayorista envíe a tiempo en su primera temporada.'
+  steps:
+    - step: 1
+      title: Solicitud
+      desc: 'Presenta la solicitud de distribuidor con el perfil de tu empresa, tu volumen de negocio mayorista actual y tu territorio.'
+    - step: 2
+      title: Delimitación del territorio
+      desc: 'Confirmamos la exclusividad y acordamos qué países o regiones cubrirá tu programa.'
+    - step: 3
+      title: Selección de catálogo y precios
+      desc: 'Elige tu gama de producto de apertura y recibe los precios mayoristas para tu territorio.'
+    - step: 4
+      title: Pedido de muestra
+      desc: 'Pide muestras de certificación para probar la calidad, el embalaje y la gestión del envío directo antes del primer contenedor.'
+    - step: 5
+      title: Reposición de temporada
+      desc: 'Tu gestor de cuenta programa la producción y la reposición en función de tu previsión y del calendario de temporada.'
+
+benefits:
+  title: Lo Que Obtienen los Distribuidores
+  subtitle: 'Todo lo que necesitas para triunfar en tu mercado.'
+  items:
+    - 'Derechos de territorio exclusivo'
+    - 'Catálogo de producto completo (SUP, accesorios, piezas)'
+    - 'Precios mayoristas competitivos'
+    - 'Material de marketing y ventas (traducido)'
+    - 'Programa de formación (producto, ventas, mantenimiento)'
+    - 'Soporte en ferias'
+    - 'Programa de muestras'
+    - 'Capacidad de envío directo (drop-ship)'
+    - 'Gestor de cuenta dedicado para distribuidores'
+    - 'Condiciones de pago de 45-60 días'
+
+coverage:
+  title: Distribución Actual
+  subtitle: 'Vectoflare atiende actualmente estos mercados de forma directa.'
+  regions:
+    - name: Europa
+      countries: 'Francia, Alemania, Reino Unido, Italia, Países Bajos, Suecia, Noruega, Polonia, Grecia'
+    - name: Asia
+      countries: 'Japón, Corea del Sur, China, Tailandia, Singapur'
+    - name: Oriente Medio
+      countries: 'EAU, Arabia Saudí'
+    - name: América
+      countries: 'EE. UU., Canadá, Brasil, México'
+    - name: Oceanía
+      countries: 'Australia, Nueva Zelanda'
+    - name: África
+      countries: 'Sudáfrica, Marruecos'
+
+faqs:
+  tagline: FAQ de Distribuidores
+  title: 'Programa de Distribución Mayorista — Preguntas Frecuentes'
+  items:
+    - q: '¿Cuál es el pedido mínimo para un nuevo distribuidor?'
+      a: 'Los nuevos socios de distribución suelen empezar con un pedido de muestra seguido de un primer contenedor programado para su temporada. El mínimo exacto depende del tamaño del territorio y de la gama de producto elegida; tu gestor de cuenta confirma el volumen de apertura durante la selección del catálogo.'
+    - q: '¿Los territorios son exclusivos?'
+      a: 'Sí. El programa de distribución de Vectoflare se basa en territorios exclusivos: cada socio mayorista cubre un país o región definido y recibe precios y soporte de programa para ese mercado.'
+    - q: '¿Ofrecéis envío directo?'
+      a: 'La capacidad de envío directo está incluida en el programa de distribuidores. Las muestras, el embalaje y la manipulación se validan durante la fase de pedido de muestra para que los envíos directos funcionen desde el primer día.'
+    - q: '¿Qué productos pueden pedir los distribuidores?'
+      a: 'El catálogo completo de Vectoflare: tablas de SUP hinchables en todas las formas (all-around, touring y surf), kayaks hinchables, bombas, palas, chalecos salvavidas y accesorios de cuidado. La mayoría de los socios empieza con 4–8 SKU de más venta y amplía en temporadas posteriores.'
+    - q: '¿Cómo se envían los pedidos?'
+      a: 'Los pedidos salen de nuestra fábrica en salidas programadas, con pedidos anticipados disponibles para estabilizar los costes de transporte. Tu gestor de cuenta planifica la producción y el despacho en función de tu previsión y del calendario de temporada.'
+    - q: '¿Cómo puedo solicitar?'
+      a: 'Usa el formulario de solicitud de esta página o ponte en contacto con nosotros directamente. Las solicitudes las revisa el equipo de distribución y respondemos con los siguientes pasos, incluida la delimitación del territorio y un contrato provisional, en pocos días hábiles.'
+
+content_html: |
+  <div class="mx-auto max-w-3xl space-y-4 rounded-2xl border bg-card p-6 text-[14.5px] leading-relaxed text-fg-2">
+    <p><strong>Sigue leyendo:</strong> los socios de distribución venden las mismas tablas que fabricamos para <a href="/es/oem-manufacturing">marcas OEM/etiqueta privada</a> — revisa el programa de fabricación y el proceso de <a href="/es/factory">calidad de fábrica</a> para que puedas situar el producto con confianza.</p>
+  </div>
+
+cta:
+  title: '¿Listo Para Ser Distribuidor?'
+  subtitle: 'Solicita el programa de distribución o descarga nuestro kit de información para distribuidores.'
+  actions:
+    - text: 'Solicitar el Programa de Distribución'
+      href: '/es/contact?partner=distributor'
+      variant: 'primary'
+    - text: 'Descargar Kit de Distribución'
+      href: '/es/products'
+      variant: 'secondary'

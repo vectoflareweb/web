@@ -1,0 +1,115 @@
+meta:
+  title: 'Hydrodynamic Test Tank — SUP Board Performance Testing'
+  description: 'Validate SUP board hull performance with our hydrodynamic test tank. Scale-model towing, planing analysis, and drag measurement for board shapes.'
+  dateModified: '2026-08'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
+
+answer:
+  label: 'Straight answer'
+  text: 'We tank-test SUP hull shapes at 1:3 to 1:5 model scale — nose profile, rail radius, rocker and wetted surface — measuring drag, glide efficiency and stability before committing to a full-size prototype. A week in the tank returns the performance data that would take months of full-scale trial and error.'
+  verified: '2026-08'
+
+hero:
+  tagline: 'Lab 04'
+  title: 'Hydrodynamic Test Tank'
+  subtitle: 'Validating performance before the first full-scale prototype'
+  image: 'https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-design-discussion-original.webp'
+  image_alt: 'Vectoflare hydrodynamic test tank performance testing'
+
+intro: 'It is a common misconception that hydrodynamic testing is reserved for ships and racing craft. In reality, the performance of a SUP board — a planing hull of 10 to 14 feet — is just as dependent on its underwater shape as any other craft. Nose profile, rail radius, rocker and wetted surface area all have a dramatic effect on drag, glide efficiency and stability. At {SITE.name}, we operate a dedicated hydrodynamic test tank that allows us to quantify these effects at model scale — before committing fabric and tooling to a full-size prototype.'
+
+content_html: |
+  <h2>Why tank-test a SUP board?</h2>
+  <p>Testing at model scale (typically 1:3 to 1:5) gives us the ability to iterate board shapes rapidly and cost-effectively. A week in the tank can generate the same performance data that would require months of full-scale trial-and-error — and at a fraction of the cost.</p>
+
+  <h2>Facility specifications</h2>
+  <table>
+    <thead><tr><th>Parameter</th><th>Specification</th></tr></thead>
+    <tbody>
+      <tr><td>Tank dimensions</td><td>35 m (L) × 3.5 m (W) × 1.8 m (D)</td></tr>
+      <tr><td>Towing carriage</td><td>Electric servo-driven, max speed 12 m/s (23 kn), speed accuracy ± 0.5 %</td></tr>
+      <tr><td>Wave generator</td><td>Flap-type, programmable regular &amp; irregular sea states, Hs up to 0.3 m at model scale</td></tr>
+      <tr><td>Instrumentation</td><td>6-component dynamometer (drag, side force, yaw moment), accelerometers, inclinometers, wave probes</td></tr>
+      <tr><td>Data acquisition</td><td>Sampling at 1000 Hz per channel, real-time display + post-processing suite</td></tr>
+      <tr><td>Model fabrication</td><td>In-house CNC milling and 3D printing for model hulls up to 1.8 m LOA</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Our test programme</h2>
+  <p>A standard board development programme in our tank follows this sequence:</p>
+  <ol>
+    <li><strong>Model build</strong> — A 1:4 scale model is CNC-machined from high-density foam and glassed for rigidity. Weight and centre of gravity are adjusted to match Froude-scaled full-load condition.</li>
+    <li><strong>Resistance runs</strong> — The model is towed at 6-10 speeds spanning paddling range (2–6 kn full scale). Total resistance is measured and decomposed into frictional and residuary components using the ITTC-1957 method.</li>
+    <li><strong>Trim &amp; sinkage measurement</strong> — Running trim and sinkage are recorded at each speed. The target is the trim angle that minimises wetted surface while keeping the nose clear of bow wave.</li>
+    <li><strong>Wake survey</strong> — Transverse wave cuts are measured at two speeds to assess wave-making resistance and identify nose-shape interactions that slow a board through the water.</li>
+    <li><strong>Seakeeping (optional)</strong> — Head-sea runs in regular waves to measure added resistance and vertical acceleration in chop — the data behind touring board nose design.</li>
+    <li><strong>Data analysis &amp; recommendations</strong> — A full report is delivered with comparative charts, drag/speed curves, and specific design recommendations for the full-scale board.</li>
+  </ol>
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Typical Tank Test Results — Drag vs Speed (11''0 All-Around board, 1:4 scale)</p>
+    <div class="space-y-2">
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">2 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:18%"></div>
+        </div>
+        <span class="w-16 text-right">11 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">3 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:35%"></div>
+        </div>
+        <span class="w-16 text-right">21 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">4 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:52%"></div>
+        </div>
+        <span class="w-16 text-right">32 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">5 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:68%"></div>
+        </div>
+        <span class="w-16 text-right">42 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">6 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:85%"></div>
+        </div>
+        <span class="w-16 text-right">52 N</span>
+      </div>
+    </div>
+    <p class="text-xs text-gray-400 mt-2">Model-scale drag (N) at Froude-scaled speeds. Full-scale power prediction follows the ITTC-1978 performance-prediction method.</p>
+  </div>
+
+  <h2>Expert team</h2>
+  <p>Our tank is operated by a hydrodynamicist with a PhD in naval architecture and 8 years of towing-tank experience at a major European maritime research institute. He is supported by a technician who prepares all models and instrumentation. The team follows the ITTC (International Towing Tank Conference) Recommended Procedures to ensure that every test is repeatable, traceable, and internationally defensible.</p>
+
+  <h2>Tank-testing for custom board development</h2>
+  <p>Our tank is not only used for house-designed boards — we regularly run test programmes for clients who want to validate a custom board shape or investigate a performance issue:</p>
+  <ul>
+    <li><strong>Shape comparison</strong> — Two or more candidate board shapes tested under identical conditions, providing an objective drag/speed/stability comparison to inform your design choice.</li>
+    <li><strong>Rail and nose optimisation</strong> — Nose profile and rail radius variations can be tested in various configurations to quantify their contribution to drag reduction.</li>
+    <li><strong>Rider-load study</strong> — Resistance data is mapped across the rated rider weight range, allowing you to specify the right length and width for your target paddler.</li>
+  </ul>
+
+  <h2>Why test with us?</h2>
+  <p>We do not just give you a set of raw numbers. Our reports translate tank data into actionable engineering recommendations: "Raise the nose rocker by 10 mm to reduce bow-wave drag at cruise speed", "Round the rail at the midship station to reduce wetted surface", or "Move the standing area 50 mm forward for improved trim". You leave with a clear understanding of what to change and why.</p>
+  <p>Our tank is also available for independent third-party testing on a fee-for-service basis. If you are developing a board and want an unbiased, professionally executed hydrodynamic assessment, we welcome your enquiry.</p>
+
+cta:
+  title: 'Book a tank test session'
+  subtitle: 'Whether you need a full development programme or a single comparative test, we can accommodate your schedule.'
+  actions:
+    - variant: primary
+      text: Contact our hydrodynamics team
+      href: /contact#project-brief
+    - text: Back to the R&D Center
+      href: /randdcenter

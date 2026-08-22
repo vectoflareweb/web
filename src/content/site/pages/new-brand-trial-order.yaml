@@ -1,0 +1,176 @@
+meta:
+  title: 'Launch Your SUP Brand with a Low-MOQ Trial Order | Vectoflare'
+  description: 'Launch an inflatable SUP brand with a low-MOQ trial order: samples in 7–12 days, pilot runs of 20–50 boards, production in 25–35 days. Branding and QC handled.'
+  dateModified: '2026-08-16'
+  keywords:
+    - 'start a SUP brand'
+    - 'SUP brand launch'
+    - 'low MOQ SUP'
+    - 'SUP trial order'
+    - 'startup SUP brand'
+    - 'small batch SUP branding'
+    - 'inflatable SUP private label'
+
+hero:
+  tagline: 'For New & Growing SUP Brands'
+  title: 'Launch Your SUP Brand with a Low-MOQ Trial Order'
+  subtitle: 'You do not need a container to start a SUP brand. Validate your board, your graphics and your market with a single sample, then test sell-through with a trial order of 20–50 boards — before you ever commit to full production volumes. Branding, quality control and export logistics are handled by Qingdao Vatrad Group Co., Ltd.'
+  actions:
+    - variant: primary
+      text: Start Your Launch with a Sample
+      href: /contact#custom-oem
+    - text: See the full MOQ & lead time framework
+      href: /sup-oem-moq-lead-time
+
+answer:
+  label: 'Straight answer'
+  text: 'Yes — you can launch an inflatable SUP brand with a low-MOQ trial order. The entry point is tiered rather than all-or-nothing: order 1–2 samples first (ready in 7–12 days) to freeze your hull, graphics and packaging; then place a trial order of 20–50 boards (production in 25–35 days) to test real sell-through; finally scale into standard volume runs of 90–100+ boards per 150 m drop-stitch fabric roll once the format is proven. Small-batch co-branding starts from as few as 5–10 units for operators that want branded boards without any development stage at all. Your first container comes only when the data says it should.'
+  verified: '2026-08'
+
+trial_included:
+  tagline: What the Trial Order Covers
+  title: 'Everything a Launch Needs, Without the Overhead'
+  subtitle: 'A trial order is not a downsized invoice — it is the same factory process, sized to a launching brand. Here is what every trial program includes.'
+  grid: 'sm:grid-cols-2 lg:grid-cols-3'
+  features:
+    - icon: B
+      icon_bg: blue
+      title: 'Board Platform & Construction'
+      desc: 'Field-tested touring and all-around hulls with drop-stitch construction, triple-layer rail band fusion and 12–15 PSI rigidity — the same platforms used by our volume clients, in stock sizes from 10 ft to 11 ft 6 in.'
+    - icon: L
+      icon_bg: green
+      title: 'Your Branding, Applied for Real'
+      desc: 'Full-surface digital or silk-screen artwork, EVA traction pad with your logo, and secondary branding on nose or side rails. Small-batch co-branding uses Vectoflare central branding with your logo on nose or rails.'
+    - icon: P
+      icon_bg: purple
+      title: 'Packaging Options That Scale'
+      desc: 'Start with generic cartons and barcode stickers, upgrade to full-color 5-ply branded retail boxes for later runs. Custom packaging carries an independent press minimum; surplus boxes are stored and released on schedule.'
+    - icon: Q
+      icon_bg: orange
+      title: 'Factory-Level Quality Control'
+      desc: 'Every board passes the same 100-point assembly checklist and 24-hour pressure and airtightness testing (18.0 PSI hold, auto-reject above 0.50 PSI drop) that applies to any order, sample or container.'
+    - icon: D
+      icon_bg: blue
+      title: 'Export & Documentation'
+      desc: 'CE, ISO 9001, BSCI, REACH and RoHS compliance documentation, export-grade packing and ocean freight coordination to 50+ countries — from a 1-board sample to full programs.'
+    - icon: T
+      icon_bg: green
+      title: 'Timeline You Can Plan Around'
+      desc: 'Samples in 7–12 days, trial production in 25–35 days after confirmed PO and deposit, and confirmed production slots for pre-season orders — so a launch lands in season, not after it.'
+
+trial_steps:
+  tagline: The Launch Roadmap
+  title: 'From Idea to First Sell-Through in Six Gates'
+  subtitle: 'The typical first launch runs 8–12 weeks from brief to delivered trial order using existing platforms — longer when a bespoke hull adds mould development. Every gate has a date you agree in advance.'
+  steps:
+    - step: 'Gate 1'
+      title: 'Product Brief & Engineering Review (Days 0–2)'
+      desc: 'You share target board model, order quantity, artwork and packaging intent. Engineering review completes within one business day, with NDA available before you share proprietary specs.'
+    - step: 'Gate 2'
+      title: 'Specification, MOQ & Quotation (Days 3–7)'
+      desc: 'Itemized quotation with the exact MOQ calculation, sample fees and lead time segments. Sample fees are credited toward your production order upon contract sign-off.'
+    - step: 'Gate 3'
+      title: 'Samples in 7–12 Days'
+      desc: '1–2 physical boards validate hull rigidity, EVA traction pad texture, graphic accuracy and accessory fitment. You ride the board before committing to anything else.'
+    - step: 'Gate 4'
+      title: 'Trial Order of 20–50 Boards (25–35 Days)'
+      desc: 'Production on existing hull platforms with stock materials and simplified packaging — the minimum commercial test that reflects real inventory conditions.'
+    - step: 'Gate 5'
+      title: 'Sell-Through & Feedback Window'
+      desc: 'The important gate is in your market, not our factory: renters and customers confirm the board format, graphics and price point before you scale.'
+    - step: 'Gate 6'
+      title: 'Scale Into Volume Runs (90–100+ Boards)'
+      desc: 'Once the format is proven, standard 150 m roll runs deliver full production efficiency, branded packaging and volume pricing. A container program is the goal, not the requirement.'
+
+trial_budget:
+  tagline: Indicative Budget Ranges
+  title: 'What a Launch Costs — Reference Price Ranges'
+  subtitle: 'Indicative reference ranges, EXW Qingdao (China), for a standard touring or all-around hull in stock sizes. Final quotation depends on hull shape, PVC, artwork coverage, packaging, accessories and quantity — confirmed against your configuration before any commitment.'
+  headers:
+    stage: Order Stage
+    price: Reference Price Per Board
+    notes: Notes
+  rows:
+    - stage: 'Samples (1–2 boards)'
+      price: 'USD 250–350'
+      notes: 'Physical sample with your graphics applied. Sample fees are credited toward the production order upon contract sign-off.'
+    - stage: 'Trial / pilot order (20–50 boards)'
+      price: 'USD 180–260'
+      notes: 'Existing hull platforms, stock materials and simplified packaging. The standard low-MOQ launch route.'
+    - stage: 'Standard volume (90–100+ boards per 150 m roll)'
+      price: 'USD 150–220'
+      notes: 'Full 150 m fabric rolls, custom Pantone PVC options, branded packaging and volume pricing.'
+    - stage: 'Bespoke hull & tooling (add-on)'
+      price: 'Quoted per project'
+      notes: 'A bespoke hull shape adds 15–20 days of mould development within the overall schedule; tooling is itemized and quoted once.'
+
+derisk:
+  tagline: Launch Without the Risk
+  title: 'Four Ways a Trial Order De-Risks Your Launch'
+  subtitle: 'Most new brand launches fail on inventory, not on product quality. A trial order is designed to make the avoidable mistakes impossible.'
+  features:
+    - icon: I
+      icon_bg: blue
+      title: 'No Heavy Inventory Commitment'
+      desc: 'Your first-season exposure stays under 50 boards. If the format needs adjustment, you adjust before the big spend, not after.'
+    - icon: C
+      icon_bg: green
+      title: 'Cash Flow Stays Manageable'
+      desc: 'Smaller orders mean smaller deposits, staged payments and no idle capital in a warehouse. Volume pricing waits until it is actually earned.'
+    - icon: Q
+      icon_bg: purple
+      title: 'Quality Is Never Downscaled'
+      desc: 'A 20-board trial order runs through the same 100-point checklist and pressure testing as a container program — no "try-before-quality" compromises.'
+    - icon: G
+      icon_bg: orange
+      title: 'Guaranteed Path to Scale'
+      desc: 'Every trial order carries a confirmed route to volume: retained sample credits, frozen artwork and BOM, and production slots reserved for your follow-up run.'
+
+scale_path:
+  tagline: After the Trial
+  title: 'What Comes After a Successful Trial Order'
+  subtitle: 'The trial order is deliberately designed to be the first step of a longer relationship. This is the path we agree before the first board ships.'
+  steps:
+    - step: 'Phase 1'
+      title: 'Trial Delivered & Reviewed'
+      desc: '20–50 boards land in season, sell-through data comes back from your channel — rental, retail or direct.'
+    - step: 'Phase 2'
+      title: 'Feedback & Refinement'
+      desc: 'Colorways, graphics, packaging and accessory mix are adjusted against real market response. Artwork and BOM are frozen for the follow-up.'
+    - step: 'Phase 3'
+      title: 'Volume Run (90–100+ Boards)'
+      desc: 'Standard 150 m roll runs with full production efficiency, branded retail packaging and volume pricing — sample credits already applied.'
+    - step: 'Phase 4'
+      title: 'Container-Scale Programs'
+      desc: '300+ board programs with staggered shipments, custom Pantone materials and the full development pipeline — the same factory, now at full scale.'
+
+trial_faqs:
+  tagline: FAQ
+  title: 'Frequently Asked Questions About Launching with a Trial Order'
+  items:
+    - q: 'Can I really launch a SUP brand without a container order?'
+      a: 'Yes. The entry point is tiered: 1–2 samples validate the board (ready in 7–12 days), a trial order of 20–50 boards validates the market (production in 25–35 days), and volume runs of 90–100+ boards follow only when sell-through proves the format. Small-batch co-branding starts from as few as 5–10 units when you want branded boards without any development stage.'
+    - q: 'How long does a full launch take, end to end?'
+      a: 'Using existing hull platforms, a typical first launch runs 8–12 weeks from product brief to delivered trial order: samples in 7–12 days, trial production in 25–35 days after confirmed PO and deposit. A bespoke hull adds 15–20 days of mould development.'
+    - q: 'What does the price include — and what does it not?'
+      a: 'The reference ranges are EXW Qingdao for the boards themselves, including branding application and standard QC. They are indicative: the final quotation is confirmed against your configuration — hull, PVC, artwork coverage, packaging and accessories — before any commitment. Freight, duties and customs clearance at destination are quoted separately.'
+    - q: 'Do I have to buy 100 or 500 boards to get my logo on the boards?'
+      a: 'No. Small-batch co-branding puts your logo on nose or side rails from as few as 5–10 units, and trial orders of 20–50 boards support full artwork application at the same quality as volume production. What changes with quantity is unit price, not availability.'
+    - q: 'What happens if I want to change the design after the trial?'
+      a: 'Changes between trial and volume are normal and welcomed — that is the point of the trial. Colorways, artwork, packaging and accessories are re-priced against the new configuration, then frozen with Artwork and BOM sign-off before the volume run. Mould fees for screen printing are waived on re-orders using the same artwork dimension.'
+    - q: 'Do you sign an NDA before I share my designs?'
+      a: 'Yes. A Non-Disclosure Agreement is available before you share proprietary technical specifications or artwork. We manufacture exclusively under the brands of our clients and never compete with them in any market — the same policy applies to a 1-board sample as to a container program.'
+
+cta:
+  title: 'Ready to Launch Your SUP Brand?'
+  subtitle: 'Send us your target board model, first-season quantity and branding ideas. We will confirm the exact sample and trial path with itemized costs and a day-by-day schedule — no commitment until you sign.'
+  actions:
+    - variant: primary
+      text: Start Your Launch
+      href: /contact#custom-oem
+    - text: Understand custom SUP MOQ & lead time first
+      href: /sup-oem-moq-lead-time
+    - text: The flexible branding & MOQ guide
+      href: /oem-moq-guide
+    - text: Verify the factory & quality system
+      href: /oem-trust-assurance

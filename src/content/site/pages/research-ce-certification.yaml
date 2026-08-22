@@ -1,0 +1,69 @@
+meta:
+  title: 'How CE Certification Works for Inflatable SUP Boards'
+  description: 'How CE certification works for inflatable SUPs, boats and kayaks: directives (2013/53/EU RCD, PPE 2016/425), testing, notified bodies and technical files.'
+  author: 'Vectoflare'
+  datePublished: '2026-08-04'
+  dateModified: '2026-08-07'
+back_text: 'Back to Research'
+
+hero:
+  tagline: 'Compliance'
+  title: 'How CE Certification Works for Inflatable SUPs & Kayaks'
+  subtitle: '7 min read'
+
+answer:
+  label: 'Straight answer'
+  text: 'Inflatable SUPs fall under the EU Recreational Craft Directive 2013/53/EU when above 2.5 m hull length, or the General Product Safety Directive when smaller. Certification costs roughly 13,000&ndash;31,000 EUR and 8&ndash;14 weeks for a first product: technical file, type testing by a notified body, factory audit, then a Declaration of Conformity.'
+  verified: '2026-08'
+
+content_html: |
+  <h2>What Is CE Certification?</h2>
+  <p>CE marking (Conformit&eacute; Europ&eacute;enne) indicates that a product meets EU health, safety, and environmental requirements. For inflatable watercraft, the relevant regulatory framework depends on the product category.</p>
+
+  <h2>Applicable Directives</h2>
+
+  <h3>Recreational Craft Directive (2013/53/EU)</h3>
+  <p>The primary directive for most inflatable boats, SUPs, and kayaks. It applies to recreational craft from 2.5 m to 24 m hull length, partially completed boats (for OEM supply), and personal watercraft.</p>
+
+  <h3>Personal Protective Equipment Regulation (2016/425)</h3>
+  <p>Life jackets, buoyancy aids, and safety equipment supplied with watercraft must meet PPE Regulation requirements, including type examination (Module B) by a notified body and production quality assurance (Module D or E).</p>
+
+  <h2>The Certification Process</h2>
+  <ol>
+    <li>Product classification: Determine craft design category (A – D per ISO 8666)</li>
+    <li>Applicable standards: EN ISO 6185 (Parts 1 – 4), EN ISO 10087 (HIN), EN ISO 14945 (builder's plate)</li>
+    <li>Technical file preparation: Design drawings, Bill of Materials, material certificates, risk assessment</li>
+    <li>Type testing: Buoyancy, stability, load capacity, material testing, seam strength, air retention</li>
+    <li>Factory production control: Notified body audit of manufacturing processes</li>
+    <li>Declaration of Conformity: Manufacturer signs DoC, affixes CE marking</li>
+  </ol>
+
+  <h2>Notified Bodies for Inflatable Watercraft</h2>
+  <p>Common NBs include Bureau Veritas (France), DNV GL (Germany), RINA (Italy), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Germany).</p>
+
+  <h2>Timeline and Costs</h2>
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-gray-100">
+        <th class="p-3 text-left font-semibold text-gray-900 border">Phase</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Duration</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Typical Cost (EUR)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="p-3 border">Technical file preparation</td><td class="p-3 border">2 – 4 weeks</td><td class="p-3 border">2,000 – 5,000</td></tr>
+      <tr><td class="p-3 border">Type testing</td><td class="p-3 border">4 – 8 weeks</td><td class="p-3 border">8,000 – 20,000</td></tr>
+      <tr><td class="p-3 border">Factory audit</td><td class="p-3 border">1 – 2 days (on-site)</td><td class="p-3 border">3,000 – 6,000</td></tr>
+      <tr><td class="p-3 border">Total (first product)</td><td class="p-3 border">8 – 14 weeks</td><td class="p-3 border">13,000 – 31,000</td></tr>
+    </tbody>
+  </table>
+
+  <h2>What This Means for Buyers</h2>
+  <p>When purchasing CE-certified inflatable boards, always verify the CE marking is on the builder's plate, a valid DoC exists, the Notified Body number is listed, and the owner's manual includes safety instructions in your local language. All Vectoflare products carry CE certification with full traceability to notified body audit reports.</p>
+  <p>Certification is part of every production run at our Qingdao plant — see the <a href="/factory">factory quality &amp; testing workflow</a> and how we support <a href="/oem-manufacturing">CE compliance for OEM/private label partners</a>.</p>
+
+cta:
+  title: 'Need CE certification support?'
+  subtitle: 'We handle certification for OEM partners worldwide.'
+  button_text: 'Start the certification process'
+  button_link: /contact

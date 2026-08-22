@@ -1,0 +1,5 @@
+export { enUi, type UiDict } from './en-ui'
+export { enProduct } from './en-product'
+export { esUi } from './es-ui'
+export { esProduct } from './es-product'
+export { mergeDict } from './merge'

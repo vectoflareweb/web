@@ -1,0 +1,477 @@
+meta:
+  title: 'Custom SUP Quality Inspection Standards | OEM Factory | Vectoflare'
+  description: 'Inflatable SUP OEM manufacturing: inspection of materials, production, testing, packaging and traceability, with air-tightness rework control under ISO 9001.'
+  dateModified: '2026-08-14'
+  keywords:
+    - 'inflatable sup manufacturer'
+    - 'sup oem factory'
+    - 'custom paddle board manufacturer'
+    - 'sup quality inspection'
+    - 'sup manufacturing process'
+    - 'private label sup manufacturer'
+
+hero:
+  tagline: Quality Inspection & Assurance
+  title: Quality Control for Custom Inflatable SUP Boards
+  subtitle: 'QINGDAO VATRAD GROUP.,LTD. applies project-specific inspection criteria throughout material preparation, board construction, final inflation testing, packaging, and shipment release. Quality Requirements are managed dynamically based on the approved sample, technical specification, artwork proof, Bill of Materials (BOM), and agreed packaging standards for each OEM/ODM order.'
+  actions:
+    - text: Download Quality Assurance Package
+      variant: primary
+      href: 'https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_Quality_Inspection_Standards.pdf?dl=1'
+    - text: Download Sample Quality Pack (PDF)
+      href: 'https://assets.vectoflare.com/site/downloads/Qingdao_Vatrad_Group_SUP_Quality_Documentation_Pack.pdf?dl=1'
+    - text: Request OEM Quality Information
+      href: /contact
+
+answer:
+  label: 'Straight answer'
+  text: 'QINGDAO VATRAD GROUP.,LTD. controls inflatable SUP quality through a 4-stage verification system: incoming material control (IQC), in-process quality control (IPQC), final board testing and inflation verification (FQC), and packing and pre-shipment release (OQC). Every order is inspected against the approved sample, technical specification, artwork proof, BOM, and packaging standards, with air-tightness verification, visual and dimensional checks, accessory confirmation, and batch traceability. Items failing acceptance criteria are placed under controlled hold or quarantine, reworked only under approved instructions, and re-inspected before authorized release.'
+  verified: '2026-08'
+
+intro: 'Our quality system is built for OEM/ODM projects: inspection criteria are defined per order, documented, and followed by production and quality teams from incoming material to packing. This keeps quality expectations aligned between the factory and your brand from the first sample to full container shipments.'
+
+scope_note:
+  tagline: Scope
+  title: Project-Specific Inspection Criteria
+  body: |
+    Quality specifications may vary depending on board construction (e.g., single/double layer, woven drop-stitch, fused rail), intended end-use, target market regulations, and customer-approved parameters. Final release authorization is strictly based on the documented inspection criteria agreed upon for the order.
+
+stages:
+  tagline: Quality Framework
+  title: Our 4-Stage Quality Verification System
+  subtitle: A complete QC loop from raw material arrival to shipment release.
+  steps:
+    - title: '1. Incoming Material Control (IQC)'
+      desc: 'Main materials and purchased components are checked against approved specifications and reference samples before entering the production line. Drop-stitch and PVC are verified for material identification, supplier batch, weight/density, thickness, colour match against approved swatches, and surface defects. EVA traction pads are checked for pattern, colour, thickness, cutting accuracy, and adhesive compatibility. Valves and hardware undergo functionality, thread, seal integrity, and fitment tests. Accessories and packaging (pumps, paddles, fins, leashes, bags, cartons) are matched for quantity, colour, branding, barcode accuracy, and artwork version against the approved BOM.'
+    - title: '2. In-Process Quality Control (IPQC)'
+      desc: 'Critical manufacturing steps are inspected to catch non-conformities before boards move to subsequent workstations. Cutting and printing are verified for panel dimensions, artwork layout, mirror orientation, and edge cleanliness against approved technical drawings. Board assembly and rail bonding are checked for outline symmetry, seam overlap continuity, and elimination of voids or air pockets along high-stress areas. Valve and accessory attachment, graphics, and branding are verified for position, orientation, adhesive coverage, logo spelling, and artwork version.'
+    - title: '3. Final Board Testing & Inflation Verification (FQC)'
+      desc: 'Completed boards undergo mandatory physical and structural testing before packaging approval. Boards are inflated to the project-approved inspection pressure and held to verify structural rigidity and pressure stability. Air-tightness scans cover the valve housing, rail seams, nose/tail cones, and stress joints using calibrated leak-detection methods (pressure-drop monitoring or bubble testing). Cosmetic and dimensional inspection verifies dimensions, rocker profile, and EVA pad alignment (tolerance ±2 mm) under daylight-standard lighting.'
+    - title: '4. Packing & Pre-Shipment Release (OQC)'
+      desc: 'Comprehensive pre-shipment verification ensures zero mismatch in SKU configuration or shipping marks. Kit completeness cross-checks board, fin, leash, paddle, pump, bag, repair kit, and user manual against the order BOM. Packaging and barcode checks verify carton marks, SKU labels, barcode readability, manual language, and carton structural integrity. Orders are released only after the final packaging audit is signed off by authorized quality personnel.'
+
+inspection_points:
+  tagline: Inspection Coverage
+  title: Key Inspection Control Points
+  subtitle: Every checkpoint is executed against documented acceptance criteria agreed per order.
+  features:
+    - icon: A
+      icon_bg: blue
+      title: Air-Tightness Verification
+      desc: 'Completed boards are inflated to the approved inspection pressure and checked for pressure retention, valve base condition, rail seams, nose and tail areas, and high-stress locations. Where required by the inspection procedure, suspected leakage areas are examined with approved leak-detection methods.'
+    - icon: B
+      icon_bg: green
+      title: Visual & Dimensional Inspection
+      desc: 'Boards are inspected under suitable lighting for material surface condition, printing defects, colour variation, EVA alignment, wrinkles, scratches, contamination, and bonding appearance. Key dimensions and accessory positions are verified against approved drawings or specifications.'
+    - icon: C
+      icon_bg: purple
+      title: Accessory & Packaging Verification
+      desc: 'The complete product configuration is verified before shipment: board model, fin system, paddle, pump, leash, carry bag, repair kit, user manual, and customer-specific accessories —each matched to the approved sample, drawings, and BOM.'
+    - icon: D
+      icon_bg: orange
+      title: Packing & Shipment Release
+      desc: 'Packed units are checked for SKU configuration, accessory completeness, product labels, barcode information, instruction manual version, carton marking, packing quantity, and carton condition. Shipment release is authorized only after all inspection and packing requirements are completed.'
+
+traceability_intro:
+  tagline: Batch Traceability
+  title: Project-Level & Batch Traceability System
+  body: |
+    Every custom SUP order is managed under a unified project code linking technical specifications, the approved BOM, artwork revisions, material lot numbers, packing references, and inspection records. Production and inspection records are maintained by the applicable project and production batch, and each batch can be linked back to the approved product specification, BOM, artwork, and packing references.
+
+    This supports efficient review of product configuration, inspection status, and affected scope if a quality concern is identified —from finished product back to source records using the board or carton identification.
+
+traceability_chain:
+  tagline: Traceability Chain
+  title: From Project Code to Shipment Release
+  subtitle: One chain of controlled references from order confirmation to authorized dispatch.
+  steps:
+    - step: '01'
+      title: Project Code
+      desc: Unified project reference that links every controlled document to the order.
+    - step: '02'
+      title: Document Revisions
+      desc: Current spec, BOM, artwork, and packing revision levels —only approved versions are valid for production.
+    - step: '03'
+      title: Batch & Materials
+      desc: Material and component lots recorded against the production batch.
+    - step: '04'
+      title: Inspection Records
+      desc: IQC, in-process, air-tightness, final, and packing inspection results per batch.
+    - step: '05'
+      title: Packing & Release
+      desc: Packing batch, NCR closure status, and authorized shipment release summary.
+
+traceability_sample:
+  tagline: Anonymized Sample
+  title: Traceability Control Record (Demo)
+  body: |
+    Demonstration values are shown for illustration only —customer names, PO numbers, custom artwork, supplier data, and commercial information are removed to protect confidentiality.
+
+    - **Manufacturer:** QINGDAO VATRAD GROUP, LTD.
+    - **Project Code:** DEMO-SUP-2026-01
+    - **SKU Reference:** DEMO-TR-126
+    - **Production Batch:** BATCH-AUG-01
+    - **Specification / BOM / Artwork Revision:** Rev B / Rev C / Rev B
+    - **Air-Tightness Record:** PASS —retained per batch
+    - **Inspection Status:** PASS
+    - **Shipment Status:** RELEASED
+
+quarantine_intro:
+  tagline: Non-Conformance Control
+  title: Control of Non-Conforming Products & Quarantine
+  body: |
+    Products or components that do not meet defined acceptance criteria are clearly identified and placed under controlled hold or quarantine status. They cannot proceed to the next production stage, packing, or shipment until an authorized disposition is completed. Rework is performed under approved instructions and linked to the relevant non-conformance record; reworked items are re-inspected against the applicable project requirements before quality release.
+
+quarantine_flow:
+  tagline: 7-Step Control Flow
+  title: What Happens When a Non-Conformance Is Found
+  subtitle: Identify, control, correct, verify —then release or reject. Non-conforming product never flows back into production or packing unchecked.
+  steps:
+    - step: '01'
+      title: Identify
+      desc: The non-conformance is recorded against the affected product, SKU, batch, or process stage.
+    - step: '02'
+      title: Label
+      desc: Affected items are clearly identified with controlled status labels —HOLD, QUARANTINE, or REJECTED.
+    - step: '03'
+      title: Quarantine
+      desc: Items are segregated in a physically controlled quarantine area or system-controlled to prevent unintended use or shipment.
+    - step: '04'
+      title: Assess Scope
+      desc: The affected scope is reviewed by batch, process stage, material lot, and document revision.
+    - step: '05'
+      title: Rework / Replace
+      desc: Correction is permitted only through an approved disposition and controlled work instruction.
+    - step: '06'
+      title: Re-Inspect
+      desc: Corrected items are re-inspected against the applicable acceptance criteria before release.
+    - step: '07'
+      title: Release or Reject
+      desc: Only authorized conforming product proceeds to packing or shipment release.
+
+quarantine_evidence:
+  tagline: On the Factory Floor
+  title: Controlled Testing & Quarantine in Practice
+  subtitle: Photos from our workshop in Qingdao show how status control and inspection records are applied on site.
+  features:
+    - image: https://assets.vectoflare.com/site/quality/qc-air-tightness-test-area.avif
+      alt: Inflated inflatable SUP boards in the factory air-tightness test area monitored by a digital pressure gauge
+      title: Air-Tightness Test Area
+      desc: 'Inflated boards held in the QC testing area under industrial lighting, with digital pressure gauges monitoring the approved air-hold test at the valve base, rail seams, nose and tail, and high-stress locations. Records are kept per batch and linked to final inspection.'
+    - image: https://assets.vectoflare.com/site/quality/qc-hold-quarantine-station.avif
+      alt: Quality control checksheets and controlled hold status labels at the factory inspection station
+      title: Hold & Quarantine Station
+      desc: 'Inspection station with QC checksheets and status labelling. Any item failing acceptance criteria is tagged, logged, and moved to quarantine —it cannot proceed to packing until an authorized disposition and mandatory re-inspection are completed.'
+    - image: https://assets.vectoflare.com/site/quality/qc-air-tightness-rework.avif
+      alt: QC technician performing controlled air-tightness rework on an inflatable SUP at the factory rework station
+      title: Controlled Rework Station
+      desc: 'Air-tightness rework is performed at a dedicated station under an approved method card: the defect is marked, the board remains on HOLD, and after the required cure period it returns to the test area for re-inspection against the original acceptance criteria.'
+    - image: https://assets.vectoflare.com/site/quality/qc-workshop-quarantine-demo.avif
+      alt: Workshop demonstration of controlled quarantine segregation in the Qingdao factory
+      title: Quarantine Area Demonstration
+      desc: 'Demonstration photo from the workshop showing how controlled quarantine segregation works on site: segregated units are kept under status control until an authorized disposition is completed.'
+
+rework_intro:
+  tagline: Rework Governance
+  title: Controlled Air-Tightness Non-Conformance & Rework Governance
+  body: |
+    At QINGDAO VATRAD GROUP.,LTD., rework is defined strictly as restoring a non-conforming unit to full compliance with its original engineering specification — not as a quick fix. Any board identified with an air-tightness non-conformance is placed on controlled hold and linked to a Non-Conformance Report (NCR) before further processing; the leak source is located and recorded using the approved diagnostic method.
+
+    Rework may proceed only when the defect is within the approved rework scope and an authorized method is available. The rework instruction identifies the product, batch, defect location, approved material, method, required conditions and re-inspection scope. After the required cure or stabilization period, the board is re-inspected against the same applicable acceptance criteria as a conforming board — rework never reduces the acceptance standard. Failure of re-inspection requires renewed engineering and quality disposition; repeated rework is not permitted without documented approval.
+
+rework_decision:
+  tagline: Interactive Flow
+  title: Rework Decision Flow — Click Any Node
+  subtitle: Follow how an air-tightness non-conformance is handled from detection to release or scrap. Click a node to expand the control requirements at that step.
+  nodes:
+    - id: detect
+      type: start
+      label: Leak Detected
+      detail: 'An air-tightness non-conformance is identified during inspection — pressure-retention failure, visible leakage or a related air-system defect.'
+    - id: hold
+      type: step
+      label: Stop Line · HOLD Label · NCR
+      detail: 'Processing stops. Board ID, product code, batch, workstation, date and inspector are recorded; a HOLD / QUARANTINE label is attached and an NCR is opened against the applicable specification revision.'
+    - id: locate
+      type: step
+      label: Locate Leak Source
+      detail: 'The board is inflated to the project-approved diagnostic pressure and the source is located with an approved method — pressure retention, calibrated bubble testing, acoustic or leak-detection equipment.'
+    - id: classify
+      type: step
+      label: Classify Defect (A–G)
+      detail: 'The defect is classified against the approval matrix: A valve interface, B valve base seam, C surface pin-hole, D local rail seam, E large rail failure, F recurring leakage, G structural damage.'
+    - id: authorize
+      type: decision
+      label: Rework Authorized?
+      yes: rework
+      no: escalate
+      detail: 'QC confirms the defect category and Engineering reviews whether the board can be restored to its original specification. The authorization records the method card, materials, conditions and re-inspection scope — or routes to replacement, rejection, scrap or customer concession.'
+    - id: rework
+      type: step
+      label: Controlled Rework
+      detail: 'Executed only within the approved defect boundary using the approved method card, material batch and tooling — never altering dimensions, construction, graphics, accessories or packing requirements.'
+    - id: cure
+      type: step
+      label: Cure & Stabilization
+      detail: 'The board remains on HOLD through the cure and stabilization period defined by the approved material and process instruction, then receives a visual and workmanship pre-check.'
+    - id: reinspect
+      type: decision
+      label: Re-Inspection Passed?
+      yes: release
+      no: escalate
+      detail: 'The board is inflated to the project-approved re-inspection pressure and the original failure plus all potentially affected characteristics are re-verified — leak location, valve, rails, seams, high-stress areas, accessories and appearance. Rework never reduces the acceptance standard.'
+    - id: release
+      type: release
+      label: Quality Release
+      detail: 'Quality reviews the closed NCR, rework record and re-inspection result and authorizes release. No reworked board is packed or shipped without authorized quality release.'
+    - id: escalate
+      type: escalate
+      label: Escalate — Replace / Scrap / Concession
+      detail: 'No repeat rework without documented approval. The board routes to replacement, rejection, scrap, or a written customer concession where the original specification cannot be restored.'
+
+defect_matrix:
+  tagline: Defect Classification
+  title: Air-Tightness Defect Classification & Approval Matrix
+  subtitle: Not every leak is reworked — each defect is classified and its disposition approved at the right level, from QC inspector up to plant manager.
+  headers:
+    category: Defect Category
+    area: Typical Area
+    eligibility: Rework Eligibility
+    approval: Required Approval
+  rows:
+    - category: 'Class A — Valve Interface'
+      area: 'Valve core, cap seal, gasket, pump interface'
+      eligibility: 'Standard rework authorized'
+      approval: 'QC Inspector'
+    - category: 'Class B — Valve Base Seam'
+      area: 'Micro-leakage along the valve rim'
+      eligibility: 'Evaluated rework per the approved method card'
+      approval: 'QC + Engineering'
+    - category: 'Class C — Surface Pin-Hole'
+      area: 'Local micro pin-hole on a non-stress surface'
+      eligibility: 'Authorized only when compliant with client specifications'
+      approval: 'QC + Engineering'
+    - category: 'Class D — Local Rail Seam'
+      area: 'Local overlap leakage on the rail band'
+      eligibility: 'High risk; strict engineering disposition required'
+      approval: 'Engineering + QA Head'
+    - category: 'Class E — Large Rail Failure'
+      area: 'Continuous seam failure in high-stress zones'
+      eligibility: 'Standard rework not authorized — replacement or root-cause review'
+      approval: 'QA Head + Customer Concession'
+    - category: 'Class F — Recurring Leakage'
+      area: 'Non-locatable leak or re-test failure'
+      eligibility: 'No repeat rework; replacement, scrap or engineering root-cause analysis'
+      approval: 'Lead QA / Engineering'
+    - category: 'Class G — Structural Damage'
+      area: 'Material damage, delamination, board deformation'
+      eligibility: 'Rework release not authorized — replacement, scrap or written customer concession'
+      approval: 'Quality Manager + Customer Approval'
+
+rework_flow:
+  tagline: 7-Step Closed-Loop
+  title: Controlled Rework Workflow — From Detection to Release or Scrap
+  subtitle: 'Every air-tightness rework follows the same controlled loop: detect, quarantine, diagnose, authorize, rework, re-inspect, release.'
+  steps:
+    - step: '01'
+      title: Detection, Stop-Line & Quarantine
+      desc: 'Processing stops immediately on the affected board. Board ID, product code, batch, workstation, date and inspector are recorded, a HOLD / QUARANTINE label is attached, and an NCR is opened against the applicable specification revision.'
+    - step: '02'
+      title: Systematic Leak Diagnosis
+      desc: 'The board is inflated to the project-approved diagnostic pressure and the leak source is located with an approved method —pressure retention, calibrated bubble testing, acoustic or leak-detection equipment. The suspected location is marked without damaging the board.'
+    - step: '03'
+      title: Engineering Disposition & Authorization
+      desc: 'QC confirms the defect category and Engineering reviews whether the board can be restored to its original specification. A rework authorization referencing the NCR records the approved method, materials, conditions and re-inspection scope —or assigns replacement, rejection, scrap or customer concession.'
+    - step: '04'
+      title: Controlled Rework Execution
+      desc: 'Rework is executed only within the approved defect boundary, using the approved method card, material batch and tooling. Board dimensions, construction, graphics, accessory configuration and packing requirements are never altered.'
+    - step: '05'
+      title: Cure Stabilization & Pre-Check
+      desc: 'The reworked board remains in HOLD status through the cure and stabilization period defined by the approved material and process instruction, then receives a visual and workmanship pre-check before re-inspection.'
+    - step: '06'
+      title: Re-Inspection & Proof Testing
+      desc: 'The board is inflated to the project-approved re-inspection pressure and the original failure plus all potentially affected characteristics are re-verified: the leak location and surrounding area, valve, rails, seams, high-stress areas, accessories and appearance. Rework never reduces the acceptance standard.'
+    - step: '07'
+      title: QA Release or Final Disposition
+      desc: 'Quality reviews the completed NCR, rework record and re-inspection result, then authorizes release —or escalates to replacement, rejection, scrap or customer concession. No reworked board is packed or shipped without authorized quality release.'
+
+quality_safeguards:
+  tagline: Quality Safeguards
+  title: Anti-Error Rules That Protect Your Brand
+  subtitle: Hard controls that prevent uncontrolled repair loops —one documented rework per defect, batch-level alert thresholds, calibrated instrumentation and controlled test conditions.
+  features:
+    - icon: 1
+      icon_bg: blue
+      title: One Rework Per Defect
+      desc: 'A single location may be reworked once under an authorized instruction. If re-inspection still fails, the board is escalated for replacement, rejection, scrap or customer concession —repeated rework without documented approval is not permitted.'
+    - icon: 2
+      icon_bg: green
+      title: Batch Alert & Line-Stop
+      desc: 'When non-conformance in a production batch exceeds the engineering-set threshold, the line is stopped and Engineering investigates the cause —material lot, process conditions and records —before production resumes.'
+    - icon: 3
+      icon_bg: purple
+      title: Calibrated Instrumentation
+      desc: 'Pressure gauges, digital manometers and timers used for air-tightness testing are controlled and calibrated by third-party laboratories within their validity period, with calibration status visible in the inspection area.'
+    - icon: 4
+      icon_bg: orange
+      title: Controlled Test Conditions
+      desc: 'Air-tightness testing and cure areas are kept in a controlled environment so results are not affected by temperature swings between day and night.'
+
+rework_boundaries:
+  tagline: Scope & Boundaries
+  title: What This System Does Not Cover
+  body: |
+    The rework control system applies to completed or in-process inflatable SUP boards identified with air leakage, pressure-retention failure or related air-system defects before shipment release. It does not authorize changes to approved construction, materials, graphics, product configuration or customer requirements, and it does not cover:
+
+    - Products already shipped or in customer channels.
+    - Structural damage or board deformation not assessed by Engineering.
+    - Widespread rail or seam failure, core material damage, or defects that may affect safety.
+    - Projects where rework is not permitted: customer-approved samples, certification or test units.
+    - Projects with proprietary customer processes, special materials or special repair requirements.
+    - Recurring leakage that cannot be located, or boards failing again after rework.
+
+    Any deviation from customer specifications requires documented engineering review and, where applicable, written customer approval. Boards that cannot be restored to their original specification are only released under an explicit customer concession —never by production alone.
+
+method_cards:
+  tagline: Method Card System
+  title: Controlled Rework Method Card Index
+  subtitle: 'The general instruction controls the process; method cards control the operation. The rework instruction (WI-QC-AT-001) references method cards MC-RW-01 to MC-RW-06, plus MC-RW-00 for mandatory scrap and reject.'
+  headers:
+    code: Method Card
+    defect: Defect Class
+    scope: Application Scope
+    controls: Key Engineering Controls
+    approval: Sign-off Authority
+  rows:
+    - code: MC-RW-01
+      defect: Class A (Valve Interface)
+      scope: 'Valve core service, seal cleaning and re-assembly'
+      controls: 'Calibrated torque wrench, clean gasket seat, no damage to valve threads'
+      approval: 'QC Inspector'
+    - code: MC-RW-02
+      defect: Class B (Valve Perimeter)
+      scope: 'Valve base flange sealing and controlled clamping'
+      controls: 'Controlled surface preparation, approved bonding material, circular pressure fixture'
+      approval: 'QC + Engineering'
+    - code: MC-RW-03
+      defect: Class C (Surface Micro-Leak)
+      scope: 'Non-structural pin-hole sealing'
+      controls: 'Two-component approved adhesive, no run-off into graphics or EVA'
+      approval: 'QC + Engineering'
+    - code: MC-RW-04
+      defect: Class D (Local Rail Seam)
+      scope: 'Local rail overlap seam re-bonding'
+      controls: 'Temperature-controlled heat activation, pressure roller, anti-curling fixture'
+      approval: 'Engineering + QA Head'
+    - code: MC-RW-05
+      defect: Class B/C (Accessory Rim)
+      scope: 'Fin box patch and accessory mounting base sealing'
+      controls: 'Surface adhesion promoter, profiled clamping block, defined hold period'
+      approval: 'QC + Engineering'
+    - code: MC-RW-06
+      defect: Class D (Nose/Tail Seam)
+      scope: 'High-stress curvature seam intervention'
+      controls: 'High-shear approved bonding material, extended cure period before re-test'
+      approval: 'Chief Engineer'
+    - code: MC-RW-00
+      defect: Class E/F/G (Critical / Rupture)
+      scope: 'Mandatory scrap and physical destruction'
+      controls: 'Physical cut-off to prevent mix-out, scrap record, cross-department root-cause review'
+      approval: 'Plant Manager'
+
+inspector_friendly:
+  tagline: Third-Party Inspection
+  title: Inspector-Friendly Protocol
+  body: |
+    We provide a dedicated inspection area with calibrated pressure gauges, standardized light tables for seam and graphic checks, and pre-filled Inspection Briefs so third-party agencies (SGS, BV, Intertek, QIMA) can complete pre-shipment inspection efficiently —saving your inspection overhead.
+
+    Each brief summarizes the applicable document revisions, approved sample reference, critical-to-quality checks, agreed sampling level, functional tests, and packaging and barcode requirements for the PO. Specified quantities, quality, packing, and basic safety items are verified against the approved project references —no last-minute document hunting on site.
+
+document_pack:
+  tagline: Quality Documentation Pack
+  title: Download Sample Quality Pack & Protocol Templates
+  subtitle: 'Standard controlled templates used for OEM/ODM projects — structured as the 00–15 documentation register (project index, approved spec, BOM, artwork & packing references, QIP, inspection records, NCR, change control, third-party brief, release summary).'
+  features:
+    - icon: P
+      icon_bg: blue
+      title: Quality Documentation Pack (PDF)
+      desc: 'Full 00–15 controlled document structure: project index, specification, BOM, artwork and packing references, Quality Inspection Plan (QIP), inspection records, NCR, change control, third-party briefing, and pre-shipment release summary.'
+      link: 'https://assets.vectoflare.com/site/downloads/Qingdao_Vatrad_Group_SUP_Quality_Documentation_Pack.pdf?dl=1'
+      link_label: Download PDF
+    - icon: T
+      icon_bg: green
+      title: Third-Party Inspection Brief (PDF)
+      desc: 'One-page brief for SGS / BV / Intertek / QIMA inspectors: order quantity, AQL sampling level, applicable revisions, and critical-to-quality checks including air-tightness record verification, pressure-hold testing, kit completeness, barcode scan, and carton drop test.'
+      link: 'https://assets.vectoflare.com/site/downloads/Third_Party_Inspection_Brief_Template.pdf?dl=1'
+      link_label: Download PDF
+    - icon: C
+      icon_bg: purple
+      title: Change Control Protocol (PDF)
+      desc: 'Change Control Log covering artwork, customer-approved BOM, and carton-marking revisions —with change summary, reason, impact assessment, customer approval status, effective batch, and obsolete document withdrawal.'
+      link: 'https://assets.vectoflare.com/site/downloads/Change_Control_Protocol_Bilingual.pdf?dl=1'
+      link_label: Download PDF
+    - icon: R
+      icon_bg: orange
+      title: Pre-Shipment Release Summary (PDF)
+      desc: 'One-page release sign-off: quality gate verification (IQC, IPQC, air-tightness, final inspection, packing), open NCR status, and the authorized release decision signed by quality and operations.'
+      link: 'https://assets.vectoflare.com/site/downloads/Pre_Shipment_Release_Summary_Bilingual.pdf?dl=1'
+      link_label: Download PDF
+    - icon: W
+      icon_bg: blue
+      title: Air-Tightness Rework Instruction (PDF)
+      desc: 'Controlled work instruction WI-QC-AT-001 Rev A: scope and boundaries, defect classification, NCR and rework authorization, controlled execution, cure, re-inspection and release for inflatable SUP boards.'
+      link: 'https://assets.vectoflare.com/site/downloads/air-tightness-rework-instruction-wi-qc-at-001.pdf?dl=1'
+      link_label: Download PDF
+    - icon: M
+      icon_bg: green
+      title: Method Card Index (PDF)
+      desc: 'Controlled document SOP-QC-AT-IDX-001 Rev A: the numbered method card system MC-RW-01 to MC-RW-06, plus MC-RW-00 for scrap and reject, linked to the air-tightness rework instruction.'
+      link: 'https://assets.vectoflare.com/site/downloads/method-card-index-sop-qc-at-idx-001.pdf?dl=1'
+      link_label: Download PDF
+    - icon: V
+      icon_bg: orange
+      title: Rework Change Control Standard (Page)
+      desc: 'Formal ISO 9001 change control for rework parameters: ECR, risk classification, cross-department approval matrix, 9-step closed-loop, quantified engineering validation and Poka-Yoke safeguards — with bilingual SOP QMS-SOP-QC-CC-001 Rev 2.0.'
+      link: '/factory/quality-change-control'
+      link_label: View page
+    - icon: N
+      icon_bg: blue
+      title: Non-Conforming Product Control (Page)
+      desc: 'ISO 9001:2015 Clause 8.7 control of non-conforming outputs: NCR registration, quarantine, severity-based disposition authority, controlled rework under SRI, independent re-inspection and witnessed destruction vaulted under SHA-256 — with bilingual SOP and scrap certificate downloads.'
+      link: '/factory/non-conforming-control'
+      link_label: View page
+
+faqs:
+  tagline: FAQ
+  title: Frequently Asked Questions About SUP Quality Control
+  items:
+    - q: 'How does QINGDAO VATRAD GROUP.,LTD. control inflatable SUP board quality?'
+      a: 'Quality is controlled through incoming material inspection, production process checkpoints, final product verification, packing inspection, and production traceability —each executed against project-approved samples, specifications, and inspection criteria.'
+    - q: 'What quality inspections are performed during SUP production?'
+      a: 'Inspections include material verification, cutting and printing checks, board construction inspection, valve installation verification, accessory inspection, air-tightness testing, appearance inspection, and packing verification.'
+    - q: 'Can OEM customers request SUP inspection records?'
+      a: 'Yes. Inspection records and quality documentation can be provided according to project requirements and customer quality agreements, including sample pre-shipment inspection reports.'
+    - q: 'How does the factory ensure OEM production consistency?'
+      a: 'Production consistency is maintained through approved samples, technical specifications, manufacturing checkpoints, inspection procedures, and documented quality control processes linked to each order.'
+    - q: 'Can I arrange third-party inspection by SGS, BV, Intertek, or QIMA?'
+      a: 'Yes. We host third-party inspectors with a dedicated inspection area, calibrated pressure gauges, pre-filled inspection briefs, and accessible records. Share your specification, approved sample, artwork, packaging requirements, and defect criteria —or use our Third-Party Inspection Brief template.'
+    - q: 'How are artwork, BOM, or packaging changes handled during production?'
+      a: 'Changes are logged in our Change Control Log with the affected document revision, change summary, reason, impact assessment, customer approval status, and effective batch. Obsolete versions are withdrawn so production and inspection always use the current approved documents.'
+    - q: 'Does the factory support customized inflatable SUP projects?'
+      a: 'Yes. Customized inflatable SUP OEM/ODM projects are supported based on customer specifications, artwork requirements, accessory configurations, and packaging needs, with project-specific inspection criteria agreed before production.'
+    - q: 'Can a leaking SUP board be reworked at the factory?'
+      a: 'Yes —under controlled conditions. The board is placed on HOLD and linked to an NCR, the leak is located with an approved diagnostic method, and rework proceeds only after QC/Engineering authorization and only within the defect classes approved for rework. The board is then re-inspected against the same acceptance criteria as a conforming board before release.'
+    - q: 'How many times can the factory rework a board?'
+      a: 'A single location may be reworked once under an authorized instruction. If re-inspection still fails, the board is escalated for replacement, rejection, scrap, or customer concession —repeated rework without documented approval is not permitted.'
+
+cta:
+  title: Need a Complete Project Quality Pack Sample?
+  desc: 'Request an anonymized Third-Party Inspection Support Pack and Quality Inspection Plan (QIP) for your OEM/ODM project —or download the sample templates to review the documentation structure you can expect for your order.'
+  actions:
+    - text: Request Quality Review
+      variant: primary
+      href: /contact
+    - text: Download Sample Quality Pack (PDF)
+      href: 'https://assets.vectoflare.com/site/downloads/Qingdao_Vatrad_Group_SUP_Quality_Documentation_Pack.pdf?dl=1'
+    - text: Download QC Protocol & PSI Checklist
+      href: 'https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_Quality_Inspection_Standards.pdf?dl=1'

@@ -1,0 +1,211 @@
+# ═══════════════════════════════════════════════════════════════════════════════
+# WebModel — B2B Website Template Configuration
+# ═══════════════════════════════════════════════════════════════════════════════
+# SINGLE source of truth for all brand/product/deployment parameters.
+# After editing: node scaffold.mjs → node deploy.mjs
+#
+# Fields marked [B2B] are B2B-specific parameters that drive content generation.
+# Leave blank/empty to disable features gracefully.
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# ── Site Identity ──────────────────────────────────────────────────────────────
+site_id: "myproduct"           # lowercase, no spaces → Worker name, CF resource prefix
+site_name: "MyProduct"         # display name (PascalCase)
+site_domain: "myproduct.com"   # production domain
+
+# ── Brand Copy ────────────────────────────────────────────────────────────────
+tagline: "Your brand tagline — one compelling sentence."
+description: "Your brand description — 80–170 chars for SEO meta."
+boilerplate: "MyProduct is a [category] company based in [location]."
+build_line: "We [what you do] — you own [what they keep]."
+not_rob: "We do not compete with our clients in any market."
+og_image_filename: "og-default"
+
+# ── Factory Name ───────────────────────────────────────────────────────────────
+# The manufacturing division / factory name (replaces "Vectoflare" in templates).
+# Used for "About {factory_name}", "{factory_name} factory", etc.
+factory_name: ""                   # e.g. "Vectoflare", "Vectoflare", "AcmeWorks"
+
+# ── Company & Parent ──────────────────────────────────────────────────────────
+company_name: "MyCompany Inc."
+company_location: ""           # e.g. "Qingdao, China"
+company_size: ""               # e.g. "12,500 m²"
+parent_brand: ""               # leave empty if no parent brand
+parent_domain: ""
+parent_url: ""
+
+# ── Branding Assets ───────────────────────────────────────────────────────────
+logo_url: "/logo192.png"
+favicon_ico: "/favicon.ico"
+favicon_svg: "/favicon.svg"
+assets_cdn_prefix: "assets"    # → {prefix}.{site_domain}
+product_image_path: "images/products"  # CDN path: assets.{domain}/{product_image_path}/
+
+# ── Contact ────────────────────────────────────────────────────────────────────
+contact_email: "info@myproduct.com"
+whatsapp: ""
+whatsapp_link: ""
+address: ""
+
+# ── Social ─────────────────────────────────────────────────────────────────────
+social_facebook: ""
+social_linkedin: ""
+social_youtube: ""
+social_twitter: ""
+
+# ── Locales ────────────────────────────────────────────────────────────────────
+default_locale: "en"
+active_locales:
+  - "en"
+  # - "es"
+
+# ── Feature Flags ──────────────────────────────────────────────────────────────
+features:
+  auth: true
+  search: true
+  ai: true
+  inquiry: true
+  waitlist: true
+  feedback: true
+  changelog: true
+  docs: true
+  analytics: true
+  audience: true
+  storage: true
+  email: true
+  maintenance: true
+  theme: true
+  seo: true
+
+# ── Navigation ─────────────────────────────────────────────────────────────────
+legacy_redirects: {}
+gone_paths: []
+
+# ── Edge Cache ─────────────────────────────────────────────────────────────────
+cron_maintenance: "0 3 * * *"
+cron_cache_warm: "*/5 * * * *"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# B2B PRODUCT PARAMETERS [B2B]
+# ═══════════════════════════════════════════════════════════════════════════════
+# These drive the B2B content generation (hero, products, solutions, facts, etc.)
+
+# ── Product Domain ─────────────────────────────────────────────────────────────
+product_type: "product"           # singular noun: "board", "pump", "fixture", "module"
+product_type_plural: "products"   # plural noun: "boards", "pumps", "fixtures", "modules"
+product_slug: "products"          # URL slug for product section: /products
+industry: "manufacturing"         # primary industry: "manufacturing", "textiles", "electronics"
+industry_adjective: "industrial"  # adjective form: "inflatable", "industrial", "electronic"
+
+# ── Manufacturing Facts ────────────────────────────────────────────────────────
+factory_size: ""                  # e.g. "12,500 m²"
+annual_capacity: ""               # e.g. "120,000+ units"
+annual_capacity_unit: "units"     # "units", "pieces", "boards", etc.
+workers_count: ""                 # e.g. "350+"
+export_countries: ""              # e.g. "50+"
+production_lines: ""              # e.g. "4"
+workshops: ""                     # e.g. "4 specialized workshops"
+monthly_capacity: ""              # e.g. "10,000 units/month"
+
+# ── MOQ & Lead Time ───────────────────────────────────────────────────────────
+moq_existing: ""                  # e.g. "5–10 pcs"
+moq_pilot: ""                     # e.g. "20–50 pcs"
+moq_standard: ""                  # e.g. "90–100+ pcs"
+moq_custom: ""                    # e.g. "90–100+ pcs"
+moq_note: ""                      # explanation of MOQ variability
+lead_time: ""                     # e.g. "25–35 days"
+sample_time: ""                   # e.g. "7–12 days"
+nda_window: ""                    # e.g. "4 business hours"
+
+# ── Quality & Certifications ───────────────────────────────────────────────────
+quality_gates: ""                 # e.g. "7-stage"
+third_party_inspectors: []        # e.g. ["SGS", "TÜV", "BV", "Intertek"]
+certifications: []
+  # - name: "ISO 9001"
+  #   scope: "Quality management system"
+  # - name: "CE"
+  #   scope: "EU market conformity"
+
+# ── Collaboration Modes ────────────────────────────────────────────────────────
+# B2B engagement models offered
+collaboration_modes:
+  oem: true
+  odm: true
+  private_label: true
+  custom: true                    # custom manufacturing/project
+
+# ── Solution Segments ──────────────────────────────────────────────────────────
+# B2B customer segments served (becomes /solutions/* pages)
+solutions: []
+  # - slug: "custom-manufacturing"
+  #   nav_label: "Custom Manufacturing"
+  #   title: "Custom Product Manufacturing"
+  #   description: "Develop custom products with your specifications."
+  #   cta_level: "hot"            # cold | warm | hot
+  # - slug: "private-label"
+  #   nav_label: "Private Label"
+  #   title: "Private Label Production"
+  #   description: "Brand our proven platforms with your identity."
+  #   cta_level: "warm"
+  # - slug: "wholesale"
+  #   nav_label: "Wholesale"
+  #   title: "Wholesale Distribution"
+  #   description: "Bulk supply for distributors and retailers."
+  #   cta_level: "cold"
+
+# ── Product Series ─────────────────────────────────────────────────────────────
+# Product categories/collections (becomes /products/* detail pages)
+product_series: []
+  # - slug: "standard"
+  #   name: "Standard Series"
+  #   tagline: "Reliable performance for every application"
+  # - slug: "professional"
+  #   name: "Professional Series"
+  #   tagline: "Engineered for demanding environments"
+
+# ── AI Assistant ───────────────────────────────────────────────────────────────
+ai_system_role: "You are a helpful sales assistant for {site_name}. Answer questions about products, MOQ, lead times, and manufacturing capabilities."
+llm_site_description: "Description of the site for LLMs (used in /llms.txt)."
+llm_faq_description: "Description of the FAQ section for LLMs."
+
+# ── Hero Content ──────────────────────────────────────────────────────────────
+hero_kicker: ""                   # e.g. "Qingdao Factory · OEM/ODM · Samples to Batch"
+hero_title_pre: "Custom"          # before the accent
+hero_title_accent: "Product Manufacturing for Brands & Distributors"
+hero_title_post: ""
+hero_sub: ""                      # subtitle
+hero_cta_primary: "Start Your Project"
+hero_cta_secondary: "View Factory & Quality Evidence"
+hero_stats: []
+  # - value: "12,500 m²"
+  #   label: "In-house factory"
+  # - value: "120,000+"
+  #   label: "Units produced annually"
+
+# ── FAQ ────────────────────────────────────────────────────────────────────────
+faqs: []
+  # - q: "What is your MOQ?"
+  #   a: "MOQ varies by product specification. Contact us for project-specific MOQ."
+  # - q: "What is the lead time?"
+  #   a: "Typical lead time is 25–35 days from confirmed PO and deposit."
+
+# ── GitHub / CI ────────────────────────────────────────────────────────────────
+github_repo: ""                   # e.g. "myorg/myproduct"
+github_branch: "main"
+
+# ── Cloudflare ─────────────────────────────────────────────────────────────────
+cf_account_id: ""
+cf_api_token: ""
+cf_plan: "free"                   # "free" or "paid" ($5/month for AI/Vectorize)
+cf_prod_d1_id: ""
+cf_prod_kv_id: ""
+cf_prod_domain: ""
+cf_prod_d1_name: ""
+cf_prod_r2_bucket: ""
+cf_prod_vectorize_index: ""
+
+# ── Secrets (NEVER store here — use GitHub Secrets or .dev.vars) ───────────────
+# BETTER_AUTH_SECRET, BETTER_AUTH_URL, RESEND_API_KEY, EMAIL_FROM,
+# GOOGLE_CLIENT_ID/SECRET, GITHUB_CLIENT_ID/SECRET, ADMIN_EMAILS,
+# TURNSTILE_SITE_KEY/SECRET_KEY, CF_ANALYTICS_TOKEN, GA4_MEASUREMENT_ID,
+# SENTRY_DSN, REINDEX_TOKEN

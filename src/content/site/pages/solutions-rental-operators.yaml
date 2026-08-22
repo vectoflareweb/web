@@ -1,0 +1,82 @@
+meta:
+  title: 'SUP Rental Equipment Supplier & Fleet Solutions'
+  description: 'Commercial SUP boards engineered for daily rental use: UV-resistant PVC, reinforced seams and quick-dry materials for high-rotation rental fleets.'
+  dateModified: '2026-08'
+
+hero:
+  tagline: Rental Operators
+  title: 'SUP Boards Engineered For Rental Fleets'
+  subtitle: 'Specify a fleet that survives daily rental use: high-rotation boards with UV-resistant PVC, reinforced seams and quick-dry materials — engineered for 365 days of use a year.'
+  image:
+    src: https://assets.vectoflare.com/images/vectoflare/lifestyle/vectoflare-lifestyle-1.webp
+    alt: SUP boards staged and ready for daily rental use
+
+answer:
+  label: 'Straight answer'
+  text: 'Rental fleet boards are built with UV-resistant marine PVC, seams 3× stronger than standard construction, and drop-stitch cores rated to 15 PSI — tested for 500+ rental cycles. MOQ is confirmed by project configuration: sample (1–2 units), pilot (20–50 units) and standard volume (90–100+ units per batch from a 150 m roll); production runs 25–35 days after PO and deposit, with FOB, CIF or DDP terms.'
+  verified: '2026-08'
+
+features:
+  title: Built for the Rental Grind
+  subtitle: 'Every board is engineered for 500+ rental cycles with minimal maintenance.'
+  items:
+    - title: '500+ Rental Cycles'
+      description: 'Tested to survive daily use in saltwater, sun, and sand.'
+      icon: 'tabler:shield-check'
+    - title: 'UV-Resistant Fabric'
+      description: 'No fading or degradation after 1 year of outdoor storage.'
+      icon: 'tabler:sun'
+    - title: 'Reinforced Seams'
+      description: 'Reinforced seam construction built for daily rental rotation and repeated inflation cycles.'
+      icon: 'tabler:layers-intersect'
+    - title: 'Quick-Dry Materials'
+      description: 'Quick-dry materials keep boards ready for the next rental between sessions.'
+      icon: 'tabler:droplet'
+    - title: 'Stackable Storage'
+      description: 'Space-saving stackable design — pack more boards in the same storage area.'
+      icon: 'tabler:stack'
+    - title: 'Color-Coded Sizes'
+      description: 'Staff grabs the right board instantly with color-coded sizing.'
+      icon: 'tabler:color-swatch'
+
+stats:
+  title: Operations Metrics
+  stats:
+    - title: Factory Floor
+      amount: '12,500 m²'
+    - title: Pressure Test
+      amount: '18 PSI / 24h'
+    - title: Assembly Checklist
+      amount: '100 points'
+    - title: Parts Dispatch
+      amount: '48h'
+
+fleet_guide:
+  title: Fleet Sizing Guide
+  subtitle: 'Estimate how many boards your operation needs by daily rental rotation.'
+  tiers:
+    - label: Small Kiosk
+      boards: '15-20'
+      note: 'Up to 2–3 board rotations per day at peak season'
+    - label: Mid-Size Operation
+      boards: '30-50'
+      note: 'Multiple launch points or high weekend traffic'
+    - label: Large Beach Rental
+      boards: '50-100'
+      note: 'Full-service rental fleets across several beach stations'
+
+content_html: |
+  <div class="mx-auto max-w-3xl space-y-4 rounded-2xl border bg-card p-6 text-[14.5px] leading-relaxed text-fg-2">
+    <p><strong>Keep reading:</strong> rental boards start from your spec — see our <a href="/oem-manufacturing">OEM/ODM program</a> for customization, low trial MOQs and fleet pricing. Every board runs the 12,500 m&sup2; <a href="/factory">production line</a> and is 100% pressure-tested before it ships.</p>
+  </div>
+
+cta:
+  title: 'Specify Your Rental Fleet'
+  subtitle: 'Send your fleet requirements or compare board platforms for your operation.'
+  actions:
+    - text: 'Send Fleet Requirements'
+      href: '/contact'
+      variant: 'primary'
+    - text: 'Compare Board Platforms'
+      href: '/inflatable-vs-hardboard'
+      variant: 'secondary'

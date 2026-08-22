@@ -1,0 +1,131 @@
+meta:
+  title: 'Centro de I+D — Ingeniería de SUP hinchables | {SITE}'
+  description: 'I+D: ensayo de tejidos PVC, ingeniería de cascos, soldadura RF, ensayos hidrodinámicos y control de calidad. Servicios de I+D a medida.'
+  dateModified: '2026-08'
+
+hero:
+  tagline: Centro de I+D
+  title: Centro de I+D
+  subtitle: Centrados en el progreso
+
+intro:
+  - El Centro de Investigación y Desarrollo (I+D) de Vectoflare es la fuerza motriz de nuestra misión de revolucionar el equipo de deportes acuáticos. Damos a los amantes de los deportes acuáticos de todo el mundo productos más seguros, cómodos y agradables mediante una innovación constante en tablas de paddle surf (SUP) y embarcaciones hinchables. Nuestro equipo dedicado de ingenieros, diseñadores y expertos apasionados de los deportes acuáticos está dando forma al futuro del sector, elevando constantemente el listón de la calidad, el rendimiento y la sostenibilidad.
+  - Nuestras instalaciones de I+D reúnen bajo un mismo techo a científicos de materiales, arquitectos navales e ingenieros de producción. Desde la formulación de tejidos y la simulación de cascos hasta el desarrollo de procesos de soldadura y las pruebas de mar a escala real, cada etapa del desarrollo de producto está impulsada por datos y validada mediante ensayos.
+
+mission:
+  tagline: Nuestra misión
+  title: Innovando el futuro de los deportes acuáticos
+  pillars:
+    - icon: lightning
+      title: Avance tecnológico
+      desc: Innovamos en materiales, diseños y fabricación para lograr un rendimiento y una longevidad superiores del producto.
+    - icon: design
+      title: Diseño centrado en el usuario
+      desc: Entendemos y superamos las necesidades del usuario mediante un diseño de producto ergonómico e intuitivo.
+    - icon: globe
+      title: Prácticas sostenibles
+      desc: Minimizamos nuestra huella medioambiental con materiales y procesos respetuosos con el entorno.
+    - icon: shield
+      title: Seguridad sin concesiones
+      desc: Garantizamos los más altos estándares de seguridad mediante ensayos y certificaciones rigurosos.
+
+pillars:
+  - title: Avance tecnológico
+    desc: Innovamos en materiales, diseños y procesos de fabricación para ofrecer un rendimiento y una longevidad superiores del producto.
+    icon: tech
+  - title: Materiales avanzados
+    desc: Investigamos PVC de vanguardia, Hypalon, composites y alternativas sostenibles para mejorar las características del producto.
+    icon: materials
+  - title: Sostenibilidad
+    desc: 'Un compromiso central: dedicados a la gestión medioambiental mediante fabricación sostenible y materiales reciclables.'
+    icon: sustainability
+
+capabilities:
+  tagline: Capacidades
+  title: Capacidades de I+D
+  subtitle: Cuatro disciplinas clave que nos dan control integral del desarrollo de producto, desde la investigación de materias primas hasta la certificación final.
+  groups:
+    - title: Ciencia de materiales y tecnología del tejido
+      items:
+        - Análisis y optimización de formulaciones de PVC y Hypalon
+        - Desarrollo de aditivos de estabilización UV, retardancia de llama y antimicrobianos
+        - Ingeniería de laminación multicapa y unión adhesiva
+        - Ensayos de envejecimiento acelerado (UV, térmico, humedad, niebla salina)
+    - title: Ingeniería de cascos e hidrodinámica
+      items:
+        - Diseño paramétrico de cascos 3D y optimización CFD
+        - Análisis por elementos finitos de cargas estructurales y de impacto
+        - Ensayos en canal hidrodinámico con modelos a escala y validación de rendimiento
+        - Desarrollo de cascos a medida para perfiles de misión especiales
+    - title: Tecnología de soldadura y unión
+      items:
+        - Desarrollo y optimización de procesos de soldadura dieléctrica RF
+        - Métodos de soldadura por aire caliente, cuña caliente y ultrasónica
+        - Cualificación de uniones adhesivas y cintas de sellado de costuras
+        - Modelado de resistencia de soldaduras y predicción de vida útil
+    - title: Ensayos, certificación y cumplimiento
+      items:
+        - Gestión de calidad y ensayos de cumplimiento CE
+        - Soporte de ensayos y certificación por terceros independientes
+        - Desarrollo de protocolos de ensayo personalizados para la cualificación de compras
+        - Análisis de fallos en servicio e investigación de causas raíz
+
+rd_numbers:
+  tagline: Innovación
+  title: La I+D en cifras
+  stats:
+    - value: '14'
+      label: Ingenieros y científicos de I+D
+    - value: '8'
+      label: Patentes y solicitudes activas
+    - value: '6'
+      label: Laboratorios especializados
+    - value: 12 años
+      label: Experiencia media del equipo
+
+rd_services:
+  tagline: I+D a medida
+  title: Servicios de I+D para socios
+  services:
+    - title: Desarrollo de materiales a medida
+      desc: Desarrollamos formulaciones de tejido, apilamientos de laminado y sistemas adhesivos personalizados para tu entorno operativo y tus objetivos de rendimiento.
+    - title: Ingeniería de producto OEM / ODM
+      desc: Desarrollamos formulaciones de tejido, apilamientos de laminado y sistemas adhesivos personalizados para tu entorno operativo y tus objetivos de rendimiento.
+    - title: Ensayos y certificación por terceros
+      desc: Utiliza nuestras instalaciones de ensayo conformes ISO para ensayos de materiales independientes, validación de producto y soporte de certificación.
+  cta: Habla con nosotros de tus requisitos de I+D →
+  cta_link: /es/contact
+
+vision:
+  tagline: Nuestra visión
+  title: Dando forma al futuro de los deportes acuáticos
+  body: Vectoflare aspira a liderar la industria de las embarcaciones hinchables y el SUP mediante la innovación continua, una calidad inquebrantable y un firme compromiso con la seguridad y la sostenibilidad, enriqueciendo en última instancia las experiencias de los amantes de los deportes acuáticos de todo el mundo. El Centro de I+D de Vectoflare es donde la pasión se encuentra con la innovación, estableciendo nuevos estándares para el sector.
+
+labs_section:
+  tagline: Laboratorios
+  title: Nuestros laboratorios
+  labs:
+    - image: https://assets.vectoflare.com/images/vectoflare/randd/vectoflare-pvc-material-lab.webp
+      title: Laboratorio de tejidos PVC
+      description: 'Investigación y ensayo continuos de tejidos para tubos de PVC y Hypalon: resistencia a la tracción, resistencia UV, abrasión y flexibilidad a baja temperatura, para garantizar una fiabilidad a largo plazo en entornos marinos.'
+      href: /es/randdcenter
+    - image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-design-discussion-2.webp
+      title: Estudio de ingeniería de cascos
+      description: Diseño asistido por CAD y análisis por elementos finitos de cascos de HDPE, aluminio y fibra de vidrio. Cada casco se simula digitalmente para evaluar la distribución de tensiones y la resistencia al impacto antes de construir el primer prototipo.
+      href: /es/randdcenter
+    - image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-sup-manufacturing-3.webp
+      title: Centro de soldadura RF
+      description: Instalación dedicada de soldadura por radiofrecuencia con control de precisión de temperatura y presión, que produce costuras herméticas de alta resistencia conformes a los estándares marinos para embarcaciones hinchables.
+      href: /es/randdcenter
+    - image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-design-discussion-original.webp
+      title: Canal hidrodinámico
+      description: Ensayos con modelos a escala en nuestro canal de pruebas interno para optimizar la forma del casco, el planeo, la estabilidad y la eficiencia del combustible en un amplio rango de cargas y condiciones de mar.
+      href: /es/randdcenter
+    - image: https://assets.vectoflare.com/images/vectoflare/products/sup-series/sup-ocean-voyager-1.webp
+      title: Taller de prototipos
+      description: Instalación de prototipado y aparejo a escala real donde se construyen, equipan y prueban en el mar los nuevos modelos. Cada prototipo supera un mínimo de 20 horas de pruebas en el agua antes de la aprobación de producción.
+      href: /es/randdcenter
+    - image: https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-uv-resistance-testing.webp
+      title: Laboratorio de calidad e inspección
+      description: Laboratorio de garantía de calidad dedicado a ensayos de tracción, ciclos de retención de aire, pruebas de pelado de costuras y certificación de materiales, para garantizar que cada embarcación que sale del taller cumple nuestras especificaciones publicadas.
+      href: /es/randdcenter

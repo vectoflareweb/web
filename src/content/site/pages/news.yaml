@@ -1,0 +1,14 @@
+meta:
+  title: 'News — SUP Manufacturer & Nautical Updates | {SITE}'
+  description: 'Latest news from Vectoflare: factory updates, new inflatable SUP models, certifications, and nautical industry announcements.'
+  keywords:
+    - 'sup manufacturer news'
+    - 'Vectoflare updates'
+    - 'inflatable sup announcements'
+    - 'nautical industry news'
+hero_text:
+  tagline: ''
+  title: News
+  subtitle: The latest from Vectoflare —product launches, company updates, guides, and stories from the water
+news_list:
+  limit: 100

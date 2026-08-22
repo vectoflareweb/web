@@ -1,0 +1,166 @@
+meta:
+  title: 'OEM Trust & Factory Assurance —Verify Our Factory Before You Order'
+  description: 'How buyers verify Vectoflare before ordering: official registration, factory audits, engineers under NDA and third-party inspections (SGS/TÜV/BV/Intertek).'
+  dateModified: '2026-08-14'
+  keywords:
+    - 'SUP OEM factory verification'
+    - 'verify SUP manufacturer'
+    - 'SUP factory audit China'
+    - 'inflatable SUP factory Qingdao'
+    - 'OEM trust assurance'
+    - 'SUP manufacturer credentials'
+
+hero:
+  tagline: 'Manufacturing You Can Verify'
+  title: 'OEM Trust & Factory Assurance'
+  subtitle: 'Every claim on this site can be verified: official company registration, a physical 12,500 m² factory you can visit or audit, real engineers under NDA, QMS documents you can download, and test data recorded per serial number. Engineered and operated by Qingdao Vatrad Group Co., Ltd.'
+
+answer:
+  label: 'Straight answer'
+  text: 'Trust is not a promise —it is documentation. We are a registered Chinese manufacturing entity (Qingdao Vatrad Group Co., Ltd.) with a physical 12,500 m² plant in Qingdao, 350+ workers and 120,000+ boards of annual capacity. You can verify the registration, audit the factory, review QMS SOPs, download sample quality records, schedule third-party inspections (SGS, TÜV, BV or Intertek) and have an NDA signed within 4 business hours. Every board is pressure-tested at 18.0 PSI for 24 hours with auto-reject above 0.50 PSI drop, and every batch keeps 10-year ERP traceability. If a claim cannot be documented, we do not make it.'
+  verified: '2026-08'
+
+trust_stats:
+  - value: '12,500 m²'
+    label: Factory floor
+    detail: 4 specialized workshops, open to audits
+  - value: '350+'
+    label: Workers on site
+    detail: 25+ engineers across R&D, materials and QC
+  - value: '120,000+'
+    label: Boards produced annually
+    detail: 10,000 boards/month on 4 automated lines
+  - value: '4 hours'
+    label: NDA turnaround
+    detail: Standard NDA signed within 4 business hours
+  - value: '7-stage'
+    label: Quality gate system
+    detail: Node 01—7, recorded per serial number
+  - value: '18.0 PSI'
+    label: 100% pressure test
+    detail: 24h hold, auto-reject above 0.50 PSI drop
+
+role_boundary:
+  tagline: 'What We Are —And What We Are Not'
+  title: 'A Factory You Can Verify, Never a Claim You Must Take on Faith'
+  subtitle: 'The verification difference between a factory and a trading desk is simple: every claim has a document, a person or a machine behind it.'
+  features:
+    - icon: A
+      icon_bg: blue
+      title: 'What We Are —a Verifiable Manufacturer'
+      desc: '· A registered legal entity: Qingdao Vatrad Group Co., Ltd. —registration details shared under NDA or during audit · A physical factory: 12,500 m² in the Laixi Economic Development Zone, Qingdao, with 4 specialized workshops, 350+ workers and 4 automated lines · A manufacturing team: the people who answer your questions are the people who build your boards · Real documents: QMS SOPs, inspection standards and anonymized quality records available for download · Independent verification welcome: SGS, TÜV, BV or Intertek inspections at your choice, per ISO 2859-1 Level II'
+      link: '/factory'
+      link_label: 'Visit the Factory Page'
+    - icon: B
+      icon_bg: green
+      title: 'What We Are Not —the Trading-Desk Profile'
+      desc: '· No trading company: we do not forward your order to a third factory or add broker margins · No brand of our own on your boards: you own the brand, the market and the customer · No vague minimums: MOQ is calculated from raw-material roll physics and confirmed per project · No certificates "on request only": the list is published and audit records can be reviewed · No verbal-only claims: test pressure, thresholds and batch traceability are documented per serial number'
+      link: '/oem-moq-guide'
+      link_label: 'See the Transparent MOQ Guide'
+
+trust_steps:
+  tagline: 'A Real Case Study'
+  title: 'How a Northern European Rental Fleet Verified Us Before Ordering'
+  subtitle: 'Seven verification steps a commercial rental operator completed before placing a 90–100+ unit fleet order —the same checklist is open to you.'
+  steps:
+    - step: '01'
+      title: 'Official Entity Verification'
+      desc: 'The buyer requested the Chinese Business Registration and export trade license. The legal entity behind Vectoflare is Qingdao Vatrad Group Co., Ltd., a manufacturer registered since 2012 in Qingdao, Shandong —verified via the national registry under NDA.'
+    - step: '02'
+      title: 'Physical Factory & Site Audit'
+      desc: 'A factory audit (in person and via video walkthrough) confirmed the 12,500 m² plant: four specialized workshops, 350+ workers, four automated lines and a monthly output of about 10,000 boards. The audit report is filed with the contract records.'
+    - step: '03'
+      title: 'People: Real Engineers, Not Sales Scripts'
+      desc: 'The buyer spoke directly with the engineering team —hull design, materials lab and QC. The project specification and NDA were exchanged within 4 business hours, and an engineering review came back within one business day.'
+    - step: '04'
+      title: 'Paper: QMS, Certificates & Third-Party Inspection'
+      desc: 'ISO 9001:2015, ISO 25649 and CE compliance documentation, BSCI/REACH/RoHS records, and the QMS SOPs were reviewed. The buyer scheduled an SGS pre-shipment inspection per ISO 2859-1 Level II on the first volume order —and received a Certificate of Conformance per batch.'
+    - step: '05'
+      title: 'Data: Test Records Per Serial Number'
+      desc: 'The buyer audited actual test records: every chamber tested at 18.0 PSI for 24 hours with auto-reject above 0.50 PSI pressure drop, 100-point assembly checklists, and 10-year ERP batch traceability. Sample QC records were provided before the order.'
+    - step: '06'
+      title: 'Contract Protection'
+      desc: 'The order contract covered brand licensing, an agreed territory exclusivity period, mould ownership and buyout terms, and defined the data and records that transfer with the tooling. The buyer approved the mould at the factory before production.'
+    - step: '07'
+      title: 'Ongoing Governance'
+      desc: 'Quarterly business reviews with the Sales VP and Chief Engineer, a reserved right to audit during production, and an escalation path to the QA Director for any quality dispute. The agreement was jointly signed by the Sales VP, Chief Engineer and QA Director.'
+
+trust_faqs:
+  tagline: 'FAQ'
+  title: 'The 12 Concerns Buyers Ask Before Ordering'
+  items:
+    - q: 'Is Vectoflare really a factory, or a trading company?'
+      a: 'Vectoflare is the SUP product development and manufacturing division of Vectoflare, the manufacturing division of Qingdao Vatrad Group Co., Ltd. We operate the 12,500 m² plant in Qingdao ourselves —design, cutting, welding, assembly and testing happen in one facility. There are no trading-company handoffs: the people who answer your questions are the people who build your boards.'
+    - q: 'Who exactly will I deal with during my project?'
+      a: 'A named project engineer and a named QC contact, plus the department heads who sign your documents. You can ask to speak with the Chief Engineer, the QA Director or the factory director directly —before and after the order. No account-manager layer sits between you and the people doing the work.'
+    - q: 'Can I visit or audit the factory?'
+      a: 'Yes. We host factory visits in the Laixi Economic Development Zone, Qingdao, and support remote audits with live video walkthroughs. Audits can be arranged independently (your inspector or a third party such as SGS, TÜV, BV or Intertek) and the audit schedule can be written into the contract.'
+    - q: 'Will you sign an NDA before I share my design?'
+      a: 'Yes. Our standard NDA is signed within 4 business hours of your request, before any proprietary specification, artwork or technical file is shared. Bilingual (English/Chinese) versions are available, and the document is countersigned by the factory director.'
+    - q: 'How do I know your quality claims are real?'
+      a: 'Every claim on this site has a document behind it: QMS SOPs and inspection standards are downloadable, anonymized quality-record samples are published, and test data is logged per serial number with 10-year ERP batch traceability. You can also schedule a third-party pre-shipment inspection at your choice.'
+    - q: 'What happens if my boards arrive with defects?'
+      a: 'Every board is tested before packing, and batch-level records allow root-cause tracing per serial number. The contract defines inspection, replacement and rework obligations, and the QA Director signs the batch release. Reworked boards are re-tested in full —never partially checked.'
+    - q: 'Can you really test 100% of boards before shipping?'
+      a: 'Yes —and the records prove it. Every chamber is inflated to 18.0 PSI and held for 24 hours with continuous sensor logging; any chamber exceeding 0.50 PSI of pressure drop over 24 hours is auto-rejected and re-inspected. Test logs are linked to each serial number and are part of the batch documentation.'
+    - q: 'What certifications do you actually hold?'
+      a: 'ISO 9001:2015 quality management, ISO 25649 and CE compliance for inflatable SUP products, plus BSCI, REACH and RoHS compliance for the facility and materials. Certificate numbers and audit records are supplied on request or during an audit —the list is published, not "available on request only".'
+    - q: 'Will my brand be safe —design, moulds and market?'
+      a: 'Yes. Your brand, designs and tooling are protected by NDA, brand licensing terms and mould ownership or buyout clauses written into the contract. Tooling is kept for the brand and transferable. Territory and exclusivity terms are agreed in writing before production starts.'
+    - q: 'What is your real MOQ?'
+      a: 'MOQ is project-specific and explained on our MOQ guide: samples 1–2 units, co-branding small bulk 5–10 units, pilot batches 20–50 units, and standard volume 90–100+ units per 150 m roll (about 180–220 boards). Custom-mould shapes run at the volume tier. The calculation is confirmed before quotation —no vague "low MOQ" numbers.'
+    - q: 'What happens if production is late?'
+      a: 'Lead time is confirmed after specification, artwork and packaging review —never promised beforehand. The contract covers scheduling, delay notification and the resolution path, and the quarterly business review tracks delivery performance against the agreed calendar.'
+    - q: 'Who signs the contract documents on your side?'
+      a: 'Orders and agreements are jointly signed by the Sales VP, the Chief Engineer and the QA Director —the three people accountable for commercial terms, engineering execution and quality release respectively. You receive the signed documents with the contract records.'
+
+governance:
+  tagline: 'Accountability Structure'
+  title: 'Named Signatories & Reserved Rights'
+  subtitle: 'Every commitment is tied to a named role —not to a sales department.'
+  body: |
+    **Joint sign-off.** Orders, quality plans and dispute resolutions are signed by three roles: the Sales VP (commercial terms), the Chief Engineer (engineering execution) and the QA Director (quality release). Bilingual SOPs are version-controlled and carry the same signature structure.
+
+    **Reserved rights.** The buyer retains the right to audit production, review test records and hold batch release until inspection sign-off. Rework only happens under an approved change record, and release is validated by independent QC —never by the rework operators.
+
+    **Records that transfer.** Batch test logs, certificates of conformance and inspection reports are delivered with each shipment, and ERP batch traceability is kept for 10 years. Tooling records and mould drawings transfer with the tooling when the contract so provides.
+
+trust_downloads:
+  tagline: 'Official Documents'
+  title: 'Verification Documents —Download & Share'
+  subtitle: 'Official documents from Qingdao Vatrad Group Co., Ltd., ready to attach to your supplier due-diligence file.'
+  features:
+    - icon: G
+      icon_bg: blue
+      title: 'OEM Buyer Trust & Factory Assurance Guide (PDF)'
+      desc: 'Official B2B guide (Part II, DOC-ENG-2026-EN): factory verification step by step —entity registration, physical audit, real engineers, QMS papers, third-party inspection, contract protection and governance sign-offs.'
+      link: 'https://assets.vectoflare.com/site/downloads/oem-buyer-trust-and-factory-assurance-guide.pdf'
+      link_label: 'Download Guide (PDF)'
+    - icon: P
+      icon_bg: green
+      title: 'Flexible Branding & MOQ Guide (PDF)'
+      desc: 'Official B2B guide (Part I, DOC-MOQ-EXP-2026-EN): the engineering logic behind 150 m drop-stitch roll yields (90–100 boards), co-branding from 5–10 units, pilot batches 20–50 units, and the three production stages.'
+      link: 'https://assets.vectoflare.com/site/downloads/flexible-branding-and-moq-guide.pdf'
+      link_label: 'Download MOQ Guide (PDF)'
+    - icon: Q
+      icon_bg: orange
+      title: 'The Quality System Behind These Claims'
+      desc: 'One page that ties it together: the 7-stage inspection gate system, the four standards that govern it, and the 00–15 document register with every SOP and report you can download — QIP, inspection standards, traceability dossier, NCP and rework SOPs.'
+      link: '/quality'
+      link_label: 'Explore the Quality System'
+
+evidence_review:
+  tagline: 'Evidence & Verification'
+  title: 'VERIFIED SPECIFICATIONS'
+  body: 'All manufacturing claims on this page are verified by our Manufacturing Engineering Team at the Laixi, Qingdao plant. Certificates, QC inspection records, pressure & structural test reports, and batch traceability records are available on request. Specifications last verified 2026-08.'
+
+cta:
+  title: 'Start With Verification —Then We Talk Specs'
+  subtitle: 'Send your NDA request, ask for the registration pack, or book an audit slot. Verification comes first; the order conversation follows. Submitting an inquiry does not commit you to an order.'
+  button_text: 'Request Verification Pack'
+  button_link: '/contact#trust-verification'
+  actions:
+    - text: Factory Audit Checklist
+      href: /factory-audit-checklist
+    - text: Brand Identity
+      href: /about/identity

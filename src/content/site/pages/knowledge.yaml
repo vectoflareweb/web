@@ -1,0 +1,111 @@
+meta:
+  title: 'Knowledge — Inflatable SUP & OEM Guides | {SITE}'
+  description: 'Vectoflare knowledge base: guides on inflatable SUPs, paddle board materials, board selection, and industry insights for brands and professionals.'
+  dateModified: '2026-08'
+  keywords:
+    - 'sup knowledge'
+    - 'inflatable sup guide'
+    - 'paddle board materials'
+    - 'sup industry insights'
+hero:
+  tagline: 'Knowledge Center'
+  title: 'SUP Knowledge Center'
+  subtitle: |
+    A structured knowledge base covering inflatable SUP technology, 
+    water safety, board engineering, and adventure planning.
+  taglineSection: 'Explore. Learn. Go with confidence.'
+
+clusters:
+  tagline: 'Knowledge Clusters'
+  title: 'Explore by topic'
+  subtitle: 'Deep dives into the technology, safety, and skills behind every Vectoflare product.'
+  items:
+    - title: 'SUP Buying Guides'
+      description: 'From choosing your first board to advanced touring techniques —everything about stand-up paddle boarding.'
+      icon: 'tabler:lifebuoy'
+      topics:
+        - 'How to choose your first inflatable SUP'
+        - 'SUP size and weight capacity guide'
+        - 'Best SUP for beginners, touring, yoga, and racing'
+        - 'Common SUP buying mistakes to avoid'
+        - 'Inflatable vs hard board comparison'
+    - title: 'SUP Engineering & Technology'
+      description: 'Technical guides on inflatable SUP boards —materials, construction methods, and manufacturing processes.'
+      icon: 'tabler:microscope'
+      topics:
+        - 'Drop-stitch technology deep dive'
+        - 'Military-grade PVC specifications'
+        - 'Fusion lamination vs adhesive bonding'
+        - 'EVA foam technology and artwork methods'
+        - 'SUP valve types and fin systems'
+    - title: 'SUP Safety & Maintenance'
+      description: 'Essential safety knowledge for every paddler —from PFD selection to weather reading to board care and repair.'
+      icon: 'tabler:shield'
+      topics:
+        - 'SUP safety checklist and PFD requirements'
+        - 'Multi-chamber safety for remote water'
+        - 'SUP inflation PSI guide'
+        - 'Board storage and winter care'
+        - 'Inflatable repair techniques'
+    - title: 'SUP Skills & Techniques'
+      description: 'Paddling techniques, touring skills, and fitness training for all skill levels.'
+      icon: 'tabler:sailboat'
+      topics:
+        - 'Beginner paddling techniques'
+        - 'Intermediate stroke mastery'
+        - 'Touring and expedition planning'
+        - 'SUP fitness and racing training'
+        - 'Whitewater and river running skills'
+    - title: 'SUP Lifestyle & Special Uses'
+      description: 'Specialized SUP activities —yoga, fishing, dogs, families, and travel tips.'
+      icon: 'tabler:heart'
+      topics:
+        - 'SUP yoga and meditation on water'
+        - 'Fishing from an inflatable SUP'
+        - 'Paddle boarding with dogs and kids'
+        - 'Traveling with your SUP by air and car'
+        - 'SUP accessories and gear essentials'
+    - title: 'SUP Comparisons & References'
+      description: 'Side-by-side comparisons to help you make informed decisions.'
+      icon: 'tabler:chart-bar'
+      topics:
+        - 'SUP vs kayak — which is right for you?'
+        - 'PVC vs Hypalon material comparison'
+        - 'Single chamber vs multi-chamber safety'
+        - 'SUP board materials explained'
+        - 'UV printing vs EVA block artwork'
+
+featured_guides:
+  tagline: 'Featured Guides'
+  title: 'Most popular knowledge resources'
+  items:
+    - title: 'SUP Basics'
+      href: '/knowledge'
+    - title: 'Inflatable vs Hard Board'
+      href: '/inflatable-vs-hardboard'
+    - title: 'Water Safety Guide'
+      href: '/guides/safety-tips'
+    - title: 'Materials Reference'
+      href: '/knowledge'
+    - title: 'SUP Buying Guide'
+      href: '/guides/how-to-choose-your-sup'
+    - title: 'SUP Size Guide'
+      href: '/size-guide'
+    - title: 'SUP Tech Center'
+      href: '/technology'
+    - title: 'SUP Maintenance'
+      href: '/knowledge'
+    - title: 'Touring Guide'
+      href: '/products/touring'
+    - title: 'Paddle Techniques'
+      href: '/knowledge'
+
+cta:
+  title: 'Start exploring'
+  subtitle: 'Dive into our knowledge base and get the information you need for your next water adventure.'
+  actions:
+    - variant: primary
+      text: 'Browse all guides'
+      href: '/knowledge'
+    - text: 'Explore Knowledge Graph'
+      href: '/knowledge'

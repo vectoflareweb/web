@@ -1,0 +1,176 @@
+﻿meta:
+  title: 'Lanza Tu Marca de SUP con un Pedido de Prueba de Bajo MOQ | Vectoflare'
+  description: 'Lanza tu marca de SUP con pedido de prueba bajo MOQ: muestras en 7–12 días, piloto de 20–50 tablas, producción en 25–35 días. Branding y QC incluidos.'
+  dateModified: '2026-08-16'
+  keywords:
+    - 'crear una marca de SUP'
+    - 'lanzamiento de marca SUP'
+    - 'SUP con MOQ bajo'
+    - 'pedido de prueba SUP'
+    - 'marca de SUP emergente'
+    - 'SUP de lotes pequeños con branding'
+    - 'marca privada de SUP hinchable'
+
+hero:
+  tagline: 'Para Marcas de SUP Nuevas y en Crecimiento'
+  title: 'Lanza Tu Marca de SUP con un Pedido de Prueba de Bajo MOQ'
+  subtitle: 'No necesitas un contenedor para empezar una marca de SUP. Valida tu tabla, tus gráficos y tu mercado con una sola muestra, y luego prueba la rotación real con un pedido de prueba de 20–50 tablas — antes de comprometerte con volúmenes de producción completos. El branding, el control de calidad y la logística de exportación los gestiona Qingdao Vatrad Group Co., Ltd.'
+  actions:
+    - variant: primary
+      text: Empieza Tu Lanzamiento con una Muestra
+      href: /es/contact#custom-oem
+    - text: Consulta el marco completo de MOQ y plazos
+      href: /es/sup-oem-moq-lead-time
+
+answer:
+  label: 'Respuesta directa'
+  text: 'Sí — puedes lanzar una marca de SUP hinchable con un pedido de prueba de bajo MOQ. El punto de entrada es escalonado, no de todo o nada: pide primero 1–2 muestras (listas en 7–12 días) para congelar tu casco, gráficos y empaque; luego haz un pedido de prueba de 20–50 tablas (producción en 25–35 días) para validar la rotación real; y finalmente escala a series de volumen estándar de 90–100+ tablas por rollo de tela drop-stitch de 150 m cuando el formato esté probado. El co-branding de lotes pequeños parte desde tan solo 5–10 unidades para operadores que quieren tablas con su marca sin ninguna etapa de desarrollo. Tu primer contenedor llega solo cuando los datos dicen que debe llegar.'
+  verified: '2026-08'
+
+trial_included:
+  tagline: Qué Cubre el Pedido de Prueba
+  title: 'Todo Lo Que Necesita un Lanzamiento, Sin la Sobrecarga'
+  subtitle: 'Un pedido de prueba no es una factura reducida — es el mismo proceso de fábrica, ajustado a una marca emergente. Esto incluye cada programa de prueba.'
+  grid: 'sm:grid-cols-2 lg:grid-cols-3'
+  features:
+    - icon: B
+      icon_bg: blue
+      title: 'Plataforma de Tabla y Construcción'
+      desc: 'Cascos touring y all-around probados en el campo con construcción drop-stitch, fusión de cinta de triple capa y rigidez de 12–15 PSI — las mismas plataformas de nuestros clientes de volumen, en tamaños estándar de 3 m a 3,5 m.'
+    - icon: L
+      icon_bg: green
+      title: 'Tu Branding, Aplicado de Verdad'
+      desc: 'Arte digital de superficie completa o serigrafía, almohadilla EVA con tu logo y branding secundario en proa o raíles laterales. El co-branding de lotes pequeños usa el branding central de Vectoflare con tu logo en proa o raíles.'
+    - icon: P
+      icon_bg: purple
+      title: 'Opciones de Empaque Que Escalan'
+      desc: 'Empieza con cajas genéricas y pegatinas de código de barras, y sube a cajas retail de 5 capas totalmente personalizadas en series posteriores. El empaque personalizado tiene un mínimo de imprenta independiente; las cajas sobrantes se almacenan y liberan según calendario.'
+    - icon: Q
+      icon_bg: orange
+      title: 'Control de Calidad a Nivel de Fábrica'
+      desc: 'Cada tabla pasa la misma lista de ensamblaje de 100 puntos y las pruebas de presión y hermeticidad de 24 horas (sostenimiento a 18.0 PSI, auto-rechazo por caída superior a 0.50 PSI) que se aplican a cualquier pedido, muestra o contenedor.'
+    - icon: D
+      icon_bg: blue
+      title: 'Exportación y Documentación'
+      desc: 'Documentación de cumplimiento CE, ISO 9001, BSCI, REACH y RoHS, empaque de grado exportación y coordinación de flete marítimo a 50+ países — desde una muestra de 1 tabla hasta programas completos.'
+    - icon: T
+      icon_bg: green
+      title: 'Un Calendario Con el Que Puedes Planificar'
+      desc: 'Muestras en 7–12 días, producción de prueba en 25–35 días tras confirmar PO y depósito, y cupos de producción confirmados para pedidos de pretemporada — para que un lanzamiento llegue en temporada, no después.'
+
+trial_steps:
+  tagline: La Hoja de Ruta del Lanzamiento
+  title: 'De la Idea a la Primera Rotación en Seis Puertas'
+  subtitle: 'Un primer lanzamiento típico corre en 8–12 semanas desde el brief hasta el pedido de prueba entregado usando plataformas existentes — más tiempo cuando un casco a medida añade desarrollo de molde. Cada puerta tiene una fecha que acuerdas por adelantado.'
+  steps:
+    - step: 'Puerta 1'
+      title: 'Brief de Producto y Revisión de Ingeniería (Días 0–2)'
+      desc: 'Compartes el modelo objetivo, la cantidad del pedido, el arte y la intención de empaque. La revisión de ingeniería se completa en un día hábil, con NDA disponible antes de compartir especificaciones de propiedad.'
+    - step: 'Puerta 2'
+      title: 'Especificación, MOQ y Cotización (Días 3–7)'
+      desc: 'Cotización detallada con el cálculo exacto de MOQ, las tarifas de muestra y los segmentos de plazo. Las tarifas de muestra se acreditan a tu pedido de producción al firmar el contrato.'
+    - step: 'Puerta 3'
+      title: 'Muestras en 7–12 Días'
+      desc: '1–2 tablas físicas validan la rigidez del casco, la textura de la almohadilla EVA, la precisión de los gráficos y el ajuste de accesorios. Remas la tabla antes de comprometerte con nada más.'
+    - step: 'Puerta 4'
+      title: 'Pedido de Prueba de 20–50 Tablas (25–35 Días)'
+      desc: 'Producción sobre plataformas de casco existentes con materiales estándar y empaque simplificado — la prueba comercial mínima que refleja las condiciones reales de inventario.'
+    - step: 'Puerta 5'
+      title: 'Ventana de Rotación y Retroalimentación'
+      desc: 'La puerta importante está en tu mercado, no en nuestra fábrica: los arrendatarios y clientes confirman el formato de la tabla, los gráficos y el precio antes de que escales.'
+    - step: 'Puerta 6'
+      title: 'Escala a Series de Volumen (90–100+ Tablas)'
+      desc: 'Cuando el formato está probado, las series estándar de rollos de 150 m ofrecen máxima eficiencia de producción, empaque con marca y precios de volumen. Un programa de contenedor es la meta, no el requisito.'
+
+trial_budget:
+  tagline: Rangos de Presupuesto de Referencia
+  title: 'Cuánto Cuesta un Lanzamiento — Rangos de Precio de Referencia'
+  subtitle: 'Rangos de referencia indicativos, EXW Qingdao (China), para un casco touring o all-around estándar en tamaños de stock. La cotización final depende de la forma del casco, el PVC, la cobertura de arte, el empaque, los accesorios y la cantidad — confirmada según tu configuración antes de cualquier compromiso.'
+  headers:
+    stage: Etapa del Pedido
+    price: Precio de Referencia por Tabla
+    notes: Notas
+  rows:
+    - stage: 'Muestras (1–2 tablas)'
+      price: 'USD 250–350'
+      notes: 'Muestra física con tus gráficos aplicados. Las tarifas de muestra se acreditan al pedido de producción al firmar el contrato.'
+    - stage: 'Pedido de prueba / piloto (20–50 tablas)'
+      price: 'USD 180–260'
+      notes: 'Plataformas de casco existentes, materiales estándar y empaque simplificado. La ruta de lanzamiento estándar de bajo MOQ.'
+    - stage: 'Volumen estándar (90–100+ tablas por rollo de 150 m)'
+      price: 'USD 150–220'
+      notes: 'Rollos de tela completos de 150 m, opciones de PVC Pantone personalizado, empaque con marca y precios de volumen.'
+    - stage: 'Casco a medida y utillaje (complemento)'
+      price: 'Cotizado por proyecto'
+      notes: 'Un casco a medida añade 15–20 días de desarrollo de molde dentro del calendario general; el utillaje se detalla y cotiza una única vez.'
+
+derisk:
+  tagline: Lanza Sin el Riesgo
+  title: 'Cuatro Formas en Que un Pedido de Prueba Reduce el Riesgo de Tu Lanzamiento'
+  subtitle: 'La mayoría de los lanzamientos de marcas nuevas fracasan por el inventario, no por la calidad del producto. Un pedido de prueba está diseñado para hacer imposibles los errores evitables.'
+  features:
+    - icon: I
+      icon_bg: blue
+      title: 'Sin Compromiso de Inventario Pesado'
+      desc: 'Tu exposición de la primera temporada se mantiene por debajo de 50 tablas. Si el formato necesita ajustes, los haces antes del gran gasto, no después.'
+    - icon: C
+      icon_bg: green
+      title: 'El Flujo de Caja Sigue Siendo Manejable'
+      desc: 'Pedidos más pequeños significan depósitos más pequeños, pagos escalonados y ningún capital ocioso en un almacén. Los precios de volumen esperan hasta que se los ganan de verdad.'
+    - icon: Q
+      icon_bg: purple
+      title: 'La Calidad Nunca Se Reduce'
+      desc: 'Un pedido de prueba de 20 tablas pasa por la misma lista de 100 puntos y las mismas pruebas de presión que un programa de contenedor — sin compromisos de "probar antes de tener calidad".'
+    - icon: G
+      icon_bg: orange
+      title: 'Camino Garantizado hacia la Escala'
+      desc: 'Cada pedido de prueba incluye una ruta confirmada hacia el volumen: créditos de muestra conservados, arte y BOM congelados, y cupos de producción reservados para tu pedido de seguimiento.'
+
+scale_path:
+  tagline: Después de la Prueba
+  title: 'Qué Viene Después de un Pedido de Prueba Exitoso'
+  subtitle: 'El pedido de prueba está deliberadamente diseñado para ser el primer paso de una relación más larga. Este es el camino que acordamos antes de que salga la primera tabla.'
+  steps:
+    - step: 'Fase 1'
+      title: 'Prueba Entregada y Revisada'
+      desc: '20–50 tablas llegan en temporada y los datos de rotación vuelven de tu canal — alquiler, retail o directo.'
+    - step: 'Fase 2'
+      title: 'Retroalimentación y Refinamiento'
+      desc: 'Colores, gráficos, empaque y mezcla de accesorios se ajustan a la respuesta real del mercado. El arte y el BOM se congelan para el seguimiento.'
+    - step: 'Fase 3'
+      title: 'Serie de Volumen (90–100+ Tablas)'
+      desc: 'Series estándar de rollos de 150 m con máxima eficiencia de producción, empaque retail con marca y precios de volumen — con los créditos de muestra ya aplicados.'
+    - step: 'Fase 4'
+      title: 'Programas de Contenedor'
+      desc: 'Programas de 300+ tablas con envíos escalonados, materiales Pantone personalizados y el pipeline de desarrollo completo — la misma fábrica, ahora a plena escala.'
+
+trial_faqs:
+  tagline: FAQ
+  title: 'Preguntas Frecuentes Sobre Lanzar con un Pedido de Prueba'
+  items:
+    - q: '¿De verdad puedo lanzar una marca de SUP sin un pedido de contenedor?'
+      a: 'Sí. El punto de entrada es escalonado: 1–2 muestras validan la tabla (listas en 7–12 días), un pedido de prueba de 20–50 tablas valida el mercado (producción en 25–35 días) y las series de volumen de 90–100+ tablas llegan solo cuando la rotación demuestra el formato. El co-branding de lotes pequeños parte desde tan solo 5–10 unidades cuando quieres tablas con tu marca sin ninguna etapa de desarrollo.'
+    - q: '¿Cuánto tarda un lanzamiento completo, de principio a fin?'
+      a: 'Usando plataformas de casco existentes, un primer lanzamiento típico corre en 8–12 semanas desde el brief de producto hasta el pedido de prueba entregado: muestras en 7–12 días y producción de prueba en 25–35 días tras confirmar PO y depósito. Un casco a medida añade 15–20 días de desarrollo de molde.'
+    - q: '¿Qué incluye el precio — y qué no incluye?'
+      a: 'Los rangos de referencia son EXW Qingdao para las tablas, incluida la aplicación de branding y el control de calidad estándar. Son indicativos: la cotización final se confirma según tu configuración — casco, PVC, cobertura de arte, empaque y accesorios — antes de cualquier compromiso. El flete, los aranceles y el despacho aduanero de destino se cotizan por separado.'
+    - q: '¿Tengo que comprar 100 o 500 tablas para poner mi logo en ellas?'
+      a: 'No. El co-branding de lotes pequeños coloca tu logo en proa o raíles desde tan solo 5–10 unidades, y los pedidos de prueba de 20–50 tablas soportan la aplicación completa de arte con la misma calidad que la producción de volumen. Lo que cambia con la cantidad es el precio unitario, no la disponibilidad.'
+    - q: '¿Qué pasa si quiero cambiar el diseño después de la prueba?'
+      a: 'Los cambios entre la prueba y el volumen son normales y bienvenidos — ese es el sentido de la prueba. Colores, arte, empaque y accesorios se recotizan contra la nueva configuración y luego se congelan con la firma de Arte y BOM antes de la serie de volumen. Los cargos de molde de serigrafía se eximen en pedidos repetidos con la misma dimensión de arte.'
+    - q: '¿Firman un NDA antes de que comparta mis diseños?'
+      a: 'Sí. Hay disponible un Acuerdo de No Divulgación antes de que compartas especificaciones técnicas o arte de propiedad. Fabricamos exclusivamente bajo las marcas de nuestros clientes y nunca competimos con ellos en ningún mercado — la misma política se aplica a una muestra de 1 tabla que a un programa de contenedor.'
+
+cta:
+  title: '¿Listo para Lanzar Tu Marca de SUP?'
+  subtitle: 'Envíanos tu modelo de tabla objetivo, la cantidad de la primera temporada y tus ideas de branding. Confirmaremos la ruta exacta de muestra y prueba con costos detallados y un calendario día a día — sin compromiso hasta que firmes.'
+  actions:
+    - variant: primary
+      text: Empieza Tu Lanzamiento
+      href: /es/contact#custom-oem
+    - text: Entiende primero el MOQ y los plazos del SUP personalizado
+      href: /es/sup-oem-moq-lead-time
+    - text: La guía de branding flexible y MOQ
+      href: /es/oem-moq-guide
+    - text: Verifica la fábrica y el sistema de calidad
+      href: /es/oem-trust-assurance

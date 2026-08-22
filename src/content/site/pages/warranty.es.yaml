@@ -1,0 +1,111 @@
+meta:
+  title: 'Garantía de SUP hinchable — 5 años | {SITE}'
+  description: 'Garantía y soporte posventa de Vectoflare para SUP hinchables y accesorios. Nuestro compromiso de calidad con socios y clientes.'
+  keywords:
+    - 'garantía sup'
+    - 'garantía inflable sup'
+    - 'garantía paddle board'
+    - 'soporte posventa'
+label: 'Garantía'
+headline: 'Garantía de SUP hinchable y soporte posventa'
+subtitle: 'Vectoflare respalda la calidad de cada SUP hinchable que fabrica. Esta Garantía Limitada establece los términos y la cobertura de tu producto vectoflare.'
+seo:
+  headline: 'Garantía de SUP hinchable Vectoflare: garantía limitada de 5 años | Vectoflare'
+  description: 'Vectoflare ofrece una garantía limitada de 5 años sobre el tejido principal del tubo, las costuras y la integridad estructural del núcleo drop-stitch. También cubre válvulas de inflado y accesorios instalados en fábrica. Términos y condiciones completos de la garantía de SUP hinchables vectoflare.'
+  datePublished: '2024-01-01'
+  dateModified: '2026-06-01'
+body: |
+  <p class="text-lg text-gray-600 dark:text-gray-400 mb-8">
+    Esta Garantía Limitada se aplica a los productos marinos hinchables nuevos con la marca Vectoflare comprados directamente a Vectoflare o a un distribuidor o minorista autorizado de vectoflare. La fecha efectiva es la fecha verificable de compra minorista original.
+  </p>
+
+  <div class="bg-sky-50 dark:bg-gray-900 border border-sky-200 dark:border-gray-800 rounded-xl p-6 mb-10">
+    <h2 class="text-xl font-bold mb-3">Cobertura y duración de la garantía</h2>
+    <div class="grid md:grid-cols-2 gap-4">
+      <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">5 años</h3>
+        <p class="text-sm text-gray-600 mt-1">Integridad del tejido principal del tubo (CSM/PVC)</p>
+      </div>
+      <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">5 años</h3>
+        <p class="text-sm text-gray-600 mt-1">Integridad estructural del casco de fibra de vidrio</p>
+      </div>
+      <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">5 años</h3>
+        <p class="text-sm text-gray-600 mt-1">Capacidad de retención de aire de las costuras del tubo hinchable</p>
+      </div>
+      <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">5 años</h3>
+        <p class="text-sm text-gray-600 mt-1">Funcionamiento de la válvula de inflado</p>
+      </div>
+      <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
+        <h3 class="font-bold text-sky-700 dark:text-sky-400">1 año</h3>
+        <p class="text-sm text-gray-600 mt-1">Accesorios y herrajes instalados en fábrica</p>
+      </div>
+      <div class="bg-white dark:bg-gray-950 rounded-lg p-4 border border-gray-200 dark:border-gray-800">
+        <h3 class="font-bold text-amber-700 dark:text-amber-400">1 año*</h3>
+        <p class="text-sm text-gray-600 mt-1">Uso comercial, de alquiler o en flota: todos los componentes</p>
+      </div>
+    </div>
+    <p class="text-xs text-gray-500 mt-4">*El uso comercial, gubernamental, de chárter, de alquiler o docente reduce la garantía a 1 año. El uso en competiciones o carreras anula la garantía por completo.</p>
+  </div>
+
+  <h2>Qué está cubierto</h2>
+  <h3>Tejido principal del tubo (5 años)</h3>
+  <p>Vectoflare garantiza el tejido principal del tubo contra el deterioro por porosidad que comprometa sustancialmente la capacidad del producto para mantener la presión operativa. Se aplica al tejido recubierto de CSM (Hypalon) y a todos los demás materiales de tejido de tubo utilizados en la fabricación.</p>
+
+  <h3>Integridad estructural del casco de fibra de vidrio (5 años)</h3>
+  <p>Para productos con casco de plástico reforzado con fibra de vidrio (FRP), la estructura compuesta fundamental está garantizada contra fallos estructurales debidos a defectos de materiales o mano de obra.</p>
+
+  <h3>Capacidad de retención de aire de las costuras del tubo hinchable (5 años)</h3>
+  <p>Las costuras de los tubos hinchables, donde se unen durante la fabricación, están garantizadas contra defectos de fabricación que provoquen una fuga de aire sustancial a través de la costura. La inspección periódica y el mantenimiento de las presiones de inflado adecuadas son condiciones de la cobertura.</p>
+
+  <h3>Funcionamiento de la válvula de inflado (5 años)</h3>
+  <p>Las válvulas de inflado instaladas originalmente por Vectoflare están garantizadas contra defectos de materiales o mano de obra que impidan que la válvula retenga aire según el diseño.</p>
+
+  <h3>Accesorios instalados en fábrica (1 año)</h3>
+  <p>Los componentes y herrajes fabricados por Vectoflare e instalados originalmente en fábrica están garantizados contra defectos de material y mano de obra durante un año. Esto excluye los artículos de terceros, que están cubiertos únicamente por las garantías de sus respectivos fabricantes.</p>
+
+  <h2>Qué no está cubierto</h2>
+  <ul>
+    <li>Defectos cosméticos, incluidos decoloración, manchas, pérdida de color, calcificación o cualquier alteración del aspecto</li>
+    <li>Perforaciones, cortes, desgarros, roturas u otros daños físicos</li>
+    <li>Craquelado, agrietamiento, abrasión, roces o deterioro por fricción o contacto</li>
+    <li>Degradación por exposición a rayos UV, meteorización o condiciones atmosféricas</li>
+    <li>Daños por contacto con combustibles, disolventes, ácidos, álcalis o productos químicos</li>
+    <li>Daños por negligencia, uso indebido, abuso, accidente o desgaste normal</li>
+    <li>Problemas de gelcoat o pintura (ampollas, craquelado, decoloración, pérdida de color)</li>
+    <li>Daños por impacto, tensión, soporte inadecuado o transporte en remolque</li>
+    <li>Daños por inflado/desinflado inadecuado o uso de dispositivos de inflado no aprobados</li>
+    <li>Equipo, componentes o sistemas de terceros (cubiertos por sus respectivos fabricantes)</li>
+  </ul>
+
+  <h2>Obligación y reparación del fabricante</h2>
+  <p>La única y exclusiva obligación de Vectoflare es la reparación o sustitución, a elección de Vectoflare, de cualquier componente que se determine defectuoso en materiales o mano de obra y esté cubierto por esta garantía. Las reparaciones o sustituciones las realiza Vectoflare o su centro de servicio autorizado designado. Los componentes reparados o sustituidos están garantizados únicamente por la parte no transcurrida del periodo de garantía original.</p>
+
+  <h2>Condiciones de la garantía</h2>
+  <ul>
+    <li><strong>Registro:</strong> el producto debe registrarse correctamente según lo exigen los términos de la garantía.</li>
+    <li><strong>Mantenimiento:</strong> el producto debe mantenerse de acuerdo con las directrices publicadas por Vectoflare, incluida la inspección periódica y el mantenimiento de las presiones de inflado adecuadas.</li>
+    <li><strong>Colaboración:</strong> el comprador debe cooperar plena y puntualmente con Vectoflare en todos los asuntos relativos a las reclamaciones de garantía.</li>
+    <li><strong>Comprador original:</strong> esta garantía se extiende exclusivamente al comprador final original y no es transferible.</li>
+  </ul>
+
+  <h2>Uso comercial</h2>
+  <p>Si el producto se utiliza con fines comerciales, gubernamentales, sin ánimo de lucro, de chárter, de alquiler, docentes o para cualquier propósito distinto del uso recreativo privado, el periodo de garantía de todos los componentes se reduce a un (1) año desde la fecha original de compra minorista. El uso en competiciones, de velocidad o de resistencia anula inmediata e irrevocablemente la garantía por completo.</p>
+
+  <h2>Cómo realizar una reclamación de garantía</h2>
+  <p>Contacta con Vectoflare o con tu distribuidor autorizado con el comprobante de compra y una descripción detallada del problema. Vectoflare revisará la reclamación y te indicará los pasos para la inspección y el servicio.</p>
+  <p>Para consultas sobre el servicio de garantía, contacta con nosotros a través de nuestra <a href="/es/contact" class="text-sky-600 underline">página de contacto</a> con tu número de pedido y los datos del producto.</p>
+
+  <div class="bg-sky-50 dark:bg-gray-900 border border-sky-200 dark:border-gray-800 rounded-xl p-6 my-10">
+    <h2 class="text-xl font-bold mb-3">Respaldado por un sistema de calidad documentado</h2>
+    <p class="text-sm text-gray-600 dark:text-gray-400">Cada tabla se prueba antes del embalaje — <a href="/es/factory/quality-inspection" class="text-sky-600 underline">7 puertas de inspección</a> registran resultados por número de serie y los lotes mantienen trazabilidad ERP de 10 años. Las reclamaciones de garantía se resuelven con estos registros de lote, no con suposiciones. Consulta el <a href="/es/quality" class="text-sky-600 underline">sistema de calidad completo</a> y descarga los <a href="https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_FQC_TEST_REPORTS.pdf" class="text-sky-600 underline">informes de inspección final</a>.</p>
+  </div>
+
+  <h2>Artículos de terceros</h2>
+  <p>El equipo, los componentes o los sistemas fabricados por terceros (aunque los instale Vectoflare) están cubiertos exclusivamente por la garantía que ofrezca su respectivo fabricante. Vectoflare renuncia expresamente a cualquier responsabilidad de garantía sobre dichos artículos de terceros.</p>
+
+  <p class="text-sm text-gray-500 mt-8 border-t border-gray-200 dark:border-gray-800 pt-6">
+    Esta declaración de garantía es un resumen de la Garantía Limitada completa del fabricante vectoflare. El documento legal íntegro de la garantía rige todos los términos y condiciones. Las especificaciones están sujetas a cambios sin previo aviso. Vectoflare es la división de fabricación de Qingdao Vatrad Group.
+  </p>

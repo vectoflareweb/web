@@ -1,0 +1,150 @@
+meta:
+  title: 'ODM SUP Development | Custom Board Design from Your Idea'
+  description: 'ODM SUP board development: from idea to engineered hull, graphics, prototype and mass production — in-house design, mould engineering and 7–12 day samples.'
+  dateModified: '2026-08-16'
+  keywords:
+    - 'ODM SUP board development'
+    - 'custom SUP board design'
+    - 'paddle board product development'
+    - 'custom SUP shape and graphic design'
+    - 'SUP sample development factory'
+
+hero:
+  tagline: ODM Development
+  title: 'ODM SUP Development — From Your Idea to a Market-Ready Board'
+  subtitle: 'No drawings yet? Our in-house engineers design the hull, structure, graphics and packaging around your brief — then build, test and mass-produce it. Prototypes in 7–12 days, production in 25–35 days after confirmed PO.'
+
+answer:
+  label: 'Straight answer'
+  text: 'ODM development starts from your brief, not your drawings: hull design (length, width, rocker, volume), material structure and graphics are engineered in-house, validated by prototype samples in 7–12 days, and produced at standard volume MOQ of 90–100 units per 150 m roll batch (pilot from 20–50 units). Production runs 25–35 days after confirmed PO and deposit; custom mould tooling adds 15–20 days. CE, ISO 9001, BSCI, REACH and RoHS documentation ships with every order.'
+  verified: '2026-08'
+
+features:
+  title: ODM Capabilities
+  subtitle: 'Everything you get when the design work happens in the factory, not at your desk.'
+  items:
+    - title: Hull Design
+      description: 'Length, width, thickness, rocker and volume engineered to your target riders, use cases and markets — from a blank page or from our proven platform library.'
+      icon: 'tabler:waves'
+    - title: Structural Engineering
+      description: 'Drop-stitch density, PVC layer count and grade, stiffener placement and rail construction specified and validated for your design.'
+      icon: 'tabler:building-factory'
+    - title: Graphics & Branding
+      description: 'Board deck graphics, tube branding, EVA pads and retail packaging developed by our in-house design team around your brand.'
+      icon: 'tabler:palette'
+    - title: Mould Development
+      description: 'New hull shapes start as mould tooling designed and cut in-house — tooling adds 15–20 days to the project timeline.'
+      icon: 'tabler:shapes'
+    - title: Prototype Validation
+      description: 'A physical prototype is built, tested and sent for your review with runway trials — usually within 7–12 days.'
+      icon: 'tabler:tools'
+    - title: Testing & Compliance
+      description: 'Air-retention, pressure-hold and seam-strength testing per unit, with CE, ISO 9001, BSCI, REACH and RoHS documentation for export.'
+      icon: 'tabler:certificate'
+    - title: Tooling Ownership Options
+      description: 'Mould ownership or buyout clauses written into the contract — your design stays yours, and tooling is kept for reorders.'
+      icon: 'tabler:lock'
+    - title: From Prototype to Container
+      description: 'A validated ODM design moves straight to standard-volume production: 90–100+ units per 150 m roll batch, 25–35 days after confirmed PO.'
+      icon: 'tabler:package'
+
+customization:
+  tagline: Designed with You
+  title: What We Develop Around Your Brief
+  subtitle: 'ODM means the product is designed for you from scratch or from our platform library — these are the levers your brief controls:'
+  items:
+    - 'Rider profile and market — beginner, touring, racing, yoga, fishing or multi-purpose positioning'
+    - 'Board dimensions — length, width, thickness and volume matched to the target rider and use case'
+    - 'Hull character — rocker, rail profile, nose and tail shape tuned for stability or speed'
+    - 'Material structure — drop-stitch density, PVC layer count and grade, stiffeners and rail reinforcements'
+    - 'Graphics and colors — brand colors, deck art and tube branding developed in-house'
+    - 'EVA traction pad — layout, colors and logo integration across the deck'
+    - 'Accessories package — paddles, pumps, fins, leashes and bags matched to the board'
+    - 'Packaging and retail presentation — retail boxes, displays and export packing under your brand'
+
+faq_section:
+  tagline: FAQ
+  title: ODM Development Questions
+  questions:
+    - q: How does ODM differ from OEM?
+      a: 'ODM (Original Design Manufacturing) starts from your brief — our engineers develop the board structure, construction, graphics and packaging, whether from a market concept, performance target or adaptation of a proven platform. You approve the design before production. OEM (Original Equipment Manufacturing) manufactures to your approved specification — your drawings, dimensions, materials and packaging. You own the design and IP. Both run through the same plant, QC system and export team; ODM is the fastest path to a branded board when you do not have a design yet.'
+    - q: I only have a rough idea — where do we start?
+      a: 'Send a short brief: target riders, use cases, rough size, markets and volumes. Our engineers come back with a concept, a reference board direction and a development plan within one business day — an NDA is signed before any detailed exchange when requested.'
+    - q: How long does it take to develop a new SUP board?
+      a: 'Prototype samples ship in 7–12 days. A new hull with custom mould tooling adds 15–20 days of engineering before samples. Production runs 25–35 days after PO and deposit.'
+    - q: What is the MOQ for an ODM board?
+      a: 'Standard volume production runs 90–100 units per 150 m drop-stitch roll batch; pilot runs start at 20–50 units on existing platforms. Small-batch co-branding starts at 5–10 units — see our MOQ & Flexible Branding Guide for the full calculation.'
+    - q: Who owns the design and mould?
+      a: 'Your brief, design and tooling are protected by NDA, brand licensing terms and mould ownership or buyout clauses written into the contract. Tooling is kept for your brand and transferable.'
+    - q: Can you develop a specific shape (touring, fishing, racing, yoga)?
+      a: 'Yes. Hull engineering covers all main SUP categories — all-around, touring, racing, yoga, fishing and multi-person boards — with hydrodynamic test-tank validation available for performance shapes.'
+    - q: Which certifications will the developed board carry?
+      a: 'CE (recreational craft directive), ISO 9001, BSCI, REACH and RoHS. Certification documents are prepared per order for your export markets, and ISO 25649 compliance applies to inflatable stand-up boards.'
+
+process:
+  title: The ODM Process — From Brief to Scaled Production
+  subtitle: 'Six controlled stages run by the same in-house team that designs, samples and scales your board — everything stays documented.'
+  steps:
+    - phase: '01'
+      title: Brief & Concept
+      period: 1 business day
+      items:
+        - 'Share target riders, use cases, sizes, markets and volumes — or just an idea.'
+        - 'Our engineers return a concept direction, platform options and a development plan.'
+    - phase: '02'
+      title: Hull & Structure Design
+      period: Week 1–2
+      items:
+        - 'Board dimensions, hull character, drop-stitch density and PVC structure engineered in-house.'
+        - 'Graphics, EVA deck layout and packaging concept developed around your brand.'
+    - phase: '03'
+      title: Mould & Tooling
+      period: +15–20 days (new shapes)
+      items:
+        - 'Custom mould tooling designed and cut for new hull shapes; existing platforms skip this stage.'
+        - 'Tooling ownership terms are fixed in the contract before cutting starts.'
+    - phase: '04'
+      title: Prototype & Sample
+      period: 7–12 days
+      items:
+        - 'A physical prototype is built, tested and sent for your review — runway trials included.'
+        - 'Sample (1–2 units) validates shape, structure and branding before volume.'
+    - phase: '05'
+      title: Validation & Approval
+      period: In parallel
+      items:
+        - 'Air-retention, pressure-hold, seam-strength, load and UV checks per production line.'
+        - 'CE, ISO 9001, BSCI, REACH and RoHS documentation prepared for your export markets.'
+        - 'You approve the prototype; PO and deposit lock the production slot.'
+    - phase: '06'
+      title: Production & Delivery
+      period: 25–35 days
+      items:
+        - 'Standard-volume batches run 90–100+ units per 150 m roll, pilot runs from 20–50 units.'
+        - 'Export packing, FOB/CIF/DDP shipping to 50+ countries and reorder support included.'
+
+geo:
+  tagline: Who We Work With
+  title: ODM Partners Across the SUP Industry
+  sentence: 'ODM at Vectoflare pairs your brief with the same engineers, designers and production team that have launched boards for these business types — here is who we serve.'
+  audiences:
+    - 'SUP Brands'
+    - 'Outdoor & Water Sports Companies'
+    - 'Distributors & Retailers'
+    - 'Resorts, Clubs & Organizations'
+
+cta:
+  title: 'Ready to develop your SUP board?'
+  subtitle: 'Send your brief — a concept, sizes and target markets are enough to start. Engineering review and quotation within one business day.'
+  actions:
+    - variant: primary
+      text: Start an ODM Project
+      href: /contact#custom-oem
+    - text: See the six-step product development pipeline
+      href: /product-development
+    - text: Verify the factory & quality system
+      href: /oem-trust-assurance
+    - text: MOQ & flexible branding guide
+      href: /oem-moq-guide
+    - text: SUP Construction Comparison
+      href: /sup-construction-comparison

@@ -1,0 +1,85 @@
+meta:
+  title: 'Guía de tallas SUP y embarcaciones hinchables | {SITE}'
+  description: 'Dimensiones, capacidades y usos recomendados para cada producto vectoflare. Encuentra el tamaño adecuado de SUP o embarcación hinchable.'
+  dateModified: '2026-08'
+  keywords:
+    - 'guía de tallas sup'
+    - 'dimensiones paddle board'
+    - 'especificaciones sup hinchable'
+    - 'tabla de tamaños embarcaciones'
+hero:
+  title: Guía de tallas y especificaciones
+  subtitle: Dimensiones, capacidades y usos recomendados para cada producto vectoflare.
+
+categories:
+  inflatable: SUP hinchables diseñados para la portabilidad sin sacrificar rendimiento. Ajusta la talla a tu peso y estilo de paleo.
+  sup: Tablas de paddle surf para travesías, yoga, fitness y paleo recreativo. Elige por longitud y peso del rider.
+  accessory: Accesorios y equipo de seguridad para complementar tu tabla SUP. Tallas universales con múltiples opciones.
+
+table:
+  headers:
+    product: Producto
+    length: Longitud
+    width: Ancho
+    weight: Peso
+    max_load: Carga máxima
+    best_for: Ideal para
+  rows:
+    - product: 'SUP polivalente (Explorer 11 ft)'
+      length: '11''0" (335 cm)'
+      width: '32" (81 cm)'
+      weight: 19 lbs (8,6 kg)
+      max_load: 220 lbs (100 kg)
+      best_for: Principiantes, recreo y uso familiar en lagos y ríos tranquilos
+    - product: 'SUP polivalente (10''6")'
+      length: '10''6" (320 cm)'
+      width: '32" (81 cm)'
+      weight: 18 lbs (8,2 kg)
+      max_load: 200 lbs (90 kg)
+      best_for: Riders más ligeros, yoga y recreo general
+    - product: 'SUP de travesía (12 ft)'
+      length: '12''0" (366 cm)'
+      width: '30" (76 cm)'
+      weight: 23 lbs (10,4 kg)
+      max_load: 260 lbs (118 kg)
+      best_for: Navegación de distancia, velocidad y travesía costera
+    - product: 'SUP de travesía (14 ft)'
+      length: '14''0" (427 cm)'
+      width: '28" (71 cm)'
+      weight: 26 lbs (11,8 kg)
+      max_load: 275 lbs (125 kg)
+      best_for: Competición y travesías de larga distancia
+    - product: 'SUP de surf (8–10 ft)'
+      length: '8''0"–10''0" (244–305 cm)'
+      width: '30" (76 cm)'
+      weight: 17 lbs (7,7 kg)
+      max_load: 180 lbs (82 kg)
+      best_for: Olas y surf maniobrable
+    - product: 'SUP de yoga / fitness (11 ft)'
+      length: '11''0" (335 cm)'
+      width: '34" (86 cm)'
+      weight: 22 lbs (10 kg)
+      max_load: 240 lbs (109 kg)
+      best_for: Yoga, fitness y recreo estable
+
+how_to_choose:
+  title: Cómo elegir la talla adecuada
+  cards:
+    - title: Tablas SUP
+      description: Elige el largo según tu peso y el uso previsto. Las tablas más anchas (32"+ ) ofrecen más estabilidad. Las más largas (11–12 pies) navegan mejor en travesía. Los paddlers más pesados necesitan tablas de mayor volumen.
+    - title: SUP de travesía
+      description: Las tablas más largas (11–12 pies) son las mejores para recorrer distancias y navegar. Las más anchas (32"+ ) ofrecen más estabilidad. Comprueba la capacidad de peso para la carga total, incluido el equipo.
+    - title: SUP polivalentes
+      description: Elige el largo según el peso del rider y el uso previsto. Las tablas polivalentes sirven para recreo, fitness y yoga. Las más pequeñas son más maniobrables.
+
+cta:
+  title: 'Explora tablas por talla, o habla con un ingeniero'
+  subtitle: 'Compara modelos de travesía, polivalentes y de yoga en nuestra gama de productos — o envía tu mix de riders y te recomendaremos las tallas adecuadas para tu proyecto.'
+  actions:
+    - variant: primary
+      text: Ver productos SUP
+      href: /es/products
+    - text: Más conocimiento del paddling
+      href: /es/knowledge
+    - text: Cómo se fabrican las tablas
+      href: /es/factory/process

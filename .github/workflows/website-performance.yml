@@ -1,0 +1,51 @@
+name: Website Performance (manual)
+on:
+  workflow_dispatch:
+    inputs:
+      min_performance:
+        description: 'Minimum Lighthouse performance score (0-100); non-blocking by default'
+        required: false
+        default: '0'
+
+# Audits the deployed production site with Lighthouse.
+# Failures do not block merges — run it after a deploy to catch regressions the
+# bundle-size gate can't (image weight, render-blocking chains, CLS, ...).
+jobs:
+  lighthouse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.0.0
+      - uses: pnpm/action-setup@fc06bc1257f339d1d5d8b3a19a8cae5388b55320 # v5.0.0
+      - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.4.0
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - uses: browser-actions/setup-chrome@65c1060a90c7ce4cff9a68e54650bf942c94e994 # v1.9.3
+        id: chrome
+      - name: Run Lighthouse on production
+        env:
+          LIGHTHOUSE_CHROMIUM_PATH: ${{ steps.chrome.outputs.path }}
+          MIN_PERF: ${{ inputs.min_performance }}
+          CF_PROD_DOMAIN: ${{ vars.CF_PROD_DOMAIN }}
+        run: |
+          DOMAIN="${CF_PROD_DOMAIN:-vectoflare.com}"
+          npx --yes lighthouse "https://$DOMAIN" \
+            --only-categories=performance --output=json --output-path=./lh.json \
+            --chrome-flags="--headless --no-sandbox --disable-dev-shm-usage"
+          node -e '
+            const r = require("./lh.json");
+            const perf = Math.round(r.categories.performance.score * 100);
+            const m = r.audits["largest-contentful-paint"].displayValue + " / CLS " +
+              r.audits["cumulative-layout-shift"].displayValue + " / TBT " +
+              r.audits["total-blocking-time"].displayValue + " / LCP " +
+              r.audits["largest-contentful-paint"].displayValue;
+            console.log("[lighthouse] performance " + perf + " | " + m);
+            const min = parseInt(process.env.MIN_PERF || "0", 10);
+            if (perf < min) { console.error("[lighthouse] below minimum " + min); process.exit(1); }
+          '
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        if: always()
+        with:
+          name: lighthouse-report
+          path: lh.json

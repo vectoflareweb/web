@@ -1,0 +1,109 @@
+meta:
+  title: 'Manufacturing Process — From Raw Material to SUP'
+  description: 'From raw material to sea-ready SUP: every step of the Vectoflare manufacturing process under our control, from cutting and welding to testing.'
+  dateModified: '2026-08'
+  keywords:
+    - 'sup manufacturing process'
+    - 'inflatable sup factory'
+    - 'paddle board production steps'
+    - 'pvc welding sup'
+hero:
+  tagline: Process
+  title: Manufacturing Process
+  subtitle: From raw material to sea-ready SUP —every step under our control
+  back_label: Back to Factory
+  back_link: /factory
+
+answer:
+  label: 'Straight answer'
+  text: 'Boards go through five controlled stages: material inspection (1–2 days), CNC automatic cutting (<5% waste, 2–4 hours per kit), tube heat sealing with RF-reinforced seams (1–2 days per board), drop-stitch core bonding, and final assembly with 100% air-retention and load testing before packaging.'
+  verified: '2026-08'
+
+intro: Unlike brands that outsource production to third-party factories, Vectoflare owns and operates its entire manufacturing chain. This vertical integration allows us to maintain strict quality control at every stage, respond quickly to custom requirements, and deliver consistent product quality batch after batch. Here is how a SUP board is built in our facility.
+
+steps:
+  - step: '01'
+    title: Material Receipt & Inspection
+    description: Every incoming batch of PVC fabric, fiberglass mat, resin, and hardware is inspected against specification. Fabric samples are tested for tensile strength, thickness uniformity, and UV resistance before release to production. Non-conforming materials are quarantined and returned.
+    duration: 1–2 days
+  - step: '02'
+    title: Automatic PVC Cutting
+    description: <p>Approved fabrics are laid on the automatic CNC cutting machine and cut with sub-millimetre accuracy. Computer-optimised nesting arranges panels to minimise waste —typically below 5%. Cut panels are labelled by SUP model and chamber, then bundled for transfer to the welding workshop.</p>
+    duration: 2–4 hours per board kit
+  - step: '03'
+    title: Tube Heat Sealing & Welding
+    description: Panels are tacked and bonded using heat sealing machines  with hot-air welding at controlled temperatures of 200–300 °C. Main seams are reinforced with RF dielectric welding for airtight, high-strength joints. Completed chambers are inflated to 18.0 PSI for an initial airtightness check ahead of the 24-hour retention hold.
+    duration: 1–2 days per SUP board
+  - step: '04'
+    title: Drop-Stitch Core Bonding
+    description: SUP board drop-stitch cores are bonded to outer PVC laminates using heat lamination. Thousands of internal polyester threads connect top and bottom layers, creating a rigid structure at 12-15 PSI. Rail bands are triple-layer fusion bonded for edge strength.
+    duration: 1–2 days per board
+  - step: '05'
+    title: SUP Printing & Decoration
+    description: SUP board deck graphics are applied using digital printing  for full-colour photo-quality designs, and screen printing  for durable logos and repeating patterns. Prints are cured and sealed for UV and abrasion resistance.
+    duration: 1–2 days
+  - step: '06'
+    title: Final Assembly & Fitting
+    description: Valves, D-rings, handles, fin boxes, and deck pads are installed on the assembly line. Each board follows a 100-point assembly checklist with mandatory sign-off at each stage.
+    duration: 1–2 days
+  - step: '07'
+    title: Quality Testing & Inspection
+    description: 'Every completed board undergoes mandatory quality gate: chamber air-retention test, hardware function check, fastener torque verification, and cosmetic inspection. Custom and prototype builds also receive in-water trials covering stability and handling.'
+    duration: 1–2 days
+  - step: '08'
+    title: Packing & Shipping
+    description: Boards are deflated, folded per procedure, packed in heavy-duty woven bags or retail boxes, and loaded for shipment. Each package is labelled with model, serial number, and destination. We coordinate with freight forwarders for FCL and LCL container shipments worldwide.
+    duration: 1 day
+
+evidence_gates:
+  tagline: Inspection Evidence
+  title: 'Every Stage Leaves a Record — Photos & Reports'
+  subtitle: 'Below are the actual inspection photos and test-report dossiers from our seven controlled quality gates. Each PDF is a real bilingual record you can download and audit — the same records that back every batch in the 10-year ERP traceability archive. See the full 7-stage flow on /quality.'
+  items:
+    - title: 'PPM — Project Quality Planning'
+      description: 'The pre-production meeting locks scope, the golden sample and the Quality Inspection Plan before the line starts. Unresolved items block production release.'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_SUP_OEM_QIP.pdf
+      link_label: 'Download QIP (PDF)'
+      image: https://assets.vectoflare.com/site/quality/node01-ppm.avif
+      alt: Pre-production meeting reviewing the golden sample and quality inspection plan for an OEM SUP order
+    - title: 'IQC — Incoming Material Inspection'
+      description: 'Every incoming batch of PVC, fabric and hardware is checked against the approved spec. Non-conforming lots are quarantined and rejected before release to the line.'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_IQC_TEST_REPORTS.pdf
+      link_label: 'Download IQC reports (PDF)'
+      image: https://assets.vectoflare.com/site/quality/node02-iqc.avif
+      alt: Incoming material inspection of PVC fabric and SUP components at the factory
+    - title: 'IPQC / FAI — In-Process Control'
+      description: 'The first article is verified against the locked baselines and every shift keeps patrol checks on the line. FAI approval version-locks artwork, dimensions and BOM.'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_IPQC_TEST_REPORTS.pdf
+      link_label: 'Download IPQC reports (PDF)'
+      image: https://assets.vectoflare.com/site/quality/node03-ipqc-fai.avif
+      alt: In-process inspection and first article check during SUP production
+    - title: 'Inflation & Air-Tightness Testing'
+      description: '100% of completed boards — not a sample — get a 24-hour pressure hold at 18.0 PSI with automatic reject above a 0.50 PSI drop. One record per chamber.'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_AIRTIGHTNESS_TEST_REPORTS.pdf
+      link_label: 'Download air-tightness reports (PDF)'
+      image: https://assets.vectoflare.com/site/quality/node04-airtightness.avif
+      alt: Inflation and air-tightness testing of an inflatable SUP chamber
+    - title: 'FQC — Final Product Inspection'
+      description: 'Finished boards are measured against drawing tolerances and cosmetically graded under D65 daylight lamps against the approved golden sample.'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_FQC_TEST_REPORTS.pdf
+      link_label: 'Download FQC reports (PDF)'
+      image: https://assets.vectoflare.com/site/quality/node05-fqc.avif
+      alt: Final product inspection of finished SUP boards before packing
+    - title: 'PSI — Packaging & Pre-Shipment Inspection'
+      description: 'The packed kit is checked 100% against the customer-approved BOM — barcode scan (Grade ≥ B), carton markings and ISTA-1A drop test before loading.'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_PSI_TEST_REPORTS.pdf
+      link_label: 'Download PSI reports (PDF)'
+      image: https://assets.vectoflare.com/site/quality/node06-psi.avif
+      alt: Pre-shipment inspection checking the packed SUP kit against the BOM
+    - title: 'Shipment Release & Traceability'
+      description: 'Quality signs off the batch only when all six previous gates are closed. Serial numbers are mapped to the batch and the dossier is handed over with the shipment.'
+      link: https://assets.vectoflare.com/site/downloads/QINGDAO_VATRAD_GROUP_SHIPMENT_RELEASE_REPORTS.pdf
+      link_label: 'Download release reports (PDF)'
+      image: https://assets.vectoflare.com/site/quality/node07-shipment-release.avif
+      alt: Shipment release sign-off and batch traceability record handover
+cta:
+  title: See our equipment and machinery
+  desc: Explore the industrial-grade equipment behind every Vectoflare SUP board.
+  label: View equipment →
+  link: /factory/equipment

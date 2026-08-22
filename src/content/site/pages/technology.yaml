@@ -1,0 +1,53 @@
+meta:
+  title: 'Technology — Drop Stitch & Marine PVC | {SITE}'
+  description: 'Vectoflare technologies: drop stitch construction, marine PVC, double-layer builds, and high pressure. Innovation from a professional inflatable SUP manufacturer.'
+  dateModified: '2026-08'
+  keywords:
+    - 'sup technology'
+    - 'drop stitch construction'
+    - 'high pressure sup'
+    - 'inflatable sup materials'
+hero:
+  tagline: Technology
+  title: Built for Performance
+  subtitle: Every Vectoflare inflatable SUP is engineered with drop-stitch construction and marine-grade PVC —precision materials and manufacturing methods tested for demanding marine environments.
+
+sections:
+  - title: Drop-Stitch Core
+    description: Thousands of internal polyester threads connect the top and bottom layers, creating a rigid structure at 12-15 PSI. This is the same technology used in professional paddle boards and inflatable racing SUPs.
+    imageAlt: DS Core Diagram
+  - title: Marine-Grade PVC
+    description: Multi-layer laminated PVC fabric rated for marine environments. Each layer is fusion-welded rather than glued, eliminating delamination risks. Tested for UV resistance, saltwater corrosion, and abrasion.
+    imageAlt: PVC Layer
+  - title: Military-Grade PVC
+    description: Used on all SUP models, premium PVC provides superior UV and chemical resistance. Maintains flexibility in extreme temperatures and resists degradation.
+    imageAlt: PVC
+  - title: Air Deck Floor
+    description: High-pressure inflatable drop-stitch construction providing exceptional rigidity for standing, fishing, and yoga. Reduces setup time, overall weight, and storage volume.
+    imageAlt: Air Deck
+
+related:
+  title: Related
+  links:
+    - text: R&D Center
+      url: /randdcenter
+    - text: Quality Testing
+      url: /quality
+    - text: Safety Standards
+      url: /quality
+    - text: Warranty
+      url: /warranty
+    - text: Commercial Workboats
+      url: https://vectoflare.com/commercial-workboats
+    - text: Search & Rescue
+      url: https://vectoflare.com/search-and-rescue
+    - text: Tourism & Recreation
+      url: /tourism-recreation
+    - text: Disaster Relief
+      url: https://vectoflare.com/disaster-relief-humanitarian-aid
+    - text: Maritime Safety & Defense
+      url: https://vectoflare.com/maritime-safety-defense
+    - text: Guides
+      url: /knowledge
+    - text: Products
+      url: /products

@@ -1,0 +1,108 @@
+meta:
+  title: 'SUP Product Development — Custom Design, Prototype & Production'
+  description: 'SUP product development from concept to container: specification, engineering, prototyping, testing, tooling and mass production inside a dedicated SUP factory.'
+  dateModified: '2026-08-10'
+  keywords:
+    - 'SUP product development'
+    - 'SUP prototype development'
+    - 'custom SUP design'
+    - 'SUP product engineering'
+    - 'inflatable SUP prototyping'
+
+hero:
+  tagline: Product Development
+  title: 'Custom SUP Product Development, From Concept to Container'
+  subtitle: 'Six stages turn your product idea into production-ready SUP boards — specification, engineering, prototyping, testing, tooling and mass production, all inside one factory with one accountable quality system.'
+
+answer:
+  label: 'Straight answer'
+  text: 'SUP product development at Vectoflare runs six stages — product specification, structural engineering, prototype sampling, testing and validation, custom tooling, and mass production. The first physical sample ships 7–12 days after specification approval; production runs 25–35 days after confirmed PO and deposit; new mould development adds 15–20 days.'
+  verified: '2026-08'
+
+stages:
+  title: 'The Six Stages of SUP Product Development'
+  subtitle: 'Each stage has a clear deliverable, so you always know where your project stands — and what arrives next.'
+  items:
+    - title: '1. Idea & Product Specification'
+      description: 'Board geometry, rider weight range, volume, construction targets and accessory package. A reference board, sketch or competitor spec is enough to start.'
+      icon: 'tabler:bulb'
+    - title: '2. Engineering & 3D Design'
+      description: 'Structural engineering, drop-stitch thickness and PVC grade selection, plus a manufacturability review and quotation — returned within one business day.'
+      icon: 'tabler:blueprint'
+    - title: '3. Prototype Sampling'
+      description: 'Your first physical sample ships in 7–12 days, documented with an approval sheet covering construction, print colors and pressure-test results.'
+      icon: 'tabler:tools'
+    - title: '4. Testing & Validation'
+      description: 'Pressure hold, seam strength and dimensional checks against the approved sample, with CE and REACH documentation prepared for your target markets.'
+      icon: 'tabler:test-pipe'
+    - title: '5. Tooling & Mass Production'
+      description: 'Custom mould development in 15–20 days when needed; production runs 25–35 days with in-process QC checkpoints and batch traceability.'
+      icon: 'tabler:settings'
+    - title: '6. Delivery & Scale'
+      description: 'FOB, CIF or DDP logistics to 50+ countries — then repeat orders on your established line with stable lead times and approved artwork on file.'
+      icon: 'tabler:truck-delivery'
+
+why_inhouse:
+  title: 'Why Development Inside a Factory Beats a Brokered Project'
+  subtitle: 'Development work sitting inside the production plant changes what you get at every stage.'
+  items:
+    - title: No Design Handoff Gaps
+      description: 'The engineering and drafting team works on the same floor as the welding line — a drawing change goes to production the same week, not after a commercial round trip.'
+      icon: 'tabler:handshake'
+    - title: Samples That Match Production
+      description: 'The sample run and the production run share the same machines, materials and QC stations, so the approved sample is what you actually receive at container scale.'
+      icon: 'tabler:stack-2'
+    - title: Engineering That Sells Nothing
+      description: 'Decisions are made against target cost, weight and durability — not against upsell margins, because this is a factory and production is the only revenue.'
+      icon: 'tabler:scale'
+    - title: Confidentiality as a Standing Contract
+      description: 'An NDA is signed before any file exchange, and your artwork, tooling and specification files remain your property — never reused, resold or shown to another client.'
+      icon: 'tabler:lock'
+
+buyer_guides:
+  tagline: "Buyer's Guides"
+  title: 'The Full Sourcing Library'
+  subtitle: 'Every stage of a custom SUP project, explained with our real lead times, terms and documentation.'
+  items:
+    - title: 'Private Label: The Complete Step-by-Step Guide'
+      body: 'From choosing a factory to a delivered container — the full six-step journey for new brands.'
+      href: '/news/private-label-sup-guide'
+    - title: 'How to Choose a SUP OEM Manufacturer'
+      body: 'The audit questions that separate a real factory from a trader: certifications, QC, samples and ownership.'
+      href: '/news/how-to-choose-sup-oem-manufacturer'
+    - title: 'SUP Product Development Timeline'
+      body: 'Sample in 7–12 days, production in 25–35 days, tooling plus 15–20 — the full calendar, stage by stage.'
+      href: '/news/custom-sup-development-timeline'
+    - title: 'Information to Prepare Before Ordering'
+      body: 'The five details that let a factory quote accurately on the first pass — and avoid spec rework.'
+      href: '/news/info-needed-before-sup-production'
+    - title: 'SUP OEM MOQ and Pricing'
+      body: 'MOQ levels across sample (1–2), pilot (20–50) and volume (90–100+ per 150 m roll) stages, the six cost drivers and five ways to cut cost without cutting quality.'
+      href: '/news/sup-oem-moq-pricing'
+    - title: 'CE Certification for Inflatable SUP'
+      body: 'What CE really covers, the five documents to demand, and how to verify a certificate names your model.'
+      href: '/news/ce-certification-inflatable-sup'
+    - title: 'Shipping: FOB vs CIF vs DDP'
+      body: 'What each incoterm covers and costs, the 4–6 week sea-freight timeline, and which term fits your business.'
+      href: '/news/private-label-sup-oem-guide'
+
+faq_section:
+  tagline: FAQ
+  title: 'SUP Development Frequently Asked Questions'
+  questions:
+    - q: Can you develop a SUP product from an idea?
+      a: 'Yes. We support the full journey from product specification and engineering through prototype development, customization and mass production based on your requirements. A sketch, a reference board or even a competitor specification is enough to start the engineering review.'
+    - q: What does SUP product development cost?
+      a: 'The specification review and engineering assessment are free and returned within one business day. Prototype sampling is quoted per project after the spec is fixed; production pricing depends on materials, volume and whether custom tooling is required.'
+    - q: How long does SUP product development take?
+      a: 'The first sample ships 7–12 days after specification approval, with 3–7 days per revision round. Production runs 25–35 days after PO and deposit. Custom mould development adds 15–20 days up front, and sea freight adds 4–6 weeks to most destinations.'
+    - q: What comes first — sample or production?
+      a: 'Always the sample. A physical prototype is produced, measured and approved against the specification before any production run starts. We do not run bulk production on unapproved designs.'
+    - q: Do you sign an NDA for product development?
+      a: 'Yes. An NDA is signed before any file exchange, and your designs, artwork and tooling remain your property throughout development and manufacturing.'
+    - q: Can you protect my SUP design and specifications?
+      a: 'Customer designs, specifications and product concepts are handled confidentially during development and manufacturing. Your tooling files are never reused, resold or shown to another client.'
+
+cta:
+  title: 'Start your SUP product project'
+  subtitle: 'Send a sketch, reference board or specification — engineering review and quotation within one business day.'

@@ -1,0 +1,125 @@
+meta:
+  title: 'OEM Onboarding Guide — Step-by-Step Process from First Contact to Production | Vectoflare'
+  description: 'OEM onboarding guide: NDA, feasibility review, sample production, approval, pre-production planning, production QC and shipping. Step-by-step with timelines.'
+  dateModified: '2026-08-20'
+  keywords:
+    - 'OEM onboarding guide'
+    - 'SUP manufacturing process'
+    - 'OEM buyer onboarding'
+    - 'SUP factory process'
+    - 'custom SUP order steps'
+    - 'OEM sample process'
+    - 'SUP production timeline'
+
+hero:
+  tagline: 'OEM Buyer Onboarding'
+  title: 'Your First SUP Order, Step by Step'
+  subtitle: 'From first contact to delivered boards, the OEM onboarding process at Vectoflare runs through seven defined gates — each with a clear timeline, a documented deliverable, and a go/no-go checkpoint. No ambiguity, no hidden steps, no surprises after deposit.'
+  actions:
+    - variant: primary
+      text: Start Your Project Brief
+      href: /contact#project-brief
+    - text: Compare OEM, ODM and Private Label paths
+      href: /oem-odm-private-label-comparison
+
+answer:
+  label: 'Straight answer'
+  text: 'A typical OEM onboarding takes 2–4 weeks for sample approval and 6–8 weeks for first production run from confirmed PO. You start by submitting a project brief (board specs, volume, compliance needs). We respond within one business day, offer an NDA before you share proprietary details, and produce 1–2 physical samples in 7–12 days for your review and approval. Once the sample is frozen, production planning and manufacturing follow with fixed QC gates at each stage. Every step is documented and traceable.'
+  verified: '2026-08'
+
+process_steps:
+  tagline: The Seven Gates
+  title: 'Onboarding Flow — Seven Gates from Brief to Delivery'
+  subtitle: 'Each gate has a defined input, a defined output, and a timeline you agree in advance. You never proceed past a gate without explicit sign-off.'
+  steps:
+    - step: 'Gate 1'
+      title: 'Initial Inquiry & NDA (Day 0)'
+      desc: 'Submit a project brief via /contact with your target board specs, order volume, compliance requirements and timeline. An NDA is available immediately — before you share any proprietary technical specifications or artwork. Response within one business day.'
+    - step: 'Gate 2'
+      title: 'Feasibility Review & Quotation (Days 1–5)'
+      desc: 'Engineering reviews your brief against manufacturing capability, material availability and compliance scope. You receive an itemized quotation with MOQ calculation, sample fees (credited toward production), and lead time segments — not a ballpark range, a gate-by-gate schedule.'
+    - step: 'Gate 3'
+      title: 'Sample Production (Days 6–17)'
+      desc: '1–2 physical boards produced to your specification: hull rigidity, EVA traction pad texture, graphic accuracy, accessory fitment. You ride and evaluate the board before committing to anything else. Sample fees are credited toward your production order upon contract sign-off.'
+    - step: 'Gate 4'
+      title: 'Sample Review & Approval (Days 18–21)'
+      desc: 'You evaluate the sample against your specifications — ride quality, graphic fidelity, packaging, accessories. Adjustments are captured in a revised BOM and artwork sign-off. The frozen specification becomes the production reference for all subsequent runs.'
+    - step: 'Gate 5'
+      title: 'Pre-Production Planning (Days 22–28)'
+      desc: 'Materials procurement, tooling setup, packaging confirmation and production slot reservation. All materials are incoming-inspected against the frozen BOM. A production schedule with QC gate dates is issued before manufacturing begins.'
+    - step: 'Gate 6'
+      title: 'Production & QC Gates (Days 29–55)'
+      desc: 'Manufacturing runs through the 7-stage inspection gate system: incoming material inspection, drop-stitch fabric inspection, welding & assembly, pressure & airtightness testing (18.0 PSI hold, auto-reject above 0.50 PSI drop), EVA pad & accessory installation, graphic & branding QC, final packaging & documentation. Each gate has pass/fail criteria and traceability records.'
+    - step: 'Gate 7'
+      title: 'Shipping & Post-Delivery Review (Days 56–63)'
+      desc: 'Export-grade packing, compliance documentation (CE, ISO 9001, BSCI, REACH, RoHS), and ocean freight coordination to 50+ countries. A post-delivery review captures lessons learned and refinements for the next order cycle.'
+
+collaboration_modes:
+  tagline: Choose Your Path
+  title: 'Three Collaboration Models, One Onboarding Process'
+  subtitle: 'Every new buyer goes through the same seven-gate onboarding — what changes is the scope of engineering involvement and where IP ownership sits.'
+  grid: 'sm:grid-cols-2 lg:grid-cols-3'
+  features:
+    - icon: O
+      icon_bg: blue
+      title: 'OEM Manufacturing'
+      desc: 'You provide the complete design specification — hull shape, construction, graphics, accessories. We manufacture to your spec. You own all IP. Best for brands with an existing product line and proven board geometry.'
+      link_label: 'How OEM works'
+      href: /oem-manufacturing
+    - icon: D
+      icon_bg: green
+      title: 'ODM Development'
+      desc: 'You provide the brief — target rider weight, use-case, price point — and our engineering team develops the board from your requirements. Adapted platform with your branding. Best for brands entering the market without in-house design capability.'
+      link_label: 'How ODM works'
+      href: /odm-development
+    - icon: P
+      icon_bg: purple
+      title: 'Private Label / Co-Branding'
+      desc: 'Apply your brand to a field-tested platform — no engineering stage required. Your logo on nose or side rails from as few as 5–10 units. Best for operators and distributors who want branded boards without a development cycle.'
+      link_label: 'Private Label options'
+      href: /solutions/private-label-sup
+
+checklist:
+  heading: 'What to Prepare Before Your Project Brief'
+  body: |
+    The more complete your brief, the faster and more accurate the quotation. Here is what to have ready:
+
+    - **Board specifications** — Target length, width, thickness, rider weight range and intended use (touring, all-around, surf, fishing, yoga, etc.). If you have reference board dimensions or a competitor model, include those.
+    - **Design files** — Vector artwork (AI, SVG or PDF) for board graphics, EVA pad logo and any secondary branding. If artwork is not ready, a mood board or reference images are enough for initial feasibility.
+    - **Order volume & timeline** — Your target quantity for the first order and the season schedule you need to hit. Even a rough range ("20–50 boards by March") is enough to confirm feasibility and slot availability.
+    - **Compliance requirements** — Target markets (EU, North America, Australia, etc.) and any specific certification or testing requirements beyond our standard scope (CE, ISO 9001, BSCI, REACH, RoHS).
+    - **Budget range** — An indicative per-board budget or target landed cost helps us recommend the right platform and construction tier. Exact pricing is confirmed after engineering review — never before.
+
+    If you do not have all of this yet, submit what you have. We will guide the rest.
+
+evidence_review:
+  tagline: 'Evidence & Verification'
+  title: 'SPECIFICATIONS VERIFIED'
+  body: 'All manufacturing claims on this page are verified by our manufacturing engineering team at the Laixi, Qingdao factory. Certificates, QC inspection records, pressure and structural test reports, and batch traceability logs are available on request. Specifications last verified 2026-08.'
+
+faqs:
+  tagline: FAQ
+  title: 'OEM Onboarding — Frequently Asked Questions'
+  items:
+    - q: 'How long does the full onboarding process take?'
+      a: 'Sample approval typically takes 2–4 weeks (including sample production in 7–12 days and your review period). First production run takes 6–8 weeks from confirmed PO and deposit. A bespoke hull shape adds 15–20 days of mould development. Every gate has a fixed timeline you agree in advance.'
+    - q: 'Do I need to sign an NDA before sharing my design?'
+      a: 'An NDA is available immediately upon request — before you share any proprietary technical specifications or artwork. We manufacture exclusively under the brands of our clients and never compete with them in any market. The same policy applies to a 1-board sample as to a container program.'
+    - q: 'What is the minimum order for a first OEM run?'
+      a: 'The entry point is tiered: 1–2 samples first (ready in 7–12 days), a trial or pilot order of 20–50 boards (production in 25–35 days), then standard volume runs of 90–100+ boards per approved configuration. Small-batch co-branding starts from 5–10 units when no development stage is needed. Sample fees are credited toward your production order.'
+    - q: 'How is IP protection handled during onboarding?'
+      a: 'Your designs and specifications are protected under the NDA signed before any proprietary information is shared. All artwork, BOM data and technical files are stored in access-controlled systems with audit trails. In OEM mode, you own all IP. In ODM mode, the adapted platform IP is shared per agreement. In Private Label mode, IP remains with Vectoflare and you license the brand application.'
+    - q: 'What quality guarantees apply to a first order?'
+      a: 'Every board — sample, trial or volume — passes the same 7-stage inspection gate system: incoming material inspection, drop-stitch fabric inspection, welding & assembly, 24-hour pressure and airtightness testing (18.0 PSI hold, auto-reject above 0.50 PSI drop), EVA pad & accessory installation, graphic & branding QC, and final packaging & documentation. Quality is never downscaled for smaller orders.'
+
+cta:
+  title: 'Ready to Start Your SUP Project?'
+  subtitle: 'Send us your board specifications, volume target and timeline. We will confirm feasibility, produce samples and deliver a production schedule — gate by gate, with documented QC at every step.'
+  actions:
+    - variant: primary
+      text: Start Your Project Brief
+      href: /contact#project-brief
+    - text: Compare OEM, ODM and Private Label
+      href: /oem-odm-private-label-comparison
+    - text: Verify the factory & quality system
+      href: /proof-center

@@ -1,0 +1,72 @@
+name: CF Inspect
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.0.0
+
+      - name: Inspect Cloudflare cache config
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CF_PROD_DOMAIN: ${{ vars.CF_PROD_DOMAIN }}
+        run: |
+          set +e
+          CDN_ZONE="${CF_PROD_DOMAIN:-vectoflare.com}"
+          API="https://api.cloudflare.com/client/v4"
+          AUTH="Authorization: Bearer $CLOUDFLARE_API_TOKEN"
+          # 运行时解析 zone id（与 deploy.yml 同一模式），不再硬编码。
+          # token 缺失/无 Zone 权限时优雅退出，不留红叉。
+          ZHTTP=$(curl -sS -o /tmp/zones.json -w '%{http_code}' \
+            "$API/zones?name=$CDN_ZONE&per_page=1" -H "$AUTH")
+          if [ "$ZHTTP" != "200" ]; then
+            echo "::notice::Zone lookup failed (HTTP $ZHTTP) — token needs Zone › Read; skip inspect"
+            exit 0
+          fi
+          ZID=$(jq -r '.result[0].id // ""' /tmp/zones.json)
+          if [ -z "$ZID" ]; then
+            echo "::notice::Zone $CDN_ZONE not in this account — skip inspect"
+            exit 0
+          fi
+          {
+            echo "== token verify =="
+            curl -sS "$API/user/tokens/verify" -H "$AUTH" | jq '{success, result}'
+            echo "== rulesets phases =="
+            curl -sS "$API/zones/$ZID/rulesets" -H "$AUTH" | jq '{success, count: (.result | length), phases: [.result[]? | {phase, id}]}'
+            echo "== http_request_cache_settings (cache rules) =="
+            curl -sS "$API/zones/$ZID/rulesets/phases/http_request_cache_settings/entrypoint" -H "$AUTH" | jq '.'
+            echo "== http_cache_settings (edge ttl) =="
+            curl -sS "$API/zones/$ZID/rulesets/phases/http_cache_settings/entrypoint" -H "$AUTH" | jq '.'
+            echo "== settings cache_level =="
+            curl -sS "$API/zones/$ZID/settings/cache_level" -H "$AUTH" | jq '.'
+            echo "== FIX: purge everything (zone cache purge) =="
+            curl -sS -X POST "$API/zones/$ZID/purge_cache" -H "$AUTH" -H "Content-Type: application/json" -d '{"purge_everything":true}' | jq '.'
+            echo "== settings browser_cache_ttl =="
+            curl -sS "$API/zones/$ZID/settings/browser_cache_ttl" -H "$AUTH" | jq '.result.value // .errors'
+            echo "== settings always_online =="
+            curl -sS "$API/zones/$ZID/settings/always_online" -H "$AUTH" | jq '.result.value // .errors'
+            echo "== settings sort_query_string_for_cache =="
+            curl -sS "$API/zones/$ZID/settings/sort_query_string_for_cache" -H "$AUTH" | jq '.result.value // .errors'
+            echo "== settings development_mode =="
+            curl -sS "$API/zones/$ZID/settings/development_mode" -H "$AUTH" | jq '.result.value // .errors'
+            echo "== page rules =="
+            curl -sS "$API/zones/$ZID/pagerules?status=active" -H "$AUTH" | jq '.'
+          } 2>&1 | tee cf-inspect.log
+          exit 0
+
+      - name: Commit and push results
+        run: |
+          if [ -s cf-inspect.log ]; then
+            git config user.name "cf-inspect"
+            git config user.email "cf-inspect@users.noreply.github.com"
+            git add cf-inspect.log
+            git commit -m "chore: cf-inspect results [skip ci]" || echo "nothing new to commit"
+            git fetch origin 2>/dev/null || true
+            git rebase origin/main 2>/dev/null || true
+            git push 2>/dev/null || true
+          fi

@@ -1,0 +1,30 @@
+faqs:
+  - question: What is your minimum order quantity (MOQ)?
+    question_es: ¿Cuál es su pedido mínimo (MOQ)?
+    answer: Our MOQ varies by product and collaboration model. For existing models, MOQ starts at ''. For pilot runs, MOQ is ''. Standard orders require '' and custom products require ''. ''
+    answer_es: Nuestro MOQ varía según el producto y modelo de colaboración. Para modelos existentes, el MOQ comienza en ''. Para tiradas piloto, el MOQ es ''. Pedidos estándar requieren '' y productos personalizados requieren ''. ''
+
+  - question: What is your lead time?
+    question_es: ¿Cuál es su plazo de entrega?
+    answer: Standard lead time is ''. Sample production takes ''. Lead times may vary during peak season ('').
+    answer_es: El plazo de entrega estándar es ''. La producción de muestras toma ''. Los plazos pueden variar durante la temporada alta ('').
+
+  - question: Can I order samples before placing a bulk order?
+    question_es: ¿Puedo pedir muestras antes de hacer un pedido grande?
+    answer: Yes, we offer samples with a lead time of ''. Samples allow you to verify quality and specifications before committing to production.
+    answer_es: Sí, ofrecemos muestras con un plazo de ''. Las muestras le permiten verificar la calidad y especificaciones antes de comprometerse con la producción.
+
+  - question: What collaboration models do you offer?
+    question_es: ¿Qué modelos de colaboración ofrecen?
+    answer: We offer OEM, ODM, Contract Manufacturing, Private Label, and Co-Design collaboration models. Each model is tailored to your specific needs and production requirements.
+    answer_es: Ofrecemos modelos de colaboración OEM, ODM, Fabricación por Contrato, Marca Privada y Co-Diseño. Cada modelo se adapta a sus necesidades específicas y requisitos de producción.
+
+  - question: What certifications do your products have?
+    question_es: ¿Qué certificaciones tienen sus productos?
+    answer: Our products carry '' certifications. ''
+    answer_es: Nuestros productos llevan certificaciones ''. ''
+
+  - question: Do you sign NDAs?
+    question_es: ¿Firman acuerdos de confidencialidad (NDA)?
+    answer: Yes, we sign NDAs within a '' window to protect your intellectual property and designs.
+    answer_es: Sí, firmamos NDAs dentro de una ventana de '' para proteger su propiedad intelectual y diseños.

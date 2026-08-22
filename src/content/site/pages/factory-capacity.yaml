@@ -1,0 +1,85 @@
+meta:
+  title: 'Production Capacity — 12,500 m² Factory | {SITE}'
+  description: 'Vectoflare factory capacity: 12,500 m² facility producing 120,000+ SUP boards per year with room to scale. Large-scale OEM/ODM inflatable SUP manufacturing.'
+  dateModified: '2026-08-07'
+  keywords:
+    - 'sup production capacity'
+    - 'inflatable sup factory'
+    - 'paddle board production'
+    - 'sup factory china'
+hero:
+  tagline: Production Capacity
+  title: Manufacturing Capacity & Annual Output
+  subtitle: 12,500 m² facility producing 120,000+ SUP boards per year with room to scale
+
+answer:
+  label: 'Straight answer'
+  text: 'Factory capacity: 12,500 m² across four specialized workshops, 120,000+ SUP boards per year, 350+ workers on two shifts, exporting to 50+ countries. MOQ is confirmed by project configuration — sample (1–2 units), pilot (20–50 units) and standard volume (90–100+ units per 150 m roll); see our MOQ & Flexible Branding Guide for the full logic. Lead time 25–35 days, samples 7–12 days.'
+  verified: '2026-08'
+
+intro: Vectoflare operates one of the largest dedicated inflatable SUP manufacturing facilities in Qingdao, China. Our 12,500 m² factory is organized into four specialized workshops operating in parallel, giving us the capacity to produce over 120,000 boards annually across SUP and safety equipment lines.
+
+highlights:
+  - value: 12,500 m²
+    label: Total manufacturing floor
+    detail: Across 4 specialized workshops
+  - value: 120,000+
+    label: Boards produced annually
+    detail: SUPs and safety gear
+  - value: 350+
+    label: Skilled workforce
+    detail: 25+ engineers, 2 shifts/day
+  - value: 50+
+    label: Export countries
+    detail: EU, US, AU, Middle East, Asia
+  - value: 25–35
+    label: Standard lead time (days)
+    detail: After confirmed PO and deposit
+  - value: 10+
+    label: Years of export experience
+    detail: Since 2012
+
+workshops:
+  - title: SUP Board Production
+    description: '4 automated assembly lines for inflatable SUP boards with a combined output of about 10,000 boards per month. Digital printing and screen printing stations run concurrently. Annual SUP capacity: 120,000+ boards.'
+    output: '120,000+ SUPs/year'
+  - title: SUP Board Production
+    description: 'Expanded production capacity for SUP boards utilizing additional assembly lines. Drop-stitch core bonding, digital printing, and assembly stations run concurrently.'
+    output: 'Expanded SUP capacity'
+  - title: SUP Board & Accessory
+    description: 'Multi-purpose production lines for SUP boards and accessories. Hot-air welding stations, RF dielectric presses, and assembly workstations are reconfigured based on order mix. Annual capacity: 5,000+ units.'
+    output: '5,000+ units/year'
+  - title: Safety Equipment
+    description: 'Separate clean-room production area for life vests and safety equipment. Dedicated sewing, foam insertion, and testing stations. Annual life vest capacity: 50,000+ units.'
+    output: '50,000+ life vests/year'
+
+oem_capacity:
+  moq: 'SUP: sample 1–2 | pilot 20–50 | volume 90–100+ (per 150 m roll)'
+  lead_time: 'Standard 25–35 days. Sample 7–12 days. Rush available.'
+  payment: 'T/T 30% deposit + 70% balance. L/C, Western Union accepted.'
+
+lead_time_explainer:
+  tagline: 'Planning & Scheduling'
+  title: 'How Capacity Translates Into Your Delivery'
+  subtitle: 'Capacity is not a single number — here is how lead times are actually allocated.'
+  items:
+    - title: 'Capacity varies with your specification'
+      body: 'Available slots shift with board type, construction complexity, packaging and seasonal demand. During the spring/summer build-up, lines run near full and sample slots book out first.'
+    - title: 'Plan ahead of your launch season'
+      body: 'Lock your sample confirmation and artwork freeze early. Repeat orders are scheduled into your agreed recurring slot once the golden sample is archived.'
+    - title: 'Three scheduling lanes'
+      body: 'Samples enter the prototype line first, initial orders slot into the nearest open assembly window, and repeat orders run in their recurring slot.'
+    - title: 'Firm lead times after review'
+      body: 'We confirm a firm lead time only after specification, artwork, packaging and quantity are reviewed — never as a fixed promise beforehand.'
+
+cta:
+  title: 'Check production availability for your launch date'
+  subtitle: 'Send your board type, quantity and target ship date — we reply with the next open production window and a firm lead-time estimate.'
+  actions:
+    - variant: primary
+      text: Check availability
+      href: /contact#production-availability
+    - text: See the full factory overview
+      href: /factory
+    - text: How boards are built
+      href: /factory/process

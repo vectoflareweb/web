@@ -1,0 +1,128 @@
+meta:
+  title: 'OEM vs ODM vs Private Label SUP Manufacturing — Comparison Guide'
+  description: 'OEM vs ODM vs private-label SUP manufacturing compared: definitions, ownership, MOQ entry points, lead times, tooling, IP rules and best-fit scenarios.'
+  dateModified: '2026-08-20'
+  keywords:
+    - 'OEM vs ODM vs private label'
+    - 'SUP manufacturing comparison'
+    - 'custom paddle board manufacturing'
+    - 'OEM SUP China'
+    - 'ODM SUP development'
+    - 'private label SUP'
+
+hero:
+  tagline: 'Choose Your Collaboration Path'
+  title: 'OEM vs ODM vs Private Label — Which Model Fits Your Project?'
+  subtitle: 'Three ways to work with a SUP factory, each with different ownership, investment and speed trade-offs. This guide explains the differences so you can choose the right path before your first inquiry.'
+
+answer:
+  label: 'Quick comparison'
+  text: 'OEM: you own the design and specification — we manufacture to your drawings. ODM: our engineering team develops the board from your brief — you approve before production. Private Label: your brand on a proven existing platform with no structural changes — fastest route to market. All three paths run through the same plant, QC system and export team in Qingdao, China.'
+  verified: '2026-08'
+
+comparison_table:
+  tagline: 'Side-by-Side'
+  title: 'OEM / ODM / Private Label Comparison'
+  subtitle: 'Key differences across design ownership, MOQ, tooling, lead time and intellectual property.'
+  headers:
+    dimension: Dimension
+    oem: OEM Manufacturing
+    odm: ODM Development
+    pl: Private Label
+  rows:
+    - dimension: 'Who designs the board?'
+      oem: 'You provide the specification, drawings or reference board'
+      odm: 'Factory engineering team develops from your brief'
+      pl: 'Existing factory platform — no design work needed'
+    - dimension: 'Design ownership & IP'
+      oem: 'You own all designs, moulds and intellectual property'
+      odm: 'You own the final approved design; factory holds the development process IP'
+      pl: 'Factory owns the platform design; you own your brand and graphics'
+    - dimension: 'Mould / tooling'
+      oem: 'Custom mould required for new shapes — one-time tooling fee, 15–20 extra days'
+      odm: 'May require custom mould depending on spec — same tooling timeline'
+      pl: 'No new mould — existing platform tooling used'
+    - dimension: 'Minimum order quantity'
+      oem: '90–100+ units per approved configuration'
+      odm: '90–100+ units per approved configuration; pilot batches from 20–50'
+      pl: '5–10 units (co-branding) or 20–50 (pilot batch on existing platform)'
+    - dimension: 'Typical lead time'
+      oem: '25–35 days + 15–20 days tooling if new mould'
+      odm: '25–35 days + development iteration time (varies by complexity)'
+      pl: '25–35 days (no tooling delay)'
+    - dimension: 'Customization level'
+      oem: 'Full — shape, construction, materials, graphics, packaging'
+      odm: 'Full — factory proposes, you approve each element'
+      pl: 'Graphics and packaging only — no structural changes'
+    - dimension: 'Sample process'
+      oem: '1–2 prototype samples in 7–12 days after spec approval'
+      odm: '1–2 prototype samples in 7–12 days after design approval'
+      pl: '1–2 samples in 7–12 days — platform already validated'
+    - dimension: 'Best for'
+      oem: 'Buyers with existing designs, reference boards or detailed specs'
+      odm: 'Buyers with product ideas or market requirements but no detailed spec'
+      pl: 'Buyers who need branded boards quickly without product development'
+
+scenario_cards:
+  tagline: 'When to Choose Each Path'
+  title: 'Real-World Scenarios'
+  subtitle: 'Common buyer situations and the recommended collaboration model.'
+  features:
+    - icon: '1'
+      icon_bg: 'blue'
+      title: 'You have complete specs and own the design'
+      desc: 'You have CAD drawings, a reference board, or a detailed spec sheet with dimensions, materials, construction and packaging requirements. Choose OEM — we manufacture exactly to your specification.'
+      link: '/factory/oem-capability'
+      link_label: 'OEM Manufacturing Details'
+    - icon: '2'
+      icon_bg: 'green'
+      title: 'You have a product concept but no engineering spec'
+      desc: 'You know the target market, price point and performance requirements, but need engineering support to develop the board. Choose ODM — our team develops from your brief, you approve before production.'
+      link: '/odm-development'
+      link_label: 'ODM Development Details'
+    - icon: '3'
+      icon_bg: 'orange'
+      title: 'You need branded boards fast, no product development'
+      desc: 'You are a distributor, resort or rental operator who wants your logo on quality boards without investing in product development. Choose Private Label — fastest route from concept to delivery.'
+      link: '/solutions/private-label-sup'
+      link_label: 'Private Label Details'
+    - icon: '4'
+      icon_bg: 'purple'
+      title: 'You operate a resort, club or rental fleet'
+      desc: 'You need durable, high-frequency-use SUP packages with batch consistency, spare parts and color management across reorders. Choose our Commercial Fleet Program.'
+      link: '/solutions/resort-sup'
+      link_label: 'Commercial Fleet Details'
+
+ip_rules:
+  tagline: 'Intellectual Property Protection'
+  title: 'How We Protect Your Designs and Brand'
+  subtitle: 'Regardless of collaboration model, your artwork, tooling and specification files remain your property.'
+  body: |
+    **NDA before file exchange.** We sign a non-disclosure agreement before any technical file exchange — standard response time is within 4 business hours.
+
+    **No design reuse.** Your artwork, tooling and specification files are never shared with or sold to other clients. OEM moulds are exclusively yours. ODM designs are approved by you before production. Private Label platforms are shared structures, but your graphics and branding are exclusive.
+
+    **B2B only.** We manufacture exclusively under our clients' brands. We do not sell to end consumers and do not compete with our clients in any market.
+
+    **Mould ownership.** Custom moulds paid for by the buyer belong to the buyer. We store and maintain them, but cannot use them for other clients without written authorization.
+
+faqs:
+  tagline: 'FAQ'
+  title: 'Common Questions About OEM, ODM and Private Label'
+  items:
+    - q: 'Can I switch from private label to OEM later?'
+      a: 'Yes. Many clients start with a private-label or pilot batch to validate the market, then invest in custom tooling for a full OEM program once demand is proven. The same plant and QC system supports both paths.'
+    - q: 'Does ODM mean the factory owns my brand?'
+      a: 'No. Under ODM, you own your brand, graphics and packaging. The factory develops the board structure from your brief and you approve the design before production. The factory retains development process IP, but the approved product specification is yours.'
+    - q: 'Is private label lower quality than OEM?'
+      a: 'No. All three paths run through the same plant, same QC system and same export team. Private-label boards are built on proven, validated platforms with full 18 PSI / 24h pressure testing and the same 100-point assembly checklist.'
+    - q: 'What if I am not sure which model to choose?'
+      a: 'Contact us with your situation — our engineering team will recommend the most practical path based on your product requirements, timeline and volume targets. No commitment required before specification review.'
+    - q: 'Can I get samples before committing to any model?'
+      a: 'Yes. 1–2 prototype samples ship in 7–12 days. Sample cost is credited against your bulk order. This lets you evaluate construction and quality before any volume commitment.'
+
+cta:
+  title: 'Ready to Discuss Your SUP Project?'
+  subtitle: 'Tell us about your product requirements, market and volume targets — we will recommend the most practical collaboration path.'
+  button: 'Start Your SUP Project'
+  note: 'Reply within 1 business day · NDA available before file exchange'

@@ -1,0 +1,145 @@
+meta:
+  title: 'Laboratorio de Calidad e Inspección — Ensayos de SUP conforme a ISO'
+  description: 'Verificación independiente de la calidad de las tablas de SUP: tracción, ciclos de retención de aire, pelado de costuras y certificación de materiales.'
+back_text: 'Volver al Centro de I+D'
+home_label: 'Inicio'
+
+hero:
+  tagline: 'Lab 06'
+  title: 'Laboratorio de Calidad e Inspección'
+  subtitle: 'Verificación independiente — cada ensayo superado antes de la entrega'
+  image: 'https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-uv-resistance-testing.webp'
+  image_alt: 'Ensayos UV en el laboratorio de inspección de calidad de Vectoflare'
+
+answer:
+  label: 'Respuesta directa'
+  text: 'Cada tabla se inspecciona contra las especificaciones publicadas antes del envío: ensayo de retención de inflado al 100 % a 18,0 PSI durante 24 horas (rechazo automático con una caída de presión superior a 0,50 PSI), ensayos de tracción y pelado de costuras según ISO 1421, y una lista de comprobación de 100 puntos. El laboratorio informa al director general, no a producción, y puede detener cualquier envío.'
+  verified: '2026-08'
+
+intro: 'Toda tabla que sale de nuestro taller lleva la certificación de haber superado un conjunto definido de inspecciones de calidad y ensayos de materiales. Nuestro Laboratorio de Calidad e Inspección es una función independiente dentro de la organización — informa directamente al director general, no a producción — de modo que ninguna presión comercial pueda comprometer el punto de inspección. Si un lote de material o una tabla terminada no cumple la especificación publicada, el laboratorio tiene autoridad para detener el envío hasta que la no conformidad quede resuelta.'
+
+content_html: |
+  <h2>Confiar, pero verificar</h2>
+  <p>El laboratorio opera con un sistema de gestión de calidad alineado con los principios de la ISO 9001, y nuestros métodos de ensayo se basan en las normas ISO, ASTM y EN siempre que son aplicables. Mantenemos registros detallados de cada ensayo realizado, creando una cadena de trazabilidad completa desde la recepción de la materia prima hasta la entrega final de la tabla.</p>
+
+  <h2>Equipo de ensayo y capacidades</h2>
+  <table>
+    <thead><tr><th>Equipo</th><th>Ensayos realizados</th><th>Norma / Método</th></tr></thead>
+    <tbody>
+      <tr><td>Máquina universal de ensayos (50 kN)</td><td>Resistencia a la tracción (tejido), resistencia al pelado (costuras), propagación del desgarro</td><td>ISO 1421, ISO 4674</td></tr>
+      <tr><td>Banco de retención de aire (programable)</td><td>Resistencia de 1000 ciclos de inflado/desinflado, ensayo de retención de presión de 30 min</td><td>Interno (según el método ISO 6185)</td></tr>
+      <tr><td>Útil de pelado de costuras (pelado motorizado de 180°)</td><td>Resistencia al pelado de costuras soldadas y encoladas a 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
+      <tr><td>Medidor de columna hidrostática</td><td>Resistencia a la penetración de agua del tejido (0–1000 mbar)</td><td>ISO 811</td></tr>
+      <tr><td>Calibrador de grosor digital y micrómetro</td><td>Grosor del tejido, grosor de la soldadura, grosor de la película adhesiva</td><td>ISO 2286-3</td></tr>
+      <tr><td>Cámara climática</td><td>Acondicionamiento de temperatura (-40 °C a +80 °C) para ensayos de agrietamiento en frío y envejecimiento por calor</td><td>ISO 188, ISO 4675</td></tr>
+      <tr><td>Espectrofotómetro de color</td><td>Medición del color Delta-E tras la exposición UV</td><td>ISO 105-A05 / ASTM D2244</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Los puntos de inspección — del material a la entrega</h2>
+  <p>Cada tabla sigue un plan de calidad definido con puntos de inspección obligatorios. Ninguna tabla puede saltarse un control; cada control debe ser firmado por un inspector de calidad antes de que comience la siguiente fase de producción.</p>
+
+  <div class="not-prose my-8">
+    <div class="relative">
+      <div class="absolute left-4 top-0 bottom-0 w-0.5 bg-blue-200 dark:bg-blue-800"></div>
+      <div class="space-y-6 relative">
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Control 1</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Inspección del material entrante</p>
+            <p class="text-xs text-gray-500 mt-1">Lote de tejido, núcleo drop-stitch, lote de adhesivo y herrajes — todo se comprueba contra la especificación de entrada antes de liberarlo a la producción.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Control 2</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Inspección de soldadura en proceso</p>
+            <p class="text-xs text-gray-500 mt-1">La primera probeta de soldadura de cada turno se ensaya (pelado + visual) al inicio de cada turno de producción.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Control 3</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Ensayo de aire de la cámara</p>
+            <p class="text-xs text-gray-500 mt-1">La tabla se presuriza a 18.0 PSI (12–15 PSI de trabajo) y se mantiene 24 h. Una caída de presión &gt; 0,50 PSI se rechaza automáticamente. Los datos se registran por número de serie.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Control 4</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Inspección previa a la entrega</p>
+            <p class="text-xs text-gray-500 mt-1">Tabla completa inspeccionada: herrajes apretados al par, adherencia del pavimento de cubierta, alineación de los gráficos, sin defectos cosméticos. Lista de comprobación de 100 puntos.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Control 5</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Certificación final</p>
+            <p class="text-xs text-gray-500 mt-1">Se compilan los informes de ensayo, se revisan los registros de inspección y se emite el Certificado de Conformidad.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <h2>Controles estándar en cada lote</h2>
+  <div class="not-prose my-8 grid grid-cols-2 md:grid-cols-4 gap-4">
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">18 PSI</span>
+      <span class="text-xs text-gray-500">18,0 PSI en la prueba de cámara de aire, mantenida 24 h</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">&gt; 5 %</span>
+      <span class="text-xs text-gray-500">La caída de presión dispara el rechazo automático</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">100 %</span>
+      <span class="text-xs text-gray-500">Cámaras probadas con aire antes del montaje</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">ISO 9001</span>
+      <span class="text-xs text-gray-500">Sistema de gestión de calidad</span>
+    </div>
+  </div>
+
+  <h2>Nuestro equipo de calidad</h2>
+  <p>El laboratorio cuenta con un responsable de calidad (10 años en control de calidad marina, Ingeniero de Calidad Certificado ASQ), dos inspectores de calidad (cada uno con certificación NDT de Nivel 2 en inspección visual) y un técnico de materiales responsable de todos los ensayos físicos. El equipo se somete anualmente a pruebas de competencia con un proveedor externo independiente para garantizar que nuestros resultados sigan siendo precisos y reproducibles.</p>
+
+  <h2>Ensayos independientes para clientes</h2>
+  <p>Nuestro Laboratorio de Calidad e Inspección está disponible para servicios de ensayos independientes. Si necesitas verificar una especificación de tejido, validar un nuevo sistema adhesivo u obtener un informe de ensayo de terceros para una cualificación de compra, podemos realizar los ensayos conforme a la norma aplicable y emitir un informe de ensayo certificado.</p>
+  <p>Ejemplos de trabajos recientes de ensayos para terceros:</p>
+  <ul>
+    <li>Comparación de la resistencia al pelado de cinco productos competidores de película adhesiva para un programa europeo de compras.</li>
+    <li>Estudio de envejecimiento acelerado (UV + ciclado térmico) de una nueva formulación de PVC pigmentada en naranja, con mediciones intermedias regulares a intervalos de 500 h.</li>
+    <li>Validación de la retención de aire de 50 válvulas prototipo para un nuevo diseño de tabla de alta presión.</li>
+  </ul>
+
+  <h2>Nuestro compromiso contigo</h2>
+  <p>Cuando recibes una tabla de {SITE.name}, también recibes su expediente de calidad — un registro recopilado de los resultados de ensayo que se aplican a tu tabla concreta. Certificado del lote de tejido, ensayos de pelado de soldaduras, registros de prueba de aire de la cámara y lista de comprobación de la inspección previa a la entrega. Cada cifra es trazable. Cada inspector está identificado. No es solo papeleo: es nuestra promesa de que lo que entregamos es exactamente lo que especificamos.</p>
+  <p>Si alguna vez tienes una duda de calidad, puedes contactar directamente con el laboratorio — los datos de contacto figuran impresos en tu certificado de conformidad. Nos tomamos cada consulta en serio y nos comprometemos a abrir una investigación formal en un plazo de 48 horas.</p>
+
+  <h2>¿Qué ocurre si una tabla no supera la inspección?</h2>
+  <p>Una tabla no conforme nunca desaparece en silencio. El laboratorio sigue un flujo de no conformidad fijo para contener, corregir y evitar que el problema se repita:</p>
+  <ul>
+    <li><strong>Aislamiento</strong> — la tabla se etiqueta, se retira de la línea y se registra en el registro de no conformidades con el nombre del inspector y los criterios no superados.</li>
+    <li><strong>Reparación o desecho</strong> — los defectos reparables (por ejemplo, una válvula, una soldadura del rail o una esquina del pavimento) los corrige un operario certificado y la zona reparada se vuelve a ensayar con el mismo estándar. Las tablas que no pueden cumplir la especificación se desechan, no se degradan.</li>
+    <li><strong>Reinspección</strong> — cada tabla reparada vuelve a pasar el control afectado completo antes de reincorporarse a la línea de embalaje.</li>
+    <li><strong>Liberación</strong> — solo salen de la planta las tablas con todos los controles firmados. La tasa de rechazo, la causa raíz y la acción correctiva se resumen en tu informe de calidad del lote.</li>
+  </ul>
+
+  <h2>Documentación de calidad que recibes</h2>
+  <p>Cada lote se envía con un paquete documental que tu equipo de control de calidad puede auditar: certificado de lote (números de lote de tejido, adhesivo y herrajes), registros de ensayo de pelado de soldaduras, registros de prueba de aire por número de serie, la lista firmada de 100 puntos de la inspección previa a la entrega, lista de embalaje y registro fotográfico de tus tablas antes de la carga.</p>
+
+cta:
+  title: 'Solicita una lista de comprobación de control de calidad de muestra'
+  subtitle: 'Consulta los controles exactos, métodos de ensayo y documentos que se aplicarían a tu lote — envía tu tipo de tabla y cantidad.'
+  actions:
+    - variant: primary
+      text: Solicitar la lista de QC
+      href: /es/contact#quality-inquiry
+    - text: El sistema de inspección de 7 etapas
+      href: /es/quality
+    - text: Laboratorio de calidad de fábrica y descargas
+      href: /es/factory/quality-lab
+    - text: Estándar de control de producto no conforme
+      href: /es/factory/non-conforming-control

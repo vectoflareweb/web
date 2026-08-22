@@ -1,0 +1,82 @@
+﻿meta:
+  title: 'Proveedor de equipamiento SUP para alquiler y soluciones de flota'
+  description: 'Tablas SUP comerciales para uso diario en alquiler: PVC resistente a los rayos UV, costuras reforzadas y secado rápido para flotas de alta rotación.'
+  dateModified: '2026-08'
+
+hero:
+  tagline: Operadores de alquiler
+  title: 'Tablas SUP diseñadas para flotas de alquiler'
+  subtitle: 'Especifica una flota que resista el uso diario en alquiler: tablas de alta rotación con PVC resistente a los rayos UV, costuras reforzadas y materiales de secado rápido, diseñadas para 365 días de uso al año.'
+  image:
+    src: https://assets.vectoflare.com/images/vectoflare/lifestyle/vectoflare-lifestyle-1.webp
+    alt: Tablas SUP listas y preparadas para el uso diario en alquiler
+
+answer:
+  label: 'Respuesta directa'
+  text: 'Las tablas para flotas de alquiler se construyen con PVC marino resistente a los rayos UV, costuras 3 veces más resistentes que la construcción estándar y núcleos drop-stitch clasificados a 15 PSI, probadas en más de 500 ciclos de alquiler. El MOQ se confirma según la configuración del proyecto: muestra (1–2 unidades), piloto (20–50 unidades) y volumen estándar (90–100+ unidades por lote a partir de un rollo de 150 m); la producción tarda 25–35 días tras el PO y el depósito, con condiciones FOB, CIF o DDP.'
+  verified: '2026-08'
+
+features:
+  title: Diseñadas para el desgaste del alquiler
+  subtitle: 'Cada tabla está diseñada para soportar más de 500 ciclos de alquiler con un mantenimiento mínimo.'
+  items:
+    - title: 'Más de 500 Ciclos de Alquiler'
+      description: 'Probadas para resistir el uso diario en agua salada, sol y arena.'
+      icon: 'tabler:shield-check'
+    - title: 'Tejido Resistente a los Rayos UV'
+      description: 'Sin decoloración ni degradación tras 1 año de almacenamiento al aire libre.'
+      icon: 'tabler:sun'
+    - title: 'Costuras Reforzadas'
+      description: 'Costuras reforzadas construidas para la rotación diaria de alquiler y ciclos repetidos de inflado.'
+      icon: 'tabler:layers-intersect'
+    - title: 'Materiales de Secado Rápido'
+      description: 'Materiales de secado rápido que mantienen las tablas listas para el siguiente alquiler entre sesiones.'
+      icon: 'tabler:droplet'
+    - title: 'Almacenamiento Apilable'
+      description: 'Diseño apilable que ahorra espacio: almacena más tablas en la misma área.'
+      icon: 'tabler:stack'
+    - title: 'Tallas Codificadas por Colores'
+      description: 'El equipo coge la tabla correcta al instante con tallas codificadas por colores.'
+      icon: 'tabler:color-swatch'
+
+stats:
+  title: Métricas de Operación
+  stats:
+    - title: Superficie de Fábrica
+      amount: '12.500 m²'
+    - title: Prueba de Presión
+      amount: '18 PSI / 24h'
+    - title: Checklist de Montaje
+      amount: '100 puntos'
+    - title: Envío de Piezas
+      amount: '48h'
+
+fleet_guide:
+  title: Guía de Dimensionado de Flota
+  subtitle: 'Calcula cuántas tablas necesita tu operación según la rotación diaria del alquiler.'
+  tiers:
+    - label: Pequeño Quiosco
+      boards: '15-20'
+      note: 'Hasta 2–3 rotaciones de tabla al día en temporada alta'
+    - label: Operación de Tamaño Medio
+      boards: '30-50'
+      note: 'Varios puntos de salida o mucho tráfico los fines de semana'
+    - label: Alquiler de Playa de Gran Tamaño
+      boards: '50-100'
+      note: 'Flotas de alquiler de servicio completo en varias estaciones de playa'
+
+content_html: |
+  <div class="mx-auto max-w-3xl space-y-4 rounded-2xl border bg-card p-6 text-[14.5px] leading-relaxed text-fg-2">
+    <p><strong>Sigue leyendo:</strong> las tablas de alquiler parten de tu especificación: consulta nuestro <a href="/es/oem-manufacturing">programa OEM/ODM</a> para personalización, MOQ de prueba reducidos y precios de flota. Cada tabla pasa por la <a href="/es/factory">línea de producción</a> de 12.000 m&sup2; y se prueba a presión al 100% antes del envío.</p>
+  </div>
+
+cta:
+  title: 'Especifica Tu Flota de Alquiler'
+  subtitle: 'Envía tus requisitos de flota o compara plataformas de tablas para tu operación.'
+  actions:
+    - text: 'Enviar Requisitos'
+      href: '/es/contact'
+      variant: 'primary'
+    - text: 'Comparar Plataformas de Tablas'
+      href: '/es/inflatable-vs-hardboard'
+      variant: 'secondary'

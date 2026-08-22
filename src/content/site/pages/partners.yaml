@@ -1,0 +1,83 @@
+meta:
+  title: 'Partners — Distribution & Wholesale | {SITE}'
+  description: 'Manufacturing partnerships with Vectoflare: distribution, wholesale supply, OEM/private-label programs and spec support for paddle board businesses worldwide.'
+  keywords:
+    - 'sup distribution partner'
+    - 'paddle board wholesale'
+    - 'inflatable sup distributor'
+    - 'sup partnership'
+  dateModified: '2026-08'
+hero:
+  tagline: Partners & Distribution
+  title: 'Manufacturing Partnerships & Distribution'
+  subtitle: "We manufacture for marine distributors, dealers, retail brands and organizations in 50+ countries. You specify the product — we engineer, sample and produce it under your brand."
+  image:
+    src: https://assets.vectoflare.com/images/vectoflare/partners/partners-hero.webp
+    alt: Vectoflare global partner and distributor network
+
+answer:
+  label: 'Straight answer'
+  text: 'Partnership terms start with sample (1–2 units) and pilot batches (20–50 units, samples in 7–12 days), then scale to standard volume OEM runs of 90–100+ units per batch from a full 150 m drop-stitch roll, or invest in custom moulds for private label products. MOQ is confirmed by project configuration. Distribution programs carry exclusive territories, factory-direct wholesale pricing and 45–60 day payment terms, shipped FOB Qingdao or CIF.'
+  verified: '2026-08'
+content_programs:
+  tagline: Partner Programs
+  title: 'Partnership Models Built On Manufacturing'
+  subtitle: 'Whether you are a distributor, dealer, or brand partner, the program is built around your product requirements and production plan.'
+  columns: 3
+  items:
+    - title: 'Distributor Program'
+      description: 'Distribution agreements with direct factory access, specification support, and consistent reorder quality across territories. Minimum commitment based on territory size.'
+      icon: tabler:world
+    - title: 'Dealer Program'
+      description: 'Product specs, sample approval, warranty support, and reliable reorders for retail locations and online stores.'
+      icon: tabler:building-store
+    - title: 'OEM/ODM Partnership'
+      description: 'Full-service OEM and ODM manufacturing with custom branding, packaging, and product specifications. From concept to container.'
+      icon: tabler:certificate
+    - title: 'Brand Partnership'
+      description: 'Private label and model development for established brands in the marine and outdoor recreation space.'
+      icon: tabler:stars
+    - title: 'Government & Institutional'
+      description: 'Preferred supplier programs for government agencies, coast guards, military, and humanitarian organizations. Tender-ready documentation.'
+      icon: tabler:building-community
+    - title: 'Resort & Rental Partner'
+      description: 'Fleet pricing, consistent quality, and custom branding for resorts, diving centers, and rental operations worldwide.'
+      icon: tabler:sun
+content_benefits:
+  tagline: Why Partner With Us
+  title: 'Why Partners Choose Vectoflare'
+  subtitle: 'Our partners work with real manufacturing capability, consistent quality, and responsive engineering support.'
+  list:
+    - 'Direct Factory Access: Work directly with our manufacturing team — no middlemen. Faster responses, full visibility into production, and engineering answers from the people who build the boards.'
+    - 'Customization Ready: Brand your products with custom colors, logos, packaging, and specifications. MOQ is confirmed by project configuration — sample, pilot and volume stages.'
+    - 'Quality Guaranteed: ISO 9001 certified production with CE, BSCI, and REACH compliance. Every product pressure-tested before shipping.'
+    - 'Global Logistics: Shipping from Qingdao, China with FOB, CIF, and DDP options. US warehouse in Montclair, CA for North American distribution.'
+    - 'Technical Documentation: Product catalogs, photography, and technical documentation to support specification and reorder decisions.'
+    - 'Spec & QC Support: Sampling before bulk, technical support for your customers, and warranty service coordination.'
+content_process:
+  tagline: How to Become a Partner
+  title: 'Partnership Process'
+  subtitle: 'A straightforward process — from application to your first production run.'
+  items:
+    - title: 'Step 1: Submit Application'
+      description: 'Complete our partner application form with your company profile, target market, and product interests.'
+    - title: 'Step 2: Qualification Review'
+      description: 'Our team reviews your application and contacts you within 3 business days to discuss requirements.'
+    - title: 'Step 3: Agreement & Setup'
+      description: 'Sign a partnership agreement, set up your account, and receive product samples, specs, and agreed terms.'
+    - title: 'Step 4: Sampling & Production'
+      description: 'Approve physical samples, confirm specifications and MOQ, and production runs under your brand.'
+cta:
+  title: 'Discuss a Partnership'
+  subtitle: 'Send your requirements and our team will respond within 3 business days.'
+  actions:
+    - variant: primary
+      text: Send your requirements
+      href: /contact
+    - text: View our products
+      href: /products
+
+content_html: |
+  <div class="mx-auto max-w-3xl space-y-4 rounded-2xl border bg-card p-6 text-[14.5px] leading-relaxed text-fg-2">
+    <p><strong>Keep reading:</strong> partner programs share one <a href="/oem-manufacturing">OEM/ODM manufacturing engine</a> — terms, trial MOQs and customization are defined there — and all production runs through the <a href="/factory">12,500 m&sup2; factory</a>.</p>
+  </div>

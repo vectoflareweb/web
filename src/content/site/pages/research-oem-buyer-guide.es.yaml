@@ -1,0 +1,103 @@
+﻿meta:
+  title: 'Guía del comprador OEM: abastecer SUP desde Asia | Vectoflare'
+  description: 'Cómo abastecer SUP hinchables desde Asia: auditoría de fábrica, control de calidad, cumplimiento, negociación de MOQ, envío y errores a evitar.'
+  author: 'Vectoflare'
+  datePublished: '2026-08-04'
+  dateModified: '2026-08-07'
+back_text: 'Volver a Investigación'
+
+hero:
+  tagline: 'Abastecimiento'
+  title: 'Guía del comprador OEM — Cómo abastecer tablas de SUP hinchables desde Asia'
+  subtitle: '12 min de lectura'
+
+answer:
+  label: 'Respuesta directa'
+  text: 'La cantidad mínima de pedido se confirma según la configuración del proyecto, no con un número fijo: el desarrollo de muestra (1–2 unidades) valida el producto, los pedidos piloto (20–50 unidades) prueban el mercado sobre plataformas existentes, la producción de volumen estándar corre en lotes de 90–100+ unidades por rollo completo de drop-stitch de 150 m, y el co-branding de lotes pequeños parte de menos de 20 unidades. Las muestras se envían en 7–12 días; la producción en serie tarda 25–35 días tras la confirmación de la orden de compra y el depósito, más 15–20 días cuando se requiere utillaje nuevo.'
+  verified: '2026-08'
+
+content_html: |
+  <h2>1. Preevaluación: qué buscar en una fábrica</h2>
+
+  <h3>Certificados de cumplimiento</h3>
+  <ul>
+    <li><strong>ISO 9001:2015</strong> – Sistema de gestión de calidad</li>
+    <li><strong>Certificación CE</strong> – Verifica el número del organismo notificado</li>
+    <li><strong>BSCI / SMETA / SEDEX</strong> – Auditorías de cumplimiento social</li>
+    <li><strong>REACH / RoHS</strong> – Declaraciones de cumplimiento de materiales</li>
+  </ul>
+
+  <h3>Capacidades de fabricación</h3>
+  <ul>
+    <li>Tejido de núcleo drop-stitch interno frente a subcontratado</li>
+    <li>Línea de recubrimiento / laminado de PVC</li>
+    <li>Equipos de soldadura RF y soldadura por aire caliente</li>
+    <li>Fabricación de moldes interna (mecanizado CNC)</li>
+    <li>Laboratorio de ensayos (ensayos de presión, envejecimiento UV, ensayos de tracción)</li>
+  </ul>
+
+  <h3>Verificación de la experiencia</h3>
+  <ul>
+    <li>Años en la fabricación de embarcaciones hinchables (5+ años como mínimo)</li>
+    <li>Número de ingenieros en plantilla</li>
+    <li>Clientes OEM/ODM existentes (solicita referencias)</li>
+    <li>Destinos de exportación: ¿ya envían a tu mercado objetivo?</li>
+  </ul>
+
+  <h2>2. Protocolos de control de calidad</h2>
+  <p>Control de calidad de entrada de materiales: resistencia a la tracción (ASTM D751 o ISO 1421), resistencia al desgarro (ASTM D2261 o ISO 4674), resistencia de adhesión y controles puntuales de envejecimiento UV.</p>
+  <p>Control de calidad en proceso: supervisión de la resistencia de costuras cada 50 unidades, verificación del par de la válvula, comprobaciones de la densidad de hilos del drop-stitch y comprobaciones dimensionales frente a los planos CAD.</p>
+  <p>Inspección final: prueba de retención de inflado al 100% (24 horas, caída máxima de 0,50 PSI), inspección visual, prueba de funcionamiento de la válvula y ensayos con muestras aleatorias (AQL 2.5 o 4.0 según ISO 2859).</p>
+
+  <h2>3. Lista de verificación de documentación de cumplimiento</h2>
+  <ul>
+    <li>Declaración de Conformidad (DoC) que haga referencia a la directiva de la UE correcta</li>
+    <li>Certificado CE del organismo notificado</li>
+    <li>Informe de ensayo de un laboratorio acreditado</li>
+    <li>Fichas de datos de seguridad de materiales (MSDS)</li>
+    <li>Declaración de cumplimiento REACH</li>
+    <li>Lista de materiales con trazabilidad de proveedores</li>
+    <li>Informe de inspección de fábrica</li>
+  </ul>
+
+  <h2>4. Negociación del MOQ</h2>
+  <p>Los MOQ de las tablas de SUP hinchables los determinan la ruta de producción y la configuración del proyecto, no las conjeturas. Todos los proyectos OEM/ODM de Vectoflare siguen tres etapas de cantidad distintas — muestra, piloto y volumen — y la lógica de cálculo completa se explica en nuestra <a href="/es/oem-moq-guide">Guía de MOQ y Branding Flexible</a>:</p>
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-gray-100">
+        <th class="p-3 text-left font-semibold text-gray-900 border">Ruta de producción</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">MOQ</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Plazos</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="p-3 border font-medium">Desarrollo de muestra (por diseño)</td><td class="p-3 border">1 – 2 unidades</td><td class="p-3 border">Muestras en 7 – 12 días</td></tr>
+      <tr><td class="p-3 border font-medium">Pedido piloto (plataformas existentes)</td><td class="p-3 border">20 – 50 unidades</td><td class="p-3 border">Validación de mercado con materiales de stock</td></tr>
+      <tr><td class="p-3 border font-medium">Lote de volumen estándar (por diseño)</td><td class="p-3 border">90 – 100+ unidades</td><td class="p-3 border">25 – 35 días tras la orden de compra y el depósito</td></tr>
+      <tr><td class="p-3 border font-medium">Molde totalmente personalizado / marca blanca</td><td class="p-3 border">Confirmado por configuración</td><td class="p-3 border">Añade 15 – 20 días para el utillaje</td></tr>
+    </tbody>
+  </table>
+  <p>Las cantidades de muestra, piloto y producción de volumen son diferentes: el desarrollo de muestra (1–2 unidades) valida el producto, los pedidos piloto (20–50 unidades) prueban el mercado sobre plataformas existentes, y la producción de volumen estándar corre en lotes de 90–100+ unidades por rollo completo de drop-stitch de 150 m — con tramos de precios por volumen a medida que aumenta el tamaño del pedido. Consigue por escrito el cálculo de MOQ, el plazo de entrega y las condiciones de pago para tu tabla concreta antes de comprometerte con un proveedor.</p>
+
+  <h2>5. Logística y envío</h2>
+  <p>Incoterms habituales: <strong>FOB</strong> (la fábrica entrega en el puerto de salida: el más común), <strong>EXW</strong> (el comprador gestiona todo el envío desde la puerta de la fábrica), <strong>CIF</strong> (la fábrica paga el flete y el seguro hasta el puerto de destino).</p>
+  <p>Los productos hinchables son de bajo peso y gran volumen: el peso volumétrico (DIM) suele determinar el coste de envío. Solicita embalaje al vacío para reducir el volumen entre un 50 y un 60%. El tránsito marítimo de China a la UE suele tardar 25–35 días, y 7–12 días a la costa oeste de EE. UU., además del plazo de producción de 25–35 días.</p>
+
+  <h2>6. Errores habituales</h2>
+  <ul>
+    <li><strong>Sin auditoría de fábrica:</strong> realiza o encarga siempre una auditoría de terceros (QIMA, SGS, Bureau Veritas)</li>
+    <li><strong>Solo especificaciones verbales:</strong> hoja de especificaciones técnicas detallada firmada por ambas partes</li>
+    <li><strong>Omitir la aprobación de muestras:</strong> aprobación por escrito de las muestras antes de la producción en serie</li>
+    <li><strong>Sin control de calidad durante la producción:</strong> inspección por terceros durante la producción (DUPRO) y antes del envío (PSI)</li>
+    <li><strong>Ignorar el cumplimiento:</strong> verifica el marcado CE (Directiva 2013/53/UE) y la documentación específica del mercado antes de la producción</li>
+  </ul>
+
+  <h2>7. Por qué Vectoflare</h2>
+  <p>Vectoflare fabrica tablas de SUP hinchables OEM/ODM desde 2012. Con unas instalaciones certificadas ISO 9001 de 12,500 m&sup2;, más de 25 ingenieros y certificación CE en todas las líneas de productos, cumplimos todos los criterios de esta guía. Ofrecemos MOQ de prueba para nuevos socios y paquetes completos de documentación de cumplimiento.</p>
+  <p>Revisa nuestros <a href="/es/oem-manufacturing">servicios de fabricación OEM/ODM de SUP hinchables</a> o visita la <a href="/es/factory">planta de 12,500 m&sup2;</a> para ver los equipos y los procesos de control de calidad que hay detrás de cada paso anterior.</p>
+
+cta:
+  title: '¿Listo para empezar a abastecerte?'
+  subtitle: 'Contacta con nuestro equipo OEM para hablar de los requisitos de tu proyecto.'
+  button_text: 'Solicitar presupuesto'
+  button_link: /es/contact

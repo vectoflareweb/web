@@ -1,0 +1,111 @@
+meta:
+  title: 'Laboratorio de Tejidos PVC — Ensayo de materiales para tablas SUP'
+  description: 'Ensayos de materiales, de la fibra a la tabla terminada: tracción, envejecimiento UV, flexibilidad en frío y abrasión de los tejidos de PVC para SUP.'
+back_text: 'Volver al Centro de I+D'
+home_label: 'Inicio'
+
+hero:
+  tagline: 'Lab 01'
+  title: 'Laboratorio de Tejidos PVC'
+  subtitle: 'Ensayos científicos de materiales — de la fibra a la tabla terminada'
+  image: 'https://assets.vectoflare.com/images/vectoflare/randd/vectoflare-pvc-material-lab.webp'
+  image_alt: 'Laboratorio de ensayos de materiales de tejido PVC de Vectoflare'
+
+answer:
+  label: 'Respuesta directa'
+  text: 'Las tablas se construyen con PVC marino de 1,680 DTEX con recubrimiento de tres capas y un núcleo drop-stitch homologado para 12–15 PSI. Cada lote de tejido entrante se ensaya de forma independiente en nuestras instalaciones, comprobando la resistencia a la tracción (ISO 1421), la retención UV tras 2,000 horas de exposición con arco de xenón (ISO 4892), la abrasión y la flexibilidad en frío — ningún lote entra en producción basándose solo en las fichas del proveedor.'
+  verified: '2026-08'
+
+intro: 'El tejido de la tabla es el material más crítico de un SUP hinchable. Debe soportar la exposición constante a los rayos UV, los ciclos repetidos de inflado, la abrasión contra muelles y playas con arena, y los cambios extremos de temperatura — manteniendo su integridad estructural durante años. En {SITE.name}, nuestro Laboratorio de Tejidos PVC está dedicado en exclusiva a la caracterización, validación y mejora continua de los tejidos que usamos en cada tabla que fabricamos.'
+
+content_html: |
+  <h2>El fundamento de cada SUP hinchable</h2>
+  <p>No dependemos solo de las fichas técnicas del proveedor. Cada lote de PVC y de tejido de núcleo drop-stitch que entra en nuestro taller se somete a ensayos independientes internos. Esto garantiza que la especificación de material que publicamos es el rendimiento que recibes — lote tras lote, año tras año.</p>
+
+  <h2>Equipos de ensayo normalizados</h2>
+  <p>Nuestro laboratorio de tejidos está equipado con instrumentos de grado industrial que se ajustan a los métodos de ensayo ISO, ASTM y EN:</p>
+  <table>
+    <thead><tr><th>Equipo</th><th>Parámetros medidos</th><th>Estándar</th></tr></thead>
+    <tbody>
+      <tr><td>Máquina universal de ensayos de tracción (50 kN)</td><td>Fuerza de rotura, alargamiento de rotura, propagación del desgarro</td><td>ISO 1421 / ASTM D751</td></tr>
+      <tr><td>Cámara de intemperie con arco de xenón</td><td>Resistencia UV (cambio de color, retención de resistencia tras 2000 h)</td><td>ISO 4892 / ASTM G155</td></tr>
+      <tr><td>Ensayo de flexión en frío</td><td>Punto de grieta entre -30 °C y -50 °C</td><td>ISO 4675 / ASTM D2136</td></tr>
+      <tr><td>Máquina de abrasión Taber</td><td>Pérdida de peso tras 1000 ciclos (rueda CS-10)</td><td>ASTM D3389 / ISO 5470-1</td></tr>
+      <tr><td>Medidor de grosor digital (resolución 0.001 mm)</td><td>Uniformidad en todo el ancho del rollo</td><td>ISO 2286-3</td></tr>
+      <tr><td>Medidor de columna hidrostática</td><td>Resistencia a la penetración de agua</td><td>ISO 811</td></tr>
+    </tbody>
+  </table>
+  <p class="text-sm text-gray-500">* Todo el equipo se calibra anualmente en laboratorios acreditados de terceros.</p>
+
+  <h2>De los datos a la decisión: un flujo de ensayo típico</h2>
+  <p>Cuando llega un nuevo candidato de tejido, se somete a un proceso de cualificación normalizado en siete pasos:</p>
+  <ol>
+    <li><strong>Control en recepción</strong> — comprobación visual de defectos superficiales, microporos y conformidad dimensional.</li>
+    <li><strong>Mapa de grosor</strong> — medición en 20 puntos del rollo; se exige un CV &lt; 3 % para la aceptación.</li>
+    <li><strong>Ensayo de tracción</strong> — 5 probetas en dirección de urdimbre y de trama. Mínimo 3500 N/50 mm para PVC de 1100 dtex.</li>
+    <li><strong>Acondicionado UV</strong> — 1000 h de exposición en cámara de arco de xenón; se exige una retención de resistencia mínima del 80 %.</li>
+    <li><strong>Grieta en frío</strong> — 4 h a -35 °C y flexión de 180° sobre un mandril de 25 mm. Sin grietas visibles.</li>
+    <li><strong>Resistencia a la abrasión</strong> — 1000 ciclos, pérdida de peso ≤ 0.05 g.</li>
+    <li><strong>Validación final</strong> — solo después de superar las siete puertas se libera el tejido a la producción.</li>
+  </ol>
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">PVC 1100 dtex típico — retención de resistencia a tracción tras exposición UV</p>
+    <div class="flex items-end gap-3 h-40">
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-600 rounded-t" style="height:100%"></div>
+        <span class="text-xs mt-1">0 h 100%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-500 rounded-t" style="height:95%"></div>
+        <span class="text-xs mt-1">500 h 95%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-400 rounded-t" style="height:88%"></div>
+        <span class="text-xs mt-1">1000 h 88%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-300 rounded-t" style="height:82%"></div>
+        <span class="text-xs mt-1">2000 h 82%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-gray-300 rounded-t" style="height:65%"></div>
+        <span class="text-xs mt-1">Competidor ~65%</span>
+      </div>
+    </div>
+    <p class="text-xs text-gray-400 mt-2">Nuestro tejido de PVC 1100 dtex conserva más del 80 % de la resistencia a la tracción tras 2000 h de arco de xenón, frente a calidades típicas del sector que caen por debajo del 70 %.</p>
+  </div>
+
+  <h2>Nuestro equipo profesional</h2>
+  <p>El laboratorio cuenta con dos ingenieros de materiales a jornada completa, cada uno con un título en química de polímeros o en ingeniería textil y un mínimo de seis años de experiencia en el sector. Les apoyan tres técnicos que realizan los ensayos del día a día y el registro de datos. El equipo participa con regularidad en ensayos interlaboratorio (round-robin) organizados por la Organización Internacional de Normalización (ISO) para validar la exactitud de nuestros métodos.</p>
+
+  <h2>Resolvemos tus retos materiales más exigentes</h2>
+  <p>Cada entorno de navegación es distinto. Una tabla que opera en zonas tropicales se enfrenta a condiciones de UV y temperatura muy distintas de una en un lago nórdico o un embalse desértico. Nuestro laboratorio de tejidos te ayuda a elegir — o a desarrollar — una especificación de tejido optimizada para tu perfil de uso.</p>
+  <p>Soluciones a medida recientes:</p>
+  <ul>
+    <li>Una mezcla de PVC de alta resistencia a la abrasión para una flota de alquiler cuyas tablas tocan habitualmente playas de arena y rampas de hormigón (+40 % de vida útil frente a la abrasión).</li>
+    <li>Una formulación de baja temperatura para el programa de invierno de un distribuidor canadiense, ensayada hasta -50 °C sin quebrarse.</li>
+    <li>Una cubierta naranja de color estabilizado para una flota de formación de búsqueda y salvamento, que mantiene la visibilidad tras 3 años de sol tropical.</li>
+  </ul>
+  <p>No vendemos tejidos "de catálogo" con la esperanza de que funcionen: ensayamos, validamos y recomendamos — o creamos — una solución a la medida de tu perfil de misión. Esa es la diferencia de {SITE.name}.</p>
+
+  <h2>Cómo te ayudamos</h2>
+  <p>Cuando planteas un reto material, esto es lo que puedes esperar:</p>
+  <ol>
+    <li><strong>Consultoría</strong> — analizamos tu entorno operativo, tus objetivos de rendimiento y tu presupuesto.</li>
+    <li><strong>Propuesta</strong> — se elabora un plan de ensayos con criterios claros de superado/no superado y un calendario.</li>
+    <li><strong>Ejecución</strong> — nuestro laboratorio realiza los ensayos y emite un informe detallado con datos brutos y análisis comparativo.</li>
+    <li><strong>Recomendación</strong> — presentamos una especificación de tejido, incluyendo alternativas si varias cumplen tus requisitos.</li>
+    <li><strong>Seguimiento</strong> — tras la entrega, seguimos a disposición para resolver cualquier duda sobre el material en servicio.</li>
+  </ol>
+  <p>Nuestro objetivo no es solo venderte una tabla: es asegurar que la tabla que recibes rinde de forma fiable en las condiciones en las que operas — y todo eso empieza con el tejido.</p>
+
+cta:
+  title: '¿Necesitas una especificación de tejido a medida?'
+  subtitle: 'Contacta con nuestro equipo de ingeniería de materiales para hablar de tus requisitos.'
+  actions:
+    - variant: primary
+      text: Contacta con nuestro equipo de laboratorio
+      href: /es/contact#project-brief
+    - text: Volver al centro de I+D
+      href: /es/randdcenter

@@ -1,0 +1,150 @@
+﻿meta:
+  title: 'Desarrollo ODM de SUP | Diseño de tablas a medida desde tu idea'
+  description: 'Desarrollo ODM de SUP en Qingdao: de la idea al casco, gráfica, prototipo y producción en serie — diseño interno, ingeniería de moldes y muestras en 7–12 días.'
+  dateModified: '2026-08-16'
+  keywords:
+    - 'desarrollo ODM de tablas SUP'
+    - 'diseño de tablas SUP a medida'
+    - 'desarrollo de paddle boards'
+    - 'diseño de forma y gráfica SUP personalizada'
+    - 'fábrica de desarrollo de muestras SUP'
+
+hero:
+  tagline: Desarrollo ODM
+  title: 'Desarrollo ODM de SUP — De tu idea a una tabla lista para el mercado'
+  subtitle: '¿Aún no tienes planos? Nuestros ingenieros diseñan el casco, la estructura, la gráfica y el embalaje alrededor de tu brief — y luego fabrican, prueban y producen en serie. Prototipos en 7–12 días, producción en 25–35 días tras confirmar el pedido.'
+
+answer:
+  label: 'Respuesta directa'
+  text: 'El desarrollo ODM parte de tu brief, no de tus planos: el diseño del casco (largo, ancho, rocker, volumen), la estructura del material y la gráfica se ingenian en casa, se validan con muestras de prototipo en 7–12 días y se producen con un MOQ de volumen estándar de 90–100 unidades por lote de rollo de 150 m (pilotos desde 20–50 unidades). La producción corre en 25–35 días tras confirmar el pedido y el depósito; el utillaje de molde a medida añade 15–20 días. Con cada pedido se envía documentación CE, ISO 9001, BSCI, REACH y RoHS.'
+  verified: '2026-08'
+
+features:
+  title: Capacidades ODM
+  subtitle: 'Todo lo que obtienes cuando el trabajo de diseño ocurre en la fábrica, no en tu escritorio.'
+  items:
+    - title: Diseño de casco
+      description: 'Largo, ancho, grosor, rocker y volumen diseñados para tus riders, casos de uso y mercados — desde una página en blanco o desde nuestra biblioteca de plataformas probadas.'
+      icon: 'tabler:waves'
+    - title: Ingeniería estructural
+      description: 'Densidad del drop-stitch, número y calidad de capas de PVC, posición de rigidizadores y construcción del raíl especificados y validados para tu diseño.'
+      icon: 'tabler:building-factory'
+    - title: Gráfica y branding
+      description: 'Gráfica de cubierta, branding en el tubo, plataformas EVA y embalaje retail desarrollados por nuestro equipo de diseño interno alrededor de tu marca.'
+      icon: 'tabler:palette'
+    - title: Desarrollo de moldes
+      description: 'Las nuevas formas de casco empiezan como utillaje de molde diseñado y cortado en casa — el utillaje añade 15–20 días al proyecto.'
+      icon: 'tabler:shapes'
+    - title: Validación con prototipo
+      description: 'Se construye un prototipo físico, se prueba y se envía para tu revisión con pruebas en el agua — normalmente en 7–12 días.'
+      icon: 'tabler:tools'
+    - title: Ensayos y cumplimiento
+      description: 'Ensayos por unidad de retención de aire, presión y resistencia de costuras, con documentación CE, ISO 9001, BSCI, REACH y RoHS para exportación.'
+      icon: 'tabler:certificate'
+    - title: Opciones de propiedad del utillaje
+      description: 'Cláusulas de propiedad o compra del molde escritas en el contrato — tu diseño sigue siendo tuyo y el utillaje se conserva para reordenes.'
+      icon: 'tabler:lock'
+    - title: Del prototipo al contenedor
+      description: 'Un diseño ODM validado pasa directo a producción de volumen estándar: 90–100+ unidades por lote de rollo de 150 m, en 25–35 días tras confirmar el pedido.'
+      icon: 'tabler:package'
+
+customization:
+  tagline: Diseñado contigo
+  title: Qué desarrollamos alrededor de tu brief
+  subtitle: 'ODM significa que el producto se diseña para ti desde cero o desde nuestra biblioteca de plataformas — estas son las palancas que controla tu brief:'
+  items:
+    - 'Perfil de rider y mercado — posicionamiento principiante, travesía, carrera, yoga, pesca o multipropósito'
+    - 'Dimensiones de la tabla — largo, ancho, grosor y volumen ajustados al rider y al caso de uso objetivo'
+    - 'Carácter del casco — rocker, perfil de raíl, nariz y cola ajustados para estabilidad o velocidad'
+    - 'Estructura del material — densidad del drop-stitch, número y calidad de capas de PVC, rigidizadores y refuerzos de raíl'
+    - 'Gráfica y colores — colores de marca, arte de cubierta y branding de tubo desarrollados en casa'
+    - 'Plataforma EVA — diseño, colores e integración del logotipo en la cubierta'
+    - 'Paquete de accesorios — palas, bombas, quillas, correas y bolsas acordes a la tabla'
+    - 'Embalaje y presentación retail — cajas retail, displays y embalaje de exportación bajo tu marca'
+
+faq_section:
+  tagline: FAQ
+  title: Preguntas sobre desarrollo ODM
+  questions:
+    - q: '¿En qué se diferencia ODM de OEM?'
+      a: 'ODM (fabricación con diseño original) parte de tu brief o simplemente de una idea — nuestros ingenieros diseñan el casco, la estructura, la gráfica y el embalaje, y luego muestrean y producen. OEM (fabricación con equipo original) construye desde tu propio diseño o planos tal cual. Ambas rutas pasan por la misma planta, el mismo sistema de QC y el mismo equipo de exportación; ODM es la vía más rápida hacia una tabla con tu marca cuando todavía no tienes un diseño.'
+    - q: 'Solo tengo una idea aproximada — ¿por dónde empezamos?'
+      a: 'Envía un brief corto: riders objetivo, casos de uso, tamaño aproximado, mercados y volúmenes. Nuestros ingenieros vuelven con un concepto, una dirección de tablas de referencia y un plan de desarrollo en un día laborable — se firma un NDA antes de cualquier intercambio detallado cuando lo pidas.'
+    - q: '¿Cuánto tarda el desarrollo de una tabla SUP nueva?'
+      a: 'Las muestras de prototipo salen en 7–12 días. Un casco nuevo con utillaje de molde a medida añade 15–20 días de ingeniería antes de las muestras. La producción corre en 25–35 días tras el pedido y el depósito.'
+    - q: '¿Cuál es el MOQ de una tabla ODM?'
+      a: 'La producción de volumen estándar corre de 90–100 unidades por lote de rollo de drop-stitch de 150 m; los pilotos parten de 20–50 unidades sobre plataformas existentes. El co-branding de lotes pequeños parte de menos de 20 unidades — consulta nuestra Guía de MOQ y branding flexible para el cálculo completo.'
+    - q: '¿Quién es el dueño del diseño y del molde?'
+      a: 'Tu brief, tu diseño y el utillaje están protegidos por NDA, términos de licencia de marca y cláusulas de propiedad o compra del molde escritas en el contrato. El utillaje se conserva para tu marca y es transferible.'
+    - q: '¿Podéis desarrollar una forma específica (travesía, pesca, carrera, yoga)?'
+      a: 'Sí. La ingeniería de cascos cubre todas las categorías principales de SUP — all-around, travesía, carrera, yoga, pesca y tablas multipersona — con validación en tanque hidrodinámico disponible para formas de rendimiento.'
+    - q: '¿Qué certificaciones llevará la tabla desarrollada?'
+      a: 'CE (directiva de embarcaciones de recreo), ISO 9001, BSCI, REACH y RoHS. La documentación de certificación se prepara por pedido para tus mercados de exportación, y la conformidad ISO 25649 aplica a las tablas hinchables de SUP.'
+
+process:
+  title: 'El proceso ODM — Del brief a la producción escalada'
+  subtitle: 'Seis fases controladas dirigidas por el mismo equipo interno que diseña, muestrea y escala tu tabla — todo queda documentado.'
+  steps:
+    - phase: '01'
+      title: Brief y concepto
+      period: 1 día laborable
+      items:
+        - 'Comparte riders objetivo, casos de uso, tamaños, mercados y volúmenes — o solo una idea.'
+        - 'Nuestros ingenieros devuelven una dirección de concepto, opciones de plataforma y un plan de desarrollo.'
+    - phase: '02'
+      title: Diseño de casco y estructura
+      period: Semana 1–2
+      items:
+        - 'Dimensiones de la tabla, carácter del casco, densidad del drop-stitch y estructura de PVC diseñados en casa.'
+        - 'Gráfica, diseño de la cubierta EVA y concepto de embalaje desarrollados alrededor de tu marca.'
+    - phase: '03'
+      title: Molde y utillaje
+      period: +15–20 días (formas nuevas)
+      items:
+        - 'Utillaje de molde a medida diseñado y cortado para formas nuevas; las plataformas existentes omiten esta fase.'
+        - 'Los términos de propiedad del utillaje se fijan en el contrato antes de empezar el corte.'
+    - phase: '04'
+      title: Prototipo y muestra
+      period: 7–12 días
+      items:
+        - 'Se construye un prototipo físico, se prueba y se envía para tu revisión — pruebas en el agua incluidas.'
+        - 'La muestra (1–2 unidades) valida forma, estructura y branding antes del volumen.'
+    - phase: '05'
+      title: Validación y aprobación
+      period: En paralelo
+      items:
+        - 'Controles de retención de aire, presión, resistencia de costuras, carga y UV por línea de producción.'
+        - 'Documentación CE, ISO 9001, BSCI, REACH y RoHS preparada para tus mercados de exportación.'
+        - 'Apruebas el prototipo; el pedido y el depósito bloquean el cupo de producción.'
+    - phase: '06'
+      title: Producción y entrega
+      period: 25–35 días
+      items:
+        - 'Los lotes de volumen estándar corren de 90–100+ unidades por rollo de 150 m; los pilotos desde 20–50 unidades.'
+        - 'Embalaje de exportación, envío FOB/CIF/DDP a más de 50 países y soporte de reordenes incluidos.'
+
+geo:
+  tagline: Con quién trabajamos
+  title: Socios ODM en toda la industria del SUP
+  sentence: 'ODM en Vectoflare une tu brief con los mismos ingenieros, diseñadores y equipo de producción que han lanzado tablas para estos tipos de negocio — estos son a quienes servimos.'
+  audiences:
+    - 'Marcas de SUP'
+    - 'Empresas de outdoor y deportes acuáticos'
+    - 'Distribuidores y minoristas'
+    - 'Resorts, clubes y organizaciones'
+
+cta:
+  title: '¿Listo para desarrollar tu tabla SUP?'
+  subtitle: 'Envía tu brief — un concepto, tamaños y mercados objetivo son suficientes para empezar. Revisión de ingeniería y presupuesto en un día laborable.'
+  actions:
+    - variant: primary
+      text: Iniciar un proyecto ODM
+      href: /es/contact#custom-oem
+    - text: Consulta el pipeline de desarrollo de producto de seis pasos
+      href: /es/product-development
+    - text: Verifica la fábrica y el sistema de calidad
+      href: /es/oem-trust-assurance
+    - text: Guía de MOQ y branding flexible
+      href: /es/oem-moq-guide
+    - text: Comparación de Construcción SUP
+      href: /es/sup-construction-comparison

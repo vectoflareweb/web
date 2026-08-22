@@ -1,0 +1,242 @@
+meta:
+  title: 'Non-Conforming SUP Control & Rework | OEM Factory | Vectoflare'
+  description: 'Non-conforming product control (ISO 9001:2015 Clause 8.7): NCR quarantine, controlled rework under SRI, independent re-inspection and witnessed destruction.'
+  dateModified: '2026-08-14'
+  keywords:
+    - 'non conforming product control'
+    - 'sup rework re-inspection process'
+    - 'iso 9001 non-conforming outputs'
+    - 'ncr control manufacturing'
+    - 'scrap destruction certificate sup'
+    - 'inflatable sup oem quality control'
+
+hero:
+  tagline: Non-Conforming Product Control
+  title: Isolation, Rework & Re-Inspection Process for Non-Conforming Products
+  subtitle: 'At QINGDAO VATRAD GROUP.,LTD., a non-conforming board never flows on. Any product or component that fails the defined acceptance criteria is identified, recorded against a Non-Conformance Report (NCR), labelled and segregated, assessed for affected scope, and dispositioned at the right authority level. Permitted rework follows controlled instructions, corrected items are re-inspected against the original acceptance criteria — including complete re-testing where required — and product ships only after authorized quality sign-off. This page presents our controlled standard under ISO 9001:2015 Clause 8.7 and the traceability evidence behind it.'
+  actions:
+    - text: Download NCP Control SOP (PDF)
+      variant: primary
+      href: 'https://assets.vectoflare.com/site/downloads/non-conforming-product-control-sop-iso-8-7.pdf?dl=1'
+    - text: Download Scrap & Destruction Certificate (PDF)
+      href: 'https://assets.vectoflare.com/site/downloads/scrap-destruction-certificate-vat-qa-scrap-cert-2026.pdf?dl=1'
+    - text: Request Quality Review
+      href: /contact
+
+answer:
+  label: 'Straight answer'
+  text: 'Non-conforming products are never hidden, reworked informally, or released without verification at QINGDAO VATRAD GROUP.,LTD. Every identified non-conformance is recorded against the affected product, batch or component and linked to an NCR. The item is labelled (HOLD / QUARANTINE / REJECTED), physically segregated, and the affected scope is assessed by batch, material lot, process stage and document revision. Disposition is decided at the authority level matching the defect severity: Minor issues are signed off at the line level, Major issues require a QC Manager + Technical Engineer disposition with a controlled rework instruction and 100% independent re-inspection, and Critical issues require a Material Review Board decision with written customer concession where required — otherwise mandatory witnessed destruction. Reworked items are re-inspected against the original acceptance criteria, air-tightness repairs receive a complete new pressure test cycle, and shipment release happens only after authorized quality sign-off. Repeated or systemic issues trigger root-cause corrective action (CAPA).'
+  verified: '2026-08'
+
+stats:
+  tagline: At a Glance
+  title: Non-Conformance Control in Numbers
+  stats:
+    - value: '7'
+      label: Steps from identify to corrective action
+    - value: '100%'
+      label: Re-inspection of every reworked board by independent QA
+    - value: '24h'
+      label: Complete pressure re-test for air-tightness repairs
+    - value: '≥ 5 yr'
+      label: Witnessed destruction evidence retention (SHA-256 vault)
+
+nc_intro:
+  tagline: Control of Non-Conforming Products
+  title: What Happens When a Product Does Not Meet the Criteria
+  body: |
+    Products or components that do not meet the defined acceptance criteria are identified and controlled to prevent unintended use, further processing or shipment. The applicable acceptance criteria are based on the approved sample, technical specification, artwork, bill of materials, packaging requirements and project inspection plan.
+
+    Non-conforming items are evaluated to determine the affected scope and the appropriate disposition. Depending on the issue, the item may be held, reworked under controlled instructions, replaced, rejected or otherwise handled through an approved process. Reworked or corrected items are re-inspected before release. Shipment release is permitted only after the relevant quality records are completed and the product meets the applicable acceptance criteria.
+
+nc_flow:
+  tagline: Standard 7-Step Closed-Loop
+  title: From Identify to Corrective Action
+  subtitle: 'One controlled loop for every non-conformance: identify, quarantine, review, rework or replace, re-inspect, release or reject, improve.'
+  steps:
+    - step: '01'
+      title: Identify
+      desc: 'Any identified non-conformance is recorded against the affected product, batch or component and assessed against the applicable project requirements. Detection can happen at incoming material, in-process control, final testing, packing or customer/third-party inspection.'
+    - step: '02'
+      title: Quarantine
+      desc: 'Items are clearly identified and placed under controlled hold or quarantine status to prevent unintended use, further processing or shipment. HOLD / QUARANTINE / REJECTED labels carry the NCR number, SKU, batch, quantity, defect description and date.'
+    - step: '03'
+      title: Review
+      desc: 'The affected scope and appropriate disposition are evaluated: single unit, shift lot, full batch or multiple batches — across shared material lots, artwork revisions, process stages and document revisions. Additional containment or tightened inspection is applied where required.'
+    - step: '04'
+      title: Rework or Replacement
+      desc: 'Permitted rework follows approved instructions that identify the affected item, method, materials, inspection points and re-inspection requirements. Unapproved changes to the product specification, artwork, accessory configuration or packaging are never allowed. Replacement items re-enter the applicable inspection gates.'
+    - step: '05'
+      title: Re-Inspection
+      desc: 'Reworked or corrected items are re-inspected against the applicable acceptance criteria. The original failed characteristic and any related characteristics potentially affected by rework are verified before release — by independent QC, and with a complete new 24h pressure test cycle for air-tightness repairs.'
+    - step: '06'
+      title: Release or Reject
+      desc: 'Product is released only after the required re-inspection is completed and authorized quality personnel confirm conformity with the applicable project requirements. Items that cannot be brought into conformity are rejected, replaced, returned or dispositioned under controlled procedures — including witnessed physical destruction.'
+    - step: '07'
+      title: Corrective Action
+      desc: 'Repeated, significant or systemic non-conformances are reviewed for root cause and corrective action (CAPA). Improvements may include updates to work instructions, material controls, inspection points, training, supplier management or document control.'
+
+nc_pillars:
+  tagline: Buyer Trust Pillars
+  title: Three Controls That Protect Your Brand
+  subtitle: 'The process is designed around the questions overseas buyers actually ask: will problems be hidden, will rework run out of control, and will repaired boards be re-verified.'
+  features:
+    - icon: 1
+      icon_bg: blue
+      title: Controlled Instructions Only
+      desc: 'Rework is strictly governed by authorized Standard Rework Instructions (SRI). Unapproved field alterations, changing specifications, or modifying artwork without written authorization is strictly prohibited.'
+    - icon: 2
+      icon_bg: green
+      title: Independent Re-Inspection
+      desc: 'Reworked boards undergo 100% re-inspection by QA inspectors against the original acceptance criteria. Air-tightness repairs require a brand-new, complete 24h pressure test cycle — never a partial re-check.'
+    - icon: 3
+      icon_bg: purple
+      title: Authorized Sign-off & Traceability
+      desc: 'Shipment release is permitted solely after complete NCR documentation and authorized QC sign-off, with the batch status moving from HOLD to RELEASED. Systemic or repeated deviations automatically trigger root-cause CAPA workflows.'
+
+nc_photos:
+  tagline: On the Factory Floor
+  title: Quarantine, Rework & Re-Inspection in Practice
+  subtitle: Photos from our workshop in Qingdao show how non-conforming boards are physically segregated, reworked under controlled instructions and re-verified before any release decision.
+  features:
+    - image: https://assets.vectoflare.com/site/quality/qc-air-tightness-test-area.avif
+      alt: Inflated inflatable SUP boards in the factory air-tightness test area monitored by digital pressure gauges
+      title: Re-Inspection Gate
+      desc: 'After rework, every board returns to the QC test area for independent re-verification: inflated and monitored with digital pressure gauges against the project-approved acceptance criteria — never a partial check.'
+    - image: https://assets.vectoflare.com/site/quality/qc-hold-quarantine-station.avif
+      alt: Quality control checksheets and controlled hold status labels at the factory inspection station
+      title: Hold & Quarantine Station
+      desc: 'Inspection station with QC checksheets and status labelling. Any item failing acceptance criteria is tagged HOLD / QUARANTINE, logged against an NCR and physically segregated — it cannot proceed to packing until an authorized disposition and mandatory re-inspection are completed.'
+    - image: https://assets.vectoflare.com/site/quality/qc-air-tightness-rework.avif
+      alt: QC technician performing controlled air-tightness rework on an inflatable SUP at the factory rework station
+      title: Controlled Rework Station
+      desc: 'Rework is performed at a dedicated station under an approved SRI instruction: the defect is marked, the board remains on HOLD, and after the required cure period it returns to the test area for re-inspection against the original acceptance criteria.'
+    - image: https://assets.vectoflare.com/site/quality/qc-workshop-inspection-demo.avif
+      alt: Workshop demonstration of quality control checks in the Qingdao factory
+      title: Workshop QC Demonstration
+      desc: 'Demonstration photo from the workshop showing quality control checks applied in practice, supporting the inspection and status-control records referenced throughout this page.'
+
+nc_severity:
+  tagline: Defect Severity & Authority
+  title: Severity Classification & Disposition Authority
+  subtitle: Not every non-conformance is handled at the same level — disposition authority scales with defect severity, from line-level sign-off to Material Review Board and customer concession.
+  headers:
+    severity: Severity
+    examples: Typical Examples
+    authority: Disposition Authority & Control
+    control: Release Condition
+  rows:
+    - severity: 'Minor'
+      examples: 'Carton corner crease, slight non-critical accessory misalignment'
+      authority: 'Section QC lead + line supervisor on-site sign-off, replace or release'
+      control: 'Recorded on the NCR; no impact on product function or customer requirements'
+    - severity: 'Major'
+      examples: 'Slow valve leakage, EVA misalignment beyond tolerance (>2 mm), missing accessory'
+      authority: 'QC Manager + Technical Engineer issue a controlled rework instruction (SRI)'
+      control: '100% independent re-test of the original failed and affected characteristics before release'
+    - severity: 'Critical'
+      examples: 'Drop-stitch chamber damage, rail bubble or crack under high pressure, customer logo misprint or color deviation'
+      authority: 'Material Review Board (MRB) decision; written customer concession where required'
+      control: 'No release without authorized concession; otherwise mandatory witnessed physical destruction'
+
+nc_matrix:
+  tagline: Engineering Protocol Matrix
+  title: SUP Defect Disposition & Re-Inspection Matrix
+  subtitle: Standard engineering protocols applied to the most common manufacturing deviations — the same quantified parameters customers can verify during audits.
+  headers:
+    defect: Defect Category
+    protocol: Controlled Disposition Protocol
+    validation: Independent Re-Inspection & Validation
+  rows:
+    - defect: 'Slow Valve Leakage'
+      protocol: 'Isolate the board. Dismantle the valve core with a calibrated torque tool (25 N·m), clean the inner threads, replace the silicone O-ring and re-torque.'
+      validation: 'Submerge in bubble solution; re-inflate to 18 PSI for a full 24h pressure-drop re-test (ΔP ≤ 0.05 PSI).'
+    - defect: 'Rail Seam Air Bubbles'
+      protocol: 'Quarantine the shift lot. Delaminate the bubble zone with a heat-assist nozzle, solvent-clean the surface, apply two-component PU adhesive under 5 bar pressure.'
+      validation: '100% seam visual and tactile inspection; structural proof pressure test (18.0 PSI) plus 24h air-tightness hold.'
+    - defect: 'EVA Pad Misalignment'
+      protocol: 'Heat-assist peel with a temperature-regulated tool (80°C). Re-align using a precision acrylic positioning jig.'
+      validation: 'Clearance tolerance verification (≤ ±1.5 mm), diamond pattern symmetry check, 100% edge bonding adhesion test.'
+    - defect: 'Branding / Logo Typo'
+      protocol: 'Immediate print line stop. Hold all printed panels. Review the vector revision with the client; zero unapproved alterations.'
+      validation: 'Spectrophotometer color check (ΔE ≤ 1.5); 100% visual text alignment verification against the client-signed vector master PDF.'
+    - defect: 'Packaging Mismatch / Missing SKU'
+      protocol: 'Quarantine the export pallet. Unbox and perform a 100% itemized BOM check (pump, fin, leash, paddle, repair tube).'
+      validation: 'Inline dynamic electronic checkweigher validation (±30 g variance); optical 2D barcode scanner verification.'
+
+nc_scrap:
+  tagline: Zero Market Leakage
+  title: Witnessed Scrap & Destruction — Zero-Defect Anti-Diversion Protocol
+  body: |
+    Overseas brand partners need certainty that failed boards will never reach secondary retail, grey markets or e-commerce channels. Boards that cannot be brought into conformity are destroyed under a witnessed, recorded protocol:
+
+    **1. Hardware & accessory shearing.** Under QA Director supervision, a hydraulic shear removes all 316 stainless-steel D-rings, carry-handle webbing and luggage buckles. The inflation valve assembly and the fin-box base (US-Box / snap-in fin) are cut out at the board root, eliminating any salvageable components.
+
+    **2. Drop-stitch slitting & rail sectioning.** The internal drop-stitch core is cross-cut through board and deck with deep criss-cross slits (≥ 50 cm per cut), and the reinforced side rails are severed in at least 4 segments — permanently destroying sealing capability and buoyancy.
+
+    **3. Video & photo vault.** The destruction is recorded as an uncut 1080p video with close-ups of the serial barcode, the shearing process, the core slitting and the final weighed scrap pile. The video is hashed (SHA-256) and archived on a controlled server for ≥ 5 years.
+
+    **4. Certified waste disposal.** All PVC and drop-stitch fragments are weighed, logged in the outbound ledger and transported only by qualified polymer-recycling partners — no residue leaves the facility through any other channel.
+
+    > **Brand protection guarantee:** QINGDAO VATRAD GROUP CO., LTD. guarantees 100% destruction of non-reworkable out-of-spec watercraft. Zero factory seconds or compromised boards will ever enter secondary retail, grey markets or e-commerce channels. The Scrap & Destruction Certificate (VAT-QA-SCRAP-CERT-2026) records the product, batch, MRB conclusion, witness photos and dual sign-off by the QA Director and Plant Manager.
+
+nc_downloads:
+  tagline: Downloadable QMS Documents
+  title: Controlled Bilingual Documents (PDF)
+  subtitle: Official EN/ZH bilingual documents of QINGDAO VATRAD GROUP.,LTD. — structured under ISO 9001:2015 Clause 8.7 and ready for customer audits, B2B technical whitepapers and shop-floor controlled distribution.
+  features:
+    - icon: N
+      icon_bg: blue
+      title: Non-Conforming Product Control SOP (PDF)
+      desc: 'ISO 9001:2015 Clause 8.7 based bilingual SOP: 8-stage closed-loop control, the SUP defect disposition matrix, NCR data structure and customer quality commitment.'
+      link: 'https://assets.vectoflare.com/site/downloads/non-conforming-product-control-sop-iso-8-7.pdf?dl=1'
+      link_label: Download PDF
+    - icon: S
+      icon_bg: orange
+      title: Scrap & Destruction Certificate (PDF)
+      desc: 'VAT-QA-SCRAP-CERT-2026: product and batch traceability, MRB conclusion, the 4-step physical destruction protocol, witness photo fields and dual sign-off block.'
+      link: 'https://assets.vectoflare.com/site/downloads/scrap-destruction-certificate-vat-qa-scrap-cert-2026.pdf?dl=1'
+      link_label: Download PDF
+    - icon: R
+      icon_bg: green
+      title: Controlled Rework Governance (Page)
+      desc: 'Companion page for the approved air-tightness rework method cards MC-RW-01 to MC-RW-06 and the 7-step controlled rework workflow.'
+      link: '/factory/quality-inspection'
+      link_label: View page
+    - icon: C
+      icon_bg: purple
+      title: Rework Change Control Standard (Page)
+      desc: 'Formal ISO 9001 change control for rework parameters: ECR, risk classification, approval matrix, validation plan and Poka-Yoke safeguards — QMS-SOP-QC-CC-001 Rev 2.0.'
+      link: '/factory/quality-change-control'
+      link_label: View page
+
+faqs:
+  tagline: FAQ
+  title: Quality & Defect Control FAQ for Global Buyers
+  items:
+    - q: 'How do you guarantee reworked boards meet full safety standards?'
+      a: 'Any reworked board is treated as a new unit and must complete the exact same full test cycle from zero — for air-tightness repairs, a complete 24h pressure test. Independent QC inspectors, not the rework operators, perform the release validation.'
+    - q: 'Will the factory ship boards with minor cosmetic deviations without telling us?'
+      a: 'Never. Any deviation affecting customer-approved golden samples, logo artwork, colorways or packaging requires a formal written Concession Agreement signed by the client before shipment release.'
+    - q: 'What happens if a reworked board fails re-inspection?'
+      a: 'The board is not released. It returns to a new disposition review, and if it cannot be brought into conformity it is replaced, rejected or destroyed under the witnessed scrap protocol. Repeated failure of the same defect class triggers root-cause CAPA.'
+    - q: 'Can failed boards be sold as factory seconds or through other channels?'
+      a: 'No. Non-reworkable out-of-spec boards are physically destroyed under the witnessed scrap protocol — hardware sheared, core and rails severed, video recorded with SHA-256 hash and archived for at least 5 years. The Scrap & Destruction Certificate is signed by the QA Director and Plant Manager.'
+    - q: 'How is the affected scope assessed when a defect is found?'
+      a: 'The scope is reviewed by product identification, production batch, material or component batch, process stage and applicable document revision. If the same material lot, artwork revision or workstation is involved, affected products are contained and checked accordingly.'
+    - q: 'Do you need our approval before making a concession?'
+      a: 'Yes. Any acceptance under a documented concession that affects customer requirements — approved samples, specification, artwork, packaging or acceptance criteria — requires written customer approval before release. Without it, the product is reworked per the original requirement, replaced or rejected.'
+    - q: 'What documentation do we receive for a non-conformance?'
+      a: 'The NCR record covers the NCR number, detection stage, product/SKU, batch, applicable document revisions, defect description, containment, disposition, rework instruction reference, re-inspection result and release or closure approval — available per your project quality agreement.'
+
+cta:
+  title: Quality Concerns Are Managed Through a Controlled Process
+  desc: 'Share your project-specific quality, inspection or documentation requirements during inquiry — we can review the applicable control points before sample development or production planning.'
+  actions:
+    - text: Discuss Quality Requirements
+      variant: primary
+      href: /contact
+    - text: Download NCP Control SOP (PDF)
+      href: 'https://assets.vectoflare.com/site/downloads/non-conforming-product-control-sop-iso-8-7.pdf?dl=1'
+    - text: Download Scrap Certificate (PDF)
+      href: 'https://assets.vectoflare.com/site/downloads/scrap-destruction-certificate-vat-qa-scrap-cert-2026.pdf?dl=1'

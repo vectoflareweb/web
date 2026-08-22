@@ -1,0 +1,145 @@
+meta:
+  title: 'Quality & Inspection Lab — ISO-Compliant SUP Testing'
+  description: 'Independent quality verification for inflatable SUP boards: tensile testing, air-retention cycling, seam peel tests and material certification.'
+back_text: 'Back to R&D Center'
+home_label: 'Home'
+
+hero:
+  tagline: 'Lab 06'
+  title: 'Quality & Inspection Lab'
+  subtitle: 'Independent verification — every test passed before delivery'
+  image: 'https://assets.vectoflare.com/images/vectoflare/factory/vectoflare-uv-resistance-testing.webp'
+  image_alt: 'Vectoflare quality inspection laboratory UV testing'
+
+answer:
+  label: 'Straight answer'
+  text: 'Every board is inspected against published specifications before shipment: 100% inflation hold test at 18.0 PSI for 24 hours (auto-reject above 0.50 PSI pressure drop), tensile and seam-peel testing per ISO 1421, and a 100-point assembly checklist. The lab reports to the managing director, not production, and can halt any shipment.'
+  verified: '2026-08'
+
+intro: 'Every board that leaves our workshop carries the certification that it has passed a defined set of quality inspections and material tests. Our Quality & Inspection Lab is an independent function within the organisation — it reports directly to the managing director, not to production — ensuring that no commercial pressure can compromise the inspection gate. If a material batch or a completed board does not meet the published specification, the lab has the authority to halt shipment until the non-conformance is resolved.'
+
+content_html: |
+  <h2>Trust, but verify</h2>
+  <p>The lab operates under a quality management system aligned with ISO 9001 principles, and our test methods are based on ISO, ASTM, and EN standards wherever applicable. We maintain detailed records of every test performed, creating a complete traceability chain from raw material receipt to final board delivery.</p>
+
+  <h2>Test equipment and capabilities</h2>
+  <table>
+    <thead><tr><th>Equipment</th><th>Tests Performed</th><th>Standard / Method</th></tr></thead>
+    <tbody>
+      <tr><td>Universal testing machine (50 kN)</td><td>Tensile strength (fabric), peel resistance (seams), tear propagation</td><td>ISO 1421, ISO 4674</td></tr>
+      <tr><td>Air-retention test rig (programmable)</td><td>1000-cycle inflation/deflation endurance, 30 min pressure-hold test</td><td>Internal (per ISO 6185 method)</td></tr>
+      <tr><td>Seam-peel jig (motorised 180° peel)</td><td>Weld and glued-seam peel strength at 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
+      <tr><td>Hydrostatic head tester</td><td>Water penetration resistance of fabric (0–1000 mbar)</td><td>ISO 811</td></tr>
+      <tr><td>Digital thickness gauge &amp; micrometre</td><td>Fabric thickness, weld thickness, adhesive-film thickness</td><td>ISO 2286-3</td></tr>
+      <tr><td>Environmental chamber</td><td>Temperature conditioning (-40 °C to +80 °C) for cold-crack and heat-ageing tests</td><td>ISO 188, ISO 4675</td></tr>
+      <tr><td>Colour spectrophotometer</td><td>Delta-E colour measurement after UV exposure</td><td>ISO 105-A05 / ASTM D2244</td></tr>
+    </tbody>
+  </table>
+
+  <h2>The inspection gates — from material to delivery</h2>
+  <p>Every board follows a defined quality plan with mandatory inspection points. No board can skip a gate; each gate must be signed off by a quality inspector before the next production stage begins.</p>
+
+  <div class="not-prose my-8">
+    <div class="relative">
+      <div class="absolute left-4 top-0 bottom-0 w-0.5 bg-blue-200 dark:bg-blue-800"></div>
+      <div class="space-y-6 relative">
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 1</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Incoming material inspection</p>
+            <p class="text-xs text-gray-500 mt-1">Fabric batch, drop-stitch core, adhesive batch, hardware — all checked against incoming specification before release to production.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 2</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">In-process weld inspection</p>
+            <p class="text-xs text-gray-500 mt-1">First-off weld coupon tested (peel + visual) at start of each production shift.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 3</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Chamber air test</p>
+            <p class="text-xs text-gray-500 mt-1">Board pressurised to 18.0 PSI (12–15 PSI working), held 24 h. Pressure drop &gt; 0.50 PSI auto-rejects. Data logged per serial number.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 4</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Pre-delivery inspection</p>
+            <p class="text-xs text-gray-500 mt-1">Complete board inspected: all fittings torqued, deck pad adhesion, graphics alignment, no cosmetic defects. 100-point checklist.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 5</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Final certification</p>
+            <p class="text-xs text-gray-500 mt-1">Test reports compiled, inspection records reviewed, Certificate of Conformance issued.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <h2>Standard checks on every batch</h2>
+  <div class="not-prose my-8 grid grid-cols-2 md:grid-cols-4 gap-4">
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">18 PSI</span>
+      <span class="text-xs text-gray-500">18.0 PSI in chamber air test, held 24 h</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">&gt; 5 %</span>
+      <span class="text-xs text-gray-500">Pressure drop triggers automatic rejection</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">100 %</span>
+      <span class="text-xs text-gray-500">Chambers air-tested before assembly</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">ISO 9001</span>
+      <span class="text-xs text-gray-500">Quality management system</span>
+    </div>
+  </div>
+
+  <h2>Our quality team</h2>
+  <p>The lab is staffed by a quality manager (10 years in marine QA, ASQ Certified Quality Engineer), two quality inspectors (each with Level 2 NDT certification in visual testing), and a materials technician responsible for all physical testing. The team undergoes annual proficiency testing through an independent third-party provider to ensure that our test results remain accurate and reproducible.</p>
+
+  <h2>Independent testing for clients</h2>
+  <p>Our Quality &amp; Inspection Lab is available for independent testing services. If you need to verify a fabric specification, validate a new adhesive system, or obtain a third-party test report for a procurement qualification, we can perform the tests to the applicable standard and issue a certified test report.</p>
+  <p>Examples of recent third-party testing work:</p>
+  <ul>
+    <li>Peel-strength comparison of five competitive adhesive film products for a European procurement programme.</li>
+    <li>Accelerated ageing study (UV + thermal cycling) for a new orange-pigmented PVC formulation, with regular interim measurements at 500 h intervals.</li>
+    <li>Air-retention validation of 50 prototype valve assemblies for a new high-pressure board design.</li>
+  </ul>
+
+  <h2>Our commitment to you</h2>
+  <p>When you receive a {SITE.name} board, you also receive its quality dossier — a compiled record of the test results that apply to your specific board. Fabric batch certificate, weld peel tests, chamber air-test logs, and pre-delivery inspection checklist. Every number is traceable. Every inspector is identified. This is not just paperwork — it is our promise that what we delivered is what we specified.</p>
+  <p>If you ever have a quality concern, you can contact the lab directly — the contact details are printed on your certificate of conformance. We take every query seriously and commit to a formal investigation within 48 hours.</p>
+
+  <h2>What happens if a board fails inspection?</h2>
+  <p>A failed board never quietly disappears. The lab follows a fixed non-conformance workflow so the problem is contained, corrected and prevented from recurring:</p>
+  <ul>
+    <li><strong>Isolation</strong> — the board is tagged, moved off the line and logged in the non-conformance register with the inspector's name and the failed criteria.</li>
+    <li><strong>Rework or scrap</strong> — repairable defects (e.g. a valve, a rail weld or a deck-pad corner) are reworked by a certified operator and the repaired area is re-tested to the same standard. Boards that cannot meet specification are scrapped, not downgraded.</li>
+    <li><strong>Re-inspection</strong> — every reworked board passes the full affected gate again before it can re-enter the packing line.</li>
+    <li><strong>Release</strong> — only boards with all gates signed off leave the plant. The rejection rate, root cause and corrective action are summarised in your batch quality report.</li>
+  </ul>
+
+  <h2>Quality documentation you receive</h2>
+  <p>Every batch ships with a document pack your QC team can audit against: the batch certificate (fabric, adhesive, hardware lot numbers), weld peel-test records, chamber air-test logs per serial number, the signed 100-point pre-delivery checklist, packing list and photographed record of your boards before loading.</p>
+
+cta:
+  title: 'Request a sample QC checklist'
+  subtitle: 'See the exact inspection gates, test methods and documents your batch would be checked against — send your board type and quantity.'
+  actions:
+    - variant: primary
+      text: Request the QC checklist
+      href: /contact#quality-inquiry
+    - text: The 7-stage inspection system
+      href: /quality
+    - text: Factory quality lab & test report downloads
+      href: /factory/quality-lab
+    - text: Non-conforming control standard
+      href: /factory/non-conforming-control

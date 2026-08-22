@@ -1,0 +1,170 @@
+meta:
+  title: 'SUP MOQ Guide: Flexible Branding & Minimum Order Quantities'
+  description: 'How inflatable SUP MOQ is calculated: 150 m drop-stitch rolls yield 90–100 boards, co-branding from 5–10 units and transparent mould fees.'
+  dateModified: '2026-08-14'
+  keywords:
+    - 'SUP MOQ'
+    - 'minimum order quantity inflatable SUP'
+    - 'SUP co-branding program'
+    - 'small batch SUP'
+    - 'custom paddle board MOQ'
+    - 'OEM SUP factory China'
+
+hero:
+  tagline: 'Transparent & Project-Specific'
+  title: 'Flexible Branding & Manufacturing MOQ Guide'
+  subtitle: 'Understand the drop-stitch raw material physics that govern SUP production runs — and how our low-barrier co-branding program works for rental operators, clubs, resorts and growing water sports brands. Engineered and operated by Qingdao Vatrad Group Co., Ltd.'
+
+answer:
+  label: 'Straight answer'
+  text: 'MOQ is not a one-size-fits-all number. Every MOQ is confirmed by project configuration: hull shape and tooling, colorways and PVC, artwork complexity, packaging and accessory mix. Full-custom volume production runs 90–100 units per batch from a standard 150 m drop-stitch fabric roll; small-batch co-branding starts from 5–10 units; and every project is split into three distinct stages — sample development (1–2 units), pilot order (20–50 units) and volume production (90–100+ units). We confirm the exact calculation for your SKU mix before quotation — no vague "low MOQ" promises, no hidden compromises.'
+  verified: '2026-08'
+
+moq_principle:
+  tagline: The Engineering Logic
+  title: 'Why Standard Volume MOQ Is 90–100 Units: Raw Material Roll Physics'
+  subtitle: 'Production run sizes are not arbitrary numbers set by a sales team — they are determined by raw drop-stitch fabric roll lengths and line changeover physics.'
+  body: |
+    **The 150-meter raw fabric baseline.** High-tensile woven drop-stitch fabric is produced and coated on continuous master rolls. The standard single-batch industrial roll length is 150 meters of continuous material.
+
+    **The yield calculation (90 to 100 boards).** For a standard touring or all-around SUP hull (10 ft 6 in to 11 ft 6 in), a full 150 m master roll yields approximately 90 to 100 finished paddle boards.
+
+    **Zero fabric splice policy.** Full fabric rolls ensure complete structural continuity — no transverse high-risk fabric splicing, and uniform fiber tension across the board's top and bottom surfaces.
+
+    **Thermal and adhesive calibration.** Automated high-frequency hot-air welding and marine adhesive laminating lines require 2 hours of pre-heating, temperature profiling and pressure calibration. A full 90–100 unit batch amortizes these fixed setup costs, delivering the lowest possible per-unit cost.
+
+moq_tiers:
+  tagline: Two Routes to Your Brand
+  title: 'Full-Custom Volume OEM vs Small-Batch Co-Branding'
+  subtitle: 'One factory, two entry points: full-custom mass production for established lines, and a low-barrier co-branding program for clubs, rental hubs and growing brands.'
+  features:
+    - icon: P
+      icon_bg: blue
+      title: 'Full-Custom Volume OEM — 90–100 Units per Batch'
+      desc: 'Determined by the standard 150 m roll length of high-grade raw drop-stitch fabric to ensure optimal material utilization and structural consistency. · 100% full customization: exclusive hull shape and custom Pantone colorways · Full-surface digital or silk-screen artwork coverage · Custom branded retail packaging, printed cartons and branded accessories · Maximum cost efficiency and economies of scale'
+      link: '/contact#custom-oem'
+      link_label: 'Inquire for Volume OEM'
+    - icon: B
+      icon_bg: green
+      title: 'Small-Batch Co-Branding — Under 20 Units'
+      desc: 'A low-barrier solution built on our field-tested annual product collections for clubs, rental hubs and resorts — zero heavy inventory. · Fixed shell and geometry: field-tested hull shapes with CE / ISO 25649 compliance · Primary identifier: official Vectoflare branding in the central section · Secondary custom branding: your logo printed on nose or side rails · 100% full-run 24-hour pressure and airtightness testing'
+      link: '/contact#cobranding'
+      link_label: 'Start Small-Batch Co-Branding'
+
+moq_fees:
+  tagline: Transparent Screen-Printing Fees
+  title: 'Co-Branding Fee Structure — Itemized Upfront'
+  subtitle: 'Clear, itemized pricing for small-batch screen printing. Mould fees are charged once on initial setup and waived for re-orders using the same artwork dimension.'
+  headers:
+    fee: Fee Item
+    amount: Amount
+    detail: Details
+  rows:
+    - fee: 'Screen-printing mould fee (one-time, logo up to 30 cm)'
+      amount: '$10.00 USD'
+      detail: 'Charged once on initial setup; waived for re-orders with the same artwork dimension.'
+    - fee: 'Screen-printing mould fee (one-time, logo up to 50 cm)'
+      amount: '$15.00 USD'
+      detail: 'Charged once on initial setup; waived for re-orders with the same artwork dimension.'
+    - fee: 'Factory handling & precision printing fee'
+      amount: '$1.00 USD per board'
+      detail: 'Covers manual coordinate positioning, solvent pre-treatment, ink transfer and heated curing.'
+
+moq_stages:
+  tagline: Sample · Pilot · Volume
+  title: 'Three Distinct Quantity Stages'
+  subtitle: 'Sample, pilot and volume production quantities are different. Every project is categorized into three distinct tiers so you validate before you commit.'
+  steps:
+    - step: '01'
+      title: 'Sample Development (1–2 units)'
+      desc: 'Physical confirmation of hull rigidity, EVA traction pad texture, graphic accuracy and accessory fitment before any financial commitment. Sample fees apply and are credited toward your production order upon contract sign-off.'
+    - step: '02'
+      title: 'Pilot Order (20–50 units)'
+      desc: 'Pre-season commercial testing and regional market validation using existing hull platforms, stock materials and simplified packaging to minimize setup friction.'
+    - step: '03'
+      title: 'Volume Production (90–100+ units)'
+      desc: 'Confirmed after frozen BOM, finalized artwork, custom packaging and scheduled delivery plans — full 150 m fabric rolls, custom Pantone fabrics, bespoke packaging, volume discounts and full-chain batch traceability.'
+
+moq_factors:
+  tagline: What Drives Your MOQ
+  title: 'Why Full-Custom MOQ Is Always Project-Specific'
+  subtitle: 'For 100% bespoke manufacturing, MOQ is calculated from the complete product architecture — these four components are evaluated together before quotation.'
+  headers:
+    component: Project Component
+    driver: Manufacturing Driver
+    impact: Impact on Minimum Quantity
+  rows:
+    - component: 'Hull Shape & Tooling'
+      driver: 'Existing factory rocker moulds vs bespoke CAD cutting dies and EVA hot-press tooling'
+      impact: 'Existing platforms: pilot orders from 20 pcs. Bespoke hulls: dedicated tooling amortization required.'
+    - component: 'Colorways & PVC'
+      driver: 'Single standard stock colors vs proprietary Pantone-dyed PVC sheets'
+      impact: 'Custom Pantone PVC requires dedicated chemical dyeing runs with independent raw material MOQs.'
+    - component: 'Branded Packaging'
+      driver: 'Generic cartons with barcode stickers vs full-color 5-ply retail gift boxes and branded manuals'
+      impact: 'Custom color boxes carry an independent offset printing press minimum (typically 500+ boxes).'
+    - component: 'Accessory Packages'
+      driver: 'Standard aluminum or nylon paddles vs custom-matched carbon paddles and branded pumps'
+      impact: 'Fully branded accessories follow sub-tier supplier production batches.'
+
+moq_downloads:
+  tagline: Official Documents
+  title: 'Bilingual Policy Files — Download & Share'
+  subtitle: 'Official documents from Qingdao Vatrad Group Co., Ltd., ready to attach to buyer inquiries. Both files are bilingual (English / Chinese).'
+  features:
+    - icon: G
+      icon_bg: blue
+      title: 'Flexible Branding & MOQ Guide (PDF)'
+      desc: 'Official B2B guide (Part I, DOC-MOQ-EXP-2026-EN, released 14 Aug 2026): the engineering logic behind 150 m drop-stitch roll yields (90–100 boards), the co-branding program from 5–10 units, transparent screen-printing fees and the three production stages.'
+      link: 'https://assets.vectoflare.com/site/downloads/flexible-branding-and-moq-guide.pdf'
+      link_label: 'Download Guide (PDF)'
+    - icon: P
+      icon_bg: green
+      title: 'Flexible Branding & Co-Branding Policy (PDF)'
+      desc: 'Official policy dossier (Part 1, POL-MOQ-2026-V1): small-batch co-branding rules, the project-specific MOQ framework, the four factors that drive minimums, and joint sign-off by Sales VP, Chief Engineer and QA Director.'
+      link: 'https://assets.vectoflare.com/site/downloads/flexible-branding-and-moq-policy.pdf'
+      link_label: 'Download Policy (PDF)'
+
+moq_faqs:
+  tagline: FAQ
+  title: 'Frequently Asked Questions About MOQ'
+  items:
+    - q: 'Is MOQ calculated per order, per model, or per colorway?'
+      a: 'MOQ may apply per model, colorway, artwork version, packaging configuration or total order. Because different drop-stitch thicknesses (12 cm vs 15 cm) and PVC colors come from distinct raw material rolls, ordering 50 boards split across 5 colors creates 5 separate fabric roll requirements. We confirm the exact calculation against your SKU matrix before quotation so you can plan your mix clearly.'
+    - q: 'Can I order a sample before bulk production?'
+      a: 'Yes. Sample development (1–2 units) verifies hull rigidity, EVA traction pad texture, graphic accuracy and accessory fitment before mass production release. Sample fees apply and are credited toward your production order upon contract sign-off.'
+    - q: 'Why does custom retail packaging have an independent MOQ?'
+      a: 'Custom flexographic or offset carton printing presses require a minimum production setup of 500+ units. We offer a Hybrid Packaging Storage Solution: we produce the 500 custom-printed cartons, store the surplus in our clean warehouse, and release them across your scheduled board shipments — so a smaller board order can still ship in fully branded retail packaging.'
+    - q: 'Why is the standard volume MOQ 90–100 units?'
+      a: 'Standard volume MOQ follows the raw material: a 150 m master roll of high-grade drop-stitch fabric yields approximately 90–100 finished boards for a standard touring or all-around hull. Running full rolls eliminates fabric splicing, keeps fiber tension uniform, and amortizes the 2-hour welding and lamination line calibration — delivering the lowest possible per-unit cost.'
+    - q: 'Does a higher quantity reduce unit cost?'
+      a: 'In most projects, yes. Higher quantities improve material yield, distribute fixed production line setup overhead across more boards, and reduce per-unit packaging costs.'
+    - q: 'Do co-branding mould fees apply again on re-orders?'
+      a: 'No. Screen-printing mould fees are charged once on initial setup and are waived for re-orders using the same artwork dimension. You only pay the $1.00 USD per board factory handling and printing fee.'
+    - q: 'Does requesting MOQ guidance commit me to an order?'
+      a: 'No. Requesting project MOQ guidance simply allows our engineering team at Qingdao Vatrad Group Co., Ltd. to review your technical brief and advise the most cost-effective production path. A Non-Disclosure Agreement (NDA) is available before you share proprietary technical specifications or artwork.'
+
+evidence_review:
+  tagline: 'Evidence & Verification'
+  title: 'VERIFIED SPECIFICATIONS'
+  body: 'All manufacturing claims on this page are verified by our Manufacturing Engineering Team at the Laixi, Qingdao plant. Certificates, QC inspection records, pressure & structural test reports, and batch traceability records are available on request. Specifications last verified 2026-08.'
+
+cta:
+  title: 'Need MOQ Guidance for Your SUP Project?'
+  subtitle: 'Share your target board model, estimated first-order range and branding requirements. We will advise whether a sample, pilot or volume route is the most suitable next step. Submitting an inquiry does not commit you to a final order quantity — NDA discussion is available.'
+  actions:
+    - variant: primary
+      text: Request Project MOQ Guidance
+      href: /contact#moq-guide
+    - text: Custom SUP MOQ & lead time breakdown
+      href: /sup-oem-moq-lead-time
+    - text: Launch a new brand with a trial order
+      href: /new-brand-trial-order
+    - text: Verify the factory & quality system
+      href: /oem-trust-assurance
+    - text: The 7-stage inspection system
+      href: /quality
+    - text: OEM & ODM manufacturing overview
+      href: /oem-manufacturing
+    - text: SUP Construction Comparison
+      href: /sup-construction-comparison

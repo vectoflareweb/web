@@ -1,0 +1,169 @@
+meta:
+  title: 'Proof Center —The Evidence Behind Every Manufacturing Claim'
+  description: 'Proof folder behind Vectoflare claims: entity relationships, certificates with scope, equipment list, batch traceability and inspection documentation.'
+  dateModified: '2026-08-16'
+  keywords:
+    - 'SUP factory evidence'
+    - 'factory certifications list'
+    - 'SUP batch traceability'
+    - 'SUP factory verification'
+    - 'manufacturing proof China'
+
+hero:
+  tagline: 'Factory Evidence Hub'
+  title: 'Proof Center —Everything We Claim, Filed Here'
+  subtitle: 'One page that maps every claim on this site to its evidence: the registered entity behind the factory, certificates with scope, the machines that do the work, and the batch records that survive each production run.'
+  actions:
+    - { variant: primary, text: 'Request Verification Pack', href: '/contact#trust-verification' }
+    - { variant: ghost, text: 'Explore the Quality System', href: '/quality' }
+
+answer:
+  label: 'Straight answer'
+  text: 'The claim-to-evidence chain is: every statement on this site is backed by a registration, a certificate, a machine, a document or a test record — and each of those can be reviewed. Vectoflare is the SUP product development and manufacturing division of Vectoflare, the manufacturing division of Qingdao Vatrad Group Co., Ltd. (registered in Qingdao since 2012). The 12,500 m² plant holds ISO 9001:2015 quality management, ISO 25649 compliance, CE conformity documentation, BSCI social compliance (audit report on request) and REACH/RoHS material documentation per order. Every inflatable chamber is tested at 18.0 PSI for 24 hours with auto-reject above 0.50 PSI drop, and batch records are kept under 10-year ERP traceability. The paper trail is published or shareable, and the factory itself is audit-open.'
+  verified: '2026-08'
+
+entities:
+  tagline: 'Who Is Behind The Factory'
+  title: 'Three Names, One Legal Chain —Nothing Hidden'
+  subtitle: 'The sales side, the manufacturing division and the legal entity are one chain you can follow from the website to the company register.'
+  features:
+    - icon: S
+      icon_bg: blue
+      title: 'Vectoflare — the public website'
+      desc: 'The SUP OEM/ODM and private label product line with its public documentation: catalog, MOQ guide, quality system pages and case studies. The name you negotiate with is the name you inspect.'
+      link: '/about/vectoflare-entity'
+      link_label: 'Site entity page'
+    - icon: A
+      icon_bg: green
+      title: 'Vectoflare — the manufacturing division'
+      desc: 'The marine manufacturing division behind the plant: SUP boards, inflatable boats and RIBs produced in the same Qingdao facility. Product and quality documentation is issued under this name.'
+      link: '/factory'
+      link_label: 'Explore the factory'
+    - icon: V
+      icon_bg: orange
+      title: 'Qingdao Vatrad Group Co., Ltd. — the legal entity'
+      desc: 'The registered manufacturer (since 2012) operating the 12,500 m² plant in the Laixi Economic Development Zone, Qingdao. Registration details, export trade license and audit records are shared under NDA or during an audit.'
+      link: '/oem-trust-assurance'
+      link_label: 'See the verification case study'
+
+proof_stats:
+  - value: '12,500 m²'
+    label: 'One factory floor'
+    detail: '4 specialized workshops, open to audits'
+  - value: '350+'
+    label: 'Workers on site'
+    detail: '25+ engineers in R&D, materials and QC'
+  - value: '120,000+'
+    label: 'Boards per year'
+    detail: '~10,000 boards/month on 4 automated lines'
+  - value: '50+'
+    label: 'Countries served'
+    detail: 'Europe, Americas, APAC, Middle East'
+  - value: '7-stage'
+    label: 'Inspection gate system'
+    detail: 'Node 01–07, recorded per serial number'
+  - value: '10 years'
+    label: 'ERP batch traceability'
+    detail: 'Batch records kept and linked per lot'
+
+certifications:
+  tagline: 'Certificates & Scope'
+  title: 'What We Hold, What It Covers, How It Is Verified'
+  subtitle: 'The published list —never "available on request only". Certificate numbers and audit records are supplied on request or during an audit.'
+  headers:
+    certificate: 'Certificate / standard'
+    scope: 'Coverage'
+    verify: 'How to verify'
+  rows:
+    - certificate: 'ISO 9001:2015'
+      scope: 'Quality management for SUP design and production'
+      verify: 'Certificate number and audit records on request or during audit'
+    - certificate: 'ISO 25649'
+      scope: 'Inflatable craft safety and structural compliance (Europe)'
+      verify: 'Conformance documentation per product family'
+    - certificate: 'CE'
+      scope: 'EU conformity for inflatable SUP products'
+      verify: 'CE documentation supplied with orders'
+    - certificate: 'BSCI'
+      scope: 'Social compliance for facility and workforce'
+      verify: 'Audit report available on request'
+    - certificate: 'REACH & RoHS'
+      scope: 'Restricted substances and material documentation'
+      verify: 'Material documentation with every order'
+    - certificate: 'Third-party inspection (option)'
+      scope: 'SGS, TÜV, BV or Intertek pre-shipment inspection'
+      verify: 'ISO 2859-1 Level II, scheduled at your choice'
+
+evidence_gates:
+  tagline: 'Where The Evidence Lives'
+  title: 'Evidence Folders —Opened For Inspection'
+  subtitle: 'Each folder is a live page you can review now, plus files that travel with your order.'
+  features:
+    - icon: E
+      icon_bg: blue
+      title: 'Equipment & machinery list'
+      desc: 'Cutting, welding, lamination, printing and assembly plus the QC lab — machines with names, specs and what each one does. Ask for a live walkthrough.'
+      link: '/factory/equipment'
+      link_label: 'Open equipment list'
+    - icon: P
+      icon_bg: green
+      title: 'Inspection gate photos & reports'
+      desc: 'Seven inspection gates with factory-floor photos and bilingual report links — what is checked, with which method, against which criterion, recorded where.'
+      link: '/factory/process'
+      link_label: 'Open inspection gates'
+    - icon: Q
+      icon_bg: orange
+      title: 'QC lab & test procedures'
+      desc: 'Universal tensile tester (ASTM D751), seam peel tester (ISO 6185), air-retention rigs and xenon-arc weathering chamber — the machines that verify fabrics and chambers.'
+      link: '/factory/quality-lab'
+      link_label: 'Open the lab'
+    - icon: T
+      icon_bg: purple
+      title: 'Traceability sample & quarantine'
+      desc: 'The literal chain from raw roll to shipped board, the 7-step quarantine flow for non-conforming stock, and the defect matrix that governs dispositions.'
+      link: '/factory/quality-inspection'
+      link_label: 'Open traceability file'
+
+traceability:
+  tagline: 'A Batch, Followed From Roll To Board'
+  title: 'What Traceability Actually Looks Like'
+  body: |
+    Every batch is issued a **10-year ERP lot code**. The chain recorded under one lot:
+
+    - **Incoming roll** — material certificate, roll number, fabric batch tested (tensile, tear, seam)
+    - **Cutting** — CNC nesting job vs design file, waste percentage logged
+    - **Welding & lamination** — line, operator, machine parameters per chamber
+    - **Assembly** — board serial number, valve type, deck pad lot
+    - **Test** — 18.0 PSI × 24 h hold per chamber, auto-reject above 0.50 PSI drop
+    - **Release** — 100-point checklist per board, QA Director sign-off per batch
+    - **Onward** — Certificate of Conformance with the shipment; audit right reserved in the contract
+
+    Ask for the sample QC record before your first order — it is the same format you receive with your shipment.
+
+faqs:
+  tagline: 'FAQ'
+  title: 'Evidence Questions Buyers Ask'
+  items:
+    - q: 'Is this page for verification only, and not replacing due diligence?'
+      a: 'Correct — this page shows where every claim can be verified: entity registration, certificates, machines, records and an audit-open plant. Your usual due-diligence steps (registration check, audit, third-party inspection) still apply and are welcome.'
+    - q: 'Which entity should appear on my order documentation?'
+      a: 'Orders are placed with Qingdao Vatrad Group Co., Ltd., operating as Vectoflare (manufacturing division), with Vectoflare as the SUP product line. Contract documents are signed by the Sales VP, the Chief Engineer and the QA Director.'
+    - q: 'Can I get copies of the certificates before ordering?'
+      a: 'Yes — certificate numbers and audit records are supplied on request or during an audit. The list is published, never "available on request only".'
+    - q: 'How do I verify batch test records myself?'
+      a: 'Every chamber is tested at 18.0 PSI for 24 hours with auto-reject above 0.50 PSI drop; test logs link to serial numbers and ship with the Certificate of Conformance per batch. SGS, TÜV, BV or Intertek pre-shipment inspection per ISO 2859-1 Level II can be scheduled at your choice.'
+    - q: 'Do the certificates cover accessories too?'
+      a: 'REACH/RoHS material documentation applies to boards and accessories supplied in the same order, and QC checklists cover the complete kit — board, paddle, pump, leash and bag.'
+    - q: 'What happens to the evidence after the order?'
+      a: 'ERP batch traceability is kept for 10 years. QMS SOPs and inspection standards stay downloadable, and the buyer reserves an audit right during production per the contract.'
+
+cta:
+  title: 'Verify First —Then Let’s Talk Specs'
+  subtitle: 'Ask for the registration pack, certificate copies or an audit slot. Verification comes first; the order conversation follows. Submitting an inquiry does not commit you to an order.'
+  button_text: 'Request Verification Pack'
+  button_link: '/contact#trust-verification'
+  actions:
+    - text: Brand Identity
+      href: /about/identity
+    - text: Factory Audit Checklist
+      href: /factory-audit-checklist
